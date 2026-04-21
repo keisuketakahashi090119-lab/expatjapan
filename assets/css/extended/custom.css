@@ -1,0 +1,128 @@
+:root {
+  --theme: #ffffff;
+  --entry: #ffffff;
+  --primary: #1a1a2e;
+  --secondary: #6b7280;
+  --border: #e5e7eb;
+  --content: #374151;
+  --hljs-bg: #f9fafb;
+  --code-bg: #f3f4f6;
+  --header-height: 60px;
+}
+
+/* Header */
+.header {
+  background: #ffffff;
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+
+/* Logo text */
+.logo a {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  letter-spacing: -0.5px;
+}
+
+.logo a:hover {
+  color: #2563eb;
+}
+
+/* Navigation links */
+.nav a {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #4b5563;
+}
+
+.nav a:hover {
+  color: #2563eb;
+}
+
+/* Main content area */
+.main {
+  max-width: 860px;
+}
+
+/* Post list cards */
+.post-entry {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  border-color: #d1d5db;
+}
+
+/* Post title */
+.entry-header h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #1a1a2e;
+}
+
+/* Home info box */
+.home-info-container {
+  background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%);
+  border: 1px solid #bfdbfe;
+  border-radius: 12px;
+  padding: 2rem 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.home-info-container .entry-header h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #1a1a2e;
+}
+
+.home-info-container .entry-content p {
+  color: #4b5563;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Article body */
+.post-content {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #374151;
+}
+
+.post-content h2 {
+  color: #1a1a2e;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+}
+
+.post-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+.post-content th {
+  background: #f3f4f6;
+  padding: 0.6rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  color: #1a1a2e;
+}
+
+.post-content td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* Footer */
+.footer {
+  border-top: 1px solid var(--border);
+  color: #9ca3af;
+  font-size: 0.85rem;
+}

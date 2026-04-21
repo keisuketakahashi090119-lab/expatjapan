@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Budget on Expat Japan</title>
+    <link>http://localhost:1313/tags/budget/</link>
+    <description>Recent content in Budget on Expat Japan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/budget/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Save Money Living in Japan: Tips for Foreigners</title>
+      <link>http://localhost:1313/money/saving-money-in-japan-tips/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/money/saving-money-in-japan-tips/</guid>
+      <description>Practical tips for saving money as a foreigner in Japan. How to cut costs on food, phone bills, transport, and everyday expenses without sacrificing quality of life.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Health &amp; Insurance on Expat Japan</title>
+    <link>http://localhost:1313/categories/health--insurance/</link>
+    <description>Recent content in Health &amp; Insurance on Expat Japan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/health--insurance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Japanese Health Insurance Works for Foreigners (2025)</title>
+      <link>http://localhost:1313/health/how-japanese-health-insurance-works-foreigners/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/health/how-japanese-health-insurance-works-foreigners/</guid>
+      <description>Confused about health insurance in Japan? This guide explains exactly how it works for foreigners — what&amp;#39;s covered, how much you pay, and how to use it.</description>
+    </item>
+  </channel>
+</rss>
