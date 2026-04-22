@@ -8,7 +8,7 @@ showToc: true
 draft: false
 ---
 
-A Japanese bank account is essential — you need it to receive your salary, pay rent, and set up automatic payments. Here's how to get one.
+A Japanese bank account is essential — you need it to receive your salary, pay rent, and set up automatic bill payments. The sooner you get one, the smoother everything else goes. Here's how.
 
 ---
 
@@ -19,13 +19,15 @@ A Japanese bank account is essential — you need it to receive your salary, pay
 - **Japanese phone number** (most banks require this)
 - **Registered address in Japan** (your home address on your residence card)
 
-Some banks also ask for a **My Number card** or **hanko (personal seal)** — but not all.
+Some banks also ask for a **My Number card** or a **hanko (personal seal)** — but not all of them, so don't stress if you don't have those yet.
 
 ---
 
 ## Best Banks for Foreigners in Japan
 
 ### 1. Japan Post Bank (ゆうちょ銀行) — Easiest to Open
+
+This is where most foreigners start, and for good reason. There's a post office in basically every neighborhood, they accept foreigners with just a residence card, and there's no minimum balance requirement.
 
 - Available at every post office in Japan
 - Accepts foreigners with just a residence card
@@ -38,6 +40,8 @@ Some banks also ask for a **My Number card** or **hanko (personal seal)** — bu
 
 ### 2. Sony Bank — Best Online Option
 
+Sony Bank is fully online, the website and app work in English, and they've got good exchange rates for international transfers. Free international ATM withdrawals are a real bonus too.
+
 - Entirely online application
 - English website and app
 - Accepts foreigners on most visa types
@@ -49,6 +53,8 @@ Some banks also ask for a **My Number card** or **hanko (personal seal)** — bu
 
 ### 3. Shinsei Bank — Good English Support
 
+Similar to Sony Bank but with the added convenience of free ATM withdrawals at 7-Eleven — which is useful given how many 7-Elevens there are in Japan.
+
 - English-language banking
 - Online application available
 - Free ATM withdrawals at 7-Eleven
@@ -59,37 +65,34 @@ Some banks also ask for a **My Number card** or **hanko (personal seal)** — bu
 
 ### 4. Rakuten Bank — Best for Online Shopping
 
-- Fully online setup
-- Good if you already use Rakuten services
-- Easy app in multiple languages
+If you're already using Rakuten for shopping or services, adding a Rakuten Bank account makes sense. The app works in multiple languages and the setup is fully online.
 
 ---
 
-## Which Banks Are Harder for Foreigners?
+## Banks That Are Harder for Foreigners
 
-**Megabanks (Mitsubishi UFJ, Mizuho, Sumitomo)** are often difficult:
-- May require 6 months of residence history
-- Japanese-only service
-- Can reject applicants on certain visa types
+The megabanks — **Mitsubishi UFJ, Mizuho, Sumitomo** — can be frustrating. They often require 6 months of residence history, operate in Japanese only, and sometimes reject applicants on certain visa types.
 
-Try Japan Post Bank or online banks first.
+Don't start with them. Get a Japan Post Bank or online bank account first. You can always add a megabank later once you've built more of a track record in Japan.
 
 ---
 
-## Step-by-Step: Opening at Japan Post Bank
+## How to Open at Japan Post Bank (Step by Step)
 
-1. Go to any post office (ゆうちょ銀行 counter)
+1. Walk into any post office and find the ゆうちょ銀行 counter
 2. Take a number and wait
-3. Tell staff: **"口座を開きたいです" (koza wo hirakitai desu)** = "I want to open an account"
+3. Tell the staff: **"口座を開きたいです" (koza wo hirakitai desu)** — "I want to open an account"
 4. Show your residence card and passport
-5. Fill in the application form (staff will help)
-6. Your cash card arrives by post in about 1 week
+5. Fill in the application form — staff will help you through it
+6. Your cash card arrives by post about 1 week later
+
+That's genuinely it. It's about as painless as banking paperwork gets in Japan.
 
 ---
 
-## Can You Open an Account Without Speaking Japanese?
+## Can You Do This Without Speaking Japanese?
 
-Yes — especially at Japan Post Bank or online banks. Bring a translation app on your phone just in case.
+Yes — especially at Japan Post Bank or the online banks. Bring a translation app just in case, but the staff at post offices are generally patient with foreigners. You won't be the first person to walk in with a residence card and no Japanese.
 
 ---
 
@@ -103,4 +106,4 @@ Yes — especially at Japan Post Bank or online banks. Bring a translation app o
 | Rakuten Bank | Easy | Partial | Yes |
 | Megabanks | Hard | No | No |
 
-Start with Japan Post Bank if you need an account fast. Try Sony Bank or Shinsei Bank if you want full English support.
+Start with Japan Post Bank if you need an account fast. Go with Sony Bank or Shinsei Bank if you want full English support and a modern online experience.

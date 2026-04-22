@@ -1,0 +1,261 @@
+/* =============================================
+   HOME PAGE — Hero, Stats Bar, Category Grid
+   ============================================= */
+
+/* ─── HERO ───────────────────────────────── */
+.home-hero {
+  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 45%, #7c3aed 100%);
+  border-radius: 20px;
+  padding: 3rem 3rem 2.5rem;
+  margin-bottom: 1.5rem;
+  position: relative;
+  overflow: hidden;
+  color: #fff;
+}
+
+/* Japan-pattern decoration */
+.home-hero::before {
+  content: '⛩ 🗾 🎌 🍜 🚄 🌸';
+  position: absolute;
+  top: 1rem; right: 1.5rem;
+  font-size: 1.4rem;
+  opacity: .18;
+  letter-spacing: .4rem;
+  white-space: nowrap;
+}
+
+.home-hero::after {
+  content: '';
+  position: absolute;
+  bottom: -100px; left: -60px;
+  width: 280px; height: 280px;
+  background: rgba(255,255,255,.05);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  background: rgba(255,255,255,.18);
+  backdrop-filter: blur(6px);
+  color: rgba(255,255,255,.95);
+  font-size: .75rem;
+  font-weight: 700;
+  padding: .35rem 1rem;
+  border-radius: 20px;
+  letter-spacing: .05em;
+  margin-bottom: 1.1rem;
+  text-transform: uppercase;
+  border: 1px solid rgba(255,255,255,.2);
+}
+
+.home-hero h1 {
+  font-size: 2.2rem;
+  font-weight: 900;
+  color: #fff;
+  line-height: 1.15;
+  margin: 0 0 .9rem;
+  letter-spacing: -.7px;
+  max-width: 600px;
+}
+
+.home-hero p {
+  color: rgba(255,255,255,.82);
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin: 0;
+  max-width: 520px;
+}
+
+/* Stats row */
+.hero-stats {
+  display: flex;
+  gap: 0;
+  margin-top: 2rem;
+  background: rgba(255,255,255,.12);
+  border-radius: 14px;
+  padding: .8rem 0;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,.15);
+  max-width: 420px;
+}
+
+.stat {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: .3rem .5rem;
+  border-right: 1px solid rgba(255,255,255,.2);
+}
+.stat:last-child { border-right: none; }
+
+.stat-num {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: #fff;
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: .68rem;
+  color: rgba(255,255,255,.6);
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  margin-top: .25rem;
+}
+
+/* ─── SECTION TITLE ──────────────────────── */
+.section-title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #111827;
+  margin: 2rem 0 1rem;
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+}
+.section-title::after {
+  content: '';
+  flex: 1;
+  height: 2px;
+  background: linear-gradient(90deg, #e0eaff, transparent);
+}
+
+/* ─── CATEGORY CARDS ─────────────────────── */
+.cat-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: .5rem;
+}
+
+.cat-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.3rem 1.2rem 1.2rem;
+  border-radius: 16px;
+  border: 2px solid transparent;
+  text-decoration: none;
+  transition: all .22s cubic-bezier(.4,0,.2,1);
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.cat-card:hover { text-decoration: none; transform: translateY(-4px); }
+
+.cat-icon {
+  font-size: 2rem;
+  line-height: 1;
+  margin-bottom: .65rem;
+  display: block;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,.15));
+}
+
+.cat-name {
+  font-size: .92rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: .3rem;
+}
+
+.cat-desc {
+  font-size: .75rem;
+  line-height: 1.4;
+  opacity: .7;
+}
+
+.cat-arrow {
+  position: absolute;
+  bottom: 1rem; right: 1rem;
+  font-size: .9rem;
+  opacity: 0;
+  transform: translateX(-4px);
+  transition: all .2s ease;
+}
+.cat-card:hover .cat-arrow { opacity: 1; transform: translateX(0); }
+
+/* Individual card themes */
+.cat-visa {
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+  border-color: #bfdbfe;
+  color: #1e40af;
+}
+.cat-visa:hover { background: linear-gradient(135deg, #dbeafe, #bfdbfe); border-color: #60a5fa; box-shadow: 0 8px 30px rgba(37,99,235,.2); }
+
+.cat-jobs {
+  background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+  border-color: #bbf7d0;
+  color: #15803d;
+}
+.cat-jobs:hover { background: linear-gradient(135deg, #dcfce7, #bbf7d0); border-color: #4ade80; box-shadow: 0 8px 30px rgba(16,185,129,.2); }
+
+.cat-life {
+  background: linear-gradient(135deg, #fff7ed 0%, #fed7aa 100%);
+  border-color: #fdba74;
+  color: #c2410c;
+}
+.cat-life:hover { background: linear-gradient(135deg, #fed7aa, #fdba74); border-color: #fb923c; box-shadow: 0 8px 30px rgba(249,115,22,.2); }
+
+.cat-health {
+  background: linear-gradient(135deg, #fff1f2 0%, #fecdd3 100%);
+  border-color: #fda4af;
+  color: #be123c;
+}
+.cat-health:hover { background: linear-gradient(135deg, #fecdd3, #fda4af); border-color: #fb7185; box-shadow: 0 8px 30px rgba(244,63,94,.2); }
+
+.cat-money {
+  background: linear-gradient(135deg, #ecfdf5 0%, #a7f3d0 100%);
+  border-color: #6ee7b7;
+  color: #065f46;
+}
+.cat-money:hover { background: linear-gradient(135deg, #a7f3d0, #6ee7b7); border-color: #34d399; box-shadow: 0 8px 30px rgba(16,185,129,.2); }
+
+.cat-culture {
+  background: linear-gradient(135deg, #faf5ff 0%, #e9d5ff 100%);
+  border-color: #d8b4fe;
+  color: #7e22ce;
+}
+.cat-culture:hover { background: linear-gradient(135deg, #e9d5ff, #d8b4fe); border-color: #c084fc; box-shadow: 0 8px 30px rgba(139,92,246,.2); }
+
+/* ─── TRUST BAR ──────────────────────────── */
+.trust-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  background: #fff;
+  border: 1.5px solid #e0eaff;
+  border-radius: 14px;
+  padding: 1rem 1.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.trust-item {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  font-size: .8rem;
+  font-weight: 600;
+  color: #4b5563;
+}
+
+.trust-item .t-icon { font-size: 1.1rem; }
+
+/* ─── RESPONSIVE ─────────────────────────── */
+@media (max-width: 700px) {
+  .home-hero { padding: 2rem 1.5rem 1.8rem; }
+  .home-hero h1 { font-size: 1.65rem; }
+  .cat-cards { grid-template-columns: repeat(2, 1fr); }
+  .hero-stats { max-width: 100%; }
+  .trust-bar { gap: 1rem; }
+}
+
+@media (max-width: 440px) {
+  .cat-cards { grid-template-columns: 1fr 1fr; gap: .7rem; }
+  .cat-card { padding: 1rem; }
+}

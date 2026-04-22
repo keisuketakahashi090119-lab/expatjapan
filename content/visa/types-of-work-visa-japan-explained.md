@@ -8,9 +8,9 @@ showToc: true
 draft: false
 ---
 
-Japan has many different types of work visas. Each one is for a specific type of job. Choosing the wrong one — or working outside your visa's scope — can cause serious problems.
+Japan has a lot of different work visa categories. Each one covers a specific type of work — and working outside your visa's scope is a serious problem, so it's worth understanding exactly which one you're on and what it covers.
 
-Here's a clear guide to every major work visa type.
+Here's a plain-English breakdown of every major type.
 
 ---
 
@@ -20,7 +20,7 @@ Here's a clear guide to every major work visa type.
 
 **Commonly called: "Gijinkoku" (技人国)**
 
-This is the most common work visa for foreigners in Japan.
+This is the visa most foreigners working office jobs in Japan are on. If you're in tech, business, finance, marketing, or similar fields, this is probably yours.
 
 **Who it's for:**
 - IT engineers and software developers
@@ -39,7 +39,7 @@ This is the most common work visa for foreigners in Japan.
 
 ### 2. Tokutei Gino — Specified Skilled Worker (特定技能)
 
-Japan created this visa in 2019 to address labor shortages in specific industries.
+Japan created this visa in 2019 to address labor shortages in specific industries. It's growing fast.
 
 **Two levels:**
 
@@ -56,22 +56,26 @@ Japan created this visa in 2019 to address labor shortages in specific industrie
 - Hotel and hospitality
 - Shipbuilding
 
+The big difference between Level 1 and Level 2: with Level 2 you can bring your family to Japan, and you have a clearer path to permanent residency.
+
 ---
 
 ### 3. Technical Intern Training (技能実習)
 
-This visa is for learning Japanese work skills and taking them back to your home country.
+This visa is officially about learning Japanese work skills to take back to your home country. In practice, it's complicated.
 
-**Important:**
+**Important things to know:**
 - You **cannot freely change employers**
 - This visa has been criticized internationally for worker rights issues
-- Japan is replacing it with a new "Ikusei Shurou" visa in 2027
+- Japan is replacing it with a new "Ikusei Shurou" visa starting in 2027
+
+If you're already on this visa, know your rights. And know that the landscape is changing.
 
 ---
 
 ### 4. Skilled Labor (技能)
 
-For people with specific professional skills that Japan recognizes.
+For people with specific professional skills that Japan officially recognizes.
 
 **Examples:**
 - Professional chefs (especially Chinese, Thai, French cuisine)
@@ -79,38 +83,42 @@ For people with specific professional skills that Japan recognizes.
 - Jewelers
 - Sports instructors
 
+It's a fairly narrow category, but if your craft is on the list, it's a solid option.
+
 ---
 
 ### 5. Business Manager (経営・管理)
 
-For people who start or manage a company in Japan.
+For people starting or managing a company in Japan.
 
 **Requirements:**
 - Business office in Japan
 - Capital of at least ¥5 million, OR
 - At least 2 employees
 
+Starting a business in Japan is very doable — but the visa requirements mean you can't just freelance informally. You need a real setup.
+
 ---
 
 ### 6. Highly Skilled Professional (高度専門職)
 
-Japan's points-based visa for high-earning, highly educated professionals.
+Japan's points-based visa for high-earning, highly educated professionals. If you qualify, the benefits are significant.
 
 **Benefits:**
 - Faster path to permanent residency (as fast as 1 year)
-- Multiple activities allowed
+- Multiple activities allowed under one visa
 - Family members can work
 
 **Who qualifies:**
-Score 70+ points based on: salary, age, education, research achievements, Japanese language ability.
+Score 70+ points based on salary, age, education, research achievements, and Japanese language ability. Use the official points calculator at the METI website to see where you stand.
 
 ---
 
 ### 7. Designated Activities (特定活動)
 
-A flexible visa category for specific situations:
+A flexible category that covers specific situations that don't fit neatly elsewhere:
 
-- **Job-hunting visa** — for graduates looking for work (6 months)
+- **Job-hunting visa** — for graduates looking for work in Japan (6 months)
 - **Working holiday** (for nationals of specific countries)
 - **Spouse of highly skilled professional**
 
@@ -129,9 +137,9 @@ A flexible visa category for specific situations:
 
 ---
 
-## Which Visa Do You Have?
+## Not Sure What Visa You're On?
 
-Check the back of your **residence card** — it shows your visa status in Japanese.
+Flip over your **residence card** — it shows your visa status in Japanese on the back.
 
 | Japanese | English |
 |---|---|
@@ -145,6 +153,6 @@ Check the back of your **residence card** — it shows your visa status in Japan
 
 ---
 
-## Summary
+## Bottom Line
 
-Most office workers, IT professionals, and business staff are on the **Gijinkoku visa**. Factory, food, and construction workers are often on **Tokutei Gino**. Check your residence card to confirm your visa type, and make sure your job matches it.
+Most office workers, IT professionals, and business staff are on the **Gijinkoku visa**. Factory, food, and construction workers are often on **Tokutei Gino**. Check your residence card, confirm your visa type, and make sure whatever job you're doing actually matches it — that's the thing that matters most.

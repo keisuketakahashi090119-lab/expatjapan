@@ -8,32 +8,33 @@ showToc: true
 draft: false
 ---
 
-Permanent residency (永住者) is the most valuable visa status in Japan. No renewal needed, no job restrictions, no employer dependency.
+Permanent residency (永住者) is the holy grail for long-term residents here. No more renewals, no job restrictions, no depending on your employer to keep you in the country. Once you have it, you have it.
 
-Here's how to get it.
+Here's how to get there.
 
 ---
 
-## What Is Permanent Residency?
+## What PR Actually Gets You
 
-Permanent residency (PR) means you can:
+Permanent residency means you can:
 
 - Live in Japan **indefinitely** without renewing your visa
 - **Work in any job** without restriction
 - **Start your own business** freely
 - Stay in Japan even if you lose your job
 
-You still need to renew your **residence card** every 7 years, but your status is permanent.
+You still need to renew your **residence card** every 7 years — that part doesn't go away. But your status itself is permanent.
 
 ---
 
-## Basic Requirements
+## What You Actually Need to Qualify
 
-### 1. Length of Stay
+### Length of Stay
 
 **Standard requirement:** 10 years continuous residence in Japan, including at least 5 years on a work or residence visa.
 
-**Faster paths:**
+Yeah, 10 years is a long time. But there are faster paths:
+
 | Situation | Required years |
 |---|---|
 | Married to Japanese national | 1 year in Japan (3 years married) |
@@ -41,29 +42,26 @@ You still need to renew your **residence card** every 7 years, but your status i
 | Tokutei Gino 2 | Eligible to apply |
 | Special permanent resident | Separate category |
 
-### 2. Good Behavior
+### Good Behavior
 
-- No criminal record in Japan
-- No immigration violations
-- No unpaid taxes or pension contributions
+No criminal record in Japan, no immigration violations, no history of overstaying. A clean record matters a lot here.
 
-### 3. Financial Stability
+### Financial Stability
 
-- Stable, sufficient income to support yourself
-- No public welfare assistance history
+You need to show you can support yourself. No history of public welfare assistance, and a stable income. More on the salary numbers below.
 
-### 4. Taxes and Pension
+### Taxes and Pension — This Is Where Applications Die
 
-This is where many applications fail:
+Honestly, this is the thing that catches people off guard. Immigration checks everything.
 
-- **All income taxes must be paid** — for every year you've been in Japan
+- **All income taxes must be paid** — for every single year you've been in Japan
 - **National pension (国民年金) must be paid** — no missing payments
 
-If you have unpaid pension, pay it before applying.
+Even one missed pension payment can get you rejected. If you've got gaps, go pay them before you apply. I'm serious.
 
 ---
 
-## Documents Required
+## Documents You'll Need
 
 | Document | Where to get it |
 |---|---|
@@ -81,45 +79,49 @@ If you have unpaid pension, pay it before applying.
 
 ---
 
-## Step-by-Step Application Process
+## The Application Process
 
-### Step 1 — Check Eligibility
-Confirm you meet the years of residence and have no unpaid taxes or pension.
+### Check Your Eligibility First
+Before you do anything else, confirm you meet the years of residence requirement and that your taxes and pension are fully paid up. Don't skip this step.
 
-### Step 2 — Gather Documents
-This is the most time-consuming step. Give yourself 1–2 months to collect everything.
+### Gather Your Documents — Give Yourself Time
+This is the most time-consuming part. Budget 1–2 months to collect everything, especially if you need to track down old tax documents or pension records.
 
-### Step 3 — Write Your Reason Letter
-Write a letter explaining why you want permanent residency. Include:
+### Write Your Reason Letter
+You need to write a letter explaining why you want permanent residency. Include:
 - How long you've lived in Japan
-- Your job and contribution to Japan
+- Your job and how you contribute to Japan
 - Your future plans in Japan
 - Family ties in Japan (if any)
 
-### Step 4 — Submit at Immigration
-Go to your nearest Regional Immigration Bureau. Submit all documents and pay the application fee (¥8,000 in revenue stamps if approved — paid at collection, not submission).
+Japanese is preferred, but a well-written English letter with translation can work. This letter matters — write it carefully.
 
-### Step 5 — Wait
-Processing time: **4 months to 1 year**. Average is around 6–8 months.
+### Submit at Immigration
+Go to your nearest Regional Immigration Bureau with all your documents. The fee (¥8,000 in revenue stamps) is only paid when you collect your card if approved — not at submission.
 
-### Step 6 — Receive Result
-You will receive a postcard. If approved, go to immigration with your passport and residence card to receive your new PR residence card.
+### Wait
+And wait. And wait some more.
+
+Processing time is **4 months to 1 year**. The average lands around 6–8 months. Plan accordingly.
+
+### Get Your Result
+You'll receive a postcard. If approved, head to immigration with your passport and residence card to pick up your new PR residence card.
 
 ---
 
-## Tips to Improve Your Chances
+## Things That Actually Improve Your Chances
 
-**Pay all taxes and pension on time**
-Immigration checks this carefully. Even one missing pension payment can cause rejection.
+**Pay all taxes and pension on time — without exception.**
+Immigration checks this carefully. There's no wiggle room.
 
-**Have a stable, well-paying job**
-No minimum salary is officially stated, but having a stable income above ¥3 million/year helps significantly.
+**Have a stable, well-paying job.**
+No official minimum salary is stated, but being above ¥3 million/year helps significantly. The more stable and senior your position, the better.
 
-**Apply with an immigration lawyer (行政書士)**
-The PR application is complex. An immigration lawyer (gyosei shoshi) can review your documents and significantly improve your approval chances. Fees: ¥50,000–¥150,000.
+**Work with an immigration lawyer (行政書士).**
+The PR application is genuinely complex. An immigration lawyer (gyosei shoshi) can review your documents and flag problems before you submit. Fees run ¥50,000–¥150,000, and it's often worth it for the peace of mind alone.
 
-**Don't leave Japan for long periods**
-Extended absences (especially over 3 months at once) can affect your continuous residence record.
+**Don't leave Japan for long stretches.**
+Extended absences — especially anything over 3 months at a time — can mess with your continuous residence record. Keep your trips short during the lead-up to your application.
 
 ---
 
@@ -133,4 +135,4 @@ Extended absences (especially over 3 months at once) can affect your continuous 
 | Behavior | Clean record |
 | Processing time | 6–12 months |
 
-Permanent residency is the ultimate goal for long-term residents. Start preparing your tax and pension records 1–2 years before you plan to apply.
+PR is absolutely worth pursuing if you're planning to stay in Japan long-term. Start getting your tax and pension records in order 1–2 years before you plan to apply — don't wait until the last minute.

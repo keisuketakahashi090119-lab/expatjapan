@@ -8,23 +8,23 @@ showToc: true
 draft: false
 ---
 
-Japan's national health insurance is excellent. But there are situations where private health insurance fills important gaps.
+Japan's national health insurance is genuinely excellent. But it doesn't cover everything — and there are some real gaps that private insurance can fill, depending on your situation.
 
 Here's what you need to know.
 
 ---
 
-## Do You Need Private Health Insurance in Japan?
+## Do You Actually Need Private Health Insurance?
 
-**National health insurance already covers 70% of most medical costs.**
+Let's be real: **national health insurance already covers 70% of most medical costs**. For a lot of people, that's enough.
 
-But private insurance is worth considering if:
+But private insurance is worth thinking about if:
 
-- You want coverage for **income during hospitalization** (you can't work)
+- You want coverage for **income during hospitalization** (when you can't work)
 - You want a **private hospital room** (national insurance covers shared rooms only)
 - You want **dental coverage** beyond basic treatments
 - You travel internationally and need **overseas medical coverage**
-- Your national insurance has not started yet (gap period)
+- Your national insurance hasn't kicked in yet (that gap period when you first arrive)
 
 ---
 
@@ -32,17 +32,18 @@ But private insurance is worth considering if:
 
 ### 1. Tokio Marine — Best Overall for Residents
 
-- Major Japanese insurer, English support available
-- Plans cover hospitalization, surgery, and daily income replacement
+Tokio Marine is one of Japan's biggest insurers, and they have English support. Their plans cover the things national insurance leaves gaps in — hospitalization, surgery, and daily income replacement while you can't work.
+
 - From approximately ¥1,500–¥5,000/month depending on age and coverage
 
-**Best for:** Long-term residents who want comprehensive coverage on top of national insurance.
+**Best for:** Long-term residents who want solid supplemental coverage on top of national insurance.
 
 ---
 
 ### 2. AXA Life Insurance Japan — Best International Coverage
 
-- International insurer with English support
+If you travel regularly between Japan and your home country, AXA's international coverage fills a real need. National insurance only covers you in Japan — AXA covers you overseas too.
+
 - Good for people who travel frequently between Japan and home country
 - Covers overseas medical treatment
 - From approximately ¥2,000–¥8,000/month
@@ -53,7 +54,8 @@ But private insurance is worth considering if:
 
 ### 3. Aflac Japan — Best for Cancer Coverage
 
-- Very popular in Japan, strong cancer insurance products
+Aflac is huge in Japan — their cancer insurance products specifically are incredibly popular here. You get a lump-sum payment upon cancer diagnosis, which covers all kinds of costs that national insurance doesn't touch (transportation, accommodations, non-covered treatments).
+
 - Lump-sum payment upon cancer diagnosis
 - Affordable monthly premiums from ¥1,000/month
 - Japanese and English support
@@ -64,12 +66,13 @@ But private insurance is worth considering if:
 
 ### 4. Allianz Care — Best for Expats (International Plan)
 
-- Designed specifically for expats
+Allianz is designed specifically for expats who need truly global coverage. It's more expensive than the other options, but it's comprehensive — claims process in English, international coverage, the works.
+
 - Global coverage including Japan
 - English support, international claims process
 - Higher cost: from ¥15,000–¥50,000/month
 
-**Best for:** Expats on company assignment or those who need truly global coverage.
+**Best for:** Expats on company assignment or those who need full global coverage.
 
 ---
 
@@ -85,17 +88,15 @@ But private insurance is worth considering if:
 
 ---
 
-## How Much Should You Pay?
+## How Much Should You Expect to Pay?
 
-A basic supplemental plan costs **¥1,500–¥5,000/month** for most working adults under 40.
-
-This is separate from your national insurance premiums.
+A basic supplemental plan costs **¥1,500–¥5,000/month** for most working adults under 40. That's on top of your national insurance premiums.
 
 ---
 
 ## Do You Need Both?
 
-**Yes, for most people:**
+For most people, yes — but the private piece doesn't need to be expensive:
 
 ```
 National Insurance (mandatory)
@@ -103,20 +104,20 @@ National Insurance (mandatory)
 = Very strong coverage at reasonable cost
 ```
 
-National insurance handles the 70% base coverage. Private insurance fills the gaps that matter most to you.
+National insurance handles the big 70% base. Private insurance fills in whatever gaps matter most to you specifically.
 
 ---
 
-## Tips for Foreigners
+## A Few Things to Check First
 
-**Start with national insurance first**
-Get enrolled in national insurance before adding private coverage. Understand what's already covered.
+**Start with national insurance.**
+Get enrolled and understand what's already covered before you add anything on top.
 
-**Check your employer's benefits**
-Many Japanese companies offer group insurance — check with HR before buying individually.
+**Check your employer's group benefits.**
+Many Japanese companies offer group insurance through HR. Check with them before buying individually — you might already have more coverage than you think.
 
-**Compare in English**
-Use comparison sites like **保険市場 (hokende.com)** — some have English support. Or consult a bilingual insurance broker.
+**Compare in English.**
+Try comparison sites like **保険市場 (hokende.com)** — some have English support. Or find a bilingual insurance broker who can walk you through options.
 
 ---
 
@@ -129,4 +130,4 @@ Use comparison sites like **保険市場 (hokende.com)** — some have English s
 | + AXA international | +¥3,000–¥8,000 | Frequent travelers |
 | Allianz Care (expat plan) | ¥15,000–¥50,000 | Full global coverage |
 
-For most foreigners working in Japan, **national insurance + one affordable supplemental plan** is the sweet spot.
+For most foreigners working in Japan, **national insurance plus one affordable supplemental plan** is the sweet spot. You get strong coverage without overpaying.

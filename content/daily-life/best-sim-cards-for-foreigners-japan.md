@@ -8,7 +8,7 @@ showToc: true
 draft: false
 ---
 
-Getting a phone plan in Japan as a foreigner used to be difficult. Now it's easy — if you know which SIM card to choose.
+Getting a phone plan in Japan as a foreigner used to be a pain. Now it's pretty easy — as long as you know which SIM to actually go with and don't accidentally end up paying ¥7,000 a month to one of the big carriers.
 
 ---
 
@@ -19,7 +19,7 @@ Yes. You need:
 - **Passport**
 - **Bank account or credit card** for payment
 
-Tourists can get data-only SIMs at airports. Residents can get full plans with calls and data.
+If you're a tourist, you can get data-only SIMs at airports. If you're a resident, you can get a full plan with calls and data — and you should, because the budget options are genuinely good.
 
 ---
 
@@ -33,11 +33,7 @@ Tourists can get data-only SIMs at airports. Residents can get full plans with c
 | Voice + 5GB | 5GB | ¥990 |
 | Voice + 15GB | 15GB | ¥1,500 |
 
-**Why we recommend it:**
-- Reliable network (uses NTT Docomo)
-- English support available
-- Easy online sign-up with residence card
-- Cancel anytime
+IIJmio is the one I'd recommend to most people starting out. It runs on NTT Docomo's network so coverage is solid nationwide, there's English support, the online sign-up is straightforward, and you can cancel anytime. For under ¥1,000 a month, it's hard to beat.
 
 ---
 
@@ -47,12 +43,9 @@ Tourists can get data-only SIMs at airports. Residents can get full plans with c
 |---|---|---|
 | Unlimited | Unlimited | ¥3,278 |
 
-**Why we recommend it:**
-- Unlimited data at a flat price
-- English app available
-- Free calls within Rakuten users
+If you're constantly streaming or using data heavily, Rakuten's flat unlimited rate makes sense. The app is available in English, and calls within Rakuten users are free.
 
-**Downside:** Network coverage is weaker in rural areas.
+**Downside:** Coverage is weaker in rural areas. In the major cities it's fine.
 
 ---
 
@@ -64,10 +57,7 @@ Tourists can get data-only SIMs at airports. Residents can get full plans with c
 | Voice + 5GB | 5GB | ¥1,518 |
 | Voice + 10GB | 10GB | ¥1,958 |
 
-**Why we recommend it:**
-- Can share unused data with other users
-- Three network options (Docomo, au, Softbank)
-- Good for people who want to keep their number
+Mineo has a unique feature where you can share unused data with other users in their community pool. They also offer three network options (Docomo, au, Softbank), which is useful if you already have a phone locked to a specific network.
 
 ---
 
@@ -78,14 +68,11 @@ Tourists can get data-only SIMs at airports. Residents can get full plans with c
 | Mini Plan | 3GB | ¥990 |
 | Standard | 20GB | ¥2,728 |
 
-**Why we recommend it:**
-- LINE calls and messages don't use data
-- Simple setup
-- Uses Softbank network
+If LINE is your main communication tool — and for a lot of people in Japan it is — LINEMO makes sense because LINE calls and messages don't eat into your data at all. Simple setup, runs on Softbank's network.
 
 ---
 
-## How to Sign Up (Step by Step)
+## How to Sign Up
 
 1. Go to the provider's website
 2. Choose your plan
@@ -94,9 +81,11 @@ Tourists can get data-only SIMs at airports. Residents can get full plans with c
 5. Enter your bank account or credit card details
 6. Wait 3–5 days for your SIM to arrive by post
 
+That's it. No going into a store, no Japanese-only paperwork. Most of these can be done entirely in English online.
+
 ---
 
-## Which SIM Should You Choose?
+## Which One Should You Get?
 
 ```
 Light user (under 5GB/month) → IIJmio
@@ -107,6 +96,6 @@ Want flexibility → Mineo
 
 ---
 
-## Summary
+## Bottom Line
 
-Getting a cheap SIM card in Japan is easy for foreigners with a residence card. IIJmio is the safest starting choice — good coverage, cheap price, English support.
+Don't overpay for a phone plan. Getting a cheap SIM in Japan with a residence card is easy, and the budget options genuinely work well. IIJmio is the safest starting choice — good coverage, cheap price, English support. Start there and switch later if your needs change.

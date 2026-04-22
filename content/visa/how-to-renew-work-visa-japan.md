@@ -8,9 +8,9 @@ showToc: true
 draft: false
 ---
 
-Your work visa expiry date is printed on your **residence card**. Don't miss it — working after your visa expires is illegal in Japan.
+Your work visa expiry date is printed on your **residence card**. Don't miss it — working after your visa expires is illegal in Japan, full stop.
 
-Here's exactly how to renew it.
+The good news is that renewing is pretty straightforward once you know what you're doing. Here's exactly how it works.
 
 ---
 
@@ -18,13 +18,13 @@ Here's exactly how to renew it.
 
 Apply **3 months before** your visa expires.
 
-You can apply up to 3 months early. Immigration recommends this because processing can take 1–3 months.
+Immigration actually recommends this because processing can take anywhere from 1 to 3 months. Apply early and you won't be sweating the deadline. If you wait until the last few weeks, you're asking for stress you don't need.
 
 ---
 
-## Step 1 — Gather Your Documents
+## Gather Your Documents
 
-**Required documents (most cases):**
+**Required documents for most cases:**
 
 | Document | Where to get it |
 |---|---|
@@ -38,23 +38,19 @@ You can apply up to 3 months early. Immigration recommends this because processi
 | Photo (4cm × 3cm) | Photo booth (証明写真) |
 | Application fee: ¥4,000 | Revenue stamps (収入印紙) at immigration office |
 
+The certificate of employment and tax documents are the ones that take time to collect. Email your HR department as soon as you decide to start the process.
+
 ---
 
-## Step 2 — Fill In the Application Form
+## Fill In the Application Form
 
 Download the form from the **Immigration Services Agency website** (immi-moj.go.jp).
 
-The form asks for:
-- Personal details
-- Current employer details
-- Your job title and salary
-- Reason for renewal
-
-Fill in English is fine for most fields.
+It asks for basic stuff — your personal details, current employer, job title, salary, and reason for renewal. Filling it out in English is fine for most fields. It's not complicated, just take your time and double-check the details.
 
 ---
 
-## Step 3 — Submit at Immigration Office
+## Submit at the Immigration Office
 
 Go to your **nearest Regional Immigration Services Bureau**.
 
@@ -62,23 +58,21 @@ Go to your **nearest Regional Immigration Services Bureau**.
 **Osaka:** Namba area
 **Nagoya:** Nagoya station area
 
-Bring all original documents + photocopies of each.
-
-Take a number and wait. Average wait time: 30 minutes to 2 hours.
+Bring all original documents plus photocopies of each one — they keep the copies. Take a number at the counter and wait. Average wait time is 30 minutes to 2 hours depending on the day and time you go.
 
 ---
 
-## Step 4 — Wait for the Result
+## Wait for the Result
 
-After submitting, immigration will give you a **receipt slip**.
+After submitting, immigration gives you a **receipt slip**. Keep that safe.
 
-Processing time: **1 week to 3 months** (most cases: 2–4 weeks)
+Processing time: **1 week to 3 months** — most cases come back in 2–4 weeks.
 
-You will receive a postcard when your result is ready.
+You'll get a postcard in the mail when your result is ready. Don't just show up at immigration without it.
 
 ---
 
-## Step 5 — Pick Up Your New Residence Card
+## Pick Up Your New Residence Card
 
 Go back to immigration with:
 - Receipt slip
@@ -86,28 +80,25 @@ Go back to immigration with:
 - Current residence card
 - ¥4,000 in revenue stamps (if not paid at submission)
 
-Your new residence card is issued on the spot.
+Your new residence card is issued on the spot. That's it — you're done.
 
 ---
 
-## Can You Work While Waiting?
+## Can You Work While You're Waiting?
 
-**Yes.** Your current visa status remains valid until the final decision. You can continue working normally.
-
----
-
-## What If Your Application is Rejected?
-
-This is rare if your employment is stable. Common reasons for rejection:
-- Unpaid taxes
-- Your job does not match your visa category
-- Criminal record
-
-If rejected, you can appeal or consult an immigration lawyer (行政書士).
+Yes. Your current visa status stays valid until a final decision is made. Keep working as normal.
 
 ---
 
-## Summary
+## What If Your Application Gets Rejected?
+
+Honestly, this is rare if you're employed and your paperwork is clean. The most common reasons for rejection are unpaid taxes, a job that doesn't match your visa category, or a criminal record.
+
+If you do get rejected, you can appeal or consult an immigration lawyer (行政書士).
+
+---
+
+## Quick Summary
 
 ```
 3 months before expiry → gather documents
@@ -115,4 +106,4 @@ Submit at immigration office → wait 2–4 weeks
 Receive postcard → pick up new residence card
 ```
 
-Don't wait until the last minute — apply early and avoid stress.
+Apply early, get your HR to move fast on those documents, and you'll be fine. Don't wait until the last minute.

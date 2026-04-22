@@ -8,123 +8,113 @@ showToc: true
 draft: false
 ---
 
-Japan has a reputation for being expensive — but with the right habits, you can live very comfortably for less. Here are the most effective ways to save money.
+Japan has a reputation for being expensive. And yeah, Tokyo rent isn't cheap. But a lot of day-to-day living here is actually very affordable if you know where to look. Here's how to keep more money in your pocket.
 
 ---
 
-## 1. Switch to a Cheaper Phone Plan
+## 1. Cut Your Phone Bill First
 
-Most foreigners pay too much for their phone.
+This is the single biggest win for most foreigners. A lot of people arrive in Japan and end up on a big carrier plan out of convenience — and pay for it.
 
-**What you might be paying:** ¥5,000–¥8,000/month with major carriers (Docomo, au, Softbank)
+**What you might be paying:** ¥5,000–¥8,000/month with Docomo, au, or Softbank
 
-**What you could pay:** ¥900–¥2,000/month with a budget SIM (IIJmio, Mineo, LINEMO)
+**What you should be paying:** ¥900–¥2,000/month with IIJmio, Mineo, or LINEMO
 
-**Annual saving: ¥36,000–¥72,000**
+Same coverage. Much lower price. Switching takes about 30 minutes online.
 
----
-
-## 2. Use 100-Yen Shops
-
-100-yen shops (Daiso, Seria, Can Do) sell surprisingly high-quality goods:
-- Kitchen items, storage boxes, stationery
-- Cleaning supplies, cosmetics
-- Seasonal items, party supplies
-
-Always check 100-yen shops before buying household items elsewhere.
+**Annual saving: ¥36,000–¥72,000.** That's real money.
 
 ---
 
-## 3. Buy Discounted Food at Supermarkets
+## 2. Shop at 100-Yen Stores Seriously
 
-Japanese supermarkets discount food heavily in the evening:
+Daiso, Seria, Can Do — these places sell genuinely good stuff for ¥110. Before you buy anything household-related, check a 100-yen store first.
 
-- **After 7pm:** 20–30% discount stickers on prepared foods
-- **After 8–9pm:** 30–50% off (look for orange stickers)
-
-This is perfectly normal and widely done in Japan. You can get high-quality bento boxes and sushi for half price.
+Kitchen tools, storage containers, cleaning supplies, stationery, cosmetics, seasonal items — you'd be surprised what they carry. In Japan, 100-yen stores aren't just for random junk. A lot of locals do serious shopping there.
 
 ---
 
-## 4. Cook at Home
+## 3. Hit the Supermarket Late
 
-Eating out in Japan is relatively cheap — but cooking at home is much cheaper.
+This is one of the best-kept secrets of daily life in Japan. Supermarkets discount prepared food heavily in the evenings:
 
-**Average cost comparison:**
+- **After 7pm:** 20–30% off discount stickers appear on bentos, sushi, prepared dishes
+- **After 8–9pm:** 30–50% off (look for the orange stickers)
+
+High-quality sushi and bento boxes at half price. It's completely normal to shop this way — locals do it all the time.
+
+---
+
+## 4. Cook More Than You Think You Need To
+
+Eating out in Japan is cheap compared to the US or Europe. But cooking at home is still significantly cheaper:
+
 | | Cost per meal |
 |---|---|
 | Restaurant lunch | ¥800–¥1,500 |
 | Convenience store meal | ¥500–¥800 |
 | Cooked at home | ¥200–¥400 |
 
-Supermarkets have excellent ingredients at low prices. Learning a few simple Japanese dishes saves significant money.
+If you're eating out for every meal, that adds up to ¥60,000–¥130,000 a month just on food. Cook a few times a week and you'll notice the difference.
 
 ---
 
-## 5. Use IC Cards and Point Systems
+## 5. Stack Your Point Apps
 
-Japan has an excellent **points system**:
+Japan has an obsessive point culture, and you should take full advantage of it.
 
-- **Rakuten Point** — earn at Rakuten shopping, McDonald's, FamilyMart
-- **T-Point / V-Point** — earn at FamilyMart, GEO, Doutour
-- **Nanaco** — 7-Eleven points
-- **Waon** — AEON store points
+- **PayPay** — cashback deals at tons of restaurants and stores
+- **Rakuten Point** — earn at McDonald's, FamilyMart, online shopping
+- **T-Point / V-Point** — FamilyMart, Doutour, GEO
+- **Nanaco** — 7-Eleven
 
-Link your IC card (Suica/ICOCA) to a credit card that earns points. You earn points on every train ride and purchase.
+Link your IC card (Suica/ICOCA) to a credit card that earns points. You'll accumulate points without thinking about it, and they add up over time.
 
 ---
 
 ## 6. Use the Library
 
-Japan's public libraries are excellent and free:
+Japan's public libraries are excellent and completely free. You can borrow:
 
-- Books, magazines, and manga in Japanese and some foreign languages
-- DVDs and CDs (many libraries lend them for free)
-- Air-conditioned workspace in summer
+- Books in Japanese and other languages
+- Magazines
+- DVDs and CDs (free at many libraries)
+- Use the space as a quiet workspace
 
-Get a library card at your local library with your residence card.
-
----
-
-## 7. Get a National Health Insurance Discount
-
-If your income is low (under ¥1 million/year), you may be eligible for a reduced National Health Insurance premium.
-
-Apply at City Hall with your tax records. Potential saving: ¥50,000–¥100,000/year.
+Get a library card at your local branch — just show your residence card. It takes five minutes.
 
 ---
 
-## 8. Use Discount Apps
+## 7. Check If You Qualify for a Health Insurance Discount
 
-| App | Use |
-|---|---|
-| **PayPay** | Cash-back deals at restaurants and stores |
-| **d払い (d Barai)** | Docomo points and discounts |
-| **au PAY** | au points and discounts |
-| **Tabelog / Gurunavi** | Restaurant discounts and coupons |
+If your income was low last year (under ¥1 million), you may qualify for a reduced National Health Insurance premium. Go to City Hall, bring your tax records, and ask about it.
+
+Potential saving: ¥50,000–¥100,000/year. Worth checking.
 
 ---
 
-## 9. Take Advantage of Public Facilities
+## 8. Use Public Sports Facilities
 
-Japan has excellent **free or cheap public facilities**:
+Private gyms in Japan can run ¥7,000–¥10,000/month. Municipal sports centers (スポーツセンター) offer the same equipment for ¥200–¥600 per visit — and they're usually well-maintained.
 
-- **Public baths (銭湯)**: ¥400–¥600, cheaper than gym membership
-- **Public parks and gardens**: most are free
-- **Municipal sports centers (スポーツセンター)**: ¥200–¥600 per visit, much cheaper than private gyms
+Same deal with public baths (銭湯): ¥400–¥600 for a soak that beats most home setups.
 
 ---
 
-## 10. Send Money Home at the Right Time
+## 9. Send Money Home More Efficiently
 
-If you regularly send money to your home country, timing matters:
+If you send money to your home country regularly, the method matters a lot.
 
-- Use **Wise** or **SBI Remit** instead of bank transfers (saves ¥2,000–¥5,000 per transfer)
-- Watch the exchange rate — send more when the yen is relatively strong
+- Using a Japanese bank transfer: ¥2,500–¥5,000 in fees plus a bad exchange rate
+- Using Wise or SBI Remit: fraction of the cost
+
+If you're sending ¥50,000/month, switching from bank transfers to Wise can save you ¥3,000–¥6,000 per transfer. Over a year, that's significant.
 
 ---
 
-## Monthly Budget Example (Tokyo, Single Person)
+## Monthly Budget Reality Check
+
+Here's what living in Tokyo actually costs, budget vs. average:
 
 | Expense | Budget-Friendly | Average |
 |---|---|---|
@@ -136,14 +126,10 @@ If you regularly send money to your home country, timing matters:
 | Entertainment | ¥10,000 | ¥20,000 |
 | **Total** | **¥102,500** | **¥170,000** |
 
+The gap between budget and average is almost ¥70,000 a month — and most of it comes from small choices repeated daily.
+
 ---
 
-## Summary
+## Bottom Line
 
-The biggest savings come from:
-1. Cheaper phone plan
-2. Cooking at home + evening supermarket deals
-3. Using points and cashback apps
-4. Public facilities instead of private services
-
-Japan rewards careful spending — the infrastructure for budget living is excellent once you know where to look.
+Japan actually rewards careful spending. The infrastructure is there — cheap SIMs, discount stores, point systems, public facilities. You just have to use them. Start with the phone plan, then work down the list.

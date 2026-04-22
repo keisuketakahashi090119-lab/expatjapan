@@ -8,9 +8,7 @@ showToc: true
 draft: false
 ---
 
-Finding a job in Japan as a foreigner is very possible — especially if you use the right websites.
-
-Here are the best job sites for foreigners in 2025.
+Finding a job in Japan as a foreigner is very doable — but you need to be on the right platforms. Japanese job sites that work great for locals are often useless for foreigners. Here are the ones that actually work.
 
 ---
 
@@ -20,7 +18,8 @@ Here are the best job sites for foreigners in 2025.
 
 **gaijinpot.com/jobs**
 
-- Largest English-language job board in Japan
+Look, GaijinPot is the starting point for most foreigners job hunting in Japan. It's the largest English-language job board in the country, and a lot of the listings don't require Japanese at all.
+
 - Many jobs that **don't require Japanese**
 - Strong in: teaching English, IT, hospitality, customer service
 - Free to use
@@ -32,6 +31,8 @@ Here are the best job sites for foreigners in 2025.
 ### 2. Daijob — Best for Bilingual Professionals
 
 **daijob.com**
+
+Once you've got some Japanese ability and want to move up into real corporate roles, Daijob is where it's at. The jobs here are higher quality and the salaries are noticeably better.
 
 - Specializes in bilingual (Japanese + English) roles
 - High-quality jobs at multinational companies
@@ -46,8 +47,10 @@ Here are the best job sites for foreigners in 2025.
 
 **doda.jp**
 
+doda is one of Japan's biggest job boards overall, and they have an English-support service specifically for foreigners. The recruiter support is genuinely useful — don't skip it.
+
 - One of Japan's largest job boards
-- Has an English-support service for foreigners
+- English-support service for foreigners
 - Many job types: IT, engineering, sales, finance
 - Recruiter support available
 
@@ -59,7 +62,8 @@ Here are the best job sites for foreigners in 2025.
 
 **linkedin.com**
 
-- Works the same as LinkedIn globally
+LinkedIn works the same in Japan as it does everywhere else. And recruiters here definitely use it — especially for tech, finance, and management roles. Build your profile, connect with people, and let the algorithm work for you.
+
 - Good for IT, marketing, finance, management roles
 - Recruiters actively search here
 - Build your profile in English
@@ -72,7 +76,8 @@ Here are the best job sites for foreigners in 2025.
 
 **wantedly.com**
 
-- Popular among startups and tech companies
+Wantedly is popular in Japan's startup scene. It's a bit different from other job boards — companies post based on culture and mission, not just salary. A lot of the companies here are international-friendly.
+
 - Company culture focused — you apply based on values, not just salary
 - English profiles accepted at many companies
 - Many international-friendly environments
@@ -85,9 +90,10 @@ Here are the best job sites for foreigners in 2025.
 
 **jp.indeed.com**
 
+Honestly, if you want to cast a wide net, Indeed is useful. Filter by "英語OK" (English OK) or "外国人歓迎" (foreigners welcome) to cut through the noise.
+
 - Aggregates jobs from many sites
 - Huge volume of listings
-- Filter by English OK (英語OK) or foreigner friendly (外国人歓迎)
 - Available in English
 
 **Best for:** Wide search across all industries.
@@ -107,22 +113,22 @@ Here are the best job sites for foreigners in 2025.
 
 ---
 
-## Tips for Job Hunting in Japan as a Foreigner
+## Tips That Actually Help
 
-**1. Write your resume in both English and Japanese**
-Many companies want a Japanese resume (職務経歴書) even for English roles.
+**Write your resume in both English and Japanese.**
+Even for English-environment jobs, many companies want a Japanese resume (職務経歴書). It shows effort and it's often required.
 
-**2. Mention your visa status clearly**
-State your visa type and expiry date in your application. Companies need to know they can hire you.
+**Be upfront about your visa status.**
+State your visa type and expiry date in your application. Companies need to know they can legally hire you — hiding this doesn't help anyone.
 
-**3. Use multiple sites at the same time**
-Don't rely on just one site — register on 3–4 and apply widely.
+**Use multiple sites at the same time.**
+Don't put all your eggs in one basket. Register on 3–4 and apply broadly.
 
-**4. Talk to a recruiter**
-Sites like doda and Daijob offer free recruiter support. Use it.
+**Talk to a recruiter.**
+Sites like doda and Daijob offer free recruiter support. Use it. They know what companies are actually looking for and they can help you position yourself.
 
 ---
 
-## Summary
+## Where to Start
 
-Start with **GaijinPot** if you want English-environment jobs. Move to **Daijob** or **doda** when you want higher-paying corporate roles. Use **LinkedIn** to build your professional network alongside your job search.
+Start with **GaijinPot** if you want English-environment jobs with no Japanese required. Move to **Daijob** or **doda** when you're ready to go after higher-paying corporate roles. And use **LinkedIn** to build your professional network while you're at it — it's not just for job searching, it's for being found.

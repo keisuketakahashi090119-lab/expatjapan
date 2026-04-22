@@ -8,124 +8,115 @@ showToc: true
 draft: false
 ---
 
-Working in Japan is a unique experience. Some things will surprise you. Some will frustrate you. But understanding the culture makes everything much easier.
+Japanese work culture is genuinely different from what most foreigners are used to. Some of it will make sense pretty quickly. Some of it will take longer. But understanding the basics upfront will save you from a lot of awkward moments and misread situations.
 
 ---
 
-## Punctuality Is Extremely Important
+## Punctuality Means Something Different Here
 
-In Japan, being on time means being **5 minutes early**.
+In most countries, showing up on time is fine. In Japan, showing up on time means you're almost late.
 
-- Arriving exactly on time = slightly late
-- Arriving 5–10 minutes early = respectful and professional
-- Being late without notice = serious problem
+The unwritten rule: **arrive 5–10 minutes early.** Exactly on time feels slightly disrespectful to many Japanese colleagues. Late without notice is a serious problem.
 
-If you know you'll be late, **always call or message in advance**.
+If you know you're going to be late — traffic, train delays, whatever — call or message ahead of time. Every time.
 
 ---
 
 ## Business Cards (名刺, Meishi)
 
-If your company gives you business cards, learn how to use them properly:
+If your company gives you business cards, the way you handle them matters.
 
 **Giving a card:**
 - Hold it with both hands
-- Present it with the text facing toward the recipient
-- Bow slightly
+- Present it with the text facing toward the other person
+- Bow slightly as you hand it over
 
 **Receiving a card:**
 - Accept with both hands
-- Read it carefully for a moment (don't just pocket it immediately)
-- Place it on the table in front of you during meetings
-- Never write on it or fold it
+- Actually read it for a moment — don't just pocket it immediately
+- During a meeting, place it on the table in front of you
+- Never write on it, fold it, or shove it in your back pocket
+
+It sounds ceremonial because it is. People notice when you do it right, and they notice when you don't.
 
 ---
 
-## Hierarchy and Respect (上下関係)
+## Hierarchy Is Real
 
-Japanese workplaces have a clear hierarchy:
+Japanese workplaces have clear hierarchies, and they're taken seriously.
 
-- Refer to seniors as **[name]-san** or by their title
-- Let seniors speak first in meetings
-- Don't contradict your manager directly in public — raise disagreements privately
-- Always listen without interrupting
+- Use **[name]-san** or their title when addressing senior colleagues
+- In meetings, let seniors speak first
+- Don't directly contradict your manager in front of others — if you disagree, find a way to raise it privately later
+- Listen without interrupting, even if you're used to more back-and-forth conversation styles
+
+This doesn't mean you can't have opinions. It means there's a right way and a wrong way to express them.
 
 ---
 
-## Communication Style
+## Communication Is Often Indirect
 
-Japanese communication is often **indirect**:
+This is the thing that trips up a lot of Westerners. In Japan, people rarely say "no" directly.
 
-- "That might be difficult" often means "No"
-- Silence doesn't mean agreement — it may mean they are thinking, or disagreeing politely
-- Criticism is usually given indirectly, not directly
+- "That might be difficult" often means no
+- Silence doesn't mean agreement — it might mean they're processing, or politely disagreeing
+- Criticism tends to come wrapped in politeness
 
-**Tip:** When your manager says something is "a bit difficult (少し難しい)," ask clarifying questions rather than assuming it's fine.
+When your manager says something is "a bit difficult (少し難しい)," don't assume it'll work out. Ask clarifying questions. What specifically is the concern? Is there a version of this that would work?
+
+Getting comfortable with indirect communication takes time, but it gets easier.
 
 ---
 
 ## After-Work Drinks (飲み会, Nomikai)
 
-Being invited to nomikai (company drinking party) is part of Japanese work culture.
+Getting invited to a nomikai is part of working in Japan, especially in more traditional companies.
 
-- Attending shows team spirit — try to go when invited, especially early in your job
-- You don't have to drink alcohol — ordering soft drinks is increasingly accepted
-- Nomikai is where relationships are built and important conversations happen informally
-- Karaoke after drinks is common
+A few things to know:
 
----
-
-## Overtime (残業)
-
-Japan has a culture of working late. This is changing — but slowly.
-
-- Leaving before your manager can feel awkward in some companies
-- New laws limit overtime to 45 hours/month (with exceptions)
-- At international companies, overtime expectations are usually lower
-
-**What to do:** Match the culture of your specific company. At tech startups, leaving at 6pm is normal. At traditional companies, staying later may be expected.
+- Showing up — at least sometimes — is generally seen as a team-player move, especially when you're new
+- You don't have to drink alcohol. Ordering soft drinks is increasingly accepted. Nobody's going to force you.
+- Nomikai is actually where a lot of informal conversations happen. People are more relaxed, more direct. It's genuinely useful.
+- Karaoke after drinks is common. Go at least once.
 
 ---
 
-## Work Clothes
+## Overtime
 
-Most Japanese offices expect **formal or business casual** dress:
+Japan has a culture of staying late. It's changing — new laws cap overtime at 45 hours/month — but it varies a lot by company.
+
+At traditional companies, leaving before your manager can feel uncomfortable. At tech startups and international companies, this is much less of a thing.
+
+The honest advice: watch what your team does in the first few weeks and calibrate from there. Don't assume the rules are the same as back home, and don't assume they're more extreme than they are.
+
+---
+
+## Dress Code
+
+Most Japanese offices lean formal or business casual:
 
 - Men: suit or dress shirt with slacks
 - Women: blouse with skirt or trousers
-- No strong perfume or cologne
-- Tattoos: keep covered in most professional settings
+- Skip the heavy perfume or cologne
+- Tattoos: keep them covered in most professional settings
 
-Some IT companies and startups are very casual — follow your team's lead.
-
----
-
-## Email and Messaging Etiquette
-
-- Always use formal greetings in email (お世話になっております)
-- Reply promptly — same day is expected
-- Use company-approved tools (LINE Works, Slack, etc.) — not personal LINE
-- CC senior staff appropriately
+Tech startups and creative companies are often much more casual. Follow your team's lead.
 
 ---
 
-## Japanese Work Phrases to Know
+## Work Phrases Worth Knowing
 
 | Japanese | Meaning | When to use |
 |---|---|---|
-| お疲れ様です | "Good work" | Greeting colleagues, leaving office |
-| よろしくお願いします | "Please treat me well / I'm counting on you" | Starting work, asking for help |
-| すみません | "Excuse me / Sorry" | Interrupting, minor mistakes |
-| ご確認をお願いします | "Please check this" | Sending files for review |
+| お疲れ様です | "Good work" / "Thanks for your effort" | Greeting colleagues, leaving for the day |
+| よろしくお願いします | "I'm counting on you" / "Please and thank you" | Starting projects, asking for help |
+| すみません | "Excuse me" / "I'm sorry" | Interrupting, minor mistakes |
+| ご確認をお願いします | "Please review this" | Sending work for feedback |
+
+You'll hear おつかれさまです constantly. Learn it, use it. It's basically the Japanese version of "have a good one."
 
 ---
 
-## Summary
+## Bottom Line
 
-Japanese workplace culture values:
-- Punctuality and reliability
-- Respect for hierarchy
-- Team harmony over individual expression
-- Effort and commitment
-
-Understanding these values — even if your company is international — will help you build strong relationships with your Japanese colleagues.
+Japanese workplace culture isn't better or worse than what you're used to — it's just different. The key things: be punctual, show respect to hierarchy, communicate indirectly when giving negative feedback, and show up to at least a few nomikai. Get those right and you'll fit in faster than you'd expect.

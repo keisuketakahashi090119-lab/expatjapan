@@ -8,13 +8,13 @@ showToc: true
 draft: false
 ---
 
-If your life situation changes in Japan — new job type, marriage, starting a business — you may need to change your visa status. Here's how.
+So your situation in Japan has changed. New job type, got married, starting a business — whatever it is, your current visa might not cover it anymore. Here's what you actually need to do.
 
 ---
 
-## When Do You Need to Change Visa Status?
+## Do You Even Need to Change?
 
-You need to apply for a **Change of Status of Residence (在留資格変更許可申請)** when:
+You need to apply for a **Change of Status of Residence (在留資格変更許可申請)** when your life situation shifts in a way your current visa doesn't cover:
 
 | Situation | Change needed |
 |---|---|
@@ -24,47 +24,43 @@ You need to apply for a **Change of Status of Residence (在留資格変更許�
 | Graduating and starting work | From student visa to work visa |
 | Switching from technical intern to Tokutei Gino | Visa category change |
 
+If you're not sure whether your situation requires a change, the safest move is to ask an immigration lawyer. Better to ask now than figure it out after you've already started the wrong job.
+
 ---
 
-## Important: Don't Work Without the Right Visa
+## Real Talk: Don't Work Without the Right Visa
 
-Working in a job category that doesn't match your current visa is illegal in Japan — even while your application is pending.
+Seriously. Working in a job category that doesn't match your current visa is illegal — even while your application is being processed.
 
-Apply **before** you start the new job if there's a mismatch.
+Apply **before** you start the new job if there's a mismatch. No exceptions.
 
 ---
 
 ## Common Visa Status Changes
 
-### Student → Work Visa (Gijinkoku)
+### Student to Work Visa (Gijinkoku)
 
-Most common change after graduation.
+This is the most common change for people finishing university here. You'll need a job offer letter from a Japanese company, your diploma, and your transcript.
 
-Required: Job offer letter from a Japanese company, university diploma, transcript.
-
-**Timeline:** Apply 3 months before graduation. Processing: 2–4 weeks.
+Apply about 3 months before graduation. Processing usually takes 2–4 weeks — don't wait until the week before you start.
 
 ---
 
-### Gijinkoku → Spouse of Japanese National
+### Gijinkoku to Spouse of Japanese National
 
-If you marry a Japanese citizen.
+If you marry a Japanese citizen, you'll need to switch. Required documents: marriage certificate, your spouse's family register (戸籍謄本), and photos showing your life together.
 
-Required: Marriage certificate, spouse's family register (戸籍謄本), photos of life together.
-
-**Timeline:** Apply after marriage registration. Processing: 2–4 weeks.
+Apply after you've registered the marriage. Processing: 2–4 weeks.
 
 ---
 
-### Technical Intern → Tokutei Gino
+### Technical Intern to Tokutei Gino
 
-Japan created a direct pathway from technical intern training to Tokutei Gino.
-
-Required: Pass the relevant Tokutei Gino skills test (or be exempt based on your intern training category), JLPT N4 or Japanese skills test.
+Japan created a direct pathway for this one. You'll need to pass the relevant Tokutei Gino skills test (or qualify for an exemption based on your training category), plus JLPT N4 or the Japanese skills test.
 
 ---
 
-## Documents Required (General)
+## Documents You'll Need
 
 | Document | Notes |
 |---|---|
@@ -86,47 +82,45 @@ Required: Pass the relevant Tokutei Gino skills test (or be exempt based on your
 
 ---
 
-## Step-by-Step Process
+## How the Process Actually Works
 
-### Step 1 — Prepare Documents
-Gather all required documents. This usually takes 1–2 weeks.
+### Prepare Your Documents
+Gather everything on the list above. Realistically this takes 1–2 weeks — especially if you're chasing down documents from your company's HR department.
 
-### Step 2 — Submit at Immigration
-Go to your nearest **Regional Immigration Services Bureau**.
+### Submit at Immigration
+Go to your nearest **Regional Immigration Services Bureau**. Bring originals AND photocopies of everything — they'll keep the copies.
 
-Bring originals AND photocopies of everything.
+Take a number and wait. Budget 30 minutes to 2 hours depending on the day.
 
-Take a number and submit. Average wait time: 30 minutes to 2 hours.
+### You'll Get a Stamp on Your Card
+Immigration will stamp your current residence card with a note letting you stay in Japan while your application is being processed. Don't lose that card.
 
-### Step 3 — Receive a Residence Card with Permission Note
-Immigration will stamp your current residence card with a note allowing you to stay while the application is processed.
+### Wait for the Decision
+Processing time is **2 weeks to 3 months** — most straightforward cases land on the shorter end. You'll get a postcard in the mail when it's ready.
 
-### Step 4 — Wait for Decision
-Processing time: **2 weeks to 3 months**
-You will receive a postcard when ready.
-
-### Step 5 — Collect New Residence Card
-Go to immigration with your passport, current residence card, and receipt slip. Bring ¥4,000 in revenue stamps.
+### Pick Up Your New Residence Card
+Go back to immigration with your passport, current residence card, receipt slip, and ¥4,000 in revenue stamps. Your new card is issued on the spot.
 
 ---
 
-## Can You Work While Waiting?
+## Can You Work While You're Waiting?
 
-**Depends on your situation:**
-- If you already have work permission → yes, continue as normal
-- If you're switching from student to work → you must wait for approval before starting
+It depends on what you're switching from.
 
-When in doubt, consult an immigration lawyer (行政書士).
+- If you already have work permission on your current visa: yes, keep working as normal.
+- If you're switching from student to work visa: you have to wait for approval before you start.
 
----
-
-## What If Your Application Is Rejected?
-
-You have a limited time to depart Japan or appeal. Contact an immigration lawyer (行政書士) immediately if rejected.
+When in doubt, talk to an immigration lawyer (行政書士). That's what they're there for.
 
 ---
 
-## Summary
+## What If Your Application Gets Rejected?
+
+It happens, but it's not common if your paperwork is in order. If you do get rejected, you'll have a limited time to either leave Japan or appeal. Don't sit on this — contact an immigration lawyer (行政書士) immediately.
+
+---
+
+## Quick Summary
 
 ```
 1. Confirm you need a status change
@@ -136,4 +130,4 @@ You have a limited time to depart Japan or appeal. Contact an immigration lawyer
 5. Collect new residence card
 ```
 
-Change your visa before your current one causes a mismatch — don't wait until the last minute.
+Change your visa before your current one causes a mismatch. Don't wait until the last minute — you can't work in the gap.

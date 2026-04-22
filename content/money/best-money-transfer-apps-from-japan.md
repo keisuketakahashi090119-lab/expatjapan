@@ -8,18 +8,18 @@ showToc: true
 draft: false
 ---
 
-Sending money home from Japan? You want it to arrive fast, with low fees, and a good exchange rate.
+Sending money home from Japan? You want it to arrive fast, with low fees, and at a decent exchange rate. Whatever you do, don't use your Japanese bank to do it — I'll explain why in a moment.
 
 Here are the best options in 2025.
 
 ---
 
-## What to Look for in a Money Transfer Service
+## What Actually Matters When Choosing a Service
 
-- **Low fees** — fixed fees + percentage fees both matter
-- **Good exchange rate** — some services give a bad rate and hide the real cost
-- **Transfer speed** — same day vs 2–3 days
-- **Supported countries** — make sure your home country is supported
+- **Low fees** — both fixed fees and percentage fees add up
+- **Good exchange rate** — some services look cheap on fees but quietly give you a terrible rate
+- **Transfer speed** — same day vs 2–3 days matters if someone's waiting on the money
+- **Supported countries** — make sure your home country is covered
 
 ---
 
@@ -34,12 +34,9 @@ Here are the best options in 2025.
 | Speed | 1–2 business days |
 | Countries | Philippines, Vietnam, Indonesia, and 80+ more |
 
-**Why it's the best:**
-- Transparent fees — you see exactly what you pay
-- Real exchange rate (not a marked-up bank rate)
-- English app, easy to use
+Wise is the one I recommend to basically everyone. The fees are transparent — you see exactly what you're paying before you confirm. And they use the real mid-market exchange rate, not some marked-up version the banks use to pocket the difference.
 
-**How to use:** Download the Wise app → verify your residence card and passport → link your Japanese bank account → send.
+**How to use:** Download the Wise app, verify your residence card and passport, link your Japanese bank account, and send.
 
 ---
 
@@ -48,11 +45,11 @@ Here are the best options in 2025.
 | Feature | Details |
 |---|---|
 | Fee | Free up to ¥150,000/month (standard plan) |
-|Exchange rate | Near mid-market rate |
+| Exchange rate | Near mid-market rate |
 | Speed | Instant to 1 day |
 | Countries | 150+ countries |
 
-**Best for:** People who send money frequently and want zero fees up to a monthly limit.
+**Best for:** People who send money frequently and want zero fees up to a monthly limit. If you're regularly sending smaller amounts, Revolut can beat Wise on total cost.
 
 ---
 
@@ -65,10 +62,7 @@ Here are the best options in 2025.
 | Speed | Same day to Philippines, Vietnam |
 | Countries | Philippines, Vietnam, China, and more |
 
-**Why it's good:**
-- Very popular among Filipino and Vietnamese workers in Japan
-- Same-day transfers to popular destinations
-- Japanese + English support
+SBI Remit is very popular among Filipino and Vietnamese workers in Japan, and for good reason — same-day transfers to popular destinations, low fixed fees, and support in Japanese and English. If speed matters more than getting the absolute best rate, this is your option.
 
 ---
 
@@ -81,7 +75,7 @@ Here are the best options in 2025.
 | Speed | Express: minutes / Economy: 3–5 days |
 | Countries | Philippines, Vietnam, Indonesia, and more |
 
-**Best for:** Sending to the Philippines specifically.
+**Best for:** Sending to the Philippines specifically. The Express option gets money there in minutes, which is useful when someone needs it now.
 
 ---
 
@@ -97,7 +91,7 @@ Here are the best options in 2025.
 
 ---
 
-## How to Send Money with Wise (Step by Step)
+## How to Send Money with Wise
 
 1. Download the Wise app
 2. Create an account and verify your ID (residence card + passport photo)
@@ -106,20 +100,20 @@ Here are the best options in 2025.
 5. Add your recipient's bank details
 6. Confirm and send
 
-Verification usually takes 1–2 business days the first time.
+Verification usually takes 1–2 business days the first time. After that, transfers go through quickly.
 
 ---
 
-## Avoid Bank Transfers
+## Seriously, Avoid Regular Bank Transfers
 
-Sending money internationally through a Japanese bank (like Mizuho or MUFG) typically costs:
+Sending money internationally through a Japanese bank — Mizuho, MUFG, whatever — typically costs:
 - ¥2,500–¥5,000 in fees
-- A poor exchange rate (1–3% worse than the real rate)
+- A poor exchange rate that's 1–3% worse than the real rate
 
-Always use a dedicated transfer service instead.
+That adds up to a lot of wasted money over time. Use a dedicated transfer service instead.
 
 ---
 
-## Summary
+## Bottom Line
 
-Use **Wise** for the best exchange rate. Use **SBI Remit** if you need same-day delivery to Southeast Asia. Avoid regular bank transfers — they are the most expensive option.
+Use **Wise** for the best exchange rate. Use **SBI Remit** if you need same-day delivery to Southeast Asia. And if you're sending to the Philippines regularly and speed is your priority, **Remitly** is worth having installed too.

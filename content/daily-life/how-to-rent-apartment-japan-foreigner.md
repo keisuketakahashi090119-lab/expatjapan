@@ -8,21 +8,19 @@ showToc: true
 draft: false
 ---
 
-Renting an apartment in Japan as a foreigner is possible — but there are some extra steps compared to Japanese tenants. Here's what you need to know.
+Renting in Japan as a foreigner is absolutely doable — but it takes more prep work than it would back home. Here's what to expect and how to make it go smoothly.
 
 ---
 
-## The Challenge: Guarantors
+## The Guarantor Problem (And How It's Actually Been Solved)
 
-Traditionally, Japanese landlords required a **Japanese guarantor (保証人)** — a Japanese person who agrees to pay if you can't.
+Traditionally, Japanese landlords required a **Japanese guarantor (保証人)** — a Japanese person who'd agree to cover your rent if you couldn't pay. Most foreigners obviously don't have someone like that lined up.
 
-Most foreigners don't have one. But don't worry — the system has changed.
-
-Today, most landlords accept a **guarantee company (保証会社)** instead of a personal guarantor. You pay a fee (usually 50–100% of one month's rent) and the company acts as your guarantor.
+But here's the thing: the system has mostly moved on. Today, most landlords accept a **guarantee company (保証会社)** instead of a personal guarantor. You pay a fee — usually 50–100% of one month's rent — and the company acts as your guarantor. It adds to your move-in costs, but it removes that whole "I don't know anyone in Japan" barrier.
 
 ---
 
-## Documents You Need
+## Documents You'll Need
 
 | Document | Notes |
 |---|---|
@@ -33,49 +31,47 @@ Today, most landlords accept a **guarantee company (保証会社)** instead of a
 | Bank statement | Shows you have savings |
 | My Number card | Some landlords require it |
 
+Get these ready before you start apartment hunting. Popular apartments go fast, and you don't want to be scrambling for documents while someone else snaps up your first choice.
+
 ---
 
-## Step-by-Step: Renting an Apartment
-
-### Step 1 — Set Your Budget
+## Set Your Budget
 
 Standard rule: rent should be **no more than 1/3 of your monthly salary**.
 
 In Tokyo, expect to pay:
 - Studio (1K): ¥60,000–¥100,000/month
 - 1 bedroom (1LDK): ¥100,000–¥150,000/month
-- Outside city center: 30–40% cheaper
+- Outside the city center: 30–40% cheaper
 
-### Step 2 — Find Foreigner-Friendly Agencies
+Outside Tokyo — Osaka, Nagoya, Fukuoka — the numbers are significantly lower for the same amount of space.
 
-These agencies have experience helping foreigners:
+---
+
+## Find Foreigner-Friendly Agencies
+
+Not every real estate agency will work with foreigners, but these ones do:
 
 - **Able (エイブル)** — Large chain, some English support
 - **Leopalace21** — Foreigner-friendly, furnished options
 - **Sakura House** — Specifically for foreigners, share houses available
 - **Suumo / Homes** — Online search portals (Japanese but easy to navigate)
 
-### Step 3 — View the Apartment
+When you contact an agency, ask upfront if they work with foreign residents. Saves everyone time.
 
-Visit the property with the agent. Check:
-- Nearest train station and walk time
-- Noise level
-- Sunlight
-- Storage space
-- Internet connection available?
+---
 
-### Step 4 — Apply
+## View and Apply
 
-Submit your documents. The landlord and guarantee company will check your:
-- Income (must usually be 3x monthly rent)
-- Visa status and expiry date
-- Employment stability
+Visit the property with the agent. Check the usual stuff — nearest train station and walk time, noise level, sunlight, storage space, whether internet is available.
 
-Approval takes 3–7 days.
+When you apply, the landlord and guarantee company will check your income (usually must be 3x monthly rent), visa status and expiry date, and employment stability. Approval takes 3–7 days.
 
-### Step 5 — Pay Initial Costs
+---
 
-Moving into a Japanese apartment requires large upfront costs:
+## The Upfront Costs (Yes, They're High)
+
+This is the part that shocks most newcomers. Moving into a Japanese apartment requires a significant chunk of money upfront:
 
 | Cost | Amount |
 |---|---|
@@ -86,21 +82,23 @@ Moving into a Japanese apartment requires large upfront costs:
 | First month's rent | 1 month |
 | **Total** | **3–6 months rent** |
 
+Yeah. Budget 3–6 months of rent just to move in. It's a lot, and it's just how it works here. Some newer apartments and share houses have lower upfront costs, so if you're on a tight budget, look for those.
+
 ---
 
-## Tips for Foreigners
+## Tips That Actually Help
 
-**Look for "外国人歓迎" listings**
-This means "foreigners welcome." Filter for this on search sites.
+**Look for "外国人歓迎" listings.**
+This means "foreigners welcome." You can filter for this on most search sites. It saves you from wasting time on landlords who won't consider you.
 
-**Consider share houses first**
-Share houses like Sakura House require less paperwork and lower upfront costs. Good for new arrivals.
+**Consider a share house first.**
+Sakura House and similar places require way less paperwork and much lower upfront costs. They're a great option for new arrivals who need housing fast and want to settle in before committing to a full apartment.
 
-**Have your documents ready in advance**
-Prepare all documents before you start searching — popular apartments get taken fast.
+**Have your documents ready before you start.**
+Seriously, get everything together first. Popular apartments in good locations get taken within days.
 
-**Check your visa expiry**
-Some landlords won't rent to people whose visa expires within 1 year. Renew your visa before apartment hunting if possible.
+**Check your visa expiry.**
+Some landlords won't rent to you if your visa expires within a year. If you're coming up on renewal time, get that done before you start apartment hunting.
 
 ---
 
@@ -110,4 +108,4 @@ Renting in Japan as a foreigner is manageable if you:
 1. Use foreigner-friendly agencies
 2. Prepare all documents in advance
 3. Budget for 3–6 months of rent as upfront costs
-4. Consider share houses as an easier starting option
+4. Consider a share house as an easier starting option

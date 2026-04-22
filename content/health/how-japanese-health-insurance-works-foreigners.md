@@ -8,15 +8,15 @@ showToc: true
 draft: false
 ---
 
-Japan has one of the best healthcare systems in the world. And as a foreigner living in Japan, you are required to join it.
+Japan has one of the best healthcare systems in the world — and as a foreigner living here, you're required to join it. That's actually a good thing, because it's genuinely excellent value.
 
-Here's everything you need to know.
+Here's how it all works.
 
 ---
 
 ## Is Health Insurance Mandatory for Foreigners?
 
-**Yes.** If you live in Japan for more than 3 months, you must join the national health insurance system.
+Yes. If you live in Japan for more than 3 months, you must join the national health insurance system. No exceptions.
 
 There are two types:
 
@@ -25,7 +25,7 @@ There are two types:
 | **Employee Health Insurance (健康保険)** | People employed full-time at a company |
 | **National Health Insurance (国民健康保険)** | Self-employed, part-time workers, students |
 
-Your employer will usually enroll you automatically in Employee Health Insurance.
+If you work full-time at a Japanese company, your employer will enroll you automatically. You don't have to do anything.
 
 ---
 
@@ -36,13 +36,15 @@ Your employer will usually enroll you automatically in Employee Health Insurance
 - Split 50/50 between you and your employer
 - So you pay roughly **5% of your salary** per month
 
+That's a pretty good deal when you think about it — your employer covers half.
+
 **National Health Insurance:**
 - Based on your previous year's income
 - Typically **¥2,000–¥20,000 per month**
 
 ---
 
-## What Does It Cover?
+## What's Actually Covered?
 
 Japanese health insurance covers **70% of most medical costs**. You pay the remaining **30%**.
 
@@ -59,12 +61,16 @@ Japanese health insurance covers **70% of most medical costs**. You pay the rema
 - Some dental treatments (implants, whitening)
 - Private hospital rooms
 
+That 30% you pay sounds like a lot, but in practice most clinic visits cost under ¥1,500 out of pocket. It's very manageable.
+
 ---
 
-## How to Use Your Health Insurance
+## How to Actually Use It
+
+It's simpler than you'd think:
 
 1. When you visit a clinic or hospital, show your **insurance card (保険証)**
-2. You will pay **30% of the treatment cost** at the checkout
+2. You pay **30% of the treatment cost** at checkout
 3. That's it
 
 **Example:**
@@ -77,36 +83,33 @@ Japanese health insurance covers **70% of most medical costs**. You pay the rema
 ## How to Get Your Insurance Card
 
 **If employed:**
-- Your company HR department will issue your card within a few weeks of starting
-- Ask HR: "When will I receive my health insurance card?"
+Your company HR department will issue your card within a few weeks of starting. Just ask HR when to expect it.
 
-**If self-employed or student:**
-- Go to your local **City Hall (市役所)**
-- Bring: residence card, passport, My Number card
-- Register for National Health Insurance
-- Your card arrives within 1–2 weeks
+**If self-employed or a student:**
+Go to your local **City Hall (市役所)**. Bring your residence card, passport, and My Number card. Register for National Health Insurance and your card will arrive within 1–2 weeks.
 
 ---
 
 ## What If You Go to the Doctor Without a Card?
 
-You will pay **100% of the cost** upfront. Keep the receipt — you can claim reimbursement later at City Hall.
+You'll pay **100% of the cost** upfront. Keep the receipt — you can claim reimbursement later at City Hall. But it's a hassle, so always bring your insurance card.
 
 ---
 
-## High-Cost Medical Expense System (高額療養費)
+## The High-Cost Medical Expense System (高額療養費)
 
-If your monthly medical bills are very high, Japan will reimburse the excess above a set limit.
+Here's something that really sets Japan's system apart: if your monthly medical bills get very high, Japan reimburses anything above a set monthly limit.
 
-For most people earning standard income, the limit is around **¥87,000/month**.
+For most people earning standard income, that limit is around **¥87,000/month**.
 
-This means even major surgery is capped at a manageable cost.
+So even major surgery — even a hospital stay of weeks — is capped at a manageable cost. You won't get a catastrophic medical bill here the way you might in the US.
 
 ---
 
 ## Summary
 
 - Health insurance is mandatory for all residents
-- You pay 30% of medical costs
-- Get your card from your employer (employee) or City Hall (self-employed)
+- You pay 30% of most medical costs
+- Get your card from your employer (if employed) or City Hall (if self-employed)
+- Major expenses are capped through the high-cost expense system
 - Japan's system is excellent value — use it without worry
