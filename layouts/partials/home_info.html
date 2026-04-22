@@ -1,0 +1,65 @@
+{{- with site.Params.homeInfoParams }}
+<!-- HERO -->
+<article class="home-hero">
+  <div class="hero-badge">🌏 The #1 English Guide for Foreigners in Japan</div>
+  <h1>{{ .Title | markdownify }}</h1>
+  <p>{{ .Content | markdownify }}</p>
+  <div class="hero-stats">
+    <div class="stat"><span class="stat-num">20+</span><span class="stat-label">Free Guides</span></div>
+    <div class="stat"><span class="stat-num">6</span><span class="stat-label">Topics</span></div>
+    <div class="stat"><span class="stat-num">3</span><span class="stat-label">Languages</span></div>
+    <div class="stat"><span class="stat-num">100%</span><span class="stat-label">Free</span></div>
+  </div>
+</article>
+{{- end }}
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <div class="trust-item"><span class="t-icon">✅</span> Written in plain English</div>
+  <div class="trust-item"><span class="t-icon">🔄</span> Updated regularly</div>
+  <div class="trust-item"><span class="t-icon">👥</span> Made for foreigners</div>
+  <div class="trust-item"><span class="t-icon">📱</span> Works on any device</div>
+</div>
+
+<!-- CATEGORY GRID -->
+<h2 class="section-title">📚 Browse by Topic</h2>
+<div class="cat-cards">
+  <a href="/visa/" class="cat-card cat-visa">
+    <span class="cat-icon">📋</span>
+    <span class="cat-name">Visa & Status</span>
+    <span class="cat-desc">Work visas, renewal, permanent residency</span>
+    <span class="cat-arrow">→</span>
+  </a>
+  <a href="/jobs/" class="cat-card cat-jobs">
+    <span class="cat-icon">💼</span>
+    <span class="cat-name">Jobs & Career</span>
+    <span class="cat-desc">Find work, change jobs, job sites</span>
+    <span class="cat-arrow">→</span>
+  </a>
+  <a href="/daily-life/" class="cat-card cat-life">
+    <span class="cat-icon">🏠</span>
+    <span class="cat-name">Daily Life</span>
+    <span class="cat-desc">Phone, bank account, apartment</span>
+    <span class="cat-arrow">→</span>
+  </a>
+  <a href="/health/" class="cat-card cat-health">
+    <span class="cat-icon">🏥</span>
+    <span class="cat-name">Health & Insurance</span>
+    <span class="cat-desc">Doctors, insurance, hospitals</span>
+    <span class="cat-arrow">→</span>
+  </a>
+  <a href="/money/" class="cat-card cat-money">
+    <span class="cat-icon">💴</span>
+    <span class="cat-name">Money & Finance</span>
+    <span class="cat-desc">Send money home, tax, credit cards</span>
+    <span class="cat-arrow">→</span>
+  </a>
+  <a href="/culture/" class="cat-card cat-culture">
+    <span class="cat-icon">🎌</span>
+    <span class="cat-name">Japanese Culture</span>
+    <span class="cat-desc">Workplace, trains, emergencies</span>
+    <span class="cat-arrow">→</span>
+  </a>
+</div>
+
+<h2 class="section-title" style="margin-top:2.5rem;">🔥 Latest Guides</h2>
