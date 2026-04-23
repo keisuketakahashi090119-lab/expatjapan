@@ -46,12 +46,15 @@ Rakuten Card is where most foreigners start, and for good reason — it has the 
 
 | Feature | Details |
 |---|---|
-| Annual fee | Free |
+| Annual fee | Free forever |
 | Points | 1 point per ¥200 |
 | Application | Online or in-person at Marui stores |
 | Foreigner approval | High |
 
 Epos is another solid option with high approval rates for foreigners. You can apply in-person at any Marui department store counter, which is useful if you'd rather not do it all online. Works great for restaurants and travel bookings.
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1R5V+BBTYXM+38L8+BY641" target="_blank" rel="nofollow noopener">→ Apply for Epos Card (No annual fee forever)</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1R5V+BBTYXM+38L8+BY641" alt="">
 
 ---
 
