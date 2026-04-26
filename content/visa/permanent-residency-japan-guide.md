@@ -6,6 +6,10 @@ tags: ["permanent residency", "visa", "immigration", "PR", "Japan"]
 categories: ["Visa"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-visa.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Permanent residency (*eijū kyoka*, 永住許可) is the most flexible visa status in Japan. No restrictions on work, no renewal every few years. Here's how to qualify and apply.

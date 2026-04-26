@@ -6,6 +6,10 @@ tags: ["Tokyo", "neighborhoods", "housing", "daily life", "where to live"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Tokyo is enormous. Choosing where to live affects your commute, rent, social life, and how easy daily life is as a foreigner. Here's a practical breakdown of the most popular areas.

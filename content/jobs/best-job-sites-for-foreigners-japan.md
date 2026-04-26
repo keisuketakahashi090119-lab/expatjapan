@@ -6,6 +6,10 @@ tags: ["jobs", "job search", "career", "English"]
 categories: ["Jobs & Career"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-jobs.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Finding a job in Japan as a foreigner is very doable — but you need to be on the right platforms. Japanese job sites that work great for locals are often useless for foreigners. Here are the ones that actually work.

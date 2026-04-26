@@ -6,6 +6,10 @@ tags: ["money transfer", "remittance", "finance"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Sending money home from Japan? You want it to arrive fast, with low fees, and at a decent exchange rate. Whatever you do, don't use your Japanese bank to do it — I'll explain why in a moment.

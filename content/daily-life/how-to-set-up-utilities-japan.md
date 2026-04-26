@@ -6,6 +6,10 @@ tags: ["utilities", "electricity", "gas", "internet", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Moving into a new apartment in Japan means setting up utilities yourself. Your landlord doesn't do this for you. Here's how to get everything running quickly.

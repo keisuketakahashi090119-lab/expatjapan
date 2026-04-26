@@ -6,6 +6,10 @@ tags: ["health insurance", "private insurance", "insurance"]
 categories: ["Health & Insurance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-health.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan's national health insurance is genuinely excellent. But it doesn't cover everything — and there are some real gaps that private insurance can fill, depending on your situation.

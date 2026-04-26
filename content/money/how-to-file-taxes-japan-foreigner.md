@@ -6,6 +6,10 @@ tags: ["tax", "income tax", "finance", "kakutei shinkoku"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Nobody loves dealing with taxes. But in Japan, the process is actually pretty painless for most people — especially if you work at a regular company. Here's everything you need to know.

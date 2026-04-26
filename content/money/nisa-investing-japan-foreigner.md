@@ -6,6 +6,10 @@ tags: ["NISA", "investing", "stocks", "money", "finance"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan's NISA (少額投資非課税制度) is one of the most powerful tax-free investment tools available to residents. And yes — foreigners can use it.

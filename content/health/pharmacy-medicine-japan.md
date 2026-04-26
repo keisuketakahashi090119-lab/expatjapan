@@ -6,6 +6,10 @@ tags: ["pharmacy", "medicine", "health", "drugstore"]
 categories: ["Health & Insurance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-health.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japanese pharmacies (薬局) and drugstores are excellent — well-stocked and widespread. But there are differences from what you might be used to, and some medications require a prescription or aren't available at all.

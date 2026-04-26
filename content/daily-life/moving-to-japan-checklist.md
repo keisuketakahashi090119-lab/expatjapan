@@ -6,6 +6,10 @@ tags: ["moving", "checklist", "daily life", "getting started"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Moving to Japan involves a lot of admin in a short window. Here's the order to do things in, and why the order matters.

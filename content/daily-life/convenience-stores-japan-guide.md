@@ -6,6 +6,10 @@ tags: ["konbini", "convenience store", "daily life", "tips"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japanese convenience stores (*konbini*) are unlike anything in most other countries. Open 24/7, they handle banking, bills, printing, food, medicine, and more. If you're new to Japan, this guide will save you a lot of time.

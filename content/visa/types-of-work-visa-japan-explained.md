@@ -6,6 +6,10 @@ tags: ["visa", "work visa", "visa types"]
 categories: ["Visa & Status"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-visa.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has a lot of different work visa categories. Each one covers a specific type of work — and working outside your visa's scope is a serious problem, so it's worth understanding exactly which one you're on and what it covers.

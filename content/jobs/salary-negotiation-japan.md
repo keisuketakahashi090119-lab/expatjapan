@@ -6,6 +6,10 @@ tags: ["salary", "negotiation", "jobs", "career"]
 categories: ["Jobs & Career"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-jobs.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has a reputation for rigid salary structures, but that's changing — especially in tech and for foreign hires. Negotiation is possible, and knowing how to do it correctly makes a real difference.

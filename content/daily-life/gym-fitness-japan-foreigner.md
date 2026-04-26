@@ -6,6 +6,10 @@ tags: ["gym", "fitness", "health", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Staying fit in Japan is easy — the country has excellent gym infrastructure. The challenge is finding a gym that fits your budget, location, and English comfort level.

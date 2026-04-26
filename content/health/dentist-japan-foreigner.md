@@ -6,6 +6,10 @@ tags: ["dentist", "dental", "health", "insurance"]
 categories: ["Health & Insurance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-health.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has excellent dental care — and it's more affordable than most Western countries. If you're enrolled in Japanese health insurance, you're covered for most standard treatments.

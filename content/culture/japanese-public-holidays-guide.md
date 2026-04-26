@@ -6,6 +6,10 @@ tags: ["holidays", "national holidays", "culture", "calendar"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-culture.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has 16 national holidays per year — more than most countries. Knowing when they are matters for planning travel, work, and daily errands (many services close or operate reduced hours).

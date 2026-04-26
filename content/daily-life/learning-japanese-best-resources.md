@@ -6,6 +6,10 @@ tags: ["Japanese", "language", "learning", "study", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Living in Japan gives you an enormous advantage for learning Japanese — you're surrounded by the language. But having the right resources makes the difference between slow progress and actually becoming conversational.

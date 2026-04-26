@@ -6,6 +6,10 @@ tags: ["shopping", "second-hand", "recycle", "budget", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan's second-hand market is extraordinary. The Japanese emphasis on condition and presentation means used goods are often in near-perfect shape. Furniture, electronics, clothing, books, and more — all available at a fraction of new prices.

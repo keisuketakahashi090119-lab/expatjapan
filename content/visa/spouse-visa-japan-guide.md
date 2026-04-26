@@ -6,6 +6,10 @@ tags: ["spouse visa", "marriage", "visa", "immigration", "Japan"]
 categories: ["Visa"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-visa.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 If you're married to a Japanese national or a permanent resident of Japan, you can apply for a Spouse of Japanese National visa (日本人の配偶者等) or Spouse of Permanent Resident visa (永住者の配偶者等). Here's how.

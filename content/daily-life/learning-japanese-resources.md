@@ -6,6 +6,10 @@ tags: ["Japanese language", "study", "learning", "daily life", "tips"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Living in Japan gives you a massive advantage for learning Japanese — immersion is the best teacher. Here's what actually works, from complete beginner to conversational.

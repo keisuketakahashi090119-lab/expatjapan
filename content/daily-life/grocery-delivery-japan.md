@@ -6,6 +6,10 @@ tags: ["grocery", "food", "delivery", "daily life", "shopping"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Grocery delivery in Japan has exploded since 2020. Whether you're too busy to shop, can't carry heavy bags, or just hate navigating Japanese supermarkets alone, these services are a genuine time-saver.

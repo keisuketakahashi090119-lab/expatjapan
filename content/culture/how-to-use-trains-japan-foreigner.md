@@ -6,6 +6,10 @@ tags: ["train", "transport", "IC card", "daily life"]
 categories: ["Japanese Life & Culture"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-culture.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan's train system is genuinely one of the best in the world. Punctual, clean, comprehensive — once you understand how it works, you'll wonder how you ever got around without it. Here's everything you need to know to get started.

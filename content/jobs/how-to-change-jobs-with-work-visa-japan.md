@@ -6,6 +6,10 @@ tags: ["visa", "jobs", "work visa", "career"]
 categories: ["Jobs & Career"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-jobs.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Changing jobs in Japan as a foreigner feels scary. Will you lose your visa? Do you need to tell immigration? Can your new employer sponsor you?

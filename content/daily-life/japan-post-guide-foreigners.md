@@ -6,6 +6,10 @@ tags: ["Japan Post", "postal", "mail", "packages", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan Post (日本郵便) is everywhere — over 24,000 post offices nationwide. It handles mail, packages, international shipping, and banking. Here's what you need to know as a foreigner.

@@ -6,6 +6,10 @@ tags: ["hospital", "medical", "health insurance", "daily life", "healthcare"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has excellent healthcare, and as a resident with health insurance, you pay only 30% of medical costs. Here's how to navigate the system as a foreigner.

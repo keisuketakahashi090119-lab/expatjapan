@@ -6,6 +6,10 @@ tags: ["credit card", "finance", "money"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Getting a credit card in Japan as a foreigner is possible — but you need to know which cards actually approve foreigners and which ones will waste your time. Here's the real breakdown.

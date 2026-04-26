@@ -6,6 +6,10 @@ tags: ["jobs", "job hunting", "career", "working in Japan", "foreigner"]
 categories: ["Jobs"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-jobs.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has a labor shortage and actively recruits foreign talent — especially in tech, engineering, finance, and English education. Here's how to find and land a job.

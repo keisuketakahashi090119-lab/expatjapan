@@ -6,6 +6,10 @@ tags: ["furusato nozei", "taxes", "money", "savings", "Japan"]
 categories: ["Money"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Furusato Nozei (ふるさと納税, *hometown tax*) is one of Japan's best financial benefits for residents — including foreigners. You redirect part of your tax payment to any municipality in Japan and receive gifts (food, goods, experiences) worth up to 30% of your donation. Here's how it works.

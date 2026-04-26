@@ -6,6 +6,10 @@ tags: ["driving", "license", "daily life", "transport"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 You can drive in Japan as a foreigner — either with an International Driving Permit (IDP) temporarily, or by converting your foreign license. Here's how.

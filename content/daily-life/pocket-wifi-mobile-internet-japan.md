@@ -6,6 +6,10 @@ tags: ["pocket wifi", "internet", "mobile data", "daily life", "SIM"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Whether you just arrived and need internet immediately, or you're waiting for fiber installation, here's how to stay connected in Japan.

@@ -6,6 +6,10 @@ tags: ["apps", "smartphone", "daily life", "tools"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Your phone is your lifeline in Japan. These are the apps that make daily life significantly easier as a foreigner.

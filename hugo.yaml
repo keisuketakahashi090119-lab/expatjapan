@@ -3,6 +3,10 @@ languageCode: en-us
 title: Expat Japan
 theme: PaperMod
 
+# Google Analytics GA4 Measurement ID (例: G-XXXXXXXXXX)
+# analytics.google.comで取得後、ここに記入してください
+googleAnalytics: ""
+
 pagination:
   pagerSize: 10
 
@@ -61,9 +65,10 @@ params:
       SiteVerificationTag: ""
 
   cover:
-    hidden: true
-    hiddenInList: true
-    hiddenInSingle: true
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    linkFullImages: true
 
   editPost:
     URL: ""
@@ -102,10 +107,18 @@ menu:
       name: Money & Finance
       url: /money/
       weight: 50
+    - identifier: culture
+      name: Culture
+      url: /culture/
+      weight: 55
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 60
     - identifier: search
       name: Search
       url: /search/
-      weight: 60
+      weight: 70
 
 outputs:
   home:

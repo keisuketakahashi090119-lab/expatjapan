@@ -6,6 +6,10 @@ tags: ["bank", "finance", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 A Japanese bank account is essential — you need it to receive your salary, pay rent, and set up automatic bill payments. The sooner you get one, the smoother everything else goes. Here's how.

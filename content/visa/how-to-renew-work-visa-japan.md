@@ -6,6 +6,10 @@ tags: ["visa", "visa renewal", "work visa"]
 categories: ["Visa & Status"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-visa.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Your work visa expiry date is printed on your **residence card**. Don't miss it — working after your visa expires is illegal in Japan, full stop.

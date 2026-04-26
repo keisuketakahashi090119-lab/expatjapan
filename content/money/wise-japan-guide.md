@@ -6,6 +6,10 @@ tags: ["Wise", "money transfer", "banking", "finance", "remittance"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Wise (formerly TransferWise) is the single most useful financial tool for foreigners in Japan. Whether you're sending money home, receiving payments from abroad, or managing multiple currencies — Wise solves it cheaply and simply.

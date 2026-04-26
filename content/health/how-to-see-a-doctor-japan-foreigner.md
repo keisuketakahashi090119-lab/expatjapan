@@ -6,6 +6,10 @@ tags: ["doctor", "hospital", "health", "medical"]
 categories: ["Health & Insurance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-health.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Going to the doctor in Japan for the first time can feel a little overwhelming — but it's actually pretty painless once you know what to expect. Here's exactly what to do.

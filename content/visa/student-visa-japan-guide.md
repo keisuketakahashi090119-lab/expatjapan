@@ -6,6 +6,10 @@ tags: ["student visa", "visa", "study in Japan"]
 categories: ["Visa & Status"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-visa.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan is one of the most popular study destinations in Asia — great universities, safe cities, and a unique culture. Getting your student visa is the first step.

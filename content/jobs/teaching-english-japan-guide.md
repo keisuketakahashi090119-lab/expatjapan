@@ -6,6 +6,10 @@ tags: ["teaching", "English", "jobs", "ALT", "eikaiwa"]
 categories: ["Jobs & Career"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-jobs.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Teaching English remains one of the most accessible paths into Japan for foreigners without Japanese language skills. Whether you want a structured program or freelance flexibility, there are options.

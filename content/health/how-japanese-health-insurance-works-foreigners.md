@@ -6,6 +6,10 @@ tags: ["health insurance", "insurance", "health"]
 categories: ["Health & Insurance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-health.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has one of the best healthcare systems in the world — and as a foreigner living here, you're required to join it. That's actually a good thing, because it's genuinely excellent value.

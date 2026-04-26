@@ -6,6 +6,10 @@ tags: ["My Number", "residence card", "daily life", "ID"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 You've probably heard about the My Number card since arriving in Japan. Maybe someone at your ward office mentioned it. Maybe your employer asked about it. Here's what it actually is and whether you really need one.

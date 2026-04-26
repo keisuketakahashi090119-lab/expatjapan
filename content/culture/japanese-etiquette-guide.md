@@ -6,6 +6,10 @@ tags: ["etiquette", "culture", "daily life", "manners", "Japan"]
 categories: ["Culture"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-culture.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has clear social rules. You won't always be expected to follow them perfectly as a foreigner, but knowing them helps you avoid awkward situations and shows respect. Here's what actually matters day-to-day.

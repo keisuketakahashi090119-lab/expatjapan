@@ -6,6 +6,10 @@ tags: ["taxes", "kakutei shinkoku", "money", "finance", "Japan"]
 categories: ["Money"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan's tax system applies to all residents — including foreigners. Whether you need to file a tax return (*kakutei shinkoku*, 確定申告) depends on your employment situation. Here's how it works.

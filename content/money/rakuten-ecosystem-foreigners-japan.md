@@ -6,6 +6,10 @@ tags: ["Rakuten", "points", "money", "credit card", "banking"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Rakuten isn't just an e-commerce site — it's a full financial and lifestyle ecosystem. Foreigners who set up the Rakuten stack can save ¥50,000–150,000+ per year through points.

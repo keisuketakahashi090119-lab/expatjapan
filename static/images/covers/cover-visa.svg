@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="1200" height="630" fill="#1e40af"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grad)" opacity="0.3"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#fff;stop-opacity:0.05"/>
+    </linearGradient>
+  </defs>
+  <text x="600" y="280" font-family="Georgia, serif" font-size="72" font-weight="bold"
+        fill="white" text-anchor="middle" letter-spacing="4">VISA & STATUS</text>
+  <text x="600" y="370" font-family="Georgia, serif" font-size="36"
+        fill="rgba(255,255,255,0.8)" text-anchor="middle" letter-spacing="8">EXPAT JAPAN</text>
+  <text x="600" y="430" font-family="Arial, sans-serif" font-size="22"
+        fill="rgba(255,255,255,0.6)" text-anchor="middle">expatsjapan.com</text>
+</svg>

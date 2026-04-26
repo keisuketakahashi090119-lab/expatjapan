@@ -6,6 +6,10 @@ tags: ["currency", "exchange", "money", "yen", "finance"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Whether you're exchanging cash when you arrive or regularly sending money home, where you exchange matters — the difference between the best and worst rates can cost you thousands of yen.

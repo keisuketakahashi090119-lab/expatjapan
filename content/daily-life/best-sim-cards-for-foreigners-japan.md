@@ -6,6 +6,10 @@ tags: ["SIM", "phone", "daily life", "mobile"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Getting a phone plan in Japan as a foreigner used to be a pain. Now it's pretty easy — as long as you know which SIM to actually go with and don't accidentally end up paying ¥7,000 a month to one of the big carriers.

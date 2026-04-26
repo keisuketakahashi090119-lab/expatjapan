@@ -6,6 +6,10 @@ tags: ["emergency", "safety", "police", "hospital"]
 categories: ["Japanese Life & Culture"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-culture.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Save this page right now. Before you actually need it.

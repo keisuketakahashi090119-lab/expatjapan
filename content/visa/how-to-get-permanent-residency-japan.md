@@ -6,6 +6,10 @@ tags: ["permanent residency", "visa", "PR", "immigration"]
 categories: ["Visa & Status"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-visa.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Permanent residency (永住者) is the holy grail for long-term residents here. No more renewals, no job restrictions, no depending on your employer to keep you in the country. Once you have it, you have it.

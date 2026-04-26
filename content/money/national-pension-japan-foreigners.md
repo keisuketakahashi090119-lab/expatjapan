@@ -6,6 +6,10 @@ tags: ["pension", "nenkin", "finance", "money"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan's national pension system (国民年金 — *kokumin nenkin*) applies to all residents aged 20–59, regardless of nationality. You're enrolled automatically. Here's what you need to know.

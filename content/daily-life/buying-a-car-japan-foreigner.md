@@ -6,6 +6,10 @@ tags: ["car", "driving", "daily life", "transport"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 In most of Japan's major cities, you don't need a car. But if you're in a rural area, a suburb, or just prefer the convenience, owning a car in Japan is very doable as a foreigner.

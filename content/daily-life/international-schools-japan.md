@@ -6,6 +6,10 @@ tags: ["international school", "education", "children", "family", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 If you're moving to Japan with children, choosing a school is one of the most important decisions you'll make. Here's what you need to know about international schools vs. Japanese public schools.

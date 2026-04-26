@@ -6,6 +6,10 @@ tags: ["workplace", "culture", "jobs", "Japan"]
 categories: ["Japanese Life & Culture"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-culture.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japanese work culture is genuinely different from what most foreigners are used to. Some of it will make sense pretty quickly. Some of it will take longer. But understanding the basics upfront will save you from a lot of awkward moments and misread situations.

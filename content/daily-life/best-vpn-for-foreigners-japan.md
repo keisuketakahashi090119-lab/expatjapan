@@ -6,6 +6,10 @@ tags: ["VPN", "streaming", "tech", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Living in Japan means some content from your home country is geo-blocked. A VPN fixes that — and also keeps your connection secure on public Wi-Fi. Here's what works.

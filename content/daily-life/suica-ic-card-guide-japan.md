@@ -6,6 +6,10 @@ tags: ["Suica", "IC card", "transport", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 IC cards are how most people pay for trains and buses in Japan. Suica is the most well-known, but there are several depending on where you live. Here's everything you need to know.

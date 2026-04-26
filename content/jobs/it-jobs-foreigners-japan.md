@@ -6,6 +6,10 @@ tags: ["IT", "tech", "jobs", "engineer", "software"]
 categories: ["Jobs & Career"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-jobs.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has a well-documented IT talent shortage. Foreign engineers are actively sought, and many companies hire without requiring Japanese fluency. If you have the skills, Japan's tech industry is very accessible.

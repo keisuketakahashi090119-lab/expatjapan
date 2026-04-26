@@ -6,6 +6,10 @@ tags: ["dating", "relationships", "culture", "social"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-culture.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Dating in Japan as a foreigner can be wonderful — and confusing. The rules, expectations, and rhythms are different from most Western countries. Here's what actually helps.

@@ -6,6 +6,10 @@ tags: ["remittance", "money transfer", "international", "money", "Wise"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Sending money home is one of the most frequent financial tasks for foreigners in Japan. Done wrong, you lose 3–5% of every transfer. Done right, you keep almost everything.

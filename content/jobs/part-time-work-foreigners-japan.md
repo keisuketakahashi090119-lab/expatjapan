@@ -6,6 +6,10 @@ tags: ["part-time work", "arubaito", "jobs", "visa", "working in Japan"]
 categories: ["Jobs"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-jobs.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Part-time work (*arubaito* — from German *Arbeit*) is common in Japan. Many foreigners work part-time while studying, on a working holiday visa, or alongside a full-time job. Here's how it works.

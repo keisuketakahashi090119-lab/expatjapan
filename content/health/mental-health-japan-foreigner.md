@@ -6,6 +6,10 @@ tags: ["mental health", "therapy", "counseling", "health"]
 categories: ["Health & Insurance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-health.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Moving to Japan can be exciting and challenging in equal measure. Culture shock, language barriers, isolation, and work stress affect many foreigners. Here's how to get support.

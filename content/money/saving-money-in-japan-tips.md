@@ -6,6 +6,10 @@ tags: ["saving money", "budget", "finance", "daily life"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-money.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Japan has a reputation for being expensive. And yeah, Tokyo rent isn't cheap. But a lot of day-to-day living here is actually very affordable if you know where to look. Here's how to keep more money in your pocket.

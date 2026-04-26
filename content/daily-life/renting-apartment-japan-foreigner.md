@@ -6,6 +6,10 @@ tags: ["housing", "apartment", "renting", "daily life", "moving"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Renting in Japan as a foreigner is more paperwork-heavy than in many countries, but it's very doable. Here's how the process works.

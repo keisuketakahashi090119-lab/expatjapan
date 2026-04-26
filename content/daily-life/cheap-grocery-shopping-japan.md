@@ -6,6 +6,10 @@ tags: ["groceries", "food", "saving money", "daily life", "supermarket"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+cover:
+  image: "/images/covers/cover-daily-life.svg"
+  alt: "Expat Japan Guide"
+  relative: false
 ---
 
 Groceries in Japan are manageable if you know where to shop and when. Here's how to keep your food costs low.
