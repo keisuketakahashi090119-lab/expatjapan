@@ -46,6 +46,12 @@ params:
       Your complete English guide to life in Japan.
       Visa, jobs, insurance, banking, phones and more — all explained simply.
 
+  assets:
+    favicon: "/favicon.png"
+    favicon16x16: "/favicon.png"
+    favicon32x32: "/favicon.png"
+    apple_touch_icon: "/favicon.png"
+
   socialIcons:
     - name: facebook
       url: "https://facebook.com/"
