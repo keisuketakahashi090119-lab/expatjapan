@@ -84,12 +84,14 @@ body {
 .post-entry {
   background: var(--card);
   border: 1.5px solid var(--border);
+  border-left: 5px solid var(--brand);
   border-radius: var(--radius);
   padding: 0;
   margin-bottom: 1rem;
   overflow: hidden;
   transition: box-shadow var(--transition), transform var(--transition), border-color var(--transition);
-  display: flex;
+  display: block;
+  position: relative;
 }
 
 .post-entry:hover {
@@ -98,24 +100,12 @@ body {
   border-color: #93c5fd;
 }
 
-/* Colour accent strip on left of card */
-.post-entry::before {
-  content: '';
-  width: 5px;
-  min-height: 100%;
-  background: linear-gradient(180deg, var(--brand), var(--purple));
-  flex-shrink: 0;
-}
-
 .post-entry .entry-header,
 .post-entry .entry-content,
-.post-entry .entry-footer,
-.post-entry > * { padding-left: 1.3rem; padding-right: 1.4rem; }
-
-.post-entry { flex-direction: row; align-items: stretch; }
+.post-entry .entry-footer { padding-left: 1.3rem; padding-right: 1.4rem; }
 
 /* Re-wrap inner content */
-.post-entry .entry-header { padding: 1.2rem 1.4rem .2rem 1.3rem; flex: 1; }
+.post-entry .entry-header { padding: 1.2rem 1.4rem .2rem 1.3rem; }
 
 .entry-header h2 {
   font-size: 1.05rem;
