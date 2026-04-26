@@ -140,3 +140,14 @@ Wise is available to residents of Japan regardless of nationality. You need:
 [Open your Wise account here](https://wise.com/) — referral links sometimes provide a fee-free first transfer (up to ¥125,000).
 
 Verification takes 1–2 business days. Once done, you have access to one of the most useful financial tools available to foreigners in Japan.
+
+---
+
+## Related Articles
+
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
+- [Currency Exchange in Japan: Best Options for Foreigners](/money/currency-exchange-japan/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [Freelancing in Japan as a Foreigner](/jobs/freelancing-in-japan-foreigner/)
+- [Best Money Transfer Apps from Japan](/money/best-money-transfer-apps-from-japan/)

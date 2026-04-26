@@ -128,3 +128,14 @@ When you're moving or decluttering:
 The best time to find second-hand deals is **February–April**, when thousands of people move for the new school/work year and sell or give away furniture and household goods they can't take.
 
 Check Jimoty daily during this period for free furniture, appliances, and more.
+
+---
+
+## Related Articles
+
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [Cheap Grocery Shopping in Japan: Tips for Foreigners](/daily-life/cheap-grocery-shopping-japan/)
+- [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)
+- [Furusato Nozei: How Foreigners Can Use Japan's Hometown Tax](/money/furusato-nozei-guide-foreigners/)

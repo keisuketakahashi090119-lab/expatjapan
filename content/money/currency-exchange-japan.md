@@ -127,3 +127,13 @@ Before any exchange or transfer, check:
 4. **Time your transfers** — Exchange rates fluctuate. If you're not in a rush, watch the rate for a few days using Wise's rate alerts.
 
 5. **Avoid Sunday transfers** — Some services apply weekend spreads (worse rates) on Saturdays and Sundays.
+
+---
+
+## Related Articles
+
+- [Wise in Japan: Complete Guide for Foreigners](/money/wise-japan-guide/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [Best Money Transfer Apps from Japan](/money/best-money-transfer-apps-from-japan/)

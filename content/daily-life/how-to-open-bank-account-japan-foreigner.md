@@ -107,3 +107,14 @@ Yes — especially at Japan Post Bank or the online banks. Bring a translation a
 | Megabanks | Hard | No | No |
 
 Start with Japan Post Bank if you need an account fast. Go with Sony Bank or Shinsei Bank if you want full English support and a modern online experience.
+
+---
+
+## Related Articles
+
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [Wise in Japan: Complete Guide for Foreigners](/money/wise-japan-guide/)
+- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [Rakuten Ecosystem for Foreigners in Japan](/money/rakuten-ecosystem-foreigners-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

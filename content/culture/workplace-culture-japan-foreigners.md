@@ -120,3 +120,13 @@ You'll hear おつかれさまです constantly. Learn it, use it. It's basicall
 ## Bottom Line
 
 Japanese workplace culture isn't better or worse than what you're used to — it's just different. The key things: be punctual, show respect to hierarchy, communicate indirectly when giving negative feedback, and show up to at least a few nomikai. Get those right and you'll fit in faster than you'd expect.
+
+---
+
+## Related Articles
+
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)
+- [Salary Negotiation in Japan: How Foreigners Can Do It](/jobs/salary-negotiation-japan/)
+- [Job Hunting in Japan as a Foreigner](/jobs/job-hunting-japan-foreigner/)
+- [Making Friends in Japan as a Foreigner](/culture/making-friends-japan-foreigner/)
+- [Japanese Etiquette Guide for Foreigners](/culture/japanese-etiquette-guide/)

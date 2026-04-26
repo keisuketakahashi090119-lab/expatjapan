@@ -84,3 +84,13 @@ As of 2022, new pension books are no longer issued. Your pension number is tied 
 | Leaving Japan | Apply for lump-sum refund within 2 years |
 
 Paying into the pension feels pointless if you're only here short-term — but the withdrawal refund means you get most of it back. Don't ignore the letters from the pension office.
+
+---
+
+## Related Articles
+
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [How to Get Permanent Residency in Japan](/visa/how-to-get-permanent-residency-japan/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)

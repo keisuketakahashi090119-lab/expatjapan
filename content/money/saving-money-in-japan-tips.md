@@ -133,3 +133,14 @@ The gap between budget and average is almost ¥70,000 a month — and most of it
 ## Bottom Line
 
 Japan actually rewards careful spending. The infrastructure is there — cheap SIMs, discount stores, point systems, public facilities. You just have to use them. Start with the phone plan, then work down the list.
+
+---
+
+## Related Articles
+
+- [Cheap Grocery Shopping in Japan: Tips for Foreigners](/daily-life/cheap-grocery-shopping-japan/)
+- [Second-Hand Shopping in Japan](/daily-life/second-hand-shopping-japan/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [Furusato Nozei: How Foreigners Can Use Japan's Hometown Tax](/money/furusato-nozei-guide-foreigners/)
+- [Rakuten Ecosystem for Foreigners in Japan](/money/rakuten-ecosystem-foreigners-japan/)

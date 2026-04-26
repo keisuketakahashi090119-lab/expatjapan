@@ -108,3 +108,14 @@ Use **[freee](https://www.freee.co.jp/)** or **[MFクラウド](https://biz.mone
 - **Consumption tax (消費税):** If you earn over ¥10M/year, you must register as a consumption tax payer. Under ¥10M, you're exempt for 2 years from registration.
 - Get a **hanko (stamp)** — still used on some contracts in Japan
 - Build an emergency fund — no employer pays your insurance or pension; you cover it all yourself
+
+---
+
+## Related Articles
+
+- [How to Change Your Visa Status in Japan](/visa/how-to-change-visa-status-japan/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Wise in Japan: Complete Guide for Foreigners](/money/wise-japan-guide/)
+- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
+- [Best Money Transfer Apps from Japan](/money/best-money-transfer-apps-from-japan/)

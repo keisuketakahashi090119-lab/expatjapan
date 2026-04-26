@@ -126,3 +126,13 @@ Set up bank auto-pay from the start to avoid forgetting.
 ## Bottom Line
 
 Electricity is easy — apply online and it's on. Gas requires an appointment so book it first. Internet takes the longest — start the application as soon as you have your new address.
+
+---
+
+## Related Articles
+
+- [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [Japan Post Guide for Foreigners](/daily-life/japan-post-guide-foreigners/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)

@@ -95,3 +95,14 @@ Once you graduate, you can switch to a **work visa** if you have a job offer. Ap
 - **Engineer/Specialist in Humanities** — most common for graduates
 - **Highly Skilled Professional** — for those with points-based qualifications
 - **Working Holiday** → Student → Work is a common path for some nationalities
+
+---
+
+## Related Articles
+
+- [Working Holiday Visa Japan: Everything You Need to Know](/visa/working-holiday-visa-japan/)
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [Best SIM Cards for Foreigners in Japan](/daily-life/best-sim-cards-for-foreigners-japan/)

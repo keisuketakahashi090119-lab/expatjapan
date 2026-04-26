@@ -113,3 +113,12 @@ If you have a dental emergency (severe pain, lost tooth, broken crown):
 2. Look for clinics that show **「救急」(emergency)** or **「夜間」(night)** on their signage
 3. University dental hospitals (大学病院の歯科) often accept walk-ins for emergencies
 4. In Tokyo, the **Tokyo Dental Association Emergency Dental Clinic** operates nights and weekends: 03-3834-2814
+
+---
+
+## Related Articles
+
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
+- [Pharmacy and Medicine in Japan: What Foreigners Need to Know](/health/pharmacy-medicine-japan/)
+- [Best Private Health Insurance for Foreigners in Japan](/health/best-private-health-insurance-foreigners-japan/)

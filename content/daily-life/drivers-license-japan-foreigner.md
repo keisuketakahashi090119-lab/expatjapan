@@ -102,3 +102,12 @@ Honestly, in Tokyo and most major cities you don't need a car. The train network
 ## Bottom Line
 
 If you're from a country with a simple conversion process, getting a Japanese license takes one afternoon. If you need a practical test, allow 2–4 visits to the test center. Either way, it's a one-time process that's worth doing if you plan to stay long-term.
+
+---
+
+## Related Articles
+
+- [Buying a Car in Japan as a Foreigner](/daily-life/buying-a-car-japan-foreigner/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)

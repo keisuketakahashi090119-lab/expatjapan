@@ -130,3 +130,14 @@ Over 10–20 years, consistent investing in diversified global funds has histori
 - **[Tsumiki Financial (Japanese)](https://tsumiki-sec.com/)** — Beginner-friendly Japanese investing blog
 - **[Money Forward ME](https://moneyforward.com/)** — Track all your Japanese accounts and investments in one place
 - **[r/japanfinance (Reddit)](https://www.reddit.com/r/japanfinance/)** — Excellent English community for financial questions in Japan
+
+---
+
+## Related Articles
+
+- [Rakuten Ecosystem for Foreigners in Japan](/money/rakuten-ecosystem-foreigners-japan/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [Wise in Japan: Complete Guide for Foreigners](/money/wise-japan-guide/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)

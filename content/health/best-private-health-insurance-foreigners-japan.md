@@ -131,3 +131,13 @@ Try comparison sites like **保険市場 (hokende.com)** — some have English s
 | Allianz Care (expat plan) | ¥15,000–¥50,000 | Full global coverage |
 
 For most foreigners working in Japan, **national insurance plus one affordable supplemental plan** is the sweet spot. You get strong coverage without overpaying.
+
+---
+
+## Related Articles
+
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
+- [Dentist in Japan: What Foreigners Need to Know](/health/dentist-japan-foreigner/)
+- [Mental Health in Japan: Resources for Foreigners](/health/mental-health-japan-foreigner/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

@@ -154,3 +154,13 @@ Many universities offer Japanese language courses to the public at reasonable pr
 Apply at: [jlpt.jp](https://www.jlpt.jp/)
 
 JLPT N2 is the practical goal for most foreigners — it's required or preferred for many professional jobs in Japan.
+
+---
+
+## Related Articles
+
+- [Making Friends in Japan as a Foreigner](/culture/making-friends-japan-foreigner/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Workplace Culture in Japan: A Guide for Foreigners](/culture/workplace-culture-japan-foreigners/)
+- [Dating in Japan as a Foreigner](/culture/dating-in-japan-foreigner/)
+- [Student Visa Japan: Complete Guide](/visa/student-visa-japan-guide/)

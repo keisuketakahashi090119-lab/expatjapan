@@ -132,3 +132,12 @@ If you pre-ordered a SIM or pocket WiFi online, pick up at the airport counter â
 ## Bottom Line
 
 Just arrived? Get a pocket WiFi at the airport or order a SIM card before you land. Long-term? WiMAX is the easiest home internet â€” no installation, no landlord permission. Fiber is faster once you're settled. For data-only on a budget, IIJmio or povo2.0 are excellent choices.
+
+---
+
+## Related Articles
+
+- [Best SIM Cards for Foreigners in Japan](/daily-life/best-sim-cards-for-foreigners-japan/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Best VPN for Foreigners in Japan](/daily-life/best-vpn-for-foreigners-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

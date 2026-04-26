@@ -97,3 +97,13 @@ Mobile Suica: cancel the card through the app and any balance is refunded to you
 ## Bottom Line
 
 Get a Suica (physical or mobile) on your first day in Japan. It's the single most useful card to have. Load ¥3,000–¥5,000 and you're set for a week of commuting. Top up as needed.
+
+---
+
+## Related Articles
+
+- [How to Use Trains in Japan: Guide for Foreigners](/culture/how-to-use-trains-japan-foreigner/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Convenience Stores in Japan: A Complete Guide](/daily-life/convenience-stores-japan-guide/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)

@@ -156,3 +156,14 @@ Flip over your **residence card** — it shows your visa status in Japanese on t
 ## Bottom Line
 
 Most office workers, IT professionals, and business staff are on the **Gijinkoku visa**. Factory, food, and construction workers are often on **Tokutei Gino**. Check your residence card, confirm your visa type, and make sure whatever job you're doing actually matches it — that's the thing that matters most.
+
+---
+
+## Related Articles
+
+- [Highly Skilled Professional Visa Japan: The Fast Track to PR](/visa/highly-skilled-professional-visa-japan/)
+- [How to Get Permanent Residency in Japan](/visa/how-to-get-permanent-residency-japan/)
+- [How to Change Your Visa Status in Japan](/visa/how-to-change-visa-status-japan/)
+- [How to Renew Your Work Visa in Japan](/visa/how-to-renew-work-visa-japan/)
+- [Job Hunting in Japan as a Foreigner](/jobs/job-hunting-japan-foreigner/)
+- [IT Jobs for Foreigners in Japan](/jobs/it-jobs-foreigners-japan/)

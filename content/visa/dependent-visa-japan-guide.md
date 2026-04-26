@@ -111,3 +111,14 @@ Budgeting for a family in Japan:
 - Keep your income stable. If the sponsor loses their job, it affects the dependent's visa.
 - Update your address whenever you move — dependents must also register at city hall.
 - Children in Japan can attend **public school for free**, even on a dependent visa. Schools are welcoming and often have Japanese language support programs.
+
+---
+
+## Related Articles
+
+- [Spouse Visa Japan: Complete Guide](/visa/spouse-visa-japan-guide/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [International Schools in Japan for Expat Families](/daily-life/international-schools-japan/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

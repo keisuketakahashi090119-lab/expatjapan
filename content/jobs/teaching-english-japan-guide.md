@@ -125,3 +125,14 @@ Tokyo rents eat into these figures fast. Many teachers in Tokyo live in **share 
 - **[GaijinPot Jobs](https://jobs.gaijinpot.com/)** — Largest English-language job board in Japan
 - **[OHAYOSENSEI](https://www.ohayosensei.com/)** — Teaching-focused job newsletter
 - **[Dave's ESL Cafe](https://www.eslcafe.com/)** — International teaching job board
+
+---
+
+## Related Articles
+
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [Job Hunting in Japan as a Foreigner](/jobs/job-hunting-japan-foreigner/)
+- [Working Holiday Visa Japan: Everything You Need to Know](/visa/working-holiday-visa-japan/)
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)
+- [Salary Negotiation in Japan: How Foreigners Can Do It](/jobs/salary-negotiation-japan/)
+- [Workplace Culture in Japan: A Guide for Foreigners](/culture/workplace-culture-japan-foreigners/)

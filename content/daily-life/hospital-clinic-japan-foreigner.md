@@ -136,3 +136,13 @@ Japan has a high-cost medical cap system (*kōgaku ryōyō-hi*) — if your mont
 ## Bottom Line
 
 Enroll in health insurance first — it cuts your costs to 30%. For minor illness, find a nearby clinic using Google Maps or AMDA's directory. Always carry your insurance card. For serious conditions, ask for a referral letter (*shōkaijō*) from your clinic to see a specialist at a larger hospital.
+
+---
+
+## Related Articles
+
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [Pharmacy and Medicine in Japan: What Foreigners Need to Know](/health/pharmacy-medicine-japan/)
+- [Dentist in Japan: What Foreigners Need to Know](/health/dentist-japan-foreigner/)
+- [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
+- [Emergency Guide for Foreigners in Japan](/culture/emergency-guide-foreigners-japan/)

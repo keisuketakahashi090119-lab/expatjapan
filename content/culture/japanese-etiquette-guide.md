@@ -117,3 +117,13 @@ Some things foreigners worry about that are actually fine in Japan:
 ## Bottom Line
 
 The key principles: be quiet in public spaces, respect shared environments, remove shoes when entering homes, don't tip, and follow the lead of the people around you. Most Japanese people are understanding of foreigners not knowing every rule — effort and awareness go a long way.
+
+---
+
+## Related Articles
+
+- [Workplace Culture in Japan: A Guide for Foreigners](/culture/workplace-culture-japan-foreigners/)
+- [Making Friends in Japan as a Foreigner](/culture/making-friends-japan-foreigner/)
+- [How to Use Trains in Japan: Guide for Foreigners](/culture/how-to-use-trains-japan-foreigner/)
+- [Convenience Stores in Japan: A Complete Guide](/daily-life/convenience-stores-japan-guide/)
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)

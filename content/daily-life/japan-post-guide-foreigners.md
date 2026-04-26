@@ -130,3 +130,12 @@ Japan Post offers international money transfer to some countries. Not the cheape
 ## Bottom Line
 
 Japan Post is reliable and affordable for domestic shipping. Use EMS for important international packages — it's tracked and fast. Keep the missed delivery notice from your mailbox and reschedule online. Post office ATMs reliably accept foreign cards. Japan Post Bank is one of the easier banks for new arrivals to open.
+
+---
+
+## Related Articles
+
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)

@@ -133,3 +133,13 @@ Not as good for building credit, but they get the job done while you wait.
 | Saison Card | Free | General use |
 
 Start with **Rakuten Card**. It's the most foreigner-friendly option out there, it's free, and the points are genuinely useful.
+
+---
+
+## Related Articles
+
+- [Rakuten Ecosystem for Foreigners in Japan](/money/rakuten-ecosystem-foreigners-japan/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
+- [Wise in Japan: Complete Guide for Foreigners](/money/wise-japan-guide/)

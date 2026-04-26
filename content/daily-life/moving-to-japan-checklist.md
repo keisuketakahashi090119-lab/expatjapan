@@ -129,3 +129,14 @@ See our [VPN guide](/daily-life/best-vpn-for-foreigners-japan/).
 ## Bottom Line
 
 Do the city hall registration first — it unlocks everything else. Then get a phone number and bank account. The rest can follow over the first month. Don't try to do everything on day one; prioritize address registration and a phone number and the rest can wait.
+
+---
+
+## Related Articles
+
+- [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Best SIM Cards for Foreigners in Japan](/daily-life/best-sim-cards-for-foreigners-japan/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)

@@ -131,3 +131,14 @@ Sending money from Japan to your home country is not taxed in Japan. However:
 - If you receive Japanese-source income in your home country, it may be taxable there
 - US citizens must report foreign accounts over $10,000 on FBAR
 - Consult a cross-border tax advisor if you're uncertain about your obligations
+
+---
+
+## Related Articles
+
+- [Wise in Japan: Complete Guide for Foreigners](/money/wise-japan-guide/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Currency Exchange in Japan: Best Options for Foreigners](/money/currency-exchange-japan/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [Best Money Transfer Apps from Japan](/money/best-money-transfer-apps-from-japan/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)

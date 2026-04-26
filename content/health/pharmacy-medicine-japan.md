@@ -112,3 +112,13 @@ If you take regular prescription medication:
 4. **For longer stays:** Contact the Japanese embassy in your home country to confirm import rules for your specific medication
 
 **Inhalers, EpiPens, insulin** — Generally permitted; carry documentation.
+
+---
+
+## Related Articles
+
+- [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [Dentist in Japan: What Foreigners Need to Know](/health/dentist-japan-foreigner/)
+- [Emergency Guide for Foreigners in Japan](/culture/emergency-guide-foreigners-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

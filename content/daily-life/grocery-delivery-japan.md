@@ -123,3 +123,13 @@ Finding international ingredients:
 | Seiyu | Budget, staples | ★★★★ | ❌ |
 | Co-op | Families, weekly | ★★★ | ❌ |
 | Uber Eats Grocery | Urgent, small orders | ★ (expensive) | ✅ Yes |
+
+---
+
+## Related Articles
+
+- [Cheap Grocery Shopping in Japan: Tips for Foreigners](/daily-life/cheap-grocery-shopping-japan/)
+- [Convenience Stores in Japan: A Complete Guide](/daily-life/convenience-stores-japan-guide/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Rakuten Ecosystem for Foreigners in Japan](/money/rakuten-ecosystem-foreigners-japan/)

@@ -89,3 +89,13 @@ If you need more time than that, you can apply for a **designated activities vis
 4. You have until your visa expiry to find a new job
 
 Changing jobs in Japan is very possible. The key is reporting on time and staying in the right job category. Nail those two things and you're fine.
+
+---
+
+## Related Articles
+
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [Job Hunting in Japan as a Foreigner](/jobs/job-hunting-japan-foreigner/)
+- [Salary Negotiation in Japan: How Foreigners Can Do It](/jobs/salary-negotiation-japan/)
+- [How to Change Your Visa Status in Japan](/visa/how-to-change-visa-status-japan/)
+- [Best Job Sites for Foreigners in Japan](/jobs/best-job-sites-for-foreigners-japan/)

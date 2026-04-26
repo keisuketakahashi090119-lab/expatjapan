@@ -142,3 +142,13 @@ If you're struggling, these people exist specifically to help. Use them.
 3. Use Google Translate to communicate
 4. Pay 30% of the cost with insurance
 5. In emergencies call 119
+
+---
+
+## Related Articles
+
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [Pharmacy and Medicine in Japan: What Foreigners Need to Know](/health/pharmacy-medicine-japan/)
+- [Dentist in Japan: What Foreigners Need to Know](/health/dentist-japan-foreigner/)
+- [Mental Health in Japan: Resources for Foreigners](/health/mental-health-japan-foreigner/)
+- [Emergency Guide for Foreigners in Japan](/culture/emergency-guide-foreigners-japan/)

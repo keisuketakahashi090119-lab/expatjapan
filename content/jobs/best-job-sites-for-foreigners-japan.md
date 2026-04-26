@@ -132,3 +132,14 @@ Sites like doda and Daijob offer free recruiter support. Use it. They know what 
 ## Where to Start
 
 Start with **GaijinPot** if you want English-environment jobs with no Japanese required. Move to **Daijob** or **doda** when you're ready to go after higher-paying corporate roles. And use **LinkedIn** to build your professional network while you're at it — it's not just for job searching, it's for being found.
+
+---
+
+## Related Articles
+
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [Job Hunting in Japan as a Foreigner](/jobs/job-hunting-japan-foreigner/)
+- [How to Change Jobs with a Work Visa in Japan](/jobs/how-to-change-jobs-with-work-visa-japan/)
+- [Salary Negotiation in Japan: How Foreigners Can Do It](/jobs/salary-negotiation-japan/)
+- [IT Jobs for Foreigners in Japan](/jobs/it-jobs-foreigners-japan/)
+- [Teaching English in Japan: Complete Guide](/jobs/teaching-english-japan-guide/)

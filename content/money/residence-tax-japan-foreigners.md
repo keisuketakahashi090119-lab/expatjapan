@@ -110,3 +110,13 @@ If you think the amount is wrong (e.g., deductions weren't applied correctly), c
 ## Bottom Line
 
 Residence tax hits in year two at around 10% of your prior-year income. If you're an employee, it comes out of your paycheck automatically from June. If you're self-employed, you'll receive a bill. Start saving for it in your first year so it doesn't come as a shock.
+
+---
+
+## Related Articles
+
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [National Pension in Japan: What Foreigners Need to Know](/money/national-pension-japan-foreigners/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [Freelancing in Japan as a Foreigner](/jobs/freelancing-in-japan-foreigner/)

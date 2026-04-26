@@ -126,3 +126,12 @@ If your employer requires you to work on a national holiday:
 - Check your employment contract — many companies already account for this
 
 Foreigners have the same labor rights as Japanese employees on this matter.
+
+---
+
+## Related Articles
+
+- [Golden Week in Japan: What Foreigners Need to Know](/culture/golden-week-japan-guide/)
+- [How to Use Trains in Japan: Guide for Foreigners](/culture/how-to-use-trains-japan-foreigner/)
+- [Workplace Culture in Japan: A Guide for Foreigners](/culture/workplace-culture-japan-foreigners/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)

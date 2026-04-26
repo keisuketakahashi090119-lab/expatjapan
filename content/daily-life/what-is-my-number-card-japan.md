@@ -106,3 +106,13 @@ You always need your **residence card** — that one's mandatory. The My Number 
 - The My Number Card is optional but makes life easier
 - Apply online or at City Hall — takes about 1–2 months
 - Recommended: get it, especially if you're planning to stay long-term
+
+---
+
+## Related Articles
+
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [Japan Post Guide for Foreigners](/daily-life/japan-post-guide-foreigners/)

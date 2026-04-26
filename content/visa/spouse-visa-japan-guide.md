@@ -150,3 +150,13 @@ As a spouse of a Japanese national:
 ## Bottom Line
 
 Apply for the COE first — your Japanese spouse does this in Japan while you're still abroad. The process takes 4–12 weeks. Have evidence of your genuine relationship ready. Once in Japan on a spouse visa, you can work freely in any job. After 3 years, you can apply for permanent residency.
+
+---
+
+## Related Articles
+
+- [Dependent Visa Japan: Guide for Families](/visa/dependent-visa-japan-guide/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [International Schools in Japan for Expat Families](/daily-life/international-schools-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

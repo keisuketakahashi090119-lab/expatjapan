@@ -159,3 +159,14 @@ This is the single biggest advantage of the HSP visa. See our [Permanent Residen
 2. **Negotiate a higher salary** — Each salary bracket jump adds 5–15 points
 3. **Pursue an advanced degree** — An MBA adds 5 extra points on top of the degree category
 4. **Join an innovation company** — Certain government-designated companies add +10 points
+
+---
+
+## Related Articles
+
+- [How to Get Permanent Residency in Japan](/visa/how-to-get-permanent-residency-japan/)
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [IT Jobs for Foreigners in Japan](/jobs/it-jobs-foreigners-japan/)
+- [Salary Negotiation in Japan: How Foreigners Can Do It](/jobs/salary-negotiation-japan/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [NISA for Foreigners in Japan](/money/nisa-investing-japan-foreigner/)

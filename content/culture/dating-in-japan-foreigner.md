@@ -138,3 +138,13 @@ Japan has growing LGBTQ+ acceptance, especially in cities:
 - People claiming interest in foreigners purely for visa or immigration purposes (rare but exists)
 
 As in any country — trust gradually, verify through consistent behavior over time.
+
+---
+
+## Related Articles
+
+- [Making Friends in Japan as a Foreigner](/culture/making-friends-japan-foreigner/)
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)
+- [Japanese Etiquette Guide for Foreigners](/culture/japanese-etiquette-guide/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Workplace Culture in Japan: A Guide for Foreigners](/culture/workplace-culture-japan-foreigners/)

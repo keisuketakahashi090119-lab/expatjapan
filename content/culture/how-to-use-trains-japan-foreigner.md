@@ -145,3 +145,13 @@ For a single Tokyo–Osaka round trip, compare the JR Pass price to buying indiv
 3. Tap in, tap out at every gate
 4. Avoid rush hour when you have a choice
 5. Stay quiet, give up priority seats, and you'll be fine
+
+---
+
+## Related Articles
+
+- [Suica IC Card Guide for Japan](/daily-life/suica-ic-card-guide-japan/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [Japanese Etiquette Guide for Foreigners](/culture/japanese-etiquette-guide/)

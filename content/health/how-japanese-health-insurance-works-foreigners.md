@@ -113,3 +113,14 @@ So even major surgery — even a hospital stay of weeks — is capped at a manag
 - Get your card from your employer (if employed) or City Hall (if self-employed)
 - Major expenses are capped through the high-cost expense system
 - Japan's system is excellent value — use it without worry
+
+---
+
+## Related Articles
+
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
+- [Pharmacy and Medicine in Japan: What Foreigners Need to Know](/health/pharmacy-medicine-japan/)
+- [Best Private Health Insurance for Foreigners in Japan](/health/best-private-health-insurance-foreigners-japan/)
+- [National Pension in Japan: What Foreigners Need to Know](/money/national-pension-japan-foreigners/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

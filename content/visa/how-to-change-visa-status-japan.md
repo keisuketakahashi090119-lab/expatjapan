@@ -131,3 +131,13 @@ It happens, but it's not common if your paperwork is in order. If you do get rej
 ```
 
 Change your visa before your current one causes a mismatch. Don't wait until the last minute — you can't work in the gap.
+
+---
+
+## Related Articles
+
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [How to Change Jobs with a Work Visa in Japan](/jobs/how-to-change-jobs-with-work-visa-japan/)
+- [Working Holiday Visa Japan: Everything You Need to Know](/visa/working-holiday-visa-japan/)
+- [How to Get Permanent Residency in Japan](/visa/how-to-get-permanent-residency-japan/)
+- [Highly Skilled Professional Visa Japan](/visa/highly-skilled-professional-visa-japan/)

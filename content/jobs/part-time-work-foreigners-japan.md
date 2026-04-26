@@ -127,3 +127,14 @@ Working fewer than 20 hours/week typically exempts you from employer health/pens
 ## Bottom Line
 
 Most foreign residents in Japan can work part-time as long as their visa permits it. Students need the activity permit first. For convenience store, restaurant, or English teaching jobs, basic Japanese and a professional attitude are enough to get started.
+
+---
+
+## Related Articles
+
+- [Student Visa Japan: Complete Guide](/visa/student-visa-japan-guide/)
+- [Working Holiday Visa Japan: Everything You Need to Know](/visa/working-holiday-visa-japan/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Convenience Stores in Japan: A Complete Guide](/daily-life/convenience-stores-japan-guide/)
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)

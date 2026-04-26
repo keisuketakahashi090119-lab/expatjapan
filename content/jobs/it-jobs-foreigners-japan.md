@@ -136,3 +136,14 @@ Even if your company is English-first, some Japanese helps:
 - **[WaniKani](https://www.wanikani.com/)** — Best for learning kanji systematically
 - **[italki](https://www.italki.com/)** — 1-on-1 lessons with Japanese teachers
 - **[Anki](https://apps.ankiweb.net/)** (free) — SRS flashcards for vocabulary
+
+---
+
+## Related Articles
+
+- [Highly Skilled Professional Visa Japan: The Fast Track to PR](/visa/highly-skilled-professional-visa-japan/)
+- [Salary Negotiation in Japan: How Foreigners Can Do It](/jobs/salary-negotiation-japan/)
+- [Best Job Sites for Foreigners in Japan](/jobs/best-job-sites-for-foreigners-japan/)
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)
+- [How to Get Permanent Residency in Japan](/visa/how-to-get-permanent-residency-japan/)

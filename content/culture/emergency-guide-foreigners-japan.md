@@ -142,3 +142,13 @@ JNTO Hotline:    050-3816-2787
 And download **Safety Tips** from the App Store or Google Play.
 
 Hopefully you never need any of this. But knowing it beforehand makes a real difference when something actually happens.
+
+---
+
+## Related Articles
+
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
+- [Pharmacy and Medicine in Japan: What Foreigners Need to Know](/health/pharmacy-medicine-japan/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)

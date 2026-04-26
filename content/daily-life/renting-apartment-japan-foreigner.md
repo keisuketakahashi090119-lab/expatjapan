@@ -136,3 +136,13 @@ Budget 30–40% above your base rent for total monthly housing costs.
 ## Bottom Line
 
 UR apartments are the easiest entry point — no key money, no guarantor. For regular apartments, use a foreigner-friendly agency (GaijinPot, Sakura House) and budget 4–5 months' rent upfront. Register your address at city hall within 14 days of moving in.
+
+---
+
+## Related Articles
+
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)
+- [How to Set Up Utilities in Japan](/daily-life/how-to-set-up-utilities-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [Second-Hand Shopping in Japan](/daily-life/second-hand-shopping-japan/)

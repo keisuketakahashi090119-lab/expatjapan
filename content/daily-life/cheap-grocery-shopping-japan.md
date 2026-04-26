@@ -134,3 +134,13 @@ Cooking at home with rice, eggs, tofu, and seasonal vegetables is the cheapest w
 ## Bottom Line
 
 Gyomu Super and OK Store for your regular shop. Hit the supermarket after 7pm for half-price bento and sushi. Buy rice, eggs, tofu, and miso in bulk — they're cheap, nutritious, and last. Avoid imported cheese and fruit unless they're on sale.
+
+---
+
+## Related Articles
+
+- [Grocery Delivery in Japan: Best Services for Foreigners](/daily-life/grocery-delivery-japan/)
+- [Convenience Stores in Japan: A Complete Guide](/daily-life/convenience-stores-japan-guide/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
+- [Second-Hand Shopping in Japan](/daily-life/second-hand-shopping-japan/)
+- [Furusato Nozei: How Foreigners Can Use Japan's Hometown Tax](/money/furusato-nozei-guide-foreigners/)

@@ -99,3 +99,13 @@ Want flexibility → Mineo
 ## Bottom Line
 
 Don't overpay for a phone plan. Getting a cheap SIM in Japan with a residence card is easy, and the budget options genuinely work well. IIJmio is the safest starting choice — good coverage, cheap price, English support. Start there and switch later if your needs change.
+
+---
+
+## Related Articles
+
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Pocket WiFi and Mobile Internet in Japan](/daily-life/pocket-wifi-mobile-internet-japan/)
+- [Best VPN for Foreigners in Japan](/daily-life/best-vpn-for-foreigners-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)

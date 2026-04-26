@@ -129,3 +129,13 @@ Beyond the gym:
 - **Strava** — Track runs and rides, connect with local runners
 - **MyFitnessPal** — Calorie tracking (supports Japanese foods)
 - **FitBit / Apple Fitness+** — Wearable integration for full tracking
+
+---
+
+## Related Articles
+
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [Making Friends in Japan as a Foreigner](/culture/making-friends-japan-foreigner/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)

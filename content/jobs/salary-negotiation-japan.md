@@ -117,3 +117,14 @@ If you're switching companies in Japan, you have more leverage:
 - Michael Page Japan
 - Hays Japan
 - Specialized tech recruiters via [Tokyodev](https://www.tokyodev.com/)
+
+---
+
+## Related Articles
+
+- [IT Jobs for Foreigners in Japan](/jobs/it-jobs-foreigners-japan/)
+- [Job Hunting in Japan as a Foreigner](/jobs/job-hunting-japan-foreigner/)
+- [How to Change Jobs with a Work Visa in Japan](/jobs/how-to-change-jobs-with-work-visa-japan/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)

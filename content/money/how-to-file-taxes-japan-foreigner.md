@@ -119,3 +119,13 @@ Immigration checks your tax payment history when you apply for visa renewal or p
 - Self-employed or multiple income sources → file Kakutei Shinkoku by March 15
 - Hold on to your withholding slip every January
 - Pay those resident tax bills when they show up in June
+
+---
+
+## Related Articles
+
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [Residence Tax in Japan: What Foreigners Need to Know](/money/residence-tax-japan-foreigners/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [National Pension in Japan: What Foreigners Need to Know](/money/national-pension-japan-foreigners/)
+- [Freelancing in Japan as a Foreigner](/jobs/freelancing-in-japan-foreigner/)

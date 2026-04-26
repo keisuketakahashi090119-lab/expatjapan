@@ -144,3 +144,13 @@ If rejected: you can reapply. Ask the immigration office what to improve and rea
 ## Bottom Line
 
 Ten years is the standard route — start thinking about PR in year 7 to give yourself time to prepare documents. Pay all taxes and pension on time throughout your stay — these are the most common reasons PR is rejected. The Highly Skilled Professional track can get you there in 3–5 years if you qualify on points.
+
+---
+
+## Related Articles
+
+- [Highly Skilled Professional Visa Japan: The Fast Track to PR](/visa/highly-skilled-professional-visa-japan/)
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [NISA for Foreigners in Japan](/money/nisa-investing-japan-foreigner/)
+- [National Pension in Japan: What Foreigners Need to Know](/money/national-pension-japan-foreigners/)

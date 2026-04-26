@@ -141,3 +141,14 @@ Monthly spending ¥200,000 through Rakuten stack:
 - **Total: ~9,200 points/month = ¥110,400/year**
 
 Heavy Rakuten Market users with all services stacked regularly report ¥100,000–200,000 worth of points per year.
+
+---
+
+## Related Articles
+
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Furusato Nozei: How Foreigners Can Use Japan's Hometown Tax](/money/furusato-nozei-guide-foreigners/)

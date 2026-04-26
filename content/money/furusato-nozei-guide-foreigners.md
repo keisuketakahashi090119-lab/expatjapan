@@ -121,3 +121,13 @@ If you already file a tax return (freelancers, side income, etc.), include your 
 ## Bottom Line
 
 Furusato nozei is essentially free food and goods from your taxes — you pay ¥2,000 out of pocket and get back far more in gifts. As long as you pay Japanese income or residence tax, you're eligible. Use a portal like Rakuten Furusato Nozei, donate in autumn, and apply the one-stop exception if you don't file a tax return.
+
+---
+
+## Related Articles
+
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [Rakuten Ecosystem for Foreigners in Japan](/money/rakuten-ecosystem-foreigners-japan/)

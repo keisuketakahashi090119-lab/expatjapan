@@ -135,3 +135,14 @@ Track packages, find post offices, and schedule redelivery of missed packages.
 | International money | Wise |
 | Emergency alerts | Safety Tips |
 | Restaurants | Tabelog |
+
+---
+
+## Related Articles
+
+- [Best SIM Cards for Foreigners in Japan](/daily-life/best-sim-cards-for-foreigners-japan/)
+- [Best VPN for Foreigners in Japan](/daily-life/best-vpn-for-foreigners-japan/)
+- [Suica IC Card Guide for Japan](/daily-life/suica-ic-card-guide-japan/)
+- [Convenience Stores in Japan: A Complete Guide](/daily-life/convenience-stores-japan-guide/)
+- [Pocket WiFi and Mobile Internet in Japan](/daily-life/pocket-wifi-mobile-internet-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

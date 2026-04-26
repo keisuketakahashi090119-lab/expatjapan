@@ -129,3 +129,13 @@ If you overpaid, you'll receive a refund (*kanpu*) to your bank account — usua
 ## Bottom Line
 
 Salaried employees with one employer usually don't need to file — your company handles it. Freelancers, side-income earners, and those with multiple employers must file by March 15. Get your My Number card ready and collect your 源泉徴収票 from your employer in January.
+
+---
+
+## Related Articles
+
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [Residence Tax in Japan: What Foreigners Need to Know](/money/residence-tax-japan-foreigners/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [National Pension in Japan: What Foreigners Need to Know](/money/national-pension-japan-foreigners/)
+- [Freelancing in Japan as a Foreigner](/jobs/freelancing-in-japan-foreigner/)

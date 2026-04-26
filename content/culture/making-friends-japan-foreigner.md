@@ -125,3 +125,13 @@ Many city halls run **international exchange programs** that specifically pair f
 **Reciprocate.** If someone treats you to coffee, return the favor. Small gestures of reciprocity are meaningful in Japanese culture.
 
 **Avoid stereotypes.** "All Japanese are shy" isn't true. Personalities vary hugely — you'll find outgoing, warm Japanese people everywhere once you put yourself in the right contexts.
+
+---
+
+## Related Articles
+
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)
+- [Workplace Culture in Japan: A Guide for Foreigners](/culture/workplace-culture-japan-foreigners/)
+- [Dating in Japan as a Foreigner](/culture/dating-in-japan-foreigner/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)

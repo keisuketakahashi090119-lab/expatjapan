@@ -117,3 +117,13 @@ That adds up to a lot of wasted money over time. Use a dedicated transfer servic
 ## Bottom Line
 
 Use **Wise** for the best exchange rate. Use **SBI Remit** if you need same-day delivery to Southeast Asia. And if you're sending to the Philippines regularly and speed is your priority, **Remitly** is worth having installed too.
+
+---
+
+## Related Articles
+
+- [Wise in Japan: Complete Guide for Foreigners](/money/wise-japan-guide/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
+- [Currency Exchange in Japan: Best Options for Foreigners](/money/currency-exchange-japan/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)

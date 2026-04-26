@@ -130,3 +130,13 @@ Two types are required:
 - Mitsui Sumitomo Insurance
 
 Compare quotes at: [保険スクエアbang!](https://www.hoken-sq.com/)
+
+---
+
+## Related Articles
+
+- [Driver's License in Japan: How Foreigners Can Get One](/daily-life/drivers-license-japan-foreigner/)
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [How to Set Up Utilities in Japan](/daily-life/how-to-set-up-utilities-japan/)

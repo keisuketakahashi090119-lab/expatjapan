@@ -106,3 +106,13 @@ Not essential when you're starting out, but worth getting once you've settled. P
 ## Bottom Line
 
 Learn to use your local konbini well and it will solve a lot of problems. Pay bills, print forms, ship packages, withdraw cash with your foreign card — all from a store that's open at 3am. 7-Eleven ATMs are the most reliable for foreign cards. Keep the address of your nearest one saved.
+
+---
+
+## Related Articles
+
+- [Cheap Grocery Shopping in Japan: Tips for Foreigners](/daily-life/cheap-grocery-shopping-japan/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Suica IC Card Guide for Japan](/daily-life/suica-ic-card-guide-japan/)
+- [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

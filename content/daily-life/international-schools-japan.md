@@ -134,3 +134,13 @@ Cost: ¥800,000–¥2,000,000/year — cheaper than full international schools.
 ## Bottom Line
 
 Short-term expats: international school maintains curriculum continuity and avoids the language barrier. Long-term or permanent residents: Japanese public school offers full integration and is free. The best choice depends on your family's timeline, the children's ages, and your budget. In Tokyo, apply to international schools early — popular ones fill up fast.
+
+---
+
+## Related Articles
+
+- [Dependent Visa Japan: Guide for Families](/visa/dependent-visa-japan-guide/)
+- [Spouse Visa Japan: Complete Guide](/visa/spouse-visa-japan-guide/)
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)
+- [Best Resources to Learn Japanese](/daily-life/learning-japanese-best-resources/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

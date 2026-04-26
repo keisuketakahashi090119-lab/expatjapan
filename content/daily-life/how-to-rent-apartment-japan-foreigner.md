@@ -109,3 +109,14 @@ Renting in Japan as a foreigner is manageable if you:
 2. Prepare all documents in advance
 3. Budget for 3–6 months of rent as upfront costs
 4. Consider a share house as an easier starting option
+
+---
+
+## Related Articles
+
+- [Best Neighborhoods in Tokyo for Foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [How to Set Up Utilities in Japan](/daily-life/how-to-set-up-utilities-japan/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [Second-Hand Shopping in Japan](/daily-life/second-hand-shopping-japan/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)

@@ -124,3 +124,13 @@ Japanese work culture can be demanding. Know your rights:
 - **InterNations Japan** — Social network for expats
 - **Tokyo Expat Facebook Group** — Large community, many mental health discussions
 - **r/japanlife (Reddit)** — Active community, very candid discussions about expat challenges
+
+---
+
+## Related Articles
+
+- [Making Friends in Japan as a Foreigner](/culture/making-friends-japan-foreigner/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
+- [Workplace Culture in Japan: A Guide for Foreigners](/culture/workplace-culture-japan-foreigners/)
+- [Best Private Health Insurance for Foreigners in Japan](/health/best-private-health-insurance-foreigners-japan/)

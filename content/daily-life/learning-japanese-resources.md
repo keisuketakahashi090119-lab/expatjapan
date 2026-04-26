@@ -119,3 +119,12 @@ Tests are held twice a year (July and December). Register at jlpt.jp.
 ## Bottom Line
 
 Learn hiragana and katakana first — takes 1–2 weeks and unlocks everything. Use Anki for vocabulary, Genki or Minna no Nihongo for grammar, and HelloTalk for conversation practice. Living in Japan, you'll pick up more than you expect just from daily life — supplement with structured study and progress will come fast.
+
+---
+
+## Related Articles
+
+- [Best Resources to Learn Japanese in 2025](/daily-life/learning-japanese-best-resources/)
+- [Making Friends in Japan as a Foreigner](/culture/making-friends-japan-foreigner/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Workplace Culture in Japan: A Guide for Foreigners](/culture/workplace-culture-japan-foreigners/)

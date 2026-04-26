@@ -141,3 +141,14 @@ Share houses (*シェアハウス*) are popular for working holiday makers — c
 ## Bottom Line
 
 The Working Holiday Visa is one of the best ways to experience Japan long-term without jumping through employment visa hoops. Apply from home, get to Japan, find a share house, find work. English teaching or hospitality jobs are easiest to land quickly. Use the year well — it's non-renewable.
+
+---
+
+## Related Articles
+
+- [Student Visa Japan: Complete Guide](/visa/student-visa-japan-guide/)
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [Part-Time Work in Japan for Foreigners](/jobs/part-time-work-foreigners-japan/)
+- [Best SIM Cards for Foreigners in Japan](/daily-life/best-sim-cards-for-foreigners-japan/)
+- [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
+- [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

@@ -107,3 +107,13 @@ Receive postcard → pick up new residence card
 ```
 
 Apply early, get your HR to move fast on those documents, and you'll be fine. Don't wait until the last minute.
+
+---
+
+## Related Articles
+
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [How to Change Your Visa Status in Japan](/visa/how-to-change-visa-status-japan/)
+- [How to Change Jobs with a Work Visa in Japan](/jobs/how-to-change-jobs-with-work-visa-japan/)
+- [Salary Negotiation in Japan: How Foreigners Can Do It](/jobs/salary-negotiation-japan/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)

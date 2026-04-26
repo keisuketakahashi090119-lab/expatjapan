@@ -136,3 +136,14 @@ Extended absences — especially anything over 3 months at a time — can mess w
 | Processing time | 6–12 months |
 
 PR is absolutely worth pursuing if you're planning to stay in Japan long-term. Start getting your tax and pension records in order 1–2 years before you plan to apply — don't wait until the last minute.
+
+---
+
+## Related Articles
+
+- [Highly Skilled Professional Visa Japan: The Fast Track to PR](/visa/highly-skilled-professional-visa-japan/)
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
+- [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
+- [NISA for Foreigners in Japan](/money/nisa-investing-japan-foreigner/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [National Pension in Japan: What Foreigners Need to Know](/money/national-pension-japan-foreigners/)
