@@ -3,9 +3,7 @@ languageCode: en-us
 title: Expat Japan
 theme: PaperMod
 
-# Google Analytics GA4 Measurement ID (例: G-XXXXXXXXXX)
-# analytics.google.comで取得後、ここに記入してください
-googleAnalytics: ""
+googleAnalytics: "G-B9HFSPR78C"
 
 pagination:
   pagerSize: 10
