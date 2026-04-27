@@ -113,6 +113,15 @@ Find English-speaking doctors and clinics near you.
 
 ---
 
+## VPN & Security
+
+### スイカVPN (Suika VPN)
+Built specifically for Japanese residents and overseas Japanese. If you use public WiFi frequently — at cafes, coworking spaces, or hotels — a VPN protects your connection. Suika VPN also lets you access Japan-region content when abroad.
+
+**[スイカVPN — Try it here](https://px.a8.net/svt/ejp?a8mat=4B1THZ+6DTD22+4R3G+61JSI)**
+
+---
+
 ## Housing & Local Services
 
 ### Suumo / Homes.jp

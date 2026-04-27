@@ -97,10 +97,14 @@ File by **March 15** each year for the previous year's income.
 - **国民健康保険 (National Health Insurance)** — income-based; roughly 10–12% up to a cap
 - **国民年金 (National Pension)** — ¥16,980/month flat (2025)
 
+**Tax filing tool:** **[マネーフォワード クラウド](https://px.a8.net/svt/ejp?a8mat=4B1THZ+9HQUSA+3SPO+C8LMIP)** automates 確定申告 preparation — connects to your bank accounts and automatically categorizes expenses. Widely used by freelancers in Japan.
+
 ### Invoicing and Records
 - Issue invoices (請求書) to clients
 - Keep records of all income and expenses
 - **インボイス制度 (Invoice System)** — Japan introduced a consumption tax invoice system in October 2023. Register as a "qualified invoice issuer" (適格請求書発行事業者) if your annual revenue exceeds ¥10 million (or you want to recover consumption tax on business purchases).
+
+**Cash flow tip:** If a client is slow to pay, **[ペイトナー](https://px.a8.net/svt/ejp?a8mat=4B1THZ+7RTRVE+4PF6+609HU)** and **[ラボル](https://px.a8.net/svt/ejp?a8mat=4B1THZ+805UCA+40JM+1BNQZ5)** are invoice factoring services popular with Japan-based freelancers — they advance payment on outstanding invoices immediately for a small fee.
 
 ### Deductible Expenses
 As a sole proprietor, you can deduct:
@@ -129,6 +133,8 @@ If your clients are overseas (e.g., remote freelance work for foreign companies)
 - **Lancers (lancers.jp)** — Japan's largest freelance marketplace (Japanese)
 - **Crowdworks (crowdworks.jp)** — writing, design, programming
 - **Coconala (coconala.com)** — skills marketplace
+- **[クラウドワークス テック](https://px.a8.net/svt/ejp?a8mat=4B1THZ+82JKRE+2OM2+103Q4H)** — for IT engineers; agent-style matching with long-term contracts
+- **[FREENANCE](https://px.a8.net/svt/ejp?a8mat=4B1THZ+7U7IAI+47L8+5ZU29)** — freelancer bank account + income guarantee insurance in one; specifically designed for Japan freelancers
 
 ### International Platforms (Working Remotely)
 - **Upwork, Fiverr, Toptal** — English-language; work for overseas clients

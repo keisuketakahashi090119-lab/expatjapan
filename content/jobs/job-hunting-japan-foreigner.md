@@ -150,6 +150,16 @@ Note: ¥1M = approximately $6,700 / £5,300 / €6,300 (2025 rates vary).
 
 ---
 
+## Recruitment Agents for Foreigners
+
+Using a recruiter can speed up the process considerably, especially for mid-career moves:
+
+- **[転職AGENT Navi](https://px.a8.net/svt/ejp?a8mat=4B1THZ+3ORPGA+5BJK+5YRHE)** — free matching service that connects you with a dedicated career advisor; strong for bilingual professionals
+- **Daijob Concierge** — specialist in bilingual roles
+- **Robert Half / Robert Walters** — international recruiters with Japan offices; finance, legal, tech
+
+---
+
 ## Bottom Line
 
 IT and engineering have the easiest path for foreigners in Japan. Use Daijob and LinkedIn for professional roles. N2 Japanese dramatically expands your options. For English teaching, GaijinPot and the JET Programme are the starting points. Expect a slow hiring process — start looking 3–6 months before you want to start.

@@ -92,6 +92,7 @@ Passing requires both:
 - **Nihongo So-matome (日本語総まとめ)** — widely used N5–N1 series; covers vocab, kanji, grammar, reading
 - **新完全マスター (Shin Kanzen Master)** — thorough, section-by-section preparation; popular for N2/N1
 - **Try! 日本語能力試験** — grammar-focused; good for N5–N3
+- **[アルク語学講座](https://px.a8.net/svt/ejp?a8mat=4B1THZ+7IW9SQ+2NA+104D9T)** — Japan's most established language publisher; structured courses and JLPT prep materials for all levels
 
 ### Online Resources
 - **WaniKani** — gamified kanji and vocabulary learning; [wanikani.com](https://www.wanikani.com/)
@@ -105,6 +106,7 @@ Passing requires both:
 
 ### Live Practice
 - **[italki](https://www.italki.com/affshare?ref=expatjapan)** — one-on-one Japanese lessons with native tutors. Speaking practice complements JLPT study (even though JLPT has no speaking section, conversation practice accelerates grammar and vocabulary retention significantly)
+- **[ベストティーチャー](https://px.a8.net/svt/ejp?a8mat=4B1THZ+958R2Y+2ZIK+69HA9)** — writing + speaking method; structured feedback from native teachers that directly strengthens grammar accuracy for N2/N1
 
 ---
 
