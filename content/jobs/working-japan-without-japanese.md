@@ -109,6 +109,7 @@ Even if your job is English-only, learning Japanese opens doors dramatically. Re
 
 - [Best Japanese learning resources](/daily-life/learning-japanese-best-resources/) — free and paid options
 - [Japanese language schools guide](/culture/japanese-language-school-guide/) — if you want structured study
+- **[NOVA](https://px.a8.net/svt/ejp?a8mat=4B1THZ+4NAUJE+320A+5YJRM)** — 300+ locations nationwide, flexible lesson scheduling for working adults, no Student Visa required
 - Language exchange apps: Tandem, HelloTalk — practice with native speakers
 
 N3 in 1 year and N2 in 2 years is achievable with consistent daily study alongside full-time work.

@@ -90,7 +90,9 @@ To study at an accredited school full-time, you need a Student Visa:
 ### Tokyo
 Most options, largest variety. Schools in Shinjuku, Shibuya, Ikebukuro, and Ueno areas are popular with foreigners. More expensive but easier for job hunting afterward.
 
-**Notable schools:** ISI Language School, Intercultural Institute of Japan, ECC Japanese Language Institute
+**Notable schools:** ISI Language School, Intercultural Institute of Japan, ECC Japanese Language Institute, [NOVA](https://px.a8.net/svt/ejp?a8mat=4B1THZ+4NAUJE+320A+5YJRM)
+
+**[NOVA](https://px.a8.net/svt/ejp?a8mat=4B1THZ+4NAUJE+320A+5YJRM)** is one of Japan's largest private English/Japanese conversation school chains, with 300+ locations nationwide. Their Japanese lessons for foreigners are widely available, flexible, and don't require a Student Visa — making them ideal for working adults who want to improve their Japanese alongside a job.
 
 ### Osaka
 Strong Kansai dialect option (though most schools teach standard Japanese). Cheaper than Tokyo.

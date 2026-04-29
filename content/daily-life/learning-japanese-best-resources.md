@@ -118,6 +118,7 @@ If you want structured classroom learning:
 - Check at your city hall (市役所)
 
 ### Private Language Schools
+- **[NOVA](https://px.a8.net/svt/ejp?a8mat=4B1THZ+4NAUJE+320A+5YJRM)** — 300+ locations across Japan, flexible scheduling for working adults, no Student Visa needed. Best option if you want in-person lessons around your work schedule.
 - Berlitz Japan — Professional, expensive
 - ARC Academy — Popular with foreign residents
 - JaLS (Japan Language School) — Tokyo-based, English support
