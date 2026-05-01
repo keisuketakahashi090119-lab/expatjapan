@@ -14,6 +14,8 @@ cover:
 
 Hanami (花見) — literally "flower viewing" — is the Japanese tradition of gathering under blooming cherry trees to eat, drink, and celebrate spring. It's one of the most joyful cultural traditions in Japan, and completely open to everyone.
 
+If you're planning to travel to another city to experience hanami at a famous spot — Hirosaki, Kyoto, or Hiroshima — booking flights early makes a real difference on cost. [日本全国の路線を網羅！格安航空券なら【ソラハピ】](https://px.a8.net/svt/ejp?a8mat=4B1THZ+48F0EY+39GM+4GTE7M) covers routes across Japan and is worth comparing against shinkansen prices, especially for longer distances.
+
 ---
 
 ## When Is Cherry Blossom Season?
