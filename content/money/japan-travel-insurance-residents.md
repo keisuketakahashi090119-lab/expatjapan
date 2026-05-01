@@ -94,6 +94,19 @@ Many foreigners assume their home country's public healthcare still covers them 
 
 ---
 
+## Booking Domestic Travel in Japan
+
+For trips within Japan, domestic flights are sometimes faster and cheaper than shinkansen — especially for routes to Okinawa, Hokkaido, or Kyushu.
+
+**[日本全国の路線を網羅！格安航空券なら【ソラハピ】](https://px.a8.net/svt/ejp?a8mat=4B1THZ+48F0EY+39GM+4GTE7M)** — Compare domestic flight prices across all major Japanese airlines.
+
+And if you want insurance advice tailored to your travel and lifestyle needs as an expat, free consultations with a financial planner are available:
+
+- **[みんなの生命保険アドバイザーは全国相談無料！](https://px.a8.net/svt/ejp?a8mat=4B1THZ+5850PM+20NK+63WO2)**
+- **[顧客満足度95％の保険相談なら保険マンモス](https://px.a8.net/svt/ejp?a8mat=4B1THZ+59BVX6+5SIO+5YJRM)**
+
+---
+
 ## Related Articles
 
 - [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)

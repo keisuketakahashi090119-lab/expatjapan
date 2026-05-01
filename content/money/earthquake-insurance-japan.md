@@ -105,6 +105,15 @@ Tsunami damage is covered under 地震保険 when the tsunami is caused by an ea
 
 ---
 
+## Get Free Insurance Advice
+
+Figuring out the right insurance setup in Japan can be complex. Free financial planner consultations can help:
+
+- **[みんなの生命保険アドバイザーは全国相談無料！](https://px.a8.net/svt/ejp?a8mat=4B1THZ+5850PM+20NK+63WO2)** — 3,000+ FPs nationwide, free consultation
+- **[顧客満足度95％の保険相談なら保険マンモス](https://px.a8.net/svt/ejp?a8mat=4B1THZ+59BVX6+5SIO+5YJRM)** — matched with a local FP
+
+---
+
 ## How to Buy Earthquake Insurance
 
 In Japan, 地震保険 must be purchased as an add-on to fire insurance (火災保険). You cannot buy earthquake insurance standalone.

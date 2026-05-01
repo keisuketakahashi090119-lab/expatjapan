@@ -98,10 +98,17 @@ Use **[freee](https://www.freee.co.jp/)** or **[MFクラウド](https://biz.mone
 
 ---
 
+## Managing Cash Flow as a Freelancer
+
+One common freelance challenge in Japan: clients often pay on 30–60 day cycles, leaving gaps in income.
+
+**[ペイトナー](https://px.a8.net/svt/ejp?a8mat=4B1THZ+7RTRVE+4PF6+609HU)** is a service specifically for freelancers in Japan — it buys your unpaid invoices and pays you immediately (same day), for a small fee. Useful when you're waiting on late payments.
+
 ## Managing Money as a Freelancer
 
 - **[Wise](https://wise.com/)** — Essential if you have overseas clients paying in foreign currency. Convert at real exchange rates.
 - **Rakuten Bank** — Works well with Japanese freelance platforms
+- **[ペイトナー](https://px.a8.net/svt/ejp?a8mat=4B1THZ+7RTRVE+4PF6+609HU)** — Invoice factoring for freelancers; get paid same day on outstanding invoices
 - Keep all receipts — business expenses are deductible
 
 ---

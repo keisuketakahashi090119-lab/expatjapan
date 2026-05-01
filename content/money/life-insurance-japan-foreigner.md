@@ -115,9 +115,17 @@ Japanese term life is competitive in price, especially for younger applicants.
 
 ---
 
-## Free Consultation — みんなの生命保険アドバイザー
+## Free Consultation Services
 
-Navigating Japanese life insurance in English is difficult. Services like **みんなの生命保険アドバイザー** offer free consultations with financial planning professionals who can explain your options — including whether international or domestic insurance makes more sense for your situation.
+Navigating Japanese life insurance in English is difficult. Two recommended free consultation services:
+
+### みんなの生命保険アドバイザー
+Over 3,000 certified financial planners nationwide. Free consultation, no obligation.
+**[みんなの生命保険アドバイザーは全国相談無料！](https://px.a8.net/svt/ejp?a8mat=4B1THZ+5850PM+20NK+63WO2)**
+
+### 保険マンモス
+95% customer satisfaction. Matched with a local FP for a free in-person consultation.
+**[顧客満足度95％の保険相談なら保険マンモス](https://px.a8.net/svt/ejp?a8mat=4B1THZ+59BVX6+5SIO+5YJRM)**
 
 ---
 

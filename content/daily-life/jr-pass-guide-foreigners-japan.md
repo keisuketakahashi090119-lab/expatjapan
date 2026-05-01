@@ -109,6 +109,14 @@ For residents travelling domestically: buy regular Shinkansen tickets. The [Suic
 
 ---
 
+## Domestic Flights: An Alternative to Shinkansen
+
+For longer routes (Tokyo–Sapporo, Tokyo–Okinawa, Osaka–Okinawa), domestic flights can be faster and cheaper than the Shinkansen — even without a JR Pass.
+
+**[日本全国の路線を網羅！格安航空券なら【ソラハピ】](https://px.a8.net/svt/ejp?a8mat=4B1THZ+48F0EY+39GM+4GTE7M)** — Compare domestic flights across Japan's major airlines (ANA, JAL, Peach, Jetstar) in one place.
+
+---
+
 ## Related Articles
 
 - [Suica and IC Card Guide for Japan](/daily-life/suica-ic-card-guide-japan/)
