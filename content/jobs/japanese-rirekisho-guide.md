@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Japanese Rirekisho (履歴書) Guide for Foreigners (2025)"
 date: 2025-05-01
 description: "How to write a Japanese rirekisho as a foreigner. Format, photo, each section explained, and common mistakes to avoid."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-The rirekisho (履歴書) is Japan's standard job application form — and it's nothing like a Western CV. Fixed format, handwritten in many cases, with sections that would be unusual to ask for in Western countries.
+The rirekisho is Japan's traditional resume format — handwritten, formatted, and unlike anything you've submitted before. Getting it wrong signals lack of attention to detail before you've even had an interview. Here's how to complete one properly.
 
 ---
 

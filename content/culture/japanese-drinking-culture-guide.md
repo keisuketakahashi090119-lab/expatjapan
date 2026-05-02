@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Drinking is woven into Japanese social and professional life in ways that can surprise newcomers. Whether it's after-work drinks with colleagues, a neighborhood event, or a formal company party, understanding how drinking culture works in Japan will help you navigate these situations gracefully — whether you choose to drink or not.
+Drinking in Japan isn't just about alcohol — it's how colleagues become friends and walls come down. Misread the room and you'll stand out for the wrong reasons. This guide explains the unwritten rules so you can enjoy nomikai without the awkwardness.
 
 ## The Izakaya: Japan's Social Drinking Headquarters
 

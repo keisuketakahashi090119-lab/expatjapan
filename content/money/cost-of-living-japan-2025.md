@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cost of Living in Japan 2025: Complete City-by-City Breakdown"
 date: 2025-05-02
 description: "How much does it really cost to live in Japan in 2025? Monthly budgets for Tokyo, Osaka, Fukuoka and more — rent, food, transport, utilities all covered."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has a reputation for being expensive. The reality is more nuanced — Tokyo is pricey, but outside the capital you can live very comfortably on a modest salary. Here's a realistic, updated breakdown for 2025.
+Japan's cost of living reputation is outdated. The yen's weakness has made Japan more affordable than most Western countries for many categories of spending — and more expensive in others. Here's a current, honest breakdown of what life actually costs in Japan in 2025.
 
 ---
 

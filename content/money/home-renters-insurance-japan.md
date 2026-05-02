@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-In Japan, renters are typically required to hold **火災保険 (kasai hoken — fire insurance)** as a condition of their lease. It's not optional for most tenants. Here's what you need to know.
+Renters insurance in Japan is cheap, often required by landlords, and covers more than most tenants realize. Skipping it is a false economy. Here's what renters insurance covers in Japan and how to get the right policy.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Understanding salary expectations before accepting a job in Japan is critical — especially as a foreigner where information is sometimes inconsistently shared during hiring. This guide provides realistic salary ranges by industry and job type for foreign workers in Japan in 2025, along with practical context about what these numbers actually mean for your lifestyle.
+Salary expectations in Japan are often misaligned for foreigners coming from Western markets — in some sectors higher, in many lower, and structured differently across the board. Knowing the actual numbers puts you in a better position to negotiate. Here's a realistic salary guide for foreigners working in Japan.
 
 ## The Overall Picture
 

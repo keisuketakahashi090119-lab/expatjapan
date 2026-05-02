@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-When evaluating a job offer in Japan, the listed monthly salary is only part of the picture. Japanese companies offer a variety of benefits — some required by law, others discretionary — that can significantly affect your total compensation and quality of life. This guide breaks down the most common benefits and what to watch for as a foreign worker.
+Japanese companies offer a range of benefits that many foreign employees don't fully understand or claim. From commuting allowances to housing subsidies, knowing what to negotiate for makes a significant difference to your overall package. Here's what's typically on the table.
 
 ## Legally Required Benefits
 

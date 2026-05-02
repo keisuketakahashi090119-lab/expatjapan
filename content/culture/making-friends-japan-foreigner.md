@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-One of the most common complaints from foreigners in Japan is loneliness. Japan is a warm country, but the culture around friendship is different — it takes longer, and the approaches that work back home may not work the same way here.
+Many foreigners in Japan describe the same experience: polite colleagues, friendly conversations — but no real friends. Making genuine connections here takes a different approach than back home. This guide explains why, and what actually works.
 
 ---
 

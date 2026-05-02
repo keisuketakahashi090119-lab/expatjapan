@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Teaching English remains one of the most accessible paths into Japan for foreigners without Japanese language skills. Whether you want a structured program or freelance flexibility, there are options.
+Teaching English in Japan remains one of the most accessible paths to living and working here legally — but the experience varies enormously depending on where and how you do it. ALT programs, eikaiwa schools, and private tutoring are completely different worlds. Here's how to choose the right path.
 
 ---
 

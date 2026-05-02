@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan drives on the **left side** of the road. The road system is excellent, signage is increasingly bilingual, and driving opens up rural areas that are nearly inaccessible by public transport. Here's what foreigners need to know.
+Japan drives on the left, the road signs mix Japanese and symbols, and the rules around parking are stricter than most foreigners expect. Drive unprepared and you'll face fines, confusion, or worse. This guide covers the practical essentials for foreigners getting behind the wheel in Japan.
 
 ---
 

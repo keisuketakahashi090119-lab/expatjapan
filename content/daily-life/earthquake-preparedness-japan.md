@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan experiences thousands of earthquakes every year. Most are minor, but being prepared for a major one is essential for anyone living here.
+Japan averages 1,500 earthquakes a year. Most are minor — but the big ones happen without warning. Having a plan before disaster strikes is the difference between managing it and being helpless. Here's what every foreigner living in Japan should have prepared right now.
 
 ---
 

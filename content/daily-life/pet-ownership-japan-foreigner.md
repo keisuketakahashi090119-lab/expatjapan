@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Having a pet in Japan is very common — but there are specific rules foreigners need to know about apartments, registration, and bringing animals from abroad.
+Bringing a pet to Japan or getting one here involves regulations, costs, and apartment rules that catch many foreigners off guard. Done right, it's entirely manageable. Here's the full picture on pet ownership in Japan.
 
 ---
 

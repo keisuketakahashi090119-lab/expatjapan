@@ -12,9 +12,7 @@ cover:
   relative: false
 ---
 
-Changing jobs in Japan as a foreigner feels scary. Will you lose your visa? Do you need to tell immigration? Can your new employer sponsor you?
-
-The short answer: **yes, you can change jobs** — but there are rules you need to follow. Miss them and you've got a real problem.
+Changing jobs in Japan on a work visa isn't always straightforward — your visa may be tied to your current employer in ways that create real constraints. Knowing the rules before you resign protects your legal status. Here's exactly how job changes work on a Japanese work visa.
 
 ---
 

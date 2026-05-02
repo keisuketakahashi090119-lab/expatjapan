@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Shukkatsu Guide for Foreigners in Japan — Japan's Graduate Job Hunt System"
 date: 2025-05-08
 description: "How Japan's shukkatsu new graduate job hunting system works, and how foreigners can navigate it. Timeline, process, OB/OG visits, webtest, and interview tips."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's shukkatsu (就活, short for 就職活動) is unlike anything in the West. It's a synchronized mass hiring process where most companies recruit new graduates at the same time, following an almost identical schedule. If you're a foreign student at a Japanese university — or a foreigner targeting Japanese companies — here's how it works.
+Shukkatsu — Japan's new graduate job hunting season — operates on a calendar and process that shocks most foreigners encountering it for the first time. It is highly structured, starts earlier than you'd expect, and has its own rituals and expectations. Here's how to navigate it as a foreign student or graduate.
 
 ---
 

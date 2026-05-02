@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-You've probably heard about the My Number card since arriving in Japan. Maybe someone at your ward office mentioned it. Maybe your employer asked about it. Here's what it actually is and whether you really need one.
+My Number is Japan's national identification system, and if you live in Japan, you have one whether you've used it or not. The physical card unlocks a growing range of services that make life significantly easier. Here's what it is, how to get the card, and when you'll actually need it.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Groceries in Japan are manageable if you know where to shop and when. Here's how to keep your food costs low.
+Groceries in Japan don't have to be expensive — if you know which stores to use, which products to buy, and when to shop. Most foreigners overpay for years simply because nobody told them the tricks locals use. Here's how to cut your food bill significantly.
 
 ---
 

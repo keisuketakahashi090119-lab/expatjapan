@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Cycling is one of the best ways to get around Japan. It's cheap, practical, environmentally friendly, and in many cities — particularly in flatter urban areas like Osaka, Nagoya, and Sapporo — it's often faster than public transport for short to medium distances. Tens of millions of Japanese people cycle daily for commuting and errands. Here's everything you need to know as a foreigner to cycle safely and legally in Japan.
+A bicycle changes everything about daily life in Japan — shorter commutes, less crowded trains, lower costs. But there are rules, registration requirements, and parking laws most foreigners don't know about until they get a fine. Here's how to cycle in Japan the right way.
 
 ## Why Cycling Works in Japan
 

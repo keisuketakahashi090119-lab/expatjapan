@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Japanese Residence Card (在留カード) — Complete Guide for Foreigners"
 date: 2025-05-04
 description: "Everything foreigners need to know about the Japanese Residence Card (Zairyu Card) — how to get it, what it's for, address changes, and what happens if you lose it."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-The Residence Card (在留カード, Zairyu Card) is the most important document you'll carry as a foreign resident in Japan. Without it, you can't open a bank account, sign a lease, or get a SIM card.
+Your residence card is the most important document you carry in Japan — more than your passport for daily purposes. Understanding what it contains, when to update it, and the consequences of letting it expire protects your legal status here. Here's everything you need to know.
 
 ---
 

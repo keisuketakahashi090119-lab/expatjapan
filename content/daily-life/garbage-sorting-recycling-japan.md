@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan takes garbage very seriously. Sorting rules vary by municipality — but the basics apply almost everywhere. Get it wrong and your trash won't be collected, or worse, you'll get a warning notice.
+Putting out the garbage wrong in Japan isn't just embarrassing — it can result in your bags being rejected and left on the street with a note attached. Garbage sorting here is detailed and varies by municipality. Here's how to get it right without spending a week deciphering Japanese rules.
 
 ---
 

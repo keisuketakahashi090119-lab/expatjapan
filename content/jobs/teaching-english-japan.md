@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Teaching English remains the most accessible career path for foreigners in Japan — especially for those without Japanese language skills. Tens of thousands of foreign nationals work as English teachers across the country.
+Japan hires thousands of English teachers every year — and the demand shows no sign of slowing. But not all English teaching jobs are created equal, and signing the wrong contract is a year-long mistake. Here's what you need to know before applying.
 
 ---
 

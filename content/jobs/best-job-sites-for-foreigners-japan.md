@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Finding a job in Japan as a foreigner is very doable — but you need to be on the right platforms. Japanese job sites that work great for locals are often useless for foreigners. Here are the ones that actually work.
+Most foreigners job-hunting in Japan start with Google and end up on the wrong platforms. The best job sites for foreigners are specific, and the ones worth your time vary by industry and language ability. Here's a direct comparison of where to actually find jobs in Japan.
 
 ---
 

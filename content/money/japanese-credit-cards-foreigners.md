@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Getting a credit card in Japan as a foreign resident is challenging — but possible. The key factors are your visa status, length of stay, and employment situation.
+Getting a Japanese credit card as a foreigner is harder than it should be — most domestic cards require a credit history in Japan that takes years to build. But options exist, and the right card unlocks significant discounts and rewards. Here's how to get one and which cards are actually attainable.
 
 ---
 

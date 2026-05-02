@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Life Insurance in Japan for Foreigners — What Are Your Options? (2025)"
 date: 2025-05-09
 description: "Life insurance options for foreigners living in Japan — Japanese domestic insurers, international policies, and what you actually need as an expat."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Life insurance in Japan as a foreigner is more accessible than most people expect — but the options, eligibility, and what makes sense for your situation depend on several factors.
+Life insurance in Japan is widely available, competitively priced, and accessible to foreign residents — but the range of products is bewildering. Understanding what you actually need simplifies the decision significantly. Here's a practical guide to life insurance in Japan for foreigners.
 
 ---
 

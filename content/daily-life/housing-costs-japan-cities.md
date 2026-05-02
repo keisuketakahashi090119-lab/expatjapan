@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Rent is the biggest expense for most foreigners in Japan. Costs vary dramatically by city, neighborhood, and apartment size. Here's a realistic breakdown.
+Housing costs in Japan vary dramatically by city — and the gap is larger than most people moving here expect. Where you choose to live affects your entire financial picture. Here's an honest, current comparison of rental costs across Japan's major cities.
 
 ---
 

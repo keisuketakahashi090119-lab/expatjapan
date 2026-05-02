@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Renting in Japan as a foreigner is absolutely doable — but it takes more prep work than it would back home. Here's what to expect and how to make it go smoothly.
+Renting an apartment in Japan as a foreigner involves a set of hurdles you won't find in most countries — guarantors, key money, and landlords who may decline foreigners outright. Knowing how the system works gives you a real advantage. Here's a step-by-step guide to renting in Japan successfully.
 
 ---
 

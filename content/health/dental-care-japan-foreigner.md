@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has a high standard of dental care. Costs with public health insurance are very reasonable, and dental clinics are numerous — most neighborhoods have several within walking distance.
+Dental care in Japan is affordable, technically excellent, and widely available — but the system works differently than most foreigners expect. Knowing how to navigate it saves money and avoids confusion. Here's a practical guide to dental care in Japan.
 
 ---
 

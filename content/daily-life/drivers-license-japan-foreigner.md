@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-You can drive in Japan as a foreigner — either with an International Driving Permit (IDP) temporarily, or by converting your foreign license. Here's how.
+Getting a Japanese driver's license as a foreigner takes anywhere from one afternoon to several weeks — depending entirely on which country issued your current license. Knowing which path applies to you saves enormous time and money. Here's how the process works for each country.
 
 ---
 

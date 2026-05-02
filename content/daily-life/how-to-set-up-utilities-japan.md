@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Moving into a new apartment in Japan means setting up utilities yourself. Your landlord doesn't do this for you. Here's how to get everything running quickly.
+Setting up electricity, gas, and water in Japan sounds straightforward — until you realize the process involves phone calls or web forms that are entirely in Japanese. Most foreigners rely on a helpful colleague or neighbor. This guide lets you handle it yourself.
 
 ---
 

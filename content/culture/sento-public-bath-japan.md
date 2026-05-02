@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Sento (銭湯) are Japan's neighborhood public bathhouses — a centuries-old institution that still thrives in cities today. Unlike onsen (which use natural hot spring water), sento heat ordinary water. They're cheap, local, unpretentious, and one of the most authentic experiences of everyday Japanese life.
+Walking into a sento for the first time without knowing the rules is a fast way to embarrass yourself and everyone around you. But sento culture is one of the most rewarding parts of life in Japan once you understand it. This guide covers everything — from what to bring to what never to do.
 
 ---
 

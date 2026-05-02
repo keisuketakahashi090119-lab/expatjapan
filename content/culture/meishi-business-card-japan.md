@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-In Japan, exchanging business cards (名刺, *meishi*) is a formal ritual that carries real professional weight. Handling someone's card carelessly is seen as disrespecting the person themselves.
+You received a business card and shoved it in your back pocket. That was noticed. Meishi exchange is a ritual in Japan, and how you handle it in the first thirty seconds sets the tone for the entire relationship. Here's what to do — and what never to do.
 
 ---
 

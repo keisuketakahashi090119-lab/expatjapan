@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Remote work and Japan are increasingly compatible — but you need to understand the visa and tax rules before assuming you can simply live here and work for a foreign employer.
+Remote work and Japan have a complicated relationship — visa rules, tax implications, and cultural expectations around physical presence all create friction that most remote workers don't anticipate. Here's what you actually need to know before working remotely from Japan.
 
 ---
 

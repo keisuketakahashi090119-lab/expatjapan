@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's public transport system is one of the best in the world — punctual, clean, and extensive. It can look intimidating at first, but a few fundamentals make it easy to navigate.
+Japan's public transport network is the most efficient in the world — but it has a learning curve that most newcomers underestimate. IC cards, express lines, reserved seats, last trains — get these wrong and you'll end up stranded or overcharged. Here's how to use it like someone who's been here for years.
 
 ---
 

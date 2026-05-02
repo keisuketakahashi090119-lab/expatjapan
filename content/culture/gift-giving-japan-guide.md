@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Gift giving (贈り物, *okurimono*) is deeply embedded in Japanese culture. Done well, it builds relationships and shows cultural awareness. Done wrong, it can cause confusion or offense. Here's what you need to know.
+You brought a gift — and somehow that made things awkward. Gift-giving in Japan follows an unwritten rulebook most foreigners never see. Get it right, and you build trust instantly. Get it wrong, and you may not even know why the mood shifted.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Sending money home is one of the most frequent financial tasks for foreigners in Japan. Done wrong, you lose 3–5% of every transfer. Done right, you keep almost everything.
+Sending money overseas from Japan is something most foreigners do regularly — and most of them are overpaying on fees and exchange rates. The best services for international transfers from Japan can save you significant money each year. Here's how to compare your options.
 
 ---
 

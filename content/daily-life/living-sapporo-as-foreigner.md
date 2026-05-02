@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Sapporo is Japan's fifth-largest city and the capital of Hokkaido, Japan's northernmost main island. It offers a pace of life dramatically different from Tokyo — cleaner air, wide streets, stunning nature, and a strong food culture. For foreigners considering life outside Japan's main urban corridor, Sapporo is one of the most compelling options in the country.
+Sapporo sits in a different climate zone from most of Japan — winters are serious, summers are genuinely comfortable, and the pace of life is slower. For foreigners who want Japan without the Tokyo intensity, it's worth a closer look. Here's what living in Sapporo is actually like.
 
 ## Why Choose Sapporo?
 

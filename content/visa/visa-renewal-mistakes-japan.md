@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's visa renewal process seems straightforward — but small mistakes can lead to refusals, delays, or in serious cases, having to leave Japan. Here are the most common issues foreigners encounter.
+Visa renewal mistakes in Japan range from minor to disqualifying — and most of them are entirely avoidable. A rejected renewal or a lapse in status creates problems that take months to resolve. Here are the mistakes people make most often and how to avoid them.
 
 ---
 

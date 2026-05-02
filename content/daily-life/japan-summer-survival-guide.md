@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's summer (June–September) is intense. Tokyo regularly hits 35–38°C with humidity above 80%. Add the rainy season (*tsuyu*) before the heat peaks, and it's one of the most challenging climates for newcomers.
+Japanese summer is genuinely brutal — not just hot, but oppressively humid in a way that shocks people who thought they knew heat. The good news is that locals have developed the tools and habits to handle it. Here's how to survive — and even enjoy — summer in Japan.
 
 ---
 

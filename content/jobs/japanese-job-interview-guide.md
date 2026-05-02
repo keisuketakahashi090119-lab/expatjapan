@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Landing a job interview in Japan is an achievement in itself — but walking in without understanding the local interview culture can cost you the offer. Japanese job interviews follow specific conventions that differ significantly from Western norms. This guide explains what to expect, how to prepare, and how foreigners can stand out for the right reasons.
+A Japanese job interview follows conventions that most foreigners haven't encountered before — formal structure, specific questions, and expectations around presentation that differ from Western norms. Prepare for the right things and you'll stand out. Here's exactly what to expect.
 
 ## Before the Interview: Research and Preparation
 

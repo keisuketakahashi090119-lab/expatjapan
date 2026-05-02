@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has clear social rules. You won't always be expected to follow them perfectly as a foreigner, but knowing them helps you avoid awkward situations and shows respect. Here's what actually matters day-to-day.
+Nobody expects you to be perfect — but a few missteps can leave a lasting impression you didn't intend. Japanese etiquette isn't complicated once you know the logic behind it. Here are the rules that actually matter in daily life.
 
 ---
 

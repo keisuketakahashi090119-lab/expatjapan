@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has one of the world's highest inheritance tax rates — with a top marginal rate of **55%** on large estates. For foreigners living in Japan, the rules can be surprising: in many cases, your worldwide assets — not just those in Japan — can be subject to Japanese inheritance tax. This guide explains who is liable, how the tax is calculated, and what steps foreigners can take to plan ahead.
+Japan's inheritance tax is one of the highest in the world, and it can apply to foreign residents in ways that most people don't anticipate until it's too late. Understanding your exposure is critical if you have significant assets or family overseas. Here's how inheritance tax works for foreigners in Japan.
 
 ## Does Japan's Inheritance Tax Apply to Foreigners?
 

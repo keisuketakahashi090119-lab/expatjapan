@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's Working Holiday Visa lets young people from eligible countries live and work in Japan for up to 1 year. It's one of the most accessible ways to experience living in Japan without a work sponsorship.
+Japan's working holiday visa is one of the best deals in Japanese immigration — legal work permission, flexible movement, and up to a year in the country. The catch is that it's only available to citizens of specific countries, and the slots fill quickly. Here's everything you need to know to apply.
 
 ---
 

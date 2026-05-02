@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Japan Tax Treaties for Foreigners — Do You Pay Tax in Your Home Country?"
 date: 2025-05-09
 description: "Does Japan's tax treaty with your home country mean you still owe taxes back home? US, UK, Australia, Canada explained — and what you need to file."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has tax treaties with over 70 countries. But whether that means you can stop filing taxes in your home country depends entirely on which country you're from.
+Japan has tax treaties with dozens of countries that can dramatically reduce what you owe — or prevent you from being taxed twice on the same income. Most foreigners don't know whether their country has a treaty with Japan or how to use it. Here's how to find out and what to do.
 
 ---
 

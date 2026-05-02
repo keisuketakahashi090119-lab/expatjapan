@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese pharmacies (薬局) and drugstores are excellent — well-stocked and widespread. But there are differences from what you might be used to, and some medications require a prescription or aren't available at all.
+Japanese pharmacies are well-stocked and easy to use — but the medications available over the counter differ from what you might find at home, and some common drugs are simply not available here. Knowing the system saves time when you're sick and need help fast. Here's how Japanese pharmacies work.
 
 ---
 

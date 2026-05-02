@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Getting a credit card in Japan as a foreigner is possible — but you need to know which cards actually approve foreigners and which ones will waste your time. Here's the real breakdown.
+Using the wrong credit card in Japan costs you money on every transaction — foreign transaction fees, poor exchange rates, and missed rewards. The right card setup for Japan is different from what works at home. Here's what to use and what to avoid.
 
 ---
 

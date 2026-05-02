@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's child allowance — known as **Jidou Teate (児童手当)** — is a monthly government payment to families with children. As a foreign resident in Japan, you are fully eligible to receive this benefit, provided you meet the residency and income requirements. This guide explains the current rules, amounts, and how to apply.
+Japan pays a monthly child allowance to parents — and many foreigners don't know they're entitled to claim it. The paperwork is manageable once you know what's required. Here's exactly how to apply and how much you can expect.
 
 ## What Is Jidou Teate?
 

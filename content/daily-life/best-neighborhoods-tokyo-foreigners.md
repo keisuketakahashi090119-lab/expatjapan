@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Tokyo is enormous. Choosing where to live affects your commute, rent, social life, and how easy daily life is as a foreigner. Here's a practical breakdown of the most popular areas.
+Tokyo is enormous, and your neighborhood shapes your entire life here — commute, community, cost, and comfort. Pick the wrong area and you'll spend two years wanting to move. Here's a neighborhood-by-neighborhood breakdown for foreigners figuring out where to live in Tokyo.
 
 ---
 

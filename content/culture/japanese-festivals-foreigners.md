@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's festivals (祭り, *matsuri*) are among the most spectacular cultural experiences you'll have as a foreigner living here. Unlike tourist attractions, matsuri are genuine community events — and you're welcome to join.
+Summer in Japan means festivals — and they're unlike anything you've experienced elsewhere. But showing up unprepared means missing the best parts. This guide tells you what to wear, what to eat, and how to actually enjoy matsuri season.
 
 ---
 

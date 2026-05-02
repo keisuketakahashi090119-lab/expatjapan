@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Residence tax (*jūmin-zei*, 住民税) is a local tax paid to your prefecture and municipality. Many foreigners are caught off guard by it — especially in their second year in Japan when the bill suddenly arrives. Here's everything you need to know.
+Residence tax in Japan arrives as a surprise for most foreigners in their second year — it's a substantial bill that many people aren't financially prepared for. Understanding how it works before it arrives makes it much easier to manage. Here's what residence tax is and how to plan for it.
 
 ---
 

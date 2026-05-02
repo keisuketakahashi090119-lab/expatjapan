@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Investing while living in Japan is straightforward once you understand the key account types and tax rules. The New NISA makes Japan one of the better countries for retail investors.
+Investing while living in Japan as a foreigner involves tax implications, account restrictions, and platform choices that don't apply to Japanese residents. Getting the setup right from the beginning saves significant complications later. Here's a practical guide to investing in Japan as a foreign resident.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-In Japan, being a good neighbor is taken seriously. Residential community harmony (近所付き合い, *kinjo-tsukiai*) matters — especially in apartments where walls are thin and community rules are enforced. This guide covers what you need to know to fit in and avoid problems.
+Your neighbors noticed everything on your first day. In Japan, how you behave in your building and on your street matters more than most foreigners realize. Get the basics right early and you'll avoid complaints, tension, and awkward confrontations.
 
 ---
 

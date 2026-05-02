@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Save this page right now. Before you actually need it.
+An earthquake at 2 a.m., a hospital visit where no one speaks English, a typhoon warning you can't read. Emergencies don't wait until you've learned the language. Here's the practical playbook every foreigner in Japan needs to have ready before anything goes wrong.
 
 ---
 

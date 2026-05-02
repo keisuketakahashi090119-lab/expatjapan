@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Car Insurance in Japan as a Foreigner — Complete Guide (2025)"
 date: 2025-05-10
 description: "How car insurance works in Japan for foreigners. Compulsory vs voluntary insurance, using a foreign license, and how to choose the right policy."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-If you're driving in Japan, you need at least two types of insurance. Here's how the system works and what foreigners need to know.
+Car insurance in Japan is mandatory — and the system works differently than in most countries. Without the right coverage, a single accident can be financially devastating. Here's everything you need to know before you get behind the wheel.
 
 ---
 

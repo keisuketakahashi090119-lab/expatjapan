@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Getting Married in Japan as a Foreigner — Complete Step-by-Step Guide"
 date: 2025-05-05
 description: "How to get legally married in Japan as a foreigner — required documents, where to register, spouse visa process, and what changes on your residence card."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Getting married in Japan as a foreigner involves more paperwork than locals deal with — but it's manageable if you know the steps. Here's the complete process.
+Getting married in Japan as a foreigner involves two separate processes — a Japanese legal registration and the documentation from your home country — and missing either creates problems. The process is manageable when you know what's required. Here's a step-by-step guide to getting married in Japan.
 
 ---
 

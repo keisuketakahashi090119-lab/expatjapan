@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has **16 public holidays** per year. Understanding when they fall is essential for planning travel, government visits, and knowing when businesses close. Here's the complete guide.
+Japan has sixteen public holidays, and several cluster together in ways that affect everything from business schedules to travel costs. Miss the pattern and you'll be caught off-guard repeatedly. Here's the complete calendar with context for what each holiday actually means.
 
 ---
 

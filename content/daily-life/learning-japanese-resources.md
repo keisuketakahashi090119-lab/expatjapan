@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Living in Japan gives you a massive advantage for learning Japanese — immersion is the best teacher. Here's what actually works, from complete beginner to conversational.
+Learning Japanese is hard. Choosing the wrong resources makes it much harder. After years of living in Japan and watching what actually works, some patterns become clear. Here's a practical guide to the resources worth your time.
 
 ---
 

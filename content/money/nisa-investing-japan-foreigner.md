@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's NISA (少額投資非課税制度) is one of the most powerful tax-free investment tools available to residents. And yes — foreigners can use it.
+NISA allows foreign residents in Japan to invest tax-free — but most foreigners don't know they qualify or how to actually open an account. The 2024 NISA reform made it significantly more powerful. Here's a clear guide to using NISA as a foreigner.
 
 ---
 

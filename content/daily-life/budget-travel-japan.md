@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Living in Japan is a huge advantage for exploring the country. You don't need tourist packages — with a Suica card, budget accommodation, and smart booking, Japan is extremely affordable to travel.
+Japan has a reputation for being expensive. It's partly deserved — and mostly misleading. Travel Japan the right way and you can eat brilliantly, sleep comfortably, and see the best of the country without spending a fortune. Here's exactly how to do it.
 
 ---
 

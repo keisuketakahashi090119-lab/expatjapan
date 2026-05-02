@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-NISA (少額投資非課税制度) is Japan's government-backed tax-free investment account — similar to ISAs in the UK or Roth IRAs in the USA. It's one of the best ways for anyone living in Japan to invest, and foreigners can open one.
+NISA is Japan's tax-free investment account — similar in concept to an ISA or Roth IRA — and foreign residents can open one. Most foreigners never use it because they don't know they're eligible. Here's how NISA works and whether it makes sense for you.
 
 ---
 

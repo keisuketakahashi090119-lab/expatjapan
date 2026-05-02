@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Japanese Language Schools in Japan — Guide for Foreigners (2025)"
 date: 2025-05-07
 description: "How to choose a Japanese language school in Japan. What to look for, how much it costs, visa implications, and the best schools for foreigners."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Studying at a Japanese language school is one of the most popular ways for foreigners to enter Japan — or to level up their Japanese after arriving. Here's everything you need to know before enrolling.
+Choosing the wrong Japanese language school is an expensive mistake that costs you months of progress. The right school can transform your Japanese — and your life in Japan. Here's how to evaluate your options and pick the one that actually fits your goals.
 
 ---
 

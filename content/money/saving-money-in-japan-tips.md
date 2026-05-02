@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has a reputation for being expensive. And yeah, Tokyo rent isn't cheap. But a lot of day-to-day living here is actually very affordable if you know where to look. Here's how to keep more money in your pocket.
+Japan can be extremely affordable if you live like a resident rather than a tourist. The gap between how much foreigners spend and how much they could spend is often enormous. Here are the practical habits that actually make a difference to your monthly budget.
 
 ---
 

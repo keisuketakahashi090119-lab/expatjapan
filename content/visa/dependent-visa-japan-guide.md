@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-If you're living in Japan on a work or study visa, you may be able to bring your family. The **Dependent (家族滞在) visa** covers spouses and children of foreign residents.
+Bringing your family to Japan requires a dependent visa — and the process is more involved than most people anticipate when they start planning. Understanding the requirements early prevents delays that can keep families separated for months. Here's how the dependent visa process works.
 
 ---
 

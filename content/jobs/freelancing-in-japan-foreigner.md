@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Freelancing in Japan as a foreigner is possible — but your ability to do it legally depends heavily on your visa status. Here's the full picture.
+Freelancing in Japan looks attractive — flexible work, your own clients, no office politics. The reality involves navigating visa requirements, client expectations, and a tax system built for salaried employees. Here's an honest guide to making it work.
 
 ---
 

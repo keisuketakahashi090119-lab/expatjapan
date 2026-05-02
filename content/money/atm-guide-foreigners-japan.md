@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ATM Guide for Foreigners in Japan (2025) — Which ATMs Accept Foreign Cards"
 date: 2025-05-03
 description: "Which ATMs in Japan accept foreign debit and credit cards? 7-Eleven, Japan Post, AEON — complete guide for foreigners with withdrawal limits and fees."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan is still a heavily cash-based society, and navigating ATMs as a foreigner can be frustrating. Most domestic Japanese bank ATMs reject foreign cards entirely. Here's exactly what works and what doesn't.
+Japan is still a cash-heavy country, and finding an ATM that actually accepts your foreign card is not as simple as it sounds. The wrong ATM will decline you at the most inconvenient moment. Here's exactly which ATMs work for foreigners and how to use them.
 
 ---
 

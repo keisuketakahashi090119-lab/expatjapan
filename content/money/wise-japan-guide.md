@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Wise (formerly TransferWise) is the single most useful financial tool for foreigners in Japan. Whether you're sending money home, receiving payments from abroad, or managing multiple currencies — Wise solves it cheaply and simply.
+Wise is one of the best tools available for foreigners managing money in Japan — low fees, real exchange rates, and multi-currency accounts that work across borders. But it has specific limitations in the Japanese market that are worth knowing before you rely on it. Here's the full picture.
 
 ---
 

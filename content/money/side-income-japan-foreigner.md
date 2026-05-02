@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Many foreigners in Japan want to earn extra income beyond their main job. Whether this is legal depends on your visa type — and how you structure the work.
+Earning side income in Japan as a foreigner is possible — but your visa type determines what's allowed, and going outside those limits has serious consequences. Know the rules before you start. Here's a practical guide to legal side income for foreigners in Japan.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan Post (日本郵便) is everywhere — over 24,000 post offices nationwide. It handles mail, packages, international shipping, and banking. Here's what you need to know as a foreigner.
+Japan Post does a lot more than deliver letters. It handles banking, insurance, and package services that foreigners use constantly — once they know how. Here's a foreigner's guide to getting the most out of Japan Post.
 
 ---
 

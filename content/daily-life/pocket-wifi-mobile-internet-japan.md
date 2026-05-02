@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Whether you just arrived and need internet immediately, or you're waiting for fiber installation, here's how to stay connected in Japan.
+Pocket WiFi and SIM cards are both solid options for staying connected in Japan — but which one makes sense depends entirely on your situation. Choosing the wrong option means either overpaying or dealing with constant connectivity problems. Here's how to decide.
 
 ---
 

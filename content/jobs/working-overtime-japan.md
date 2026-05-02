@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's relationship with overtime is one of the most discussed — and most misunderstood — aspects of working life in the country. The concept of **karoshi** (death from overwork) entered the international lexicon for a reason. But the reality for foreign workers in Japan today is more nuanced, and there are both legal protections and practical strategies that can significantly shape your experience.
+Overtime in Japan has a reputation — some of it deserved, much of it exaggerated. But the culture around hours worked, karoshi, and work-life balance is real and affects foreign employees in specific ways. Here's what to expect and how to navigate it.
 
 ## The Legal Framework for Overtime in Japan
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Part-time work (*arubaito* — from German *Arbeit*) is common in Japan. Many foreigners work part-time while studying, on a working holiday visa, or alongside a full-time job. Here's how it works.
+Part-time work in Japan as a foreigner is legally possible on most visa types — but the rules on hours and job types depend on your specific visa status. Getting this wrong has serious immigration consequences. Here's what you're actually allowed to do and how to find work.
 
 ---
 

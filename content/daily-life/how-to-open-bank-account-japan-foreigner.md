@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-A Japanese bank account is essential — you need it to receive your salary, pay rent, and set up automatic bill payments. The sooner you get one, the smoother everything else goes. Here's how.
+Opening a bank account in Japan as a new foreigner used to be nearly impossible. It's gotten easier — but the requirements still trip people up if they don't know what to bring. Here's exactly what you need and which banks are most foreigner-friendly.
 
 ---
 

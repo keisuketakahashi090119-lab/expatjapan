@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's national pension system (国民年金 — *kokumin nenkin*) applies to all residents aged 20–59, regardless of nationality. You're enrolled automatically. Here's what you need to know.
+Japan's national pension system is mandatory for most foreign residents — and many foreigners are either unaware they're enrolled or unsure whether contributions are worth making. The good news: there's a refund program when you leave. Here's everything you need to know.
 
 ---
 

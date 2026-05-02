@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Going to the doctor in Japan for the first time can feel a little overwhelming — but it's actually pretty painless once you know what to expect. Here's exactly what to do.
+Seeing a doctor in Japan for the first time as a foreigner is less complicated than it seems — but only if you know how the system works. Walking in unprepared means confusion, delays, and sometimes the wrong treatment. Here's a practical guide to navigating Japanese healthcare.
 
 ---
 

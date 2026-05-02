@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's **Highly Skilled Professional (高度専門職) visa** is the fastest path to permanent residency in Japan. If you qualify, you can get PR in **1–3 years** instead of the standard 10 years.
+Japan's Highly Skilled Professional visa offers some of the best benefits in the Japanese immigration system — faster permanent residency, more flexibility, and no job-category restrictions. Most qualified applicants don't know they're eligible. Here's how the points system works and how to apply.
 
 ---
 

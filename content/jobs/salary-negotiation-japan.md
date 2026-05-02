@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has a reputation for rigid salary structures, but that's changing — especially in tech and for foreign hires. Negotiation is possible, and knowing how to do it correctly makes a real difference.
+Salary negotiation in Japan is unusual — many companies present offers as fixed, and pushing back can feel culturally awkward. But negotiation is possible, and knowing how to approach it makes a real difference to your starting package. Here's how to negotiate salary effectively in the Japanese context.
 
 ---
 

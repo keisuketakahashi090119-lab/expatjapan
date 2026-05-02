@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Furusato Nozei (ふるさと納税, *hometown tax*) is one of Japan's best financial benefits for residents — including foreigners. You redirect part of your tax payment to any municipality in Japan and receive gifts (food, goods, experiences) worth up to 30% of your donation. Here's how it works.
+Furusato Nozei — hometown tax — is one of Japan's best-kept money-saving secrets, and most foreigners who pay residence tax here have no idea they're eligible. Done right, you can receive thousands of yen in local goods and products at essentially no net cost. Here's how it works.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Moving to Japan can be exciting and challenging in equal measure. Culture shock, language barriers, isolation, and work stress affect many foreigners. Here's how to get support.
+Mental health support for foreigners in Japan is available — but it's not always easy to find, and the cultural approach to mental health here is different from what many Westerners are used to. Knowing your options before you need them is the most important thing. Here's a practical guide to mental health resources in Japan.
 
 ---
 

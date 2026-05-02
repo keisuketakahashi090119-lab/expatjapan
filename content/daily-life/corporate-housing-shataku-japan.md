@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Company Housing (社宅) in Japan — What Foreigners Need to Know"
 date: 2025-05-08
 description: "How Japan's company housing (shataku) system works, who is eligible, how much you save, and what to negotiate when starting a new job."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Many Japanese companies offer subsidized housing to employees — a benefit that often goes unnoticed by foreigners until a colleague mentions they're paying ¥30,000/month for an apartment that costs ¥120,000 on the open market.
+Some Japanese companies offer housing — called shataku — as part of the employment package, and it can save you enormous money. But the terms vary widely and not everyone knows to ask about it. Here's what shataku is, who qualifies, and whether it's worth taking.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese supermarkets (スーパー) are clean, well-organized, and packed with things you've never seen before. Once you learn the layout and the basics, grocery shopping becomes one of the pleasures of life in Japan.
+Japanese supermarkets are organized differently, labeled differently, and stocked with products you won't recognize at first. That's half the fun — but also the source of some expensive mistakes. Here's a guide to navigating Japanese supermarkets with confidence from day one.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Grocery delivery in Japan has exploded since 2020. Whether you're too busy to shop, can't carry heavy bags, or just hate navigating Japanese supermarkets alone, these services are a genuine time-saver.
+Japan's grocery delivery landscape has expanded dramatically — but the best services differ by city, language support, and what you're actually trying to buy. Some are foreigner-friendly, some are a frustrating ordeal without Japanese skills. Here's a practical breakdown of the options worth your time.
 
 ---
 

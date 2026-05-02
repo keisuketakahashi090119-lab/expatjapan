@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan is a good country to have a baby. Prenatal care is thorough, hospitals are clean, and the government provides financial support. But the system has important differences from what Western parents may expect.
+Having a baby in Japan as a foreigner is entirely manageable — but the system has its own structure, paperwork, and expectations that differ significantly from Western healthcare. Getting familiar with the process early reduces stress enormously. Here's what to expect from pregnancy through childbirth in Japan.
 
 ---
 

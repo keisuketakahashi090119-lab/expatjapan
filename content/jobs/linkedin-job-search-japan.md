@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-LinkedIn is one of the most effective tools for finding professional work in Japan — especially for foreigners targeting foreign companies, global Japanese corporations, and English-friendly environments. Here's how to use it strategically.
+LinkedIn works in Japan — but it works differently here than in most Western countries, and using it the wrong way means getting no response from recruiters. A few adjustments to your approach can dramatically improve your results. Here's how to use LinkedIn effectively for job searching in Japan.
 
 ---
 

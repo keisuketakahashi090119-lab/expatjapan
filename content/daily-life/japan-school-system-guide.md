@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-If you're moving to Japan with children, understanding the school system is one of the most important decisions you'll face. Japan has world-class education, but the system operates quite differently from most Western countries. This guide explains how it works, what options are available for foreign children, and how to prepare your child for life in a Japanese school.
+Japan's school system is structured differently from most Western countries, and foreign parents often find themselves unprepared for how it works. From enrollment to daily routines to the exam culture, the differences are significant. Here's a clear guide for families navigating Japanese schools.
 
 ## Overview of Japan's School System
 

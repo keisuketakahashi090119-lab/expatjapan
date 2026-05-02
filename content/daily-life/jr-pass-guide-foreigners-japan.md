@@ -1,4 +1,4 @@
-﻿---
+---
 title: "JR Pass Guide for Foreigners in Japan (2025) — Is It Worth It?"
 date: 2025-05-06
 description: "Is the JR Pass worth buying in 2025? Which routes make it worth the cost, how to buy it, and when you're better off without one."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-The JR Pass is Japan's famous all-you-can-ride rail pass for foreign visitors. It sounds great on paper. Whether it's actually worth it depends almost entirely on your itinerary.
+The JR Pass costs a significant amount of money. Whether it actually saves you money depends entirely on how you use it. Many tourists buy it by default and end up overpaying. Here's the honest math — and when it's actually worth it.
 
 ---
 

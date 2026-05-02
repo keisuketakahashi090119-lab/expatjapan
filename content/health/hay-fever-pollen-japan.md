@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-If you've never had hay fever in your home country, Japan may change that. Japan's cedar pollen (*sugi kafunsho* — スギ花粉症) season is one of the worst in the world. About **30–40% of Japan's population** suffers from it, and many foreigners develop symptoms after living here for 1–3 years.
+Japan's spring pollen season is one of the worst in the world, and it affects up to 40% of the population. Many foreigners arrive with no history of allergies and develop symptoms within their first spring here. Here's how to manage it.
 
 ---
 

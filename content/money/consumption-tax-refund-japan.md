@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's consumption tax is 10% (8% for food and non-alcoholic drinks). Foreign tourists and some visa holders can shop **tax-free** at participating stores — saving up to 10% on purchases. Here's how the system works.
+Foreign visitors to Japan can claim consumption tax refunds on qualifying purchases — and the amounts add up quickly on major purchases. Most tourists don't claim everything they're entitled to because they don't know the rules. Here's how to do it correctly.
 
 ---
 

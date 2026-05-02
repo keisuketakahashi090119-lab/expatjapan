@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Izakayas (居酒屋) are Japanese gastropubs — casual, noisy, smoky, and central to Japanese social and work culture. Learning how to navigate one is essential for anyone living or working in Japan.
+Walk into an izakaya without knowing the drill and you'll spend the evening nodding at things you don't understand. Walk in prepared and you'll have one of the best nights Japan has to offer. Here's exactly what to expect and how to order.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan offers visa-free entry to citizens of over 70 countries. For those who need a visa, the tourist visa process is straightforward. Here's everything you need to know.
+Japan allows visa-free entry for citizens of over 60 countries — which means most visitors arrive without knowing the rules on length of stay, extension, or what activities are prohibited. Here's what you're actually allowed to do on a tourist entry to Japan.
 
 ---
 

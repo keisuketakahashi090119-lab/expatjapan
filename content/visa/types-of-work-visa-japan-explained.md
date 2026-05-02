@@ -12,9 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has a lot of different work visa categories. Each one covers a specific type of work — and working outside your visa's scope is a serious problem, so it's worth understanding exactly which one you're on and what it covers.
-
-Here's a plain-English breakdown of every major type.
+Japan has more work visa categories than most countries, and choosing the wrong one — or misunderstanding which one applies to your situation — is a common and costly mistake. Here's a plain-English breakdown of every major work visa type in Japan.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Moving to Japan involves a lot of admin in a short window. Here's the order to do things in, and why the order matters.
+Moving to Japan involves dozens of tasks that need to happen in a specific order — get the sequence wrong and you're waiting weeks for things that should take days. This checklist covers every step from before departure to your first month on the ground.
 
 ---
 

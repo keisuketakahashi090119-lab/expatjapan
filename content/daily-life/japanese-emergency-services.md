@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Knowing what to do in an emergency could save your life. Japan's emergency services are excellent — but the language barrier can be a real obstacle. Here's what every foreigner in Japan needs to know.
+In an emergency, the last thing you want to be doing is searching for phone numbers. Japan's emergency services work well — but they operate in Japanese, and the system has quirks foreigners often don't know about. Bookmark this before you need it.
 
 ---
 

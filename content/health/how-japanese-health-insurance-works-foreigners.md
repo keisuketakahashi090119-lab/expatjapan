@@ -12,9 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has one of the best healthcare systems in the world — and as a foreigner living here, you're required to join it. That's actually a good thing, because it's genuinely excellent value.
-
-Here's how it all works.
+Japan's health insurance system is comprehensive and mandatory — and yet most foreigners who arrive here don't fully understand how it works until they need it. Knowing the system in advance means fewer surprises at the clinic. Here's how it actually works.
 
 ---
 

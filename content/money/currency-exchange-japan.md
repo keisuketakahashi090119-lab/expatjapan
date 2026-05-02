@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Whether you're exchanging cash when you arrive or regularly sending money home, where you exchange matters — the difference between the best and worst rates can cost you thousands of yen.
+Currency exchange rates in Japan vary dramatically by location — airports are the worst, post offices and some convenience stores are among the best. Where you exchange money is a decision worth thinking about. Here's how to get the best rate in Japan.
 
 ---
 

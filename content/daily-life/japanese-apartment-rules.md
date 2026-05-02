@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese apartment life has an unwritten rulebook — and some very written ones in your lease. Breaking these rules can result in warnings from your landlord, complaints from neighbors, or in serious cases, lease termination.
+Japanese apartments come with a detailed set of rules — some written into your contract, some just understood. Break them unknowingly and you risk losing your deposit or your lease. Here's what the rules actually cover and how to stay on the right side of them.
 
 ---
 

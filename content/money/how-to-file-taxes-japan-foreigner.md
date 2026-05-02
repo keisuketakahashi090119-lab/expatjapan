@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Nobody loves dealing with taxes. But in Japan, the process is actually pretty painless for most people — especially if you work at a regular company. Here's everything you need to know.
+Filing a tax return in Japan for the first time feels overwhelming — the forms are in Japanese, the rules are specific, and the deadlines are unforgiving. Once you understand the structure, it's actually manageable. Here's a step-by-step guide to filing taxes in Japan as a foreign resident.
 
 ---
 

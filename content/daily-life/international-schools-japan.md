@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-If you're moving to Japan with children, choosing a school is one of the most important decisions you'll make. Here's what you need to know about international schools vs. Japanese public schools.
+International school fees in Japan are significant — often ¥2 million or more per year. But not all international schools are equal, and the right fit depends on curriculum, language, and your family's plans. Here's what to evaluate before making one of the biggest education decisions of your time in Japan.
 
 ---
 

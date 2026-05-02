@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Cycling is a major part of daily life in Japan. Tens of millions of people commute, shop, and get around by bicycle. For foreigners, a bicycle is one of the most practical and enjoyable ways to explore your neighborhood and beyond.
+Cycling in Japan is one of the great daily pleasures — until you get your bike impounded or fined for parking it in the wrong spot. The rules here are specific and enforced. This guide covers everything you need to ride freely and legally.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-One of the biggest decisions for foreigners working in Japan is whether to join a Japanese company or a foreign (gaishi-kei) company. Both have real advantages and real tradeoffs. Here's an honest breakdown.
+Working at a Japanese company versus a foreign company in Japan are two genuinely different experiences — in culture, hours, hierarchy, and career trajectory. Neither is universally better. The right choice depends on your goals and tolerance for certain trade-offs. Here's an honest comparison.
 
 ---
 

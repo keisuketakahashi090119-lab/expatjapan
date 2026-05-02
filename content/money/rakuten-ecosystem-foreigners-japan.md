@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Rakuten isn't just an e-commerce site — it's a full financial and lifestyle ecosystem. Foreigners who set up the Rakuten stack can save ¥50,000–150,000+ per year through points.
+Rakuten's ecosystem of apps and services can save foreigners in Japan significant money — if you understand how the points system actually works. Most people scratch the surface and leave thousands of points unclaimed. Here's how to use it properly.
 
 ---
 

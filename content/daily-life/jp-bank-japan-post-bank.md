@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-**Japan Post Bank (ゆうちょ銀行, Yucho Ginko)** is operated by Japan Post and is one of the most widely accessible banks in Japan — with branches and ATMs at every post office nationwide. For many foreigners, it's one of the easier banks to open an account with.
+Japan Post Bank — JP Bank — is one of the easiest bank accounts for foreigners to open in Japan. No complex requirements, nationwide ATM access, and international transfers supported. Here's everything you need to know to open and use an account.
 
 ---
 

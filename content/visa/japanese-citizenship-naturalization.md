@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Japanese Citizenship (Naturalization) — Complete Guide for Foreigners"
 date: 2025-05-06
 description: "How to apply for Japanese citizenship as a foreigner. Requirements, waiting times, what you give up, and whether it's worth it."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan does not allow dual citizenship for adults. Naturalization means giving up your previous nationality — a significant decision. Here's everything you need to know before applying.
+Naturalization in Japan is possible for long-term residents — but the requirements are demanding, the timeline is long, and the decision to pursue it is significant. Japan does not recognize dual citizenship, which changes the calculation for most people. Here's an honest guide to what naturalization involves.
 
 ---
 

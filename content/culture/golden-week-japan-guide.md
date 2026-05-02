@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Golden Week (*Gōruden Wīku*) is Japan's biggest holiday period of the year — a cluster of four national holidays in late April and early May. For foreigners living in Japan, it's important to know what to expect.
+Golden Week looks like a dream on paper — a whole week off in Japan. In reality, bullet trains sell out in minutes, popular spots triple in price, and half the country is on the move at once. Here's how to navigate it without losing your mind or your budget.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has a well-documented IT talent shortage. Foreign engineers are actively sought, and many companies hire without requiring Japanese fluency. If you have the skills, Japan's tech industry is very accessible.
+Japan's tech industry has a genuine shortage of skilled engineers — and that shortage creates real opportunity for foreign IT professionals. But the market works differently than in the US or Europe. Here's a practical guide to finding and landing IT jobs in Japan.
 
 ---
 

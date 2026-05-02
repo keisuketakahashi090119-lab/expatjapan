@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Travel Insurance for Japan Residents — Do You Need It? (2025)"
 date: 2025-05-04
 description: "Do Japan residents need travel insurance when going abroad? What Japan's national health insurance doesn't cover and what to look for in an expat travel policy."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-You're enrolled in Japan's National Health Insurance (NHI). Does that mean you're covered when you travel overseas? The short answer: barely. Here's what you actually need to know.
+Japan's national health insurance covers you domestically — but the moment you leave the country, you're uninsured unless you have separate travel coverage. For residents who travel regularly, the right travel insurance policy matters. Here's how to choose one.
 
 ---
 

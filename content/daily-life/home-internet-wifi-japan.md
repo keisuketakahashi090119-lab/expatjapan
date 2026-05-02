@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has some of the fastest and cheapest broadband internet in the world. Getting set up takes a few weeks but once connected, speeds of 1Gbps for ¥4,000–5,000/month are standard.
+Home internet in Japan is fast — genuinely among the fastest in the world. But setting it up as a foreigner involves navigating Japanese-language contracts, installation windows, and router fees. Here's how to get connected quickly without overpaying.
 
 ---
 

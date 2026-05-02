@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan was one of the first countries to regulate cryptocurrency, and it remains one of the most structured markets in the world. Foreigners can legally buy and trade crypto in Japan — with clear rules and significant tax obligations.
+Japan is one of the most regulated crypto markets in the world — and for foreigners who want to invest in crypto while living here, the rules create specific constraints. Knowing the legal landscape protects you. Here's how crypto works for foreign residents in Japan.
 
 ---
 

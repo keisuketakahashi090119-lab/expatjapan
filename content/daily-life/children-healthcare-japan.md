@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has excellent pediatric healthcare, and children are often better covered than adults. Foreign children registered in Japan qualify for the same public health programs as Japanese children, including subsidized medical care and vaccinations.
+Navigating healthcare for your child in a country where you don't speak the language fluently is stressful. Japan's children's healthcare system is actually excellent — once you know how to use it. Here's what every foreign parent in Japan needs to know.
 
 ---
 

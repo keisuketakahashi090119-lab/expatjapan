@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan Post (日本郵便) is one of the most important institutions in daily Japanese life. Post offices offer banking, insurance, package delivery, and a range of government services. For foreigners, understanding Japan Post is essential.
+The post office in Japan is quietly one of the most useful institutions a foreigner can access. Banking, savings, package pickup, and international shipping all under one roof. Here's everything you need to use it effectively.
 
 ---
 

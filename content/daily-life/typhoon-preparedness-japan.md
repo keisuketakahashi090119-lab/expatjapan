@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan is one of the world's most typhoon-prone countries. Each year, roughly 5 to 10 typhoons make landfall or pass close enough to cause significant disruption to daily life. For foreigners new to Japan, typhoon season can be alarming — especially the first time. This guide explains what to expect, how to prepare, and how to stay safe.
+Japan's typhoon season runs from summer through early autumn, and the storms can be severe enough to shut down cities entirely. Preparation before a typhoon arrives is what keeps it manageable. Here's what every foreigner in Japan should have ready before the season starts.
 
 ## When Is Typhoon Season?
 

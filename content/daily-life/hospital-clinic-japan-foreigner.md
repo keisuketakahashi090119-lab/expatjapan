@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has excellent healthcare, and as a resident with health insurance, you pay only 30% of medical costs. Here's how to navigate the system as a foreigner.
+Walking into a Japanese hospital without a plan is a disorienting experience — different departments, different paperwork, and a system built entirely in Japanese. Knowing how it works in advance takes most of the stress out of it. Here's a practical guide to using hospitals and clinics in Japan as a foreigner.
 
 ---
 

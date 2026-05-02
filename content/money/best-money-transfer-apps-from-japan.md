@@ -12,9 +12,7 @@ cover:
   relative: false
 ---
 
-Sending money home from Japan? You want it to arrive fast, with low fees, and at a decent exchange rate. Whatever you do, don't use your Japanese bank to do it — I'll explain why in a moment.
-
-Here are the best options in 2025.
+Sending money from Japan to your home country costs more than it should if you're using the wrong service. The best money transfer apps can save you thousands of yen per transaction. Here's a direct comparison of what's available from Japan.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-When searching for an apartment in Japan, you'll immediately encounter a notation system that can look baffling at first: 1K, 2DK, 3LDK, and so on. Once you understand the logic, it becomes a quick and efficient way to assess a property's layout and suitability. This guide explains Japanese apartment type notation and what it means for your daily life.
+1K, 1LDK, 2DK — Japanese apartment listings use shorthand that leaves most foreigners baffled. Once you crack the code, comparing apartments becomes much faster. Here's a plain-English breakdown of every apartment type you'll encounter.
 
 ## The Basic Notation System
 

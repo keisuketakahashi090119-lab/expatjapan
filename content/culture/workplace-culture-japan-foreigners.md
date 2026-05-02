@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese work culture is genuinely different from what most foreigners are used to. Some of it will make sense pretty quickly. Some of it will take longer. But understanding the basics upfront will save you from a lot of awkward moments and misread situations.
+Japanese workplace culture can feel like a parallel universe if you're not prepared for it. Hierarchy, after-work drinks, unspoken rules about overtime — it all operates on a logic that takes time to decode. This guide gives you an honest picture of what to expect before your first day.
 
 ---
 

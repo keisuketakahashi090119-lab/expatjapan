@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Many Japanese apartments — especially older or smaller ones — either lack a washing machine or have tiny units that can't handle large items. **Coin laundry (コインランドリー)** is a normal part of daily life in Japan, and the facilities are clean, modern, and easy to use.
+Coin laundries in Japan are clean, cheap, and efficient — but the machines, signs, and etiquette are all in Japanese. First-time users waste money pressing the wrong buttons. Here's a clear walkthrough so you get it right from the start.
 
 ---
 

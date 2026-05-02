@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-IC cards are how most people pay for trains and buses in Japan. Suica is the most well-known, but there are several depending on where you live. Here's everything you need to know.
+Suica is the single most useful thing you can set up on your first day in Japan. One card handles trains, buses, convenience stores, and vending machines across the country. Here's how to get one, load it, and use it everywhere.
 
 ---
 

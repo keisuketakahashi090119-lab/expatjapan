@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has a rich online shopping ecosystem. Once you know the main platforms, you'll find almost anything — often cheaper than buying in-store.
+Japan's online shopping ecosystem is excellent — but much of it operates in Japanese, and not all platforms are foreigner-friendly. The right platforms save you enormous time and money. Here's a guide to shopping online in Japan as a foreign resident.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan is one of the most popular study destinations in Asia — great universities, safe cities, and a unique culture. Getting your student visa is the first step.
+Japan's student visa is the starting point for thousands of foreigners who want to study the language, attend university, or explore Japan before making a longer commitment. The rules on working part-time, changing status, and extending your stay are specific and important. Here's everything you need to know.
 
 ---
 

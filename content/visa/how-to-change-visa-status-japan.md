@@ -8,7 +8,7 @@ showToc: true
 draft: false
 ---
 
-So your situation in Japan has changed. New job type, got married, starting a business — whatever it is, your current visa might not cover it anymore. Here's what you actually need to do.
+Changing your visa status from within Japan is possible — but the requirements differ significantly depending on which visa you're switching from and to. An error in the application can result in weeks of delay or rejection. Here's how the process works.
 
 ---
 

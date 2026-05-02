@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese dining has layers of etiquette — some strict, some flexible. Most foreigners are forgiven for not knowing them, but knowing the basics shows respect and makes eating out a richer experience.
+Stabbing your chopsticks upright in rice, pouring your own drink, leaving food on your plate — small habits that carry big meaning in Japan. Food is a social ritual here, and knowing the etiquette shows more respect than any Japanese phrase you'll learn. Here's what you need to know before your next meal.
 
 ---
 

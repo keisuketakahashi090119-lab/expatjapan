@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-A **hanko (判子)** is a personal stamp used in Japan instead of (or alongside) a signature. As a foreigner, you'll encounter hanko requirements for bank accounts, apartment leases, and official documents — but the rules have relaxed significantly in recent years.
+You'll encounter hanko within your first week in Japan — on rental contracts, bank forms, and official documents. Many foreigners don't realize they need one until they're standing at a counter unable to proceed. Here's what hanko is, when you need it, and how to get one.
 
 ---
 

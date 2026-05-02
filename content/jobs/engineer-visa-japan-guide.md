@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-The **Engineer / Specialist in Humanities / International Services** (技術・人文知識・国際業務) visa is Japan's most common work visa category for foreign white-collar workers. It covers a wide range of professional roles and is the visa category most foreigners receive when joining a Japanese company in technical or professional fields. This guide explains everything you need to know about eligibility, the application process, required documents, and renewals.
+The Engineer/Specialist in Humanities/International Services visa covers the widest range of skilled work in Japan — IT, engineering, business, and more. Getting it wrong costs months. Getting it right opens the door to working legally in Japan with a legitimate employer. Here's the complete guide.
 
 ## What Is This Visa?
 

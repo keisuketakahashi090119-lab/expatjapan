@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-One of the small but transformative travel conveniences in Japan is the comprehensive system for handling luggage — from coin lockers at every major train station to a nationwide same-day baggage delivery service that lets you send your suitcase ahead and travel unencumbered. This guide covers everything you need to know about storing and shipping luggage in Japan.
+Traveling between cities in Japan with heavy luggage is entirely optional — Japan's luggage forwarding system is fast, cheap, and incredibly reliable. Most foreigners don't know it exists until someone shows them. Here's how to use it.
 
 ## Coin Lockers (Coin Rokkā)
 

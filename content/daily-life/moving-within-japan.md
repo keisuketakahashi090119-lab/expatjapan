@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Moving apartments within Japan is common — many residents move every 2–3 years. For foreigners, the process involves both the standard administrative steps and some immigration-specific requirements.
+Moving apartments within Japan involves more paperwork and more money than most people expect — key money, re-registration, utility transfers, and more. Knowing the process in advance saves real money and avoids nasty surprises. Here's a complete walkthrough.
 
 ---
 

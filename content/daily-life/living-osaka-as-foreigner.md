@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Living in Osaka as a Foreigner — Honest Guide (2025)"
 date: 2025-05-05
 description: "Everything foreigners need to know about living in Osaka — neighborhoods, costs, food, work, and what makes it different from Tokyo."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Osaka is Japan's second city by most measures — and for everyday livability, many foreigners prefer it to Tokyo. It's cheaper, louder, friendlier, and the food is genuinely better.
+Osaka has a reputation for being louder, friendlier, and more affordable than Tokyo — and it earns that reputation. But the reality of living here as a foreigner has its own quirks and challenges. Here's an honest guide to daily life in Osaka.
 
 ---
 

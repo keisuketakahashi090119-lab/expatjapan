@@ -12,9 +12,7 @@ cover:
   relative: false
 ---
 
-Your work visa expiry date is printed on your **residence card**. Don't miss it — working after your visa expires is illegal in Japan, full stop.
-
-The good news is that renewing is pretty straightforward once you know what you're doing. Here's exactly how it works.
+Work visa renewal in Japan is a process most people handle correctly — but the small mistakes that trip people up can result in a gap in legal status that creates real problems. Start the process earlier than you think you need to. Here's exactly how renewal works.
 
 ---
 

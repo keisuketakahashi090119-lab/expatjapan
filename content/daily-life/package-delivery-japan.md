@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's delivery infrastructure is among the best in the world — precise, reliable, and remarkably convenient. But the system has quirks that trip up newcomers.
+Japan's package delivery system is world-class — precise delivery windows, easy redelivery, and multiple pickup options. But the notes left on your door and the automated phone systems are in Japanese. Here's how to handle deliveries without missing your packages.
 
 ---
 

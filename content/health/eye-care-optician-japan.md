@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has excellent, affordable eye care. Getting glasses or contacts in Japan is often faster and cheaper than in Western countries — even without knowing Japanese.
+Eye care in Japan is fast, affordable, and technically impressive — glasses are often ready in an hour and contact lenses are widely available. But the system has some quirks that foreigners consistently find surprising. Here's what you need to know.
 
 ---
 

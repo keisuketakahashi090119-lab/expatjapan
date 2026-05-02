@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Your phone is your lifeline in Japan. These are the apps that make daily life significantly easier as a foreigner.
+Living in Japan without the right apps means guessing your way through train changes, menus you can't read, and services that assume you speak Japanese. The right tools make daily life dramatically easier. Here are the apps that actually earn their place on your phone.
 
 ---
 

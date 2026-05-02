@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Staying fit in Japan is easy — the country has excellent gym infrastructure. The challenge is finding a gym that fits your budget, location, and English comfort level.
+Finding a gym in Japan that fits your budget, location, and English comfort level takes more research than it should. Some chains are genuinely foreigner-friendly; others have sign-up processes that will test your patience. Here's a clear comparison of your best options.
 
 ---
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has a labor shortage and actively recruits foreign talent — especially in tech, engineering, finance, and English education. Here's how to find and land a job.
+Job hunting in Japan as a foreigner is not like job hunting anywhere else. The market has real demand for foreign talent — but you need to know where to look and how to present yourself. Here's a practical guide to finding work in Japan.
 
 ---
 

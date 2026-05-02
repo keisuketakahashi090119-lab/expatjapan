@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Dating in Japan as a foreigner can be wonderful — and confusing. The rules, expectations, and rhythms are different from most Western countries. Here's what actually helps.
+Most foreigners arrive in Japan with high hopes — and leave completely confused about dating here. The rules are different, the signals are subtle, and the cultural gap is real. This guide cuts through the mystery and gives you an honest picture of what dating in Japan actually looks like.
 
 ---
 

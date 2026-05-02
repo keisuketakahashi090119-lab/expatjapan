@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese New Year (お正月, *Oshogatsu*) is the most important holiday in Japan — bigger than Christmas, bigger than any other occasion. The country effectively shuts down from December 29 through January 3. Here's what you need to know.
+New Year's in Japan is nothing like New Year's anywhere else. The streets go quiet, shrines fill up at midnight, and centuries-old traditions play out in ordinary neighborhoods. Here's how to experience Oshogatsu the way it's meant to be experienced.
 
 ---
 

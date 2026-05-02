@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Living abroad is rewarding — but it also creates unique mental health challenges. Loneliness, language barriers, cultural adjustment, and distance from support networks affect many foreigners in Japan. Support is available, and seeking it is a sign of strength.
+Living abroad is harder on mental health than most people admit before moving. Japan has its own particular pressures — isolation, language barriers, work culture — and support services exist if you know where to look. Here's an honest guide to mental health resources in Japan.
 
 ---
 

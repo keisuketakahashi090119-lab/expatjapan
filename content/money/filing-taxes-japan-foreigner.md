@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's tax system applies to all residents — including foreigners. Whether you need to file a tax return (*kakutei shinkoku*, 確定申告) depends on your employment situation. Here's how it works.
+Tax filing in Japan is mandatory for most foreigners earning income here — and failing to file, or filing incorrectly, creates problems that are hard to resolve later. The process is more straightforward than it seems once you understand the structure. Here's a complete guide to filing taxes in Japan as a foreigner.
 
 ---
 

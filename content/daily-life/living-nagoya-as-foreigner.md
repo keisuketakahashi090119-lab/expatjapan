@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Nagoya doesn't get the international attention that Tokyo or Osaka receive, but for expats living and working in Japan, it's one of the country's most practical and comfortable cities. Home to Toyota's global headquarters and a dense manufacturing ecosystem, Nagoya attracts large numbers of foreign workers — especially from Brazil, the Philippines, and Vietnam. Here's what you need to know before making Nagoya your home.
+Nagoya is one of Japan's most underrated cities — a major economic hub that most expats overlook in favor of Tokyo or Osaka. Lower costs, less competition, strong manufacturing and automotive industries. Here's what living in Nagoya as a foreigner is really like.
 
 ## Why Nagoya?
 

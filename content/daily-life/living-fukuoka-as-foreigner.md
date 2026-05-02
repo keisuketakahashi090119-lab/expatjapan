@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Living in Fukuoka as a Foreigner — Complete Guide (2025)"
 date: 2025-05-03
 description: "Everything foreigners need to know about living in Fukuoka — neighborhoods, cost of living, jobs, food, and why it's Japan's most livable city."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Fukuoka is consistently rated Japan's most livable city — and foreigners who make the move are usually surprised by how good it is. 40–50% cheaper than Tokyo, with world-class food, a 5-minute airport, and a growing international community.
+Fukuoka keeps appearing on lists of the best cities to live in Asia — and for foreigners, it often outperforms expectations. Cheap, relaxed, connected to the rest of Japan, and easier to navigate than Tokyo. Here's an honest look at what life in Fukuoka is actually like.
 
 ---
 

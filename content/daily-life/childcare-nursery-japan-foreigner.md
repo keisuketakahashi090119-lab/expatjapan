@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Childcare and Nursery in Japan as a Foreigner — Complete Guide (2025)"
 date: 2025-05-07
 description: "How to get your child into a hoikuen or yochien in Japan as a foreigner. Application process, costs, waiting lists, and language considerations."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Finding childcare in Japan as a foreigner is genuinely stressful — long waiting lists, Japanese-only paperwork, and a system that differs by municipality. Here's a clear guide to how it works.
+Finding nursery care in Japan as a foreigner feels impossible at first — waitlists, paperwork in Japanese, an opaque points system. But parents who understand how the system works can navigate it far more successfully. Here's an honest guide to childcare in Japan for foreign families.
 
 ---
 

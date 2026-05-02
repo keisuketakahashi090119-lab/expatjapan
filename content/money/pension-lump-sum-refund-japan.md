@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Japan Pension Lump-Sum Withdrawal (脱退一時金) — How to Claim Your Money Back"
 date: 2025-05-10
 description: "Foreigners leaving Japan can claim back up to 3 years of pension contributions as a lump sum. How to apply, the deadline, and how much you'll get."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Every foreigner who has paid into Japan's National Pension (国民年金) or Employee Pension Insurance (厚生年金) can claim a lump-sum withdrawal payment when they permanently leave Japan. Most people don't know this exists, or miss the 2-year deadline.
+When you leave Japan, you may be able to claim a lump-sum refund of the pension contributions you paid — and the window to claim it is short. Thousands of foreigners leave without claiming money they're entitled to. Here's how the pension refund works and how to apply.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Earthquake Insurance in Japan — Should Foreigners Buy It? (2025)"
 date: 2025-05-11
 description: "Japan has 1,500+ earthquakes per year. Standard renter's insurance doesn't cover earthquake damage. Here's what earthquake insurance covers and whether you need it."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan experiences around 1,500 earthquakes per year, and is home to roughly 10% of the world's most powerful earthquakes. If you live in Japan, earthquake insurance is worth serious consideration — especially because most standard renter's insurance excludes it entirely.
+Standard apartment insurance in Japan does not cover earthquake damage — that requires a separate earthquake insurance policy. Given Japan's seismic activity, this is not a gap worth leaving open. Here's how earthquake insurance works and whether you need it.
 
 ---
 

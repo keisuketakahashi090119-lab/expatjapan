@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Kyoto is one of Japan's most historically and culturally rich cities, and increasingly, it's becoming a destination not just for tourists but for foreigners who want to build a life in Japan outside of Tokyo. With world-class universities, a growing tech and startup scene, and traditional craft industries, Kyoto offers a unique quality of life — but it comes with its own set of challenges and unwritten rules.
+Living in Kyoto is different from visiting Kyoto. The charm is real, but so are the tourist crowds, the housing competition, and the deeply traditional community culture. Here's what daily life in Kyoto actually looks like for a foreign resident.
 
 ## The Character of Kyoto
 

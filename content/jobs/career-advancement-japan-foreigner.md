@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Getting promoted in Japan as a foreigner is absolutely possible — but it requires understanding how Japanese workplaces actually evaluate people, which is often different from what Western employees expect.
+Getting promoted in a Japanese company as a foreigner requires understanding rules that aren't written anywhere. The path forward looks different here than in most Western workplaces. Here's what career advancement actually looks like for foreigners in Japan — and how to position yourself for it.
 
 ---
 

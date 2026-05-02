@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese convenience stores (*konbini*) are unlike anything in most other countries. Open 24/7, they handle banking, bills, printing, food, medicine, and more. If you're new to Japan, this guide will save you a lot of time.
+Japanese convenience stores are unlike anything you've used before. They're part grocery store, part bank, part government office, part restaurant — and open 24 hours a day. Here's everything a foreigner needs to know to get the most out of them.
 
 ---
 

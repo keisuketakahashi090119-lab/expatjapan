@@ -12,9 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's national health insurance is genuinely excellent. But it doesn't cover everything — and there are some real gaps that private insurance can fill, depending on your situation.
-
-Here's what you need to know.
+Japan's national health insurance is good — but it doesn't cover everything, and for foreigners with specific needs, the gaps matter. Private health insurance can fill those gaps, but the options vary enormously in coverage and value. Here's how to evaluate what you actually need.
 
 ---
 

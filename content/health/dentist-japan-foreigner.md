@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has excellent dental care — and it's more affordable than most Western countries. If you're enrolled in Japanese health insurance, you're covered for most standard treatments.
+Finding a good dentist in Japan as a foreigner is easier than it sounds — but it does require knowing what to look for. English-speaking dentists exist in most major cities, and national health insurance covers more than most people realize. Here's how to get good dental care in Japan.
 
 ---
 

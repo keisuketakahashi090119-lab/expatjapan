@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Living in Japan gives you an enormous advantage for learning Japanese — you're surrounded by the language. But having the right resources makes the difference between slow progress and actually becoming conversational.
+Most people start learning Japanese with enthusiasm and stall out within three months. The problem is almost always resources and method, not ability. Here are the tools that actually produce results — ranked honestly by what works best at each stage.
 
 ---
 

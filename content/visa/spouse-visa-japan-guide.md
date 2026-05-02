@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-If you're married to a Japanese national or a permanent resident of Japan, you can apply for a Spouse of Japanese National visa (日本人の配偶者等) or Spouse of Permanent Resident visa (永住者の配偶者等). Here's how.
+A spouse visa in Japan grants significant flexibility — the right to live and work without a separate work visa. But the application requires solid documentation of your relationship, and immigration officers look carefully at the details. Here's a complete guide to the spouse visa application.
 
 ---
 

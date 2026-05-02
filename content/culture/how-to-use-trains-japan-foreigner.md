@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's train system is genuinely one of the best in the world. Punctual, clean, comprehensive — once you understand how it works, you'll wonder how you ever got around without it. Here's everything you need to know to get started.
+Japan's train network is the best in the world — and also one of the most confusing to figure out the first time. Wrong ticket, wrong line, wrong exit: it happens to everyone. Read this once and you'll navigate it like a local.
 
 ---
 

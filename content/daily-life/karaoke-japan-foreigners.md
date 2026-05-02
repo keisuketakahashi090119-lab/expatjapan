@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Karaoke in Japan is nothing like the bar stages you might be used to. In Japan, karaoke means a **private room** with your group, a huge songbook with tens of thousands of songs in multiple languages, and all-you-can-drink options. It's central to Japanese social life — work parties, friend groups, and date nights all use it.
+Karaoke in Japan is not the public humiliation most Westerners imagine — it's private rooms, cheap drinks, and one of the most fun social experiences the country offers. First-timers are always surprised. Here's how to enjoy it from the moment you walk in.
 
 ---
 

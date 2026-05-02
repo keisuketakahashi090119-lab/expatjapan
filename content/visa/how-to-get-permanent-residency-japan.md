@@ -12,9 +12,7 @@ cover:
   relative: false
 ---
 
-Permanent residency (永住者) is the holy grail for long-term residents here. No more renewals, no job restrictions, no depending on your employer to keep you in the country. Once you have it, you have it.
-
-Here's how to get there.
+Permanent residency in Japan is a genuine milestone — it removes most of the restrictions that come with a work visa and dramatically simplifies your life here. But the path is long and the application is detail-heavy. Here's exactly how to qualify and what the process involves.
 
 ---
 

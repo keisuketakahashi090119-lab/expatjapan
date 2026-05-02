@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-If you're living in Japan on a work or other long-term visa, you can bring your spouse and children through the **Dependent Visa (家族滞在ビザ)** or the **Spouse of Japanese National Visa (日本人の配偶者等)**. Here's how both work.
+The spouse/dependent visa is one of the most flexible in Japan's immigration system — it allows work without employer sponsorship and is renewable as long as the sponsoring resident maintains their status. Getting the application right the first time matters. Here's how it works.
 
 ---
 

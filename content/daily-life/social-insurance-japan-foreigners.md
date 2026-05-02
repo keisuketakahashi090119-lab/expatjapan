@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's social insurance system is comprehensive and applies to foreign residents. Understanding how it works — what you're paying, what you get in return, and what your options are — is essential for managing your finances and protecting your wellbeing in Japan.
+Social insurance in Japan isn't optional — it's mandatory, and your employer or local ward office will expect you to be enrolled. Many foreigners arrive without understanding how the system works or what they're paying into. Here's a clear explanation of what social insurance covers and what it costs.
 
 ## The Two Systems: Shakai Hoken vs. Kokumin Hoken
 

@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan is one of the most foreigner-friendly property markets in the world — there are **no restrictions on foreign nationals buying real estate**. You don't need a visa or residency status to purchase property. Here's what you need to know.
+Foreigners can buy property in Japan with almost no legal restrictions — which surprises most people. The process is manageable, the prices are often lower than comparable Western cities, and Japan property can be a genuine opportunity. Here's how the buying process works.
 
 ---
 

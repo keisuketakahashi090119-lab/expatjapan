@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Arriving in Japan is usually a smooth experience — Japan's airports are efficient, staff are professional, and the process is well-organized. However, understanding what to expect at immigration and customs before you arrive helps you avoid delays, misunderstandings, and the awkward situation of having items confiscated at the border.
+Arriving in Japan goes smoothly when you know what to expect at customs and immigration. It goes badly when you don't. Here's a clear walkthrough of the entire arrival process so there are no surprises.
 
 ## Before You Land: The Digital Arrival Card
 

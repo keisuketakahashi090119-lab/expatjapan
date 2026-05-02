@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan was long known as a cash society, but cashless payment has grown rapidly since 2019. As a foreigner, knowing which systems to use saves time and often gets you cashback rewards.
+Japan's cashless payment landscape is fragmented — IC cards, QR codes, credit cards, and convenience store apps all coexist with a society that still reaches for cash by default. Knowing which systems to use where saves time and gets you the best deals. Here's how to navigate it.
 
 ---
 

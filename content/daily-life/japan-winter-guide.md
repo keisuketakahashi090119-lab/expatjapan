@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's winter runs December through February. The experience varies dramatically by region — Tokyo has mild but dry winters, while Niigata and Hokkaido receive world-class snowfall.
+Winter in Japan catches many foreigners off guard — not because of the cold itself, but because Japanese apartments are often poorly insulated and the heating systems work differently than expected. Knowing what to prepare for makes a huge difference. Here's how to stay warm and comfortable through the Japanese winter.
 
 ---
 

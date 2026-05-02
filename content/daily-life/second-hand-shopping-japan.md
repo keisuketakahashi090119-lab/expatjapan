@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan's second-hand market is extraordinary. The Japanese emphasis on condition and presentation means used goods are often in near-perfect shape. Furniture, electronics, clothing, books, and more — all available at a fraction of new prices.
+Japan's second-hand market is enormous, affordable, and full of items in near-perfect condition — because Japanese people take exceptional care of their possessions. Foreigners who discover it early save thousands. Here's where to shop and what to look for.
 
 ---
 

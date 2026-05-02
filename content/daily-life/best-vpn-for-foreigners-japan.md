@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Living in Japan means some content from your home country is geo-blocked. A VPN fixes that — and also keeps your connection secure on public Wi-Fi. Here's what works.
+Certain streaming services, banking apps, and news sites behave differently once you're in Japan. A VPN solves most of those problems — but not all VPNs work well here. Here's what you need to know before you subscribe.
 
 ---
 

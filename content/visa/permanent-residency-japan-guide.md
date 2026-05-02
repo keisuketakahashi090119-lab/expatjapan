@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Permanent residency (*eijū kyoka*, 永住許可) is the most flexible visa status in Japan. No restrictions on work, no renewal every few years. Here's how to qualify and apply.
+Permanent residency in Japan changes everything — no job-category restrictions, no employer dependency, no renewal anxiety. It's the most significant upgrade available in the Japanese immigration system. Here's a complete guide to qualifying and applying.
 
 ---
 

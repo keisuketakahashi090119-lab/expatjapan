@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has 16 national holidays per year — more than most countries. Knowing when they are matters for planning travel, work, and daily errands (many services close or operate reduced hours).
+Sixteen public holidays per year — and some of them cluster together in ways that shut down entire cities. Knowing Japan's holiday calendar isn't just convenient, it affects your schedule, your travel plans, and your work life. Here's a complete breakdown of every holiday and what it actually means day-to-day.
 
 ---
 

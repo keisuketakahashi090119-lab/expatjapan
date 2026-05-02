@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has over **80,000 Shinto shrines** and **75,000 Buddhist temples** — sacred sites that are deeply woven into daily life. Many foreigners visit without knowing the etiquette. Here's how to show appropriate respect at both types of site.
+Shrines and temples are everywhere in Japan, and most foreigners walk through them without really knowing what they're looking at. A little context changes everything. Here's the etiquette and meaning behind Japan's most visited sacred spaces.
 
 ---
 

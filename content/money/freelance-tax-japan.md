@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Freelancing in Japan as a foreigner comes with real tax obligations — and understanding them is both your legal responsibility and financially important. Japan's tax system for self-employed people is more complex than the employer-handled system most full-time employees experience, but once you understand the structure, it's manageable. This guide explains how freelance taxes work in Japan and how to file correctly in 2025.
+Freelance taxes in Japan catch most self-employed foreigners off guard. The rules on what you owe, when to pay, and how to register as a business are specific — and the penalties for getting it wrong are real. Here's what every freelancer in Japan needs to know.
 
 ## Who Counts as "Self-Employed" in Japan?
 

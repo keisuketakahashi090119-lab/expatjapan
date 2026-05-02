@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has one of the world's most comprehensive preventive healthcare systems, and regular health checkups (健康診断, *kenko shindan*) are a central part of it. As a foreign resident, you have access to the same checkup systems as Japanese nationals — and in many cases, you're legally required to participate. This guide explains how health checkups work in Japan and what to expect.
+Annual health checkups in Japan are standardized, efficient, and often subsidized by your employer or local government. Most foreigners either skip them or don't know they're entitled to them. Here's what the checkup covers and how to access it.
 
 ## Why Health Checkups Matter in Japan
 

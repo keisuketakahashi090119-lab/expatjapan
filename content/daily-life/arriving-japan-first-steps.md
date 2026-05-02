@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-The first month in Japan involves a specific sequence of administrative tasks, most of which build on each other. Doing them in the right order saves enormous frustration. This checklist walks you through everything you need to do in your first 30 days in Japan.
+The first month in Japan involves a specific sequence of administrative tasks — and doing them out of order wastes weeks. Most newcomers figure this out the hard way. This checklist lays out exactly what to do, in the right order, so you hit the ground running.
 
 ## At the Airport (Day 0)
 

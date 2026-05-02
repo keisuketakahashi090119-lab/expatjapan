@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Onsen (温泉) — Japan's natural hot spring baths — are one of the great pleasures of living in Japan. But first-timers often make mistakes that cause embarrassment. Here's everything you need to know.
+Onsen is one of the best things about living in Japan — but first-timers often approach it with anxiety they don't need to have. The etiquette is simple. The experience is worth it. Here's everything you need to enjoy onsen with confidence.
 
 ---
 

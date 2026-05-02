@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-In most of Japan's major cities, you don't need a car. But if you're in a rural area, a suburb, or just prefer the convenience, owning a car in Japan is very doable as a foreigner.
+Buying a car in Japan as a foreigner involves paperwork, parking certificates, and rules that surprise most people. Get it wrong and the process stalls completely. This guide walks you through every step from finding the car to driving it home.
 
 ---
 

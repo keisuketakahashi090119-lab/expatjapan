@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese New Year — known as **Oshōgatsu (お正月)** — is the most important holiday in the Japanese calendar. Unlike Western New Year celebrations centered on parties and fireworks, Japanese New Year is a time of quiet family gatherings, ancient temple rituals, and deeply rooted cultural traditions. For foreigners living in Japan, it is one of the most fascinating cultural experiences the country offers — but also one that requires some preparation.
+Japan transforms in the final days of December in a way you have to see to believe. Shops close, cities quiet down, and traditions that have lasted centuries play out on every street corner. Here's your complete guide to experiencing Japanese New Year like a local.
 
 ## When Is Japanese New Year?
 

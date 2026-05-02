@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-The **Business Manager (経営・管理) visa** allows foreigners to establish and operate a business in Japan. It's the path for entrepreneurs, investors, and company directors who want to build something in Japan.
+Japan's Business Manager visa allows foreigners to start or manage a business here — but the requirements are specific and the threshold is higher than most people expect. Getting the application wrong delays everything by months. Here's a complete guide to the Business Manager visa.
 
 ---
 

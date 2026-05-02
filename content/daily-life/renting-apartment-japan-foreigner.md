@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Renting in Japan as a foreigner is more paperwork-heavy than in many countries, but it's very doable. Here's how the process works.
+Japan's rental market has some of the most unique requirements in the world — guarantors, agency fees, key money, and landlords who sometimes decline foreign applicants. Understanding the system gives you a real edge. Here's a practical guide to renting in Japan as a foreigner.
 
 ---
 

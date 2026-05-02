@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Language exchange (語学交換, *gogaku koukan*) is one of the most effective — and enjoyable — ways to improve your Japanese. You speak English with a Japanese learner, they speak Japanese with you. Both sides benefit.
+Language exchange sounds great in theory. In practice, you end up spending the whole session speaking English. Done right, language exchange is one of the fastest and cheapest ways to improve your Japanese — and meet real people. Here's how to make it work.
 
 ---
 

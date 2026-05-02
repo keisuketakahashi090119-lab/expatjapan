@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Cities to Live in Japan for Foreigners (2025)"
 date: 2025-05-02
 description: "Which Japanese city is right for you? Tokyo, Osaka, Fukuoka, Kyoto, Nagoya, Sapporo — honest comparison for foreigners choosing where to live."
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has dozens of cities worth living in — but picking the right one depends on what you actually prioritize. Here's an honest breakdown of the top choices for foreigners.
+Choosing the wrong city is a mistake that takes a year to undo. Japan's major cities are more different from each other than most people expect — in cost, pace, foreigner infrastructure, and job market. Here's a clear-eyed comparison to help you decide where to actually land.
 
 ---
 

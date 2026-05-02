@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Getting a phone plan in Japan as a foreigner used to be a pain. Now it's pretty easy — as long as you know which SIM to actually go with and don't accidentally end up paying ¥7,000 a month to one of the big carriers.
+Japan's mobile market is confusing if you don't know what you're looking for — and the most advertised plans aren't always the best deal for foreigners. The right SIM card can save you thousands of yen a month. Here's how to pick the one that actually fits your situation.
 
 ---
 
