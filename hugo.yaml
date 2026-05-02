@@ -43,10 +43,10 @@ params:
   tocopen: false
 
   homeInfoParams:
-    Title: "Live in Japan — The Foreigner's Guide"
+    Title: "Japan is confusing. We make it simple."
     Content: >
-      Your complete English guide to life in Japan.
-      Visa, jobs, insurance, banking, phones and more — all explained simply.
+      Every question a foreigner in Japan has — answered.
+      Visa, housing, jobs, money, and daily life. All in plain English, all free.
 
   assets:
     favicon: "/favicon.png"
