@@ -227,9 +227,10 @@ body {
 /* ─── ARTICLE PAGE ───────────────────────────── */
 
 /* Hide the SVG cover image block — we use text-only headers */
+figure.entry-cover,
+figure.entry-cover img,
 .post-header .cover-img-wrapper,
-.post img.post-cover,
-figure.cover { display: none !important; }
+.post img.post-cover { display: none !important; }
 
 .post-header {
   background: var(--card);
