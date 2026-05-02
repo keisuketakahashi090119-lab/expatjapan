@@ -103,7 +103,7 @@ Budgeting for a family in Japan:
 
 ## Settling In: Useful Tools
 
-- **[Wise](https://wise.com/)** — Send money between Japan and your home country cheaply
+- **[Wise](https://wise.com/invite/i/expatjapan)** — Send money between Japan and your home country cheaply
 - **Google Translate** — Photograph and translate Japanese documents
 - **[italki](https://www.italki.com/)** — Japanese lessons for your spouse to get started
 - **Line** — The main messaging app in Japan, essential for daily communication

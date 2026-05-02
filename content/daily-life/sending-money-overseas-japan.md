@@ -30,7 +30,7 @@ Sending money overseas from Japan is something most foreigners do regularly — 
 
 ## Wise — Best for Most People
 
-**[Wise](https://wise.com/)** (formerly TransferWise) consistently offers the best exchange rates and transparent fees for international transfers.
+**[Wise](https://wise.com/invite/i/expatjapan)** (formerly TransferWise) consistently offers the best exchange rates and transparent fees for international transfers.
 
 **Why Wise wins:**
 - Uses the **real mid-market exchange rate** — the rate you see on Google
@@ -41,7 +41,7 @@ Sending money overseas from Japan is something most foreigners do regularly — 
 - You can see exactly how much the recipient gets before you send
 
 **How to use Wise from Japan:**
-1. Create account at [wise.com](https://wise.com/)
+1. Create account at [wise.com](https://wise.com/invite/i/expatjapan)
 2. Verify your identity (passport + residence card)
 3. Enter amount and recipient details
 4. Pay from your Japanese bank account (domestic bank transfer)
@@ -52,7 +52,7 @@ Sending money overseas from Japan is something most foreigners do regularly — 
 - Megabank: ~$1,900 delivered (¥3,000 fee + 2% rate spread)
 - **Wise saves ~¥10,000 per transfer**
 
-**[Get your first Wise transfer fee-free](https://wise.com/)** (up to ¥125,000 with referral)
+**[Get your first Wise transfer fee-free](https://wise.com/invite/i/expatjapan)** (up to ¥125,000 with referral)
 
 ---
 

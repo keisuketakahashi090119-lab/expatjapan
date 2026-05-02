@@ -110,7 +110,7 @@ The fastest way to build credit:
 ## Alternatives if You Can't Get a Credit Card
 
 ### 💳 Wise Card (Debit)
-The **[Wise](https://wise.com/invite/i/expatjapan)** debit card works as a Visa or Mastercard worldwide. Excellent exchange rates, low fees. No credit check needed — just open a Wise account.
+The **[Wise](https://wise.com/invite/i/expatjapaninvite/i/expatjapani/expatjapan)** debit card works as a Visa or Mastercard worldwide. Excellent exchange rates, low fees. No credit check needed — just open a Wise account.
 
 Perfect for:
 - Online shopping

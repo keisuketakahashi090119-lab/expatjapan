@@ -123,7 +123,7 @@ If your clients are overseas (e.g., remote freelance work for foreign companies)
 
 - Income is **taxable in Japan** based on your residence status
 - Invoice in any currency; convert to JPY using exchange rates for tax purposes
-- **Wise Business** or **[Wise](https://wise.com/invite/i/expatjapan)** is excellent for receiving payments in foreign currencies with minimal conversion fees
+- **Wise Business** or **[Wise](https://wise.com/invite/i/expatjapaninvite/i/expatjapani/expatjapan)** is excellent for receiving payments in foreign currencies with minimal conversion fees
 
 ---
 

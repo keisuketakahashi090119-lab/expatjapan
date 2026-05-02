@@ -72,7 +72,7 @@ This is the more important question for most expats.
 - Bank wire: ~$3,170 (after ~3–4% total fees)
 - **Difference: ~$120 per transfer**
 
-[Sign up for Wise](https://wise.com/invite/) — First transfer up to ¥125,000 fee-free with referral
+[Sign up for Wise](https://wise.com/invite/i/expatjapaninvite/i/expatjapan) — First transfer up to ¥125,000 fee-free with referral
 
 ---
 
@@ -114,7 +114,7 @@ Japan-based remittance services competing with Wise:
 
 Before any exchange or transfer, check:
 
-- **[Wise Rate Comparison](https://wise.com/gb/currency-converter/)** — See how your bank compares
+- **[Wise Rate Comparison](https://wise.com/invite/i/expatjapaninvite/i/expatjapan)** — See how your bank compares
 - **[Remittance Compare (海外送金比較)](https://remittance-compare.com/)** — Japanese remittance comparison tool
 - **XE.com** — Mid-market rate reference (what banks should give you, minus their cut)
 
