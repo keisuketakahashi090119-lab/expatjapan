@@ -109,6 +109,12 @@ If your home country has a totalization agreement with Japan and you've contribu
 
 ---
 
+## Travel Insurance After Leaving Japan
+
+Once you leave Japan and cancel your national health insurance, you'll have no medical coverage. If you're traveling between countries or spending time abroad, **[SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador)** is a popular option — a monthly travel medical insurance subscription designed for expats and nomads, with no long-term commitment required.
+
+---
+
 ## Related Articles
 
 - [National Pension in Japan for Foreigners](/money/national-pension-japan-foreigners/)

@@ -118,6 +118,12 @@ So even major surgery — even a hospital stay of weeks — is capped at a manag
 
 ---
 
+## Travel Insurance for Your Trips Outside Japan
+
+If you travel outside Japan regularly, your Japanese health insurance won't cover you abroad. **[SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador)** is a popular travel medical insurance for expats and digital nomads — affordable monthly subscription, no long-term commitment required.
+
+---
+
 ## Related Articles
 
 - [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)

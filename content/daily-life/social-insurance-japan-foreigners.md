@@ -94,6 +94,12 @@ Apply at the ward office. Exemption periods still count as contribution periods 
 
 ---
 
+## Travel Insurance for Your Trips Outside Japan
+
+If you travel outside Japan regularly, your Japanese health insurance won't cover you abroad. **[SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador)** is a popular travel medical insurance for expats and digital nomads — affordable monthly subscription, no long-term commitment required.
+
+---
+
 ## Related Articles
 - [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
 - [Life Insurance in Japan for Foreigners](/money/life-insurance-japan-foreigner/)

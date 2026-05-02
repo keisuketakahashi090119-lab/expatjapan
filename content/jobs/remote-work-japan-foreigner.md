@@ -118,6 +118,12 @@ Remote workers and freelancers in Japan often face delayed payments from oversea
 
 ---
 
+## Travel Insurance for Remote Workers
+
+If you work remotely and travel internationally, your Japanese health insurance won't cover you abroad. **[SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador)** is a popular travel medical insurance for expats and digital nomads — affordable monthly subscription, no long-term commitment required. It's also accepted as proof of private health insurance for Japan's Digital Nomad Visa application.
+
+---
+
 ## Related Articles
 
 - [Freelancing in Japan as a Foreigner](/jobs/freelancing-in-japan-foreigner/)

@@ -67,6 +67,14 @@ Companies like **Sony損保**, **au損保**, and **損保ジャパン** offer sh
 ### International Expat Insurance
 For longer trips or frequent travelers, international plans from companies like **AXA**, **Allianz**, or **BUPA International** may make more sense than buying per-trip coverage.
 
+### SafetyWing — Subscription-Based Travel Medical Insurance
+**[SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador)** is a popular option among expats and frequent travelers. It works as a monthly subscription — no long-term commitment — which makes it ideal for people who travel regularly or for extended periods. Coverage kicks in while you're outside Japan (and outside your home country), with an affordable flat monthly rate regardless of destination.
+
+- Monthly subscription — cancel anytime
+- Covers emergency medical, hospitalization, and evacuation
+- Popular with digital nomads and expats making frequent international trips
+- No need to buy separate per-trip policies
+
 ### Credit Card Travel Insurance
 Some premium Japanese credit cards (Amex Platinum, Rakuten Premium, etc.) include basic overseas medical coverage. Check your card's benefits — it may be enough for short trips to low-risk countries.
 

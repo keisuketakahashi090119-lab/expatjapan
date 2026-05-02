@@ -148,6 +148,12 @@ The Working Holiday Visa is one of the best ways to experience Japan long-term w
 
 ---
 
+## Travel Insurance for Your Trips Outside Japan
+
+If you travel outside Japan regularly during your working holiday, your Japanese health insurance won't cover you abroad. **[SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador)** is a popular travel medical insurance for expats and digital nomads — affordable monthly subscription, no long-term commitment required.
+
+---
+
 ## Related Articles
 
 - [Student Visa Japan: Complete Guide](/visa/student-visa-japan-guide/)
