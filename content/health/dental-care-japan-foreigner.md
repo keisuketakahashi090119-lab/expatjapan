@@ -161,4 +161,40 @@ Japan's public insurance sets a standard fee for each dental procedure. You pay 
 - [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
 - [Eye Care in Japan for Foreigners](/health/eye-care-optician-japan/)
 - [Best Private Health Insurance for Foreigners in Japan](/health/best-private-health-insurance-foreigners-japan/)
+- [Mental Health Support in Japan for Foreigners](/health/mental-health-japan-foreigner/)
+- [Japanese Health Checkup Guide for Foreigners](/health/japanese-health-checkup-guide/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
 - [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Japan have dental insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Japan's national health insurance (国民健康保険) covers basic dental care including cleanings, cavity fillings, extractions, and root canals at 30% of the cost for insured patients. Cosmetic procedures like whitening, implants, and invisible braces are not covered."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can foreigners get dental insurance in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Foreigners with a valid residence card who are working or living in Japan are required to enroll in either shakai hoken (社会保険, employer health insurance) or kokumin kenko hoken (国民健康保険, national health insurance). Both cover dental care at 70% of costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is dental care expensive in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For insured patients, basic dental care in Japan is affordable — typically ¥1,000–¥5,000 per visit for covered procedures. Without insurance, costs are significantly higher. Cosmetic procedures (implants, whitening, Invisalign) are not covered and can cost ¥100,000–¥500,000+."
+      }
+    }
+  ]
+}
+</script>

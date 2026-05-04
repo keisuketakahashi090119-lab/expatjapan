@@ -118,6 +118,11 @@ menu:
       url: /search/
       weight: 70
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 outputs:
   home:
     - HTML

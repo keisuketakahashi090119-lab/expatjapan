@@ -121,4 +121,8 @@ Start with Japan Post Bank if you need an account fast. Go with Sony Bank or Shi
 - [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
 - [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
 - [Rakuten Ecosystem for Foreigners in Japan](/money/rakuten-ecosystem-foreigners-japan/)
+- [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [Cost of Living in Japan (2025)](/money/cost-of-living-japan-2025/)
+- [Mobile Phone Plans for Foreigners in Japan](/daily-life/mobile-phone-japan-foreigner/)
 - [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
