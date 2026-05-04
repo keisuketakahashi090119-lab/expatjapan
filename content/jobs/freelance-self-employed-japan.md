@@ -142,6 +142,11 @@ If your clients are overseas (e.g., remote freelance work for foreign companies)
 
 ---
 
+---
+
+**Insurance for remote workers:** Many expats use [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) for travel medical coverage while working remotely — it covers you in Japan and abroad, with a flexible monthly subscription.
+
+
 ## Related Articles
 
 - [Side Income in Japan as a Foreigner](/money/side-income-japan-foreigner/)

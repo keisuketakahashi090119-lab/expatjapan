@@ -139,6 +139,11 @@ Insurance is one layer of protection. Also prepare:
 
 ---
 
+---
+
+**Travel insurance for trips outside Japan:** If you leave Japan temporarily, your health insurance won't cover you abroad. [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular, affordable option for expats — starting from around $45/month.
+
+
 ## Related Articles
 
 - [Earthquake Preparedness in Japan](/daily-life/earthquake-preparedness-japan/)

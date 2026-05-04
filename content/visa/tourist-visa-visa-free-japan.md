@@ -141,6 +141,11 @@ Have clear, simple answers ready. Have your hotel booking or accommodation conta
 
 ---
 
+---
+
+> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
+
+
 ## Related Articles
 
 - [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)

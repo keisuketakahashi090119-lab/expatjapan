@@ -129,6 +129,11 @@ Over 3,000 certified financial planners nationwide. Free consultation, no obliga
 
 ---
 
+---
+
+**Travel insurance for trips outside Japan:** If you leave Japan temporarily, your health insurance won't cover you abroad. [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular, affordable option for expats — starting from around $45/month.
+
+
 ## Related Articles
 
 - [Travel Insurance for Japan Residents](/money/japan-travel-insurance-residents/)

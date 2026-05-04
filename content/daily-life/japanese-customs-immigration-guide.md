@@ -98,6 +98,11 @@ Once through customs, you're in the public arrival hall. Here you'll find:
 
 ---
 
+---
+
+> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
+
+
 ## Related Articles
 - [Arriving in Japan — Your First 30 Days Checklist](/daily-life/arriving-japan-first-steps/)
 - [Japanese Residence Card Guide](/visa/japanese-residence-card-guide/)

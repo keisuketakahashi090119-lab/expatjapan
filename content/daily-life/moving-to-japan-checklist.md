@@ -136,6 +136,11 @@ Do the city hall registration first — it unlocks everything else. Then get a p
 
 ---
 
+---
+
+**Travel insurance for trips outside Japan:** If you leave Japan temporarily, your health insurance won't cover you abroad. [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular, affordable option for expats — starting from around $45/month.
+
+
 ## Related Articles
 
 - [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)

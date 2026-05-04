@@ -125,6 +125,11 @@ The trap foreigners fall into: eating out every day, expensive Western imports, 
 
 ---
 
+---
+
+**Travel insurance for trips outside Japan:** If you leave Japan temporarily, your health insurance won't cover you abroad. [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular, affordable option for expats — starting from around $45/month.
+
+
 ## Related Articles
 
 - [Housing Costs in Japan by City](/daily-life/housing-costs-japan-cities/)

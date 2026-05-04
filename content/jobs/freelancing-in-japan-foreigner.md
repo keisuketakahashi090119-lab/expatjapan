@@ -122,6 +122,11 @@ One common freelance challenge in Japan: clients often pay on 30–60 day cycles
 
 ---
 
+---
+
+**Insurance for remote workers:** Many expats use [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) for travel medical coverage while working remotely — it covers you in Japan and abroad, with a flexible monthly subscription.
+
+
 ## Related Articles
 
 - [How to Change Your Visa Status in Japan](/visa/how-to-change-visa-status-japan/)

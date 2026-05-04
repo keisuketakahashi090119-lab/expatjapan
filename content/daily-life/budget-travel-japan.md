@@ -118,6 +118,11 @@ The Japan Rail Pass is designed for short-stay tourists. As a resident, you:
 
 ---
 
+---
+
+> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
+
+
 ## Related Articles
 
 - [Suica IC Card Guide for Japan](/daily-life/suica-ic-card-guide-japan/)

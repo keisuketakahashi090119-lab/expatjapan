@@ -114,6 +114,11 @@ Golden Week = Japan at maximum capacity. If you want to travel, book weeks in ad
 
 ---
 
+---
+
+> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
+
+
 ## Related Articles
 
 - [Japanese Public Holidays: Complete Guide for Foreigners](/culture/japanese-public-holidays-guide/)

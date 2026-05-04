@@ -141,6 +141,11 @@ PR is absolutely worth pursuing if you're planning to stay in Japan long-term. S
 
 ---
 
+---
+
+> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
+
+
 ## Related Articles
 
 - [Highly Skilled Professional Visa Japan: The Fast Track to PR](/visa/highly-skilled-professional-visa-japan/)

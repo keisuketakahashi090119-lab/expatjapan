@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Opening a bank account in Japan as a new foreigner used to be nearly impossible. It's gotten easier — but the requirements still trip people up if they don't know what to bring. Here's exactly what you need and which banks are most foreigner-friendly.
+You need a Japanese bank account to get paid, pay rent, and handle almost every part of daily life here — and you need one fast. The problem is that banks in Japan are notoriously picky: wrong visa type, wrong documents, or not enough residency history, and you walk out empty-handed. This guide tells you exactly which banks accept foreigners with minimal fuss, what documents to bring, and how to have an account open within a week of landing.
 
 ---
 

@@ -133,6 +133,11 @@ Foreigners have the same labor rights as Japanese employees on this matter.
 
 ---
 
+---
+
+> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
+
+
 ## Related Articles
 
 - [Golden Week in Japan: What Foreigners Need to Know](/culture/golden-week-japan-guide/)

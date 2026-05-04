@@ -102,6 +102,11 @@ Once you graduate, you can switch to a **work visa** if you have a job offer. Ap
 
 ---
 
+---
+
+> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
+
+
 ## Related Articles
 
 - [Working Holiday Visa Japan: Everything You Need to Know](/visa/working-holiday-visa-japan/)

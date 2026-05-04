@@ -99,6 +99,11 @@ Many popular tourist areas — Kyoto's Higashiyama district, Nara near Todaiji, 
 
 ---
 
+---
+
+> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
+
+
 ## Related Articles
 - [JR Pass Guide for Foreigners in Japan](/daily-life/jr-pass-guide-foreigners-japan/)
 - [Budget Travel in Japan](/daily-life/budget-travel-japan/)
