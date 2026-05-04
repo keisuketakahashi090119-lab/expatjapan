@@ -92,6 +92,8 @@ Tokyo has a vibrant expat community. Meetup groups, international clubs, languag
 
 ---
 
+**Travel insurance tip:** If you travel outside Japan, your Japanese health insurance won't cover you. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular choice for expats — affordable monthly plan, covers you worldwide.
+
 ## Related Articles
 - [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
 - [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)

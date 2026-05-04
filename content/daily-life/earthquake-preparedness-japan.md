@@ -131,6 +131,8 @@ If you live in a coastal area or receive a tsunami warning (津波警報):
 
 ---
 
+**Travel insurance tip:** If you travel outside Japan, your Japanese health insurance won't cover you. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular choice for expats — affordable monthly plan, covers you worldwide.
+
 ## Related Articles
 
 - [Emergency Guide for Foreigners in Japan](/culture/emergency-guide-foreigners-japan/)

@@ -98,6 +98,8 @@ Most checkup forms and result letters are in Japanese. At larger urban medical c
 
 ---
 
+**Travel insurance tip:** If you travel outside Japan, your Japanese health insurance won't cover you. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular choice for expats — affordable monthly plan, covers you worldwide.
+
 ## Related Articles
 - [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
 - [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)

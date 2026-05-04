@@ -104,6 +104,8 @@ Apply at your regional Immigration Services Agency. Processing: **1–3 months**
 
 ---
 
+**Insurance while between visas or traveling:** [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) covers you internationally and can be purchased month-to-month — ideal for visa gaps or short trips abroad.
+
 ## Related Articles
 
 - [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)

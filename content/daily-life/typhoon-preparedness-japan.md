@@ -102,6 +102,8 @@ When a major typhoon is forecast 24–48 hours out:
 
 ---
 
+**Travel insurance tip:** If you travel outside Japan, your Japanese health insurance won't cover you. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular choice for expats — affordable monthly plan, covers you worldwide.
+
 ## Related Articles
 - [Earthquake Preparedness in Japan](/daily-life/earthquake-preparedness-japan/)
 - [Japanese Emergency Services Guide](/daily-life/japanese-emergency-services/)

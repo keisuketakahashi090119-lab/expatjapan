@@ -121,6 +121,8 @@ If neither of you is Japanese, you can still legally marry in Japan. The process
 
 ---
 
+**Insurance while between visas or traveling:** [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) covers you internationally and can be purchased month-to-month — ideal for visa gaps or short trips abroad.
+
 ## Related Articles
 
 - [Spouse Visa Japan — Complete Guide](/visa/spouse-visa-japan-guide/)

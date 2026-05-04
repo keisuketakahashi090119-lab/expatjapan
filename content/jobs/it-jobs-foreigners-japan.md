@@ -143,6 +143,8 @@ Even if your company is English-first, some Japanese helps:
 
 ---
 
+**Insurance while between visas or traveling:** [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) covers you internationally and can be purchased month-to-month — ideal for visa gaps or short trips abroad.
+
 ## Related Articles
 
 - [Highly Skilled Professional Visa Japan: The Fast Track to PR](/visa/highly-skilled-professional-visa-japan/)

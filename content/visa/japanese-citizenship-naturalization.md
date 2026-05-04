@@ -125,6 +125,8 @@ Naturalization makes most sense if:
 
 ---
 
+**Insurance while between visas or traveling:** [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) covers you internationally and can be purchased month-to-month — ideal for visa gaps or short trips abroad.
+
 ## Related Articles
 
 - [How to Get Permanent Residency in Japan](/visa/how-to-get-permanent-residency-japan/)

@@ -111,6 +111,8 @@ Bring all the same documents plus your current residence card. Processing time i
 
 ---
 
+**Insurance while between visas or traveling:** [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) covers you internationally and can be purchased month-to-month — ideal for visa gaps or short trips abroad.
+
 ## Related Articles
 - [Engineer / Specialist in Humanities Visa Guide](/jobs/engineer-visa-japan-guide/)
 - [Japanese Residence Card Guide](/visa/japanese-residence-card-guide/)

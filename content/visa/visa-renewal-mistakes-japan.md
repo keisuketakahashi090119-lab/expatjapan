@@ -122,6 +122,8 @@ Fees: ¥50,000–200,000 depending on complexity. Worth it if your renewal is at
 
 ---
 
+**Insurance while between visas or traveling:** [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) covers you internationally and can be purchased month-to-month — ideal for visa gaps or short trips abroad.
+
 ## Related Articles
 
 - [How to Renew Your Work Visa in Japan](/visa/how-to-renew-work-visa-japan/)

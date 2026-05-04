@@ -100,6 +100,8 @@ After accumulating 5 years of continuous residence (various visa categories coun
 
 ---
 
+**Insurance while between visas or traveling:** [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) covers you internationally and can be purchased month-to-month — ideal for visa gaps or short trips abroad.
+
 ## Related Articles
 - [How to Get a Work Visa in Japan](/visa/how-to-get-work-visa-japan/)
 - [IT Jobs for Foreigners in Japan](/jobs/it-jobs-foreigners-japan/)

@@ -157,6 +157,8 @@ Apply for the COE first — your Japanese spouse does this in Japan while you're
 
 ---
 
+**Insurance while between visas or traveling:** [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) covers you internationally and can be purchased month-to-month — ideal for visa gaps or short trips abroad.
+
 ## Related Articles
 
 - [Dependent Visa Japan: Guide for Families](/visa/dependent-visa-japan-guide/)

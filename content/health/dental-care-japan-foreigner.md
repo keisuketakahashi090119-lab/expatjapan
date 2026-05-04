@@ -128,6 +128,8 @@ For severe dental pain or a dental emergency:
 
 ---
 
+**Travel insurance tip:** If you travel outside Japan, your Japanese health insurance won't cover you. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular choice for expats — affordable monthly plan, covers you worldwide.
+
 ## Related Articles
 
 - [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
