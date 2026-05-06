@@ -1,8 +1,8 @@
 ---
-title: "Dependent Visa Japan: Bringing Your Family to Japan (2025)"
+title: "Japan Dependent Visa: Shikakugai Katsudo Kyoka & 28-Hour Work Rule Explained (2025)"
 date: 2025-04-26
-description: "How to bring your spouse, children, or family to Japan on a dependent visa. Requirements, application steps, and work permission rules."
-tags: ["dependent visa", "family", "visa", "spouse"]
+description: "Complete guide to Japan's dependent visa — including shikakugai katsudo kyoka (資格外活動許可) that lets family members work up to 28 hours/week. Requirements, documents, and step-by-step application."
+tags: ["dependent visa", "family", "visa", "spouse", "shikakugai katsudo", "work permission"]
 categories: ["Visa & Status"]
 showToc: true
 draft: false
@@ -69,15 +69,36 @@ Start the process **4–6 months** before you want your family to arrive.
 
 ---
 
-## Work Rights on a Dependent Visa
+## Work Rights on a Dependent Visa: Shikakugai Katsudo Kyoka (資格外活動許可)
 
 By default, the Dependent visa does **not** include work permission.
 
-**However**, your family member can apply for **Permission to Engage in Activity Other Than That Permitted** (資格外活動許可), which allows:
-- Up to **28 hours/week** of part-time work
-- Apply at the airport on arrival, or at the local immigration office
+**However**, dependents can apply for **Shikakugai Katsudo Kyoka** (資格外活動許可 — Permission to Engage in Activity Other Than That Permitted), which allows part-time work in Japan.
 
-Full-time work is not permitted. If your spouse wants to work full-time, they'd need to switch to their own work visa (requires a job offer from a Japanese company).
+### What Shikakugai Katsudo Kyoka Allows
+
+- Up to **28 hours per week** of part-time work (the "28 hours per week" limit is strictly enforced)
+- During school holidays or long periods away from sponsoring activity, this may be extended to **40 hours/week** in some cases
+- Work in most industries is permitted (retail, restaurant, office, etc.)
+- Cannot work in businesses related to adult entertainment (pachinko, bars with hostessing, etc.)
+
+### How to Get Shikakugai Katsudo Kyoka
+
+**Option 1 — At the Airport on Arrival (Simplest)**
+- Request permission at the immigration counter when entering Japan
+- It's stamped directly into the passport — no extra paperwork required
+- Works for most dependents arriving from abroad
+
+**Option 2 — At Your Local Immigration Office**
+- If you didn't apply at the airport, visit the regional immigration bureau
+- Bring your residence card, passport, and a letter explaining your situation
+- Processing: typically 2–4 weeks
+
+### Important: The 28-Hour Limit
+
+The 28-hour/week rule is a hard limit. Exceeding it is a violation of your visa status and can affect your ability to renew the dependent visa. Employers are also legally responsible for checking work permission status.
+
+Full-time work (40 hours/week) is **not** permitted on a dependent visa. If your spouse wants to work full-time, they need to switch to their own work visa — which requires a job offer from a Japanese employer.
 
 ---
 
