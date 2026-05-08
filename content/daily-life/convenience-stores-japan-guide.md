@@ -1,7 +1,7 @@
 ---
-title: "Convenience Store Guide for Foreigners in Japan (2025)"
+title: "Japan Convenience Stores (Konbini) Guide for Foreigners: 7-Eleven, Lawson & FamilyMart (2025)"
 date: 2025-04-24
-description: "Japan's convenience stores (konbini) do almost everything. Here's what you can do at 7-Eleven, Lawson, and FamilyMart beyond just buying food."
+description: "What can you actually do at Japan's konbini? Pay bills, withdraw cash, print, ship packages, buy hot food — and more. Complete guide to 7-Eleven, Lawson, and FamilyMart for foreigners living in Japan."
 tags: ["konbini", "convenience store", "daily life", "tips"]
 categories: ["Daily Life"]
 showToc: true

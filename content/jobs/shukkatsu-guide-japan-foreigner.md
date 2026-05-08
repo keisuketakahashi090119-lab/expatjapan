@@ -1,7 +1,7 @@
 ---
-title: "Shukkatsu Guide for Foreigners in Japan — Japan's Graduate Job Hunt System"
+title: "Shukkatsu in Japan for Foreigners: How to Get a Japanese Graduate Job (2025)"
 date: 2025-05-08
-description: "How Japan's shukkatsu new graduate job hunting system works, and how foreigners can navigate it. Timeline, process, OB/OG visits, webtest, and interview tips."
+description: "Everything foreigners need to know about Japan's shukkatsu system — the full timeline, OB/OG visits, web tests, group discussions, and how to stand out and get hired as a non-Japanese applicant."
 tags: ["jobs", "shukkatsu", "job hunting", "career", "new graduate"]
 categories: ["Jobs & Career"]
 showToc: true

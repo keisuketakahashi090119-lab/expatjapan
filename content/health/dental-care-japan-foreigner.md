@@ -1,7 +1,7 @@
 ---
-title: "Dental Insurance Japan: What Foreigners Need to Know (2025)"
+title: "Dentist in Japan for Foreigners: Costs, Insurance & How to Find English-Speaking Dentists (2025)"
 date: 2025-04-27
-description: "Everything about dental insurance in Japan for foreigners — what's covered by public health insurance, what costs you pay out of pocket, and your options for extra coverage."
+description: "How much does a dentist cost in Japan? With public health insurance you pay only 30%. Find English-speaking dentists, learn what's covered, and see if private dental insurance is worth it."
 tags: ["dental", "dentist", "health", "insurance", "daily life"]
 categories: ["Health & Insurance"]
 showToc: true
