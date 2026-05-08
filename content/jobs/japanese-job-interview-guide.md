@@ -84,6 +84,72 @@ Answer these confidently and honestly. Express commitment to staying in Japan an
 
 ---
 
+## Frequently Asked Questions
+
+**What should I wear to a Japanese job interview?**
+Dark suit (black, navy, or charcoal), white shirt, and conservative tie for men. Dark suit jacket with skirt or trousers and conservative blouse for women. When in doubt, dress more formally — creative industries are the exception. Avoid flashy colours, unusual hairstyles, or heavy perfume.
+
+**Do Japanese companies ask different interview questions?**
+Yes. Japanese interviews put heavy emphasis on "shibo douki" (why you chose this specific company), self-introduction (jiko shōkai), long-term career goals, and how you handle challenges. Prepare a polished 1–2 minute self-introduction in Japanese if possible — it signals serious commitment.
+
+**Do I need to speak Japanese to interview at a Japanese company?**
+Business-level Japanese (JLPT N2 or above) is expected at most traditional Japanese companies. That said, international firms, foreign-affiliated companies, and tech companies often hire English-speaking foreigners and conduct interviews in English. At minimum, a Japanese greeting and polite phrases leave a strong impression.
+
+**How many rounds of interviews are typical in Japan?**
+Typically 2–4 rounds. Large Japanese companies (especially新卒/shukkatsu hiring) may have a group interview first, followed by individual rounds with progressively senior staff. Mid-career (中途) hiring usually runs 2–3 rounds. The process can take 2–6 weeks.
+
+**Should I send a thank-you email after a Japanese interview?**
+Yes. Send a brief, polite thank-you email the same day or the following morning. Restate your interest in the position and thank the interviewer for their time. Keep it short and professional — 3–5 sentences is appropriate.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I wear to a Japanese job interview?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dark suit (black, navy, or charcoal), white shirt, and conservative tie for men. Dark suit jacket with skirt or trousers for women. Dress conservatively and professionally — when in doubt, overdress rather than underdress."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do Japanese companies ask different interview questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Japanese interviews focus heavily on shibo douki (why you chose this specific company), a self-introduction (jiko shōkai), long-term career goals, and how you handle challenges. These differ significantly from Western-style competency interviews."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to speak Japanese to interview at a Japanese company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Business-level Japanese (JLPT N2 or above) is expected at most traditional Japanese companies. International firms and tech companies often interview in English. At minimum, a polished Japanese self-introduction demonstrates commitment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many rounds of interviews are typical in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically 2–4 rounds. Large Japanese companies may start with a group interview, followed by individual rounds with progressively senior staff. The full process usually takes 2–6 weeks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I send a thank-you email after a Japanese interview?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Send a brief, polite thank-you email the same day or the following morning. Restate your interest in the position and thank the interviewer for their time. Keep it to 3–5 sentences."
+      }
+    }
+  ]
+}
+</script>
+
 ## Related Articles
 - [Working in Japan Without Japanese](/jobs/working-japan-without-japanese/)
 - [Best Job Sites for Foreigners in Japan](/jobs/best-job-sites-for-foreigners-japan/)

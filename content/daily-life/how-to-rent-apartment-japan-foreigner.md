@@ -1,7 +1,7 @@
 ---
-title: "How to Rent an Apartment in Japan as a Foreigner (2025)"
+title: "How to Rent an Apartment in Japan as a Foreigner (2025): Complete Guide"
 date: 2025-04-21
-description: "A practical guide to renting an apartment in Japan as a foreigner. What documents you need, which agencies accept foreigners, and how to avoid common problems."
+description: "Step-by-step guide to renting an apartment in Japan as a foreigner — upfront costs, guarantor options, no-guarantor UR housing, foreigner-friendly agencies, and search sites explained."
 tags: ["apartment", "housing", "daily life", "rent"]
 categories: ["Daily Life"]
 showToc: true
@@ -90,31 +90,154 @@ Yeah. Budget 3–6 months of rent just to move in. It's a lot, and it's just how
 
 ---
 
+## Foreigner-Friendly Apartment Search Sites
+
+| Site | Language | Best For |
+|------|----------|---------|
+| **[GaijinPot Apartments](https://apartments.gaijinpot.com/)** | English | New arrivals — English support, no-guarantor listings |
+| **[Sakura House](https://www.sakura-house.com/)** | English | Share houses & private rooms, low upfront costs |
+| **[Suumo (スーモ)](https://suumo.jp/)** | Japanese | Largest inventory in Japan — filter for "外国人歓迎" |
+| **[Homes (ホームズ)](https://www.homes.co.jp/)** | Japanese | Wide coverage, similar to Suumo |
+| **[UR Net](https://www.ur-net.go.jp/)** | Japanese | Government housing — no guarantor, no key money |
+
+---
+
+## No-Guarantor Options
+
+If you're a new arrival without Japanese income history, getting approved by a guarantee company can be difficult. These alternatives don't require one:
+
+### UR 賃貸住宅 (UR Rental Housing)
+
+UR is a government-backed housing corporation with over 70,000 properties across Japan. It's one of the best options for foreigners because:
+
+- **No guarantor required**
+- **No key money (礼金 = zero)**
+- No agency fee
+- Apartments are generally well-maintained
+
+You do need to meet income requirements (typically monthly income ≥ rent × 4). Find listings at [ur-net.go.jp](https://www.ur-net.go.jp/).
+
+### Share Houses
+
+Share houses like Sakura House or Borderless House are built for international residents:
+- Move in for 1–2 months deposit (no key money, no agency fee)
+- Fully or semi-furnished
+- Utility bills often included
+- No guarantor required
+
+Ideal for your first 3–6 months in Japan before you establish enough income history to qualify for a standalone apartment.
+
+### Monthly Mansions (マンスリーマンション)
+
+Fully furnished short-stay apartments rented by the month. More expensive per month than a regular apartment, but require zero paperwork and no guarantor. Useful as a bridge while you apartment hunt.
+
+---
+
+## How to Reduce Your Upfront Costs
+
+The 3–6 month upfront total is not fixed. Here's how to bring it down:
+
+| Strategy | Potential Saving |
+|----------|-----------------|
+| **Find "礼金なし" listings** (no key money) | Save 1–2 months rent |
+| **Negotiate フリーレント** (first month free) | Save 1 month rent |
+| **Use UR housing** (no key money, no agency fee) | Save 2–3 months rent |
+| **Start with a share house** | Save 2–4 months rent |
+| **Check "AD" properties** (landlord pays agent, not tenant) | Save agency fee |
+
+---
+
 ## Tips That Actually Help
 
 **Look for "外国人歓迎" listings.**
-This means "foreigners welcome." You can filter for this on most search sites. It saves you from wasting time on landlords who won't consider you.
+This means "foreigners welcome." Filter for it on Suumo or Homes to skip landlords who will reject you automatically.
 
 **Consider a share house first.**
-Sakura House and similar places require way less paperwork and much lower upfront costs. They're a great option for new arrivals who need housing fast and want to settle in before committing to a full apartment.
+Less paperwork, lower upfront cost, and a great way to meet people in Japan. Commit to a full apartment once you've settled and have income history.
 
 **Have your documents ready before you start.**
-Seriously, get everything together first. Popular apartments in good locations get taken within days.
+Popular apartments in central locations disappear within days. Prepare everything before you start searching.
 
 **Check your visa expiry.**
-Some landlords won't rent to you if your visa expires within a year. If you're coming up on renewal time, get that done before you start apartment hunting.
+Many landlords won't rent to you if your visa expires within a year. Renew first if needed.
 
 ---
 
 ## Summary
 
 Renting in Japan as a foreigner is manageable if you:
-1. Use foreigner-friendly agencies
+1. Use foreigner-friendly agencies or platforms like GaijinPot Apartments
 2. Prepare all documents in advance
-3. Budget for 3–6 months of rent as upfront costs
-4. Consider a share house as an easier starting option
+3. Budget for 3–6 months of rent as upfront costs — or choose UR/share house to reduce this significantly
+4. Consider a share house as an easier first step
 
 ---
+
+## Frequently Asked Questions
+
+**Can foreigners rent apartments in Japan?**
+Yes — thousands of foreigners rent apartments in Japan. It's more involved than in many countries, but entirely doable using foreigner-friendly agencies and platforms. The key is finding landlords who accept foreigners ("外国人歓迎") and having your documents ready.
+
+**How much does it cost to rent an apartment in Japan?**
+In Tokyo, expect ¥60,000–95,000/month for a studio and ¥100,000–170,000/month for a 1LDK. Osaka and Fukuoka are 30–40% cheaper. On top of monthly rent, budget 3–6 months of rent for upfront move-in costs (deposit, key money, agency fee, guarantee fee).
+
+**Do I need a guarantor to rent an apartment in Japan?**
+Most modern landlords accept a guarantee company (保証会社) instead of a personal Japanese guarantor. You pay a fee of roughly 0.5–1 month's rent. UR rental housing is the main exception — it requires neither a personal guarantor nor a guarantee company.
+
+**What is key money (礼金) in Japan?**
+Key money is a non-refundable payment to the landlord at move-in — typically 1–2 months' rent. It's a traditional practice, but many newer apartments and UR properties charge zero key money. Always check for "礼金なし" listings to avoid this cost.
+
+**Which real estate agencies work with foreigners in Japan?**
+Able (エイブル), Leopalace21, Sakura House, and Tokyo Rent all actively work with foreign residents. GaijinPot Apartments is an English-language platform specifically for foreigners. UR housing is government-run and foreigner-friendly by policy.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can foreigners rent apartments in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — thousands of foreigners rent apartments in Japan. It requires using foreigner-friendly agencies and platforms, having documents ready, and finding landlords who accept foreign residents (外国人歓迎)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does it cost to rent an apartment in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Tokyo, studios cost ¥60,000–95,000/month and 1LDK apartments ¥100,000–170,000/month. Upfront move-in costs total 3–6 months of rent (deposit, key money, agency fee, guarantee fee). Osaka and Fukuoka are 30–40% cheaper."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a guarantor to rent an apartment in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most landlords now accept a guarantee company (保証会社) instead of a personal Japanese guarantor. UR rental housing requires neither — making it one of the best options for new arrivals without Japanese connections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is key money (礼金) in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key money is a non-refundable payment to the landlord at move-in, typically 1–2 months' rent. Many newer apartments and all UR properties charge zero key money. Look for listings marked 礼金なし to avoid this cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which real estate agencies work with foreigners in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Able (エイブル), Leopalace21, Sakura House, and Tokyo Rent work with foreign residents. GaijinPot Apartments is an English-language platform specifically built for foreigners. UR housing is government-run and foreigner-friendly by policy."
+      }
+    }
+  ]
+}
+</script>
 
 **Travel insurance tip:** If you travel outside Japan, your Japanese health insurance won't cover you. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular choice for expats — affordable monthly plan, covers you worldwide.
 

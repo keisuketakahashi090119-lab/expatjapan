@@ -18,6 +18,8 @@ Moving to Japan involves dozens of tasks that need to happen in a specific order
 
 ## Week 1: The Non-Negotiables
 
+> **Before you start:** You need a fixed address in Japan before you can do most of this. If you haven't sorted housing yet, read our guide on [renting an apartment in Japan as a foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/) — it covers upfront costs, guarantor options, and foreigner-friendly agencies.
+
 ### 1. Register Your Address (住民登録)
 
 Go to your local **city hall (市役所)** within 14 days of moving in. Bring:
