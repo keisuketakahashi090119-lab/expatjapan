@@ -1,0 +1,9 @@
+{{- $text := .Get "text" | default "Send money to Japan at the real exchange rate — no markups, no hidden fees." -}}
+{{- $label := .Get "label" | default "Try Wise Free →" -}}
+<div class="affiliate-cta affiliate-cta--wise">
+  <div class="affiliate-cta__icon">💸</div>
+  <div class="affiliate-cta__body">
+    <p class="affiliate-cta__text">{{ $text }}</p>
+    <a class="affiliate-cta__btn" href="https://wise.com/invite/i/expatjapan" target="_blank" rel="noopener sponsored">{{ $label }}</a>
+  </div>
+</div>

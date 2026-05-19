@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Most foreigners arrive in Japan with high hopes — and leave completely confused about dating here. The rules are different, the signals are subtle, and the cultural gap is real. This guide cuts through the mystery and gives you an honest picture of what dating in Japan actually looks like.
+Dating in Japan as a foreigner works differently than most people expect. Communication styles, relationship pacing, and the role of confession (kokuhaku) all follow patterns that aren't obvious at first. This guide explains the key differences and what actually works in practice.
 
 ---
 

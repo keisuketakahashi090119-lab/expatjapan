@@ -1,7 +1,7 @@
 ---
-title: "How to Rent an Apartment in Japan as a Foreigner (2025): Complete Guide"
+title: "How to Rent an Apartment in Japan as a Foreigner (2025) — Step-by-Step Guide"
 date: 2025-04-21
-description: "Step-by-step guide to renting an apartment in Japan as a foreigner — upfront costs, guarantor options, no-guarantor UR housing, foreigner-friendly agencies, and search sites explained."
+description: "How to rent an apartment in Japan as a foreigner — step-by-step. No guarantor? No Japanese? No problem. Covers foreigner-friendly agencies, upfront costs (key money, deposit), required documents, and traps to avoid."
 tags: ["apartment", "housing", "daily life", "rent"]
 categories: ["Daily Life"]
 showToc: true
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Finding an apartment in Japan as a foreigner is harder than it should be: landlords can refuse you without explanation, the upfront costs are shockingly high, and most of the paperwork assumes you already know the rules. But it's absolutely doable — tens of thousands of foreigners rent apartments here every year. This guide walks you through exactly which agencies will work with you, what documents to prepare, how much cash to have ready, and the traps that catch most newcomers off guard.
+Renting an apartment in Japan as a foreigner involves real barriers: landlords can legally decline without giving reasons, upfront costs are high, and paperwork is in Japanese. That said, tens of thousands of foreigners rent privately every year. This guide covers which agencies accept foreigners, what documents you need, how much cash to have ready, and the most common mistakes to avoid.
 
 ---
 
@@ -20,7 +20,7 @@ Finding an apartment in Japan as a foreigner is harder than it should be: landlo
 
 Traditionally, Japanese landlords required a **Japanese guarantor (保証人)** — a Japanese person who'd agree to cover your rent if you couldn't pay. Most foreigners obviously don't have someone like that lined up.
 
-But here's the thing: the system has mostly moved on. Today, most landlords accept a **guarantee company (保証会社)** instead of a personal guarantor. You pay a fee — usually 50–100% of one month's rent — and the company acts as your guarantor. It adds to your move-in costs, but it removes that whole "I don't know anyone in Japan" barrier.
+In practice, most landlords now accept a **guarantee company (保証会社)** instead of a personal guarantor. You pay a fee — usually 50–100% of one month's rent — and the company acts as your guarantor. This adds to move-in costs but eliminates the personal guarantor requirement entirely.
 
 ---
 

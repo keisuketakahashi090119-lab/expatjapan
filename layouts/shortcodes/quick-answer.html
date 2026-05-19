@@ -1,0 +1,5 @@
+{{- $label := .Get "label" | default "Quick Answer" -}}
+<div class="quick-answer">
+  <div class="quick-answer__label">{{ $label }}</div>
+  <p class="quick-answer__text">{{ .Inner | markdownify }}</p>
+</div>

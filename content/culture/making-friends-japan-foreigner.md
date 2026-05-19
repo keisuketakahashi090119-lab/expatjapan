@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Many foreigners in Japan describe the same experience: polite colleagues, friendly conversations — but no real friends. Making genuine connections here takes a different approach than back home. This guide explains why, and what actually works.
+A common pattern for foreigners in Japan: polite colleagues, friendly conversations at events, but few close friendships after months of effort. Friendships in Japan typically form through repeated contact in structured settings — clubs, classes, recurring events — rather than one-off social occasions. This guide covers what works and why.
 
 ---
 

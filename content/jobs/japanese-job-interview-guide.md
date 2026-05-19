@@ -1,7 +1,7 @@
 ---
-title: "Japanese Job Interview Guide for Foreigners (2025)"
+title: "Japanese Job Interview Guide for Foreigners: What to Expect & How to Prepare (2025)"
 date: 2025-04-11
-description: "A complete guide to job interviews in Japan for foreign candidates in 2025. Covers Japanese interview etiquette, common questions, dress code, and preparation tips."
+description: "Ace your Japanese job interview in 2025: etiquette rules, common questions with model answers, dress code, and what interviewers actually look for. Step-by-step preparation guide for foreign candidates."
 tags: ["job interview", "working in japan", "career", "japanese workplace", "job hunting"]
 categories: ["Jobs & Career"]
 showToc: true
@@ -11,6 +11,14 @@ cover:
   alt: "Expat Japan Guide"
   relative: false
 ---
+
+{{< callout type="info" title="What you'll learn in this guide" >}}
+- What to wear, how to bow, and what to say when you walk in the door
+- The 5 most common Japanese interview questions — with model answers in English
+- How to explain your "reason for applying" (志望動機) the way Japanese interviewers want to hear it
+- What happens after the interview and how the Japanese hiring process works
+- Special considerations for foreign candidates at Japanese companies
+{{< /callout >}}
 
 A Japanese job interview follows conventions that most foreigners haven't encountered before — formal structure, specific questions, and expectations around presentation that differ from Western norms. Prepare for the right things and you'll stand out. Here's exactly what to expect.
 

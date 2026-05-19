@@ -1,0 +1,9 @@
+{{- $text := .Get "text" | default "Traveling outside Japan? Japan's NHI doesn't cover you abroad. SafetyWing covers expats from ~$45/month." -}}
+{{- $label := .Get "label" | default "Get a Quote →" -}}
+<div class="affiliate-cta affiliate-cta--safetywing">
+  <div class="affiliate-cta__icon">🛡️</div>
+  <div class="affiliate-cta__body">
+    <p class="affiliate-cta__text">{{ $text }}</p>
+    <a class="affiliate-cta__btn affiliate-cta__btn--green" href="https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador" target="_blank" rel="noopener sponsored">{{ $label }}</a>
+  </div>
+</div>

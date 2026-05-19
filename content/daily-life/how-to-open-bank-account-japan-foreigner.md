@@ -1,7 +1,7 @@
 ---
-title: "How to Open a Bank Account in Japan as a Foreigner (2025)"
+title: "How to Open a Bank Account in Japan as a Foreigner (2025) — Which Banks Actually Say Yes"
 date: 2025-04-21
-description: "Step-by-step guide to opening a Japanese bank account as a foreigner. Which banks accept foreigners, what documents you need, and the easiest options."
+description: "How to open a bank account in Japan as a foreigner in 2025. Japan Post Bank, Rakuten Bank, Sony Bank — which accept foreigners, what documents to bring, and how to avoid rejection."
 tags: ["bank", "finance", "daily life"]
 categories: ["Daily Life"]
 showToc: true

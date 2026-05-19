@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japanese workplace culture can feel like a parallel universe if you're not prepared for it. Hierarchy, after-work drinks, unspoken rules about overtime — it all operates on a logic that takes time to decode. This guide gives you an honest picture of what to expect before your first day.
+Japanese workplace culture has clear rules — but most of them are never written down. Hierarchy, after-work drinks, overtime expectations — these operate differently than in Western countries. This guide explains what to expect before your first day.
 
 ---
 
@@ -41,7 +41,7 @@ If your company gives you business cards, the way you handle them matters.
 - During a meeting, place it on the table in front of you
 - Never write on it, fold it, or shove it in your back pocket
 
-It sounds ceremonial because it is. People notice when you do it right, and they notice when you don't.
+The process is deliberate. Handling business cards correctly signals respect — handling them carelessly does the opposite.
 
 ---
 
@@ -60,7 +60,7 @@ This doesn't mean you can't have opinions. It means there's a right way and a wr
 
 ## Communication Is Often Indirect
 
-This is the thing that trips up a lot of Westerners. In Japan, people rarely say "no" directly.
+In Japan, direct refusals are uncommon. People rarely say "no" outright.
 
 - "That might be difficult" often means no
 - Silence doesn't mean agreement — it might mean they're processing, or politely disagreeing
@@ -123,7 +123,7 @@ You'll hear おつかれさまです constantly. Learn it, use it. It's basicall
 
 ## Bottom Line
 
-Japanese workplace culture isn't better or worse than what you're used to — it's just different. The key things: be punctual, show respect to hierarchy, communicate indirectly when giving negative feedback, and show up to at least a few nomikai. Get those right and you'll fit in faster than you'd expect.
+The key rules: arrive early, address senior colleagues with proper titles, avoid direct public disagreement with managers, and attend some nomikai. These habits go a long way toward being seen as a reliable team member.
 
 ---
 

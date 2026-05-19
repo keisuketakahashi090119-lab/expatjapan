@@ -1,7 +1,7 @@
 ---
-title: "Cost of Living in Japan 2025: Complete City-by-City Breakdown"
+title: "Cost of Living in Japan 2025: Foreigner's Complete Guide (Tokyo, Osaka, Fukuoka)"
 date: 2025-05-02
-description: "How much does it cost to live in Japan in 2025? Tokyo budget from ¥165,000/month, Osaka from ¥123,000. Full breakdown by city — rent, food, transport, utilities, and taxes. Updated for 2025."
+description: "Exact monthly budgets for foreigners in Japan 2025: Tokyo from ¥165,000, Osaka from ¥123,000, Fukuoka from ¥105,000. Rent, food, transport & taxes — city-by-city breakdown with real numbers. Updated 2025."
 tags: ["money", "cost of living", "budget", "Japan"]
 categories: ["Money & Finance"]
 showToc: true
@@ -11,6 +11,14 @@ cover:
   alt: "Expat Japan Guide"
   relative: false
 ---
+
+{{< callout type="info" title="What you'll learn in this guide" >}}
+- **Exact monthly budgets** for Tokyo, Osaka, Fukuoka, and Sapporo (with real 2025 numbers)
+- How much rent, food, transport, utilities, and taxes actually cost as a foreigner
+- Which city gives you the best value for your lifestyle
+- How Japan compares to the US, UK, and Australia in real purchasing power
+- Practical tips to cut costs without sacrificing quality of life
+{{< /callout >}}
 
 Japan's cost of living reputation is outdated. The yen's weakness has made Japan more affordable than most Western countries for many categories of spending — and more expensive in others. Here's a current, honest breakdown of what life actually costs in Japan in 2025.
 

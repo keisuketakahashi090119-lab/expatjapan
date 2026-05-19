@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Tokyo is enormous, and your neighborhood shapes your entire life here — commute, community, cost, and comfort. Pick the wrong area and you'll spend two years wanting to move. Here's a neighborhood-by-neighborhood breakdown for foreigners figuring out where to live in Tokyo.
+Tokyo is large and neighborhood choice has a direct effect on commute time, cost, and community. This is a neighborhood-by-neighborhood breakdown of where foreigners typically live, with honest trade-offs for each area.
 
 ---
 

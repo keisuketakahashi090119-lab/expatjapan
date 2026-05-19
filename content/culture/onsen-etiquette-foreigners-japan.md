@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Japan has over 3,000 onsen resorts. Soaking in a natural hot spring is one of the great pleasures of living here — and one of the most intimidating experiences for first-timers. The rules are unwritten, enforced by silence, and foreigners get almost no guidance. Here's exactly what you need to know.
+Japan has over 3,000 onsen resorts. Soaking in a natural hot spring is one of the consistently recommended experiences for foreigners living here. The etiquette rules are mostly unspoken, and first-timers rarely receive any instruction. Here's a clear breakdown of what to do — and what not to do.
 
 ---
 
