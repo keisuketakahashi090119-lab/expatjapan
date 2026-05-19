@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+The best job sites for foreigners in Japan are GaijinPot Jobs, Daijob (bilingual roles), LinkedIn Japan, and TokyoDev (tech). Japanese language (N2 level) dramatically expands your options, but many tech and international companies hire English-only candidates.
+{{< /quick-answer >}}
+
 Job hunting in Japan as a foreigner is not like job hunting anywhere else. The market has real demand for foreign talent — but you need to know where to look and how to present yourself. Here's a practical guide to finding work in Japan.
 
 ---
@@ -168,6 +172,7 @@ IT and engineering have the easiest path for foreigners in Japan. Use Daijob and
 
 ## Related Articles
 
+- [Maternity and Paternity Leave in Japan for Foreigners](/daily-life/maternity-paternity-leave-japan-foreigners/)
 - [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
 - [Best Job Sites for Foreigners in Japan](/jobs/best-job-sites-for-foreigners-japan/)
 - [Salary Negotiation in Japan: How Foreigners Can Do It](/jobs/salary-negotiation-japan/)

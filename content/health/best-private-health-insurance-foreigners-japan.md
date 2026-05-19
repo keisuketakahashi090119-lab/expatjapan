@@ -138,7 +138,9 @@ For most foreigners working in Japan, **national insurance plus one affordable s
 
 ## Travel Insurance for Your Trips Outside Japan
 
-If you travel outside Japan regularly, your Japanese health insurance won't cover you abroad. **[SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador)** is a popular travel medical insurance for expats and digital nomads — affordable monthly subscription, no long-term commitment required.
+If you travel outside Japan regularly, your Japanese health insurance won't cover you abroad.
+
+{{< safetywing-cta text="SafetyWing covers expats worldwide from ~$45/month — monthly subscription, no long-term commitment, cancel anytime." label="Get a Quote →" >}}
 
 ---
 

@@ -20,6 +20,10 @@ cover:
 - Practical tips to cut costs without sacrificing quality of life
 {{< /callout >}}
 
+{{< quick-answer >}}
+Monthly costs in Tokyo start at ¥165,000 for a single person (rent + food + transport). Osaka is roughly 25% cheaper, Fukuoka around 35% cheaper. With the weak yen, Japan is now more affordable than most Western countries for mid-range living.
+{{< /quick-answer >}}
+
 Japan's cost of living reputation is outdated. The yen's weakness has made Japan more affordable than most Western countries for many categories of spending — and more expensive in others. Here's a current, honest breakdown of what life actually costs in Japan in 2025.
 
 ---

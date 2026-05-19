@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+NISA is Japan's tax-free investment account. Foreigners with a residence card and My Number can open one — most don't realize they're eligible. The 2024 new NISA allows up to ¥3.6M/year tax-free, with a ¥18M lifetime limit and no expiry.
+{{< /quick-answer >}}
+
 NISA is Japan's tax-free investment account — similar in concept to an ISA or Roth IRA — and foreign residents can open one. Most foreigners never use it because they don't know they're eligible. Here's how NISA works and whether it makes sense for you.
 
 ---
@@ -144,6 +148,9 @@ All major brokers let you set a monthly auto-investment amount (積立設定). S
 
 ## Related Articles
 
+- [SBI Securities NISA: Step-by-Step Guide for Foreigners](/money/sbi-securities-nisa-japan-guide/)
+- [iDeCo Complete Guide for Foreigners in Japan](/money/ideco-complete-guide-japan-foreigners/)
+- [NISA vs iDeCo: Which Should Foreigners Choose?](/money/nisa-vs-ideco-japan-foreigners/)
 - [Investing in Japan as a Foreigner: Stocks, NISA, and More](/money/investing-japan-foreigner-guide/)
 - [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
 - [How to Open a Bank Account in Japan as a Foreigner](/money/how-to-open-bank-account-japan-foreigner/)

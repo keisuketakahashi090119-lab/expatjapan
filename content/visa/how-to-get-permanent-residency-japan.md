@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+The standard path to permanent residency in Japan requires 10 years of residence, including at least 5 years on a work visa. Highly Skilled Professional visa holders can qualify in as little as 1–3 years. You must show stable income, tax compliance, and no criminal record.
+{{< /quick-answer >}}
+
 Permanent residency in Japan is a genuine milestone — it removes most of the restrictions that come with a work visa and dramatically simplifies your life here. But the path is long and the application is detail-heavy. Here's exactly how to qualify and what the process involves.
 
 ---
