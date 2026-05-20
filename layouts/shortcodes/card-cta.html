@@ -1,0 +1,11 @@
+{{- $text := .Get "text" | default "One of the most foreigner-friendly credit cards in Japan. No annual fee, high approval rate for foreign residents." -}}
+{{- $label := .Get "label" | default "Apply Now →" -}}
+{{- $href := .Get "href" | default "#" -}}
+{{- $icon := .Get "icon" | default "💳" -}}
+<div class="affiliate-cta affiliate-cta--card">
+  <div class="affiliate-cta__icon">{{ $icon }}</div>
+  <div class="affiliate-cta__body">
+    <p class="affiliate-cta__text">{{ $text }}</p>
+    <a class="affiliate-cta__btn affiliate-cta__btn--orange" href="{{ $href }}" target="_blank" rel="noopener sponsored">{{ $label }}</a>
+  </div>
+</div>
