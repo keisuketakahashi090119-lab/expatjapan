@@ -138,6 +138,8 @@ The gap between budget and average is almost ¥70,000 a month — and most of it
 
 Japan actually rewards careful spending. The infrastructure is there — cheap SIMs, discount stores, point systems, public facilities. You just have to use them. Start with the phone plan, then work down the list.
 
+{{< wise-cta text="Sending money home? Wise uses the real exchange rate — save on every transfer compared to banks or post office." label="Try Wise Free →" >}}
+
 ---
 
 ## Related Articles

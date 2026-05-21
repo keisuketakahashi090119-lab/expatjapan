@@ -145,9 +145,9 @@ Wise is available to residents of Japan regardless of nationality. You need:
 
 ## Getting Started
 
-[Open your Wise account here](https://wise.com/invite/i/expatjapan) — referral links sometimes provide a fee-free first transfer (up to ¥125,000).
-
 Verification takes 1–2 business days. Once done, you have access to one of the most useful financial tools available to foreigners in Japan.
+
+{{< wise-cta text="Open a Wise account — real exchange rate, no markup. First transfer up to ¥125,000 may be fee-free." label="Open Wise Account →" >}}
 
 ---
 

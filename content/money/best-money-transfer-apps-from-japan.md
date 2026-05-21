@@ -120,6 +120,8 @@ That adds up to a lot of wasted money over time. Use a dedicated transfer servic
 
 Use **Wise** for the best exchange rate. Use **SBI Remit** if you need same-day delivery to Southeast Asia. And if you're sending to the Philippines regularly and speed is your priority, **Remitly** is worth having installed too.
 
+{{< wise-cta text="Wise gives you the real mid-market rate with no markup — the cheapest way to send money from Japan." label="Try Wise Free →" >}}
+
 ---
 
 ## Related Articles
