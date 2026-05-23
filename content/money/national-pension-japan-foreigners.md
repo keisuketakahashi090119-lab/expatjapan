@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+All foreign residents in Japan aged 20–59 must pay into the national pension (国民年金). The monthly premium is ¥16,980 (2025). Company employees pay via payroll into the employee pension (厚生年金) — employer covers half. When you leave Japan, you can claim back 20–36 months of contributions as a lump-sum refund (脱退一時金) within 2 years of departure. Apply before leaving.
+{{< /quick-answer >}}
+
 Japan's national pension system is mandatory for most foreign residents — and many foreigners are either unaware they're enrolled or unsure whether contributions are worth making. The good news: there's a refund program when you leave. Here's everything you need to know.
 
 ---
@@ -98,6 +102,7 @@ Paying into the pension feels pointless if you're only here short-term — but t
 
 ## Related Articles
 
+- [Leaving Japan Checklist for Foreigners (Pension Refund, Deregistration & More)](/daily-life/leaving-japan-checklist-foreigners/)
 - [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
 - [How to File Taxes in Japan as a Foreigner](/money/how-to-file-taxes-japan-foreigner/)
 - [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)

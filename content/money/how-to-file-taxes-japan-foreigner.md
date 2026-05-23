@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+Most company employees in Japan don't need to file a tax return — their employer does year-end adjustment (nenmatsu chosei) for them. You must file yourself if you're self-employed, had multiple employers, earned over ¥20M, or have deductions to claim. The tax filing period is February 16 – March 15 each year. File at your local tax office (zeimusho) or online via e-Tax.
+{{< /quick-answer >}}
+
 Filing a tax return in Japan for the first time feels overwhelming — the forms are in Japanese, the rules are specific, and the deadlines are unforgiving. Once you understand the structure, it's actually manageable. Here's a step-by-step guide to filing taxes in Japan as a foreign resident.
 
 ---

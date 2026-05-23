@@ -134,6 +134,10 @@ If you've been fine for 1–2 years, you may still develop symptoms later.
 
 ---
 
+---
+
+> **Travelling outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers affordable monthly travel medical insurance for expats — cancel anytime.
+
 ## Related Articles
 
 - [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)

@@ -137,6 +137,7 @@ For long-term residents:
 
 ## Related Articles
 
+- [How to Get a Japanese Driving License as a Foreigner](/daily-life/japan-driving-license-foreigners/)
 - [Japan Public Transport Guide for Foreigners](/daily-life/japanese-public-transport-guide/)
 - [Cycling in Japan as a Foreigner](/daily-life/cycling-japan-foreigner/)
 - [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)

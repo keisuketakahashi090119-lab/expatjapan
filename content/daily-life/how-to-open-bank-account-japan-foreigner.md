@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+Best banks for new foreign residents in Japan: Japan Post Bank (ゆうちょ) accepts foreigners from day one with just a residence card and passport. Rakuten Bank is 100% online with English support. Sony Bank offers foreign currency accounts and fee-free Visa debit. Avoid the major megabanks (MUFG, SMBC, Mizuho) until you have 6+ months of residence — they frequently reject new arrivals.
+{{< /quick-answer >}}
+
 You need a Japanese bank account to get paid, pay rent, and handle almost every part of daily life here — and you need one fast. The problem is that banks in Japan are notoriously picky: wrong visa type, wrong documents, or not enough residency history, and you walk out empty-handed. This guide tells you exactly which banks accept foreigners with minimal fuss, what documents to bring, and how to have an account open within a week of landing.
 
 ---

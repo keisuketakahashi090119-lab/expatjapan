@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+Japan's Working Holiday Visa is available to citizens of 30+ countries (including Australia, Canada, UK, France, Germany, NZ) aged 18–30 (35 for some). It lets you live and work in Japan for up to 1 year. Apply at the Japanese embassy in your home country before entering Japan — it cannot be applied for once you're already here. Most countries have no quota limit, but some (e.g. Taiwan) have annual caps.
+{{< /quick-answer >}}
+
 Japan's working holiday visa is one of the best deals in Japanese immigration — legal work permission, flexible movement, and up to a year in the country. The catch is that it's only available to citizens of specific countries, and the slots fill quickly. Here's everything you need to know to apply.
 
 ---

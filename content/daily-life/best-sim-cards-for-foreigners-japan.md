@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+Best SIM cards for foreigners in Japan (2025): Rakuten Mobile at ¥3,278/month for unlimited data is the best value for heavy users. For moderate use (20GB), ahamo at ¥2,970/month runs on Docomo's network. Budget users (3GB): IIJmio from ¥858/month. All can be signed up online in English with a residence card — no Japanese required.
+{{< /quick-answer >}}
+
 Japan's mobile market is confusing if you don't know what you're looking for — and the most advertised plans aren't always the best deal for foreigners. The right SIM card can save you thousands of yen a month. Here's how to pick the one that actually fits your situation.
 
 ---
@@ -108,6 +112,7 @@ Don't overpay for a phone plan. Getting a cheap SIM in Japan with a residence ca
 
 ## Related Articles
 
+- [Rakuten Mobile for Foreigners in Japan: Is It Worth It?](/money/rakuten-mobile-foreigners-japan/)
 - [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
 - [Pocket WiFi and Mobile Internet in Japan](/daily-life/pocket-wifi-mobile-internet-japan/)
 - [Best VPN for Foreigners in Japan](/daily-life/best-vpn-for-foreigners-japan/)

@@ -128,6 +128,7 @@ Once you're comfortable with sento, onsen is the natural next step.
 
 ## Related Articles
 
+- [Tattoos in Japan: What Foreigners Need to Know](/daily-life/tattoos-japan-guide-foreigners/)
 - [Sento: Japan's Public Bathhouses Explained](/culture/sento-public-bath-japan/)
 - [Japanese Etiquette Guide for Foreigners](/culture/japanese-etiquette-guide/)
 - [Japanese Neighborhood Rules: What Foreigners Should Know](/culture/japanese-neighborhood-etiquette/)

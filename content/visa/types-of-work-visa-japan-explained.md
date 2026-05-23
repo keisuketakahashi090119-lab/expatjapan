@@ -12,6 +12,10 @@ cover:
   relative: false
 ---
 
+{{< quick-answer >}}
+The most common work visa for foreigners in Japan is the Engineer/Specialist in Humanities/International Services visa, which covers IT, engineering, marketing, sales, and translation. Other key categories: Business Manager, Highly Skilled Professional (fast-track PR), Specified Skilled Worker (Tokutei Gino), and Working Holiday (18–30, select countries). Your visa category is tied to your job — not your nationality.
+{{< /quick-answer >}}
+
 Japan has more work visa categories than most countries, and choosing the wrong one — or misunderstanding which one applies to your situation — is a common and costly mistake. Here's a plain-English breakdown of every major work visa type in Japan.
 
 ---

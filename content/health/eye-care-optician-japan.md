@@ -113,6 +113,10 @@ Popular clinics: Shinagawa Lasik Center, Omotesando Eye Clinic, Ikebukuro LASIK 
 
 ---
 
+---
+
+> **Travelling outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers affordable monthly travel medical insurance for expats — cancel anytime.
+
 ## Related Articles
 
 - [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)

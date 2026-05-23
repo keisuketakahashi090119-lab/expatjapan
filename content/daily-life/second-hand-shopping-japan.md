@@ -137,6 +137,7 @@ Check Jimoty daily during this period for free furniture, appliances, and more.
 
 ## Related Articles
 
+- [Mercari Japan Guide for Foreigners: Buy and Sell Second-Hand](/daily-life/mercari-japan-guide-foreigners/)
 - [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
 - [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
 - [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
