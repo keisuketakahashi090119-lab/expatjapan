@@ -1,7 +1,7 @@
 ---
-title: "Japan Emergency Number #7119: Medical Advice Hotline for Foreigners (2025)"
-date: 2025-05-06
-description: "What is Japan's #7119 emergency medical advice number? When to call it, how it works, and what to do in a medical emergency in Japan as a foreigner."
+title: "Japan's #7119 Number Explained: Medical Advice Hotline for Foreigners"
+date: 2026-05-24
+description: "#7119 is Japan's free medical advice hotline: call it when you're unsure if your situation is a 119 emergency. Available 24/7 in Tokyo, Osaka & major cities. English support available. Saves you ¥5,000+ in unnecessary ER visits."
 tags: ["emergency", "health", "119", "7119", "medical advice", "hospitals"]
 categories: ["Health & Insurance"]
 showToc: true

@@ -1,7 +1,7 @@
 ---
-title: "How to Open a Bank Account in Japan as a Foreigner (2025) — Which Banks Actually Say Yes"
-date: 2025-04-21
-description: "How to open a bank account in Japan as a foreigner in 2025. Japan Post Bank, Rakuten Bank, Sony Bank — which accept foreigners, what documents to bring, and how to avoid rejection."
+title: "How to Open a Bank Account in Japan as a Foreigner (2026) — Which Banks Say Yes"
+date: 2026-05-24
+description: "Opening a bank account in Japan as a foreigner in 2026: Japan Post Bank accepts new arrivals (3+ months), Rakuten Bank is fully online, Sony Bank has English support. Documents needed, common rejection reasons, and how to avoid them."
 tags: ["bank", "finance", "daily life"]
 categories: ["Daily Life"]
 showToc: true

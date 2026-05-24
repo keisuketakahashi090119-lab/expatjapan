@@ -1,7 +1,7 @@
 ---
-title: "How to Get a Work Visa in Japan — Step-by-Step Guide (2025)"
-date: 2025-05-05
-description: "A complete step-by-step guide to getting a work visa in Japan in 2025. Covers all major visa categories, the Certificate of Eligibility process, documents needed, and timeline."
+title: "How to Get a Work Visa in Japan — Step-by-Step Guide (2026)"
+date: 2026-05-24
+description: "How to get a Japan work visa in 2026: Certificate of Eligibility (CoE) takes 1–3 months, visa issued in 5 days. Engineer/Specialist, Highly Skilled, and Instructor visas explained — with document checklist and employer's role."
 tags: ["work visa japan", "visa application", "certificate of eligibility", "immigration japan", "moving to japan"]
 categories: ["Visa & Immigration"]
 showToc: true

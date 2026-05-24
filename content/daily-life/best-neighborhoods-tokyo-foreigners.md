@@ -1,7 +1,7 @@
 ---
-title: "Best Neighborhoods in Tokyo for Foreigners (2025)"
-date: 2025-04-25
-description: "Where to live in Tokyo as a foreigner? A practical guide to Tokyo's best neighborhoods — ranked by foreigner-friendliness, rent, and access."
+title: "Best Neighborhoods in Tokyo for Foreigners (2026) — Rent, Safety & Vibe"
+date: 2026-05-24
+description: "Best Tokyo neighborhoods for foreigners in 2026: Nakameguro (trendy, ¥120K+), Shimokitazawa (affordable, artsy), Minato (expat hub, ¥150K+), Shinjuku (central, all budgets). Foreigner-friendliness, rent, and commute ranked."
 tags: ["Tokyo", "neighborhoods", "housing", "daily life", "where to live"]
 categories: ["Daily Life"]
 showToc: true

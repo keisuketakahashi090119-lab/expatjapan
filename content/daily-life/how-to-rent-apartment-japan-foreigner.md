@@ -1,7 +1,7 @@
 ---
-title: "How to Rent an Apartment in Japan as a Foreigner (2025) — Step-by-Step Guide"
-date: 2025-04-21
-description: "How to rent an apartment in Japan as a foreigner — step-by-step. No guarantor? No Japanese? No problem. Covers foreigner-friendly agencies, upfront costs (key money, deposit), required documents, and traps to avoid."
+title: "How to Rent an Apartment in Japan as a Foreigner (2026) — Step-by-Step Guide"
+date: 2026-05-24
+description: "Renting an apartment in Japan as a foreigner in 2026: upfront costs run ¥200,000–600,000 (key money + deposit + agency fee). Which agencies accept foreigners, required documents, how to avoid rejection — complete step-by-step guide."
 tags: ["apartment", "housing", "daily life", "rent"]
 categories: ["Daily Life"]
 showToc: true

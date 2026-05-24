@@ -1,7 +1,7 @@
 ---
-title: "Japan Student Visa (留学ビザ): Complete Guide for 2025"
-date: 2025-04-26
-description: "Complete guide to getting a Japan student visa in 2025. Requirements, costs, part-time work rules (28 or 40 hours/week), application steps, and what to do after graduation."
+title: "Japan Student Visa (留学ビザ): Complete Guide for 2026"
+date: 2026-05-24
+description: "Japan student visa 2026: requirements, documents, processing time, how to apply step by step, part-time work rules (28 hrs/week), costs, and switching to a work visa after graduation."
 tags: ["student visa", "visa", "study in Japan", "japanese student visa", "留学ビザ"]
 categories: ["Visa & Status"]
 showToc: true
@@ -11,6 +11,10 @@ cover:
   alt: "Expat Japan Guide"
   relative: false
 ---
+
+{{< quick-answer >}}
+To get a Japan student visa (留学ビザ): (1) get accepted to a recognized Japanese school, (2) your school applies for a Certificate of Eligibility (CoE) — takes 1–3 months, (3) once you receive the CoE, apply at your nearest Japanese embassy/consulate — takes 5–7 business days, (4) arrive in Japan and register at city hall within 14 days. You need to show ¥2–3 million in savings (or a sponsor letter). On a student visa you can work up to 28 hours/week (40 hours during school holidays) with a work permit — request it at airport immigration on arrival.
+{{< /quick-answer >}}
 
 Japan's student visa (留学ビザ, *ryūgaku biza*) is the gateway for thousands of foreigners who study Japanese, attend university, or complete vocational training in Japan. Whether you're enrolled in a language school for six months or a full four-year university degree, you'll need this visa — and the rules around working, extending, and switching status matter more than most students realize.
 

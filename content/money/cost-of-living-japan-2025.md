@@ -1,7 +1,7 @@
 ---
-title: "Cost of Living in Japan 2025: Foreigner's Complete Guide (Tokyo, Osaka, Fukuoka)"
-date: 2025-05-02
-description: "Exact monthly budgets for foreigners in Japan 2025: Tokyo from ¥165,000, Osaka from ¥123,000, Fukuoka from ¥105,000. Rent, food, transport & taxes — city-by-city breakdown with real numbers. Updated 2025."
+title: "Cost of Living in Japan 2026: Foreigner's Complete Guide (Tokyo, Osaka, Fukuoka)"
+date: 2026-05-24
+description: "Cost of living in Japan 2026 for foreigners: Tokyo from ¥165,000/month, Osaka from ¥123,000, Fukuoka from ¥105,000. Actual rent prices, food costs, transport, taxes — real numbers by city, updated for 2026."
 tags: ["money", "cost of living", "budget", "Japan"]
 categories: ["Money & Finance"]
 showToc: true
