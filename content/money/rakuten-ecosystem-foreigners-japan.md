@@ -1,7 +1,7 @@
 ---
-title: "Rakuten Ecosystem: How Foreigners in Japan Can Maximize Points (2025)"
-date: 2025-04-26
-description: "How to use Rakuten's ecosystem in Japan as a foreigner. Rakuten Mobile, Rakuten Bank, Rakuten Card, Rakuten Securities — and how to stack points for serious savings."
+title: "Rakuten Ecosystem for Foreigners in Japan: Points Guide (2026)"
+date: 2026-05-24
+description: "How foreigners in Japan can maximize Rakuten points in 2026: Rakuten Card (1% cashback + ¥5,000 sign-up bonus) → Rakuten Bank → Rakuten Market SPU stack. Earn ¥100,000+ in points per year with the right setup."
 tags: ["Rakuten", "points", "money", "credit card", "banking"]
 categories: ["Money & Finance"]
 showToc: true
@@ -12,7 +12,11 @@ cover:
   relative: false
 ---
 
-Rakuten's ecosystem of apps and services can save foreigners in Japan significant money — if you understand how the points system actually works. Most people scratch the surface and leave thousands of points unclaimed. Here's how to use it properly.
+{{< quick-answer >}}
+Rakuten's best setup for foreigners in Japan: (1) Get a **Rakuten Card** (free, 1% cashback on all purchases, ¥5,000 sign-up bonus, accepted wherever Visa is accepted). (2) Open a **Rakuten Bank** account linked to the card (0.1% interest rate + ATM fee waivers). (3) Shop on **Rakuten Market** with the card — stack SPU bonuses to earn 10–16% points. Heavy users report earning ¥100,000–200,000 in points per year. Points are worth ¥1 each and usable across all Rakuten services.
+{{< /quick-answer >}}
+
+Rakuten's apps and services give you cashback and points every time you spend money in Japan. The more services you stack, the more you earn. Most foreigners use just the card and miss out on the rest. Here's how the full system works.
 
 ---
 

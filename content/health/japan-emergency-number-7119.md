@@ -12,20 +12,28 @@ cover:
   relative: false
 ---
 
-If you're in Japan and facing a medical situation that might not require an ambulance, **#7119** is the number to call first. This free hotline connects you to nurses and medical coordinators who can advise whether you need emergency services or can wait to see a doctor.
+{{< quick-answer >}}
+**#7119** is Japan's free medical advice hotline. Call it when you're unsure if your situation needs a 119 ambulance. A trained nurse answers, asks about your symptoms, and tells you whether to call 119, go to the ER now, or wait until morning. Available 24/7 in Tokyo, Osaka, Kanagawa, Saitama, Chiba, Aichi, Fukuoka, Kyoto, and Hyogo. Dial #7119 from any Japanese phone — it's free. In Tokyo, English interpretation is available 24/7. For life-threatening emergencies (chest pain, unconsciousness, severe bleeding), skip 7119 and call 119 directly.
+{{< /quick-answer >}}
+
+You're in Japan at 2am. Your child has a fever of 39.5°C and won't stop crying. Do you call an ambulance? Go to the ER? Wait until morning?
+
+Call **#7119** first.
+
+This free hotline connects you to a trained nurse who will ask about your symptoms and give you a clear answer: go now, or wait. It saves you an unnecessary ER visit (and the ¥5,000+ bill that comes with it), and it prevents ambulance overload for situations that aren't life-threatening.
 
 ---
 
 ## What Is #7119?
 
-**#7119** (pronounced "shichi-ichi-ichi-kyū") is Japan's **Kyūkyū Anshin Center** (救急安心センター事業) — a free medical advice telephone service operated by local governments.
+**#7119** is Japan's **Kyūkyū Anshin Center** (救急安心センター事業) — a free medical telephone advice service run by local governments across Japan.
 
 When you call:
 - A **trained nurse or medical coordinator** answers
-- They **assess your symptoms** and advise on urgency
-- They can tell you whether to call **119 (ambulance)**, go to an emergency room, or wait and see a doctor in the morning
+- They ask about your symptoms and how long you've had them
+- They tell you one of three things: **call 119 now**, **go to the ER**, or **wait and see a regular doctor tomorrow**
 
-It's not a substitute for 119 in a life-threatening emergency — it's for when you're unsure how serious the situation is.
+It is not a substitute for 119 in a life-threatening emergency. Use it when you genuinely don't know how serious the situation is.
 
 ---
 
@@ -85,7 +93,7 @@ In Tokyo, you can also try:
 
 ## #7119 Availability by Prefecture
 
-Coverage as of 2025:
+Coverage as of 2026:
 
 | Area | Number | Hours |
 |------|--------|-------|

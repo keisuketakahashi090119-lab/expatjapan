@@ -1,7 +1,7 @@
 ---
-title: "Japan Convenience Stores (Konbini) Guide for Foreigners: 7-Eleven, Lawson & FamilyMart (2025)"
-date: 2025-04-24
-description: "What can you actually do at Japan's konbini? Pay bills, withdraw cash, print, ship packages, buy hot food — and more. Complete guide to 7-Eleven, Lawson, and FamilyMart for foreigners living in Japan."
+title: "Japan Convenience Stores (Konbini) Guide for Foreigners: 7-Eleven, Lawson & FamilyMart (2026)"
+date: 2026-05-24
+description: "Japan's konbini do far more than sell food: pay utility bills, withdraw cash (7-Eleven ATMs take foreign cards), print/scan documents, send packages, buy event tickets. Open 24/7. Complete guide for foreigners."
 tags: ["konbini", "convenience store", "daily life", "tips"]
 categories: ["Daily Life"]
 showToc: true
@@ -12,7 +12,11 @@ cover:
   relative: false
 ---
 
-Japanese convenience stores are unlike anything you've used before. They're part grocery store, part bank, part government office, part restaurant — and open 24 hours a day. Here's everything a foreigner needs to know to get the most out of them.
+{{< quick-answer >}}
+Japan's convenience stores (コンビニ, *konbini*) are open 24/7 and do far more than sell food. At any 7-Eleven, Lawson, or FamilyMart you can: pay electricity/gas/water bills in cash at the register, withdraw money from an ATM that accepts foreign Visa and Mastercard cards (7-Eleven is most reliable), print or scan documents (¥10–30/page), send a package nationwide, receive online deliveries, buy concert and event tickets, and fax documents. The food — onigiri, hot fried chicken, bento boxes — is genuinely good quality and cheap (¥130–400/item).
+{{< /quick-answer >}}
+
+Japan's convenience stores are open 24 hours a day and handle tasks you'd normally need a bank, post office, or government counter for. Here's what you can actually do at one — and what's worth knowing before your first visit.
 
 ---
 

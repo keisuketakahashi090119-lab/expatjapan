@@ -1,7 +1,7 @@
 ---
-title: "Wise in Japan: Complete Guide for Foreigners (2025)"
-date: 2025-04-26
-description: "How to use Wise in Japan — send money abroad, receive payments, hold multiple currencies, and use the Wise debit card. Everything foreigners need to know."
+title: "Wise in Japan: Complete Guide for Foreigners (2026)"
+date: 2026-05-24
+description: "Wise in Japan 2026: send ¥300,000 abroad and receive ~¥8,000–15,000 more than a bank wire. Real mid-market rate, 0.4–1.5% fee, 1–2 day delivery. How to set up, send, receive, and use the Wise debit card in Japan."
 tags: ["Wise", "money transfer", "banking", "finance", "remittance"]
 categories: ["Money & Finance"]
 showToc: true
@@ -56,7 +56,7 @@ Once verified, you can hold JPY (yen), USD, EUR, GBP, AUD, and 40+ other currenc
 3. Transfer yen to Wise's Japanese bank account (SBI Bank account details provided)
 4. Wise converts and sends to your recipient
 
-### Cost Example (¥300,000 → USD, April 2025)
+### Cost Example (¥300,000 → USD)
 
 | Service | Amount Received |
 |---|---|

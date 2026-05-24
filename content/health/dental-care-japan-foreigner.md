@@ -1,7 +1,7 @@
 ---
-title: "Dentist in Japan for Foreigners: Costs, Insurance & How to Find English-Speaking Dentists (2025)"
-date: 2025-04-27
-description: "How much does a dentist cost in Japan? With public health insurance you pay only 30%. Find English-speaking dentists, learn what's covered, and see if private dental insurance is worth it."
+title: "Dentist in Japan for Foreigners: Costs, Insurance & English-Speaking Clinics (2026)"
+date: 2026-05-24
+description: "Dentist costs in Japan with insurance: checkup ¥1,500–3,000, filling ¥1,000–2,500, root canal ¥5,000–15,000 (you pay 30%, insurance covers 70%). What's covered, what isn't, and how to find English-speaking dentists."
 tags: ["dental", "dentist", "health", "insurance", "daily life"]
 categories: ["Health & Insurance"]
 showToc: true
@@ -12,7 +12,11 @@ cover:
   relative: false
 ---
 
-Dental insurance in Japan works differently from most countries — and for foreigners, understanding the system upfront can save you thousands of yen. The good news: Japan's public health insurance (which all registered residents must join) covers most basic dental treatments at 70%, leaving you with just a 30% copay. This guide explains exactly what dental insurance Japan covers, what it doesn't, what things cost, and how to fill the gaps if you need more coverage.
+{{< quick-answer >}}
+In Japan, public health insurance covers most basic dental work at 70%, so you pay only 30%. A routine checkup costs ¥1,500–3,000. A simple filling costs ¥1,000–2,500. A root canal costs ¥5,000–15,000. Bring your health insurance card (保険証) to every appointment. Covered: cleanings, fillings, X-rays, root canals, extractions, metal crowns. NOT covered: teeth whitening, ceramic/porcelain crowns, implants, braces (unless medically necessary). Any foreigner registered at city hall is automatically enrolled in health insurance, which includes dental.
+{{< /quick-answer >}}
+
+Japan's public health insurance covers most basic dental work — cleanings, fillings, root canals, extractions — at 70%. You pay 30%. That means a routine checkup costs ¥1,500–3,000 and a root canal costs ¥5,000–15,000 out of pocket. This guide covers costs, what's covered and not, and how to find a dentist as a foreigner.
 
 ---
 
@@ -64,7 +68,7 @@ In major cities:
 
 ---
 
-## Dental Cost Guide Japan (2025)
+## Dental Cost Guide Japan (2026)
 
 | Treatment | Insured Cost (30%) | Full Private Cost |
 |---|---|---|
@@ -119,7 +123,7 @@ For severe dental pain or a dental emergency:
 - **Weekday:** Visit any dental clinic — emergency slots are usually available
 - **Weekend/Holiday:** Search for **休日歯科診療 (kyujitsu shika shinryo)** in your area
 - Your **city hall website** lists emergency weekend dental services
-- Call **#7119** for general medical guidance (available in some regions)
+- Call [**#7119**](/health/japan-emergency-number-7119/) for general medical guidance (available in most major cities)
 
 ---
 

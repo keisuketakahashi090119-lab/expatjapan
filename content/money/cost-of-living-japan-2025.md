@@ -24,7 +24,7 @@ cover:
 Monthly costs in Tokyo start at ¥165,000 for a single person (rent + food + transport). Osaka is roughly 25% cheaper, Fukuoka around 35% cheaper. With the weak yen, Japan is now more affordable than most Western countries for mid-range living.
 {{< /quick-answer >}}
 
-Japan's cost of living reputation is outdated. The yen's weakness has made Japan more affordable than most Western countries for many categories of spending — and more expensive in others. Here's a current, honest breakdown of what life actually costs in Japan in 2025.
+Japan's cost of living reputation is outdated. The yen's weakness has made Japan more affordable than most Western countries for many categories of spending — and more expensive in others. Here's a current, honest breakdown of what life actually costs in Japan in 2026.
 
 ---
 
@@ -137,7 +137,7 @@ The trap foreigners fall into: eating out every day, expensive Western imports, 
 
 ---
 
-## 2025 Update: Impact of the Weak Yen
+## 2026 Update: Impact of the Weak Yen
 
 The yen's weakness against the dollar and euro (hovering around ¥145–155/USD through 2024–2025) has had two opposite effects:
 
@@ -147,7 +147,7 @@ The yen's weakness against the dollar and euro (hovering around ¥145–155/USD 
 
 ---
 
-## Sample Monthly Budgets (2025)
+## Sample Monthly Budgets (2026)
 
 ### Budget Lifestyle — Tokyo (¥180,000/month)
 

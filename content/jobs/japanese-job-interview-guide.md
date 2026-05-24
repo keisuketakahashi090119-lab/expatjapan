@@ -1,7 +1,7 @@
 ---
-title: "Japanese Job Interview Guide for Foreigners: What to Expect & How to Prepare (2025)"
-date: 2025-04-11
-description: "Ace your Japanese job interview in 2025: etiquette rules, common questions with model answers, dress code, and what interviewers actually look for. Step-by-step preparation guide for foreign candidates."
+title: "Japanese Job Interview Guide for Foreigners: What to Expect & How to Prepare (2026)"
+date: 2026-05-24
+description: "Japanese job interview in 2026: dark suit required, arrive 5–10 min early, bow 30 degrees. The 5 must-prepare questions: jiko shōkai (self-intro), shibo douki (why this company), strengths/weaknesses, future goals, and challenges. Full preparation guide for foreign candidates."
 tags: ["job interview", "working in japan", "career", "japanese workplace", "job hunting"]
 categories: ["Jobs & Career"]
 showToc: true
@@ -20,7 +20,11 @@ cover:
 - Special considerations for foreign candidates at Japanese companies
 {{< /callout >}}
 
-A Japanese job interview follows conventions that most foreigners haven't encountered before — formal structure, specific questions, and expectations around presentation that differ from Western norms. Prepare for the right things and you'll stand out. Here's exactly what to expect.
+{{< quick-answer >}}
+Japanese job interview basics: wear a dark suit (black/navy/charcoal), arrive 5–10 minutes early (never late), bow 30 degrees when greeting. The 5 questions every interviewer asks: (1) jiko shōkai — 1–2 minute self-introduction, (2) shibo douki — why specifically this company (not just the industry), (3) strengths and weaknesses with examples, (4) where you see yourself in 3–5 years, (5) describe a challenge you overcame. Multiple rounds (2–4) are standard. Send a thank-you email the same day. Business Japanese (JLPT N2+) is expected at most traditional Japanese companies; tech and international firms often interview in English.
+{{< /quick-answer >}}
+
+Japanese job interviews have a specific structure that most foreigners haven't prepared for. The questions, etiquette, and presentation rules differ from Western-style interviews — and knowing what to expect in advance is the difference between a strong impression and an awkward one. Here's exactly what to prepare.
 
 ## Before the Interview: Research and Preparation
 
@@ -163,4 +167,6 @@ Yes. Send a brief, polite thank-you email the same day or the following morning.
 - [Best Job Sites for Foreigners in Japan](/jobs/best-job-sites-for-foreigners-japan/)
 - [Japanese Rirekisho Guide](/jobs/japanese-rirekisho-guide/)
 - [Workplace Culture in Japan for Foreigners](/culture/workplace-culture-japan-foreigners/)
+- [Japanese Work Culture Survival Guide](/jobs/japanese-work-culture-survival-guide/)
 - [Salary Negotiation in Japan](/jobs/salary-negotiation-japan/)
+- [How to Get a Work Visa in Japan](/visa/how-to-get-work-visa-japan/)
