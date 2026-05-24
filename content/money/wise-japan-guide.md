@@ -153,6 +153,8 @@ Verification takes 1–2 business days. Once done, you have access to one of the
 
 ## Related Articles
 
+- [Cost of Living in Japan 2026: Complete Foreigner's Guide](/money/cost-of-living-japan-2025/)
+- [Rakuten Ecosystem: Earn ¥100,000+ in Points per Year](/money/rakuten-ecosystem-foreigners-japan/)
 - [Wise vs Revolut in Japan: Which Is Better for Expats?](/money/wise-vs-revolut-japan-comparison/)
 - [SMBC Prestia for Foreigners: Is It Worth It?](/money/smbc-prestia-foreigners-japan/)
 - [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)

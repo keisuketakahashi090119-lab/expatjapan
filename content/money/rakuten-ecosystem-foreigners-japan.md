@@ -156,6 +156,8 @@ Heavy Rakuten Market users with all services stacked regularly report Â¥100,000â
 
 ## Related Articles
 
+- [Cost of Living in Japan 2026: Complete Foreigner's Guide](/money/cost-of-living-japan-2025/)
+- [Wise in Japan: Send Money Home at Real Exchange Rate](/money/wise-japan-guide/)
 - [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
 - [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
 - [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)
