@@ -53,6 +53,8 @@ Most standard Japanese real estate agencies (*fudosan*) simply won't push back a
 
 These agencies have existing relationships with landlords who have successfully rented to foreigners before. That track record matters enormously.
 
+> **No key money, no deposit, no agency fee — and foreigner-friendly:** [Village House](https://px.a8.net/svt/ejp?a8mat=4B1THZ+9711WA+45I8+5YRHE) offers apartments from ¥20,000+/month across all 47 prefectures and actively accepts foreign tenants.
+
 ### 2. Use a Rent Guarantee Company That Accepts Foreigners
 
 Most rejections come from the *guarantor* requirement, not the landlord directly. Many landlords require a Japanese citizen as a personal guarantor — which foreigners typically can't provide.
@@ -82,6 +84,8 @@ Share houses in Japan require almost no screening — typically just a deposit o
 - Time to build savings for a larger deposit
 
 Many foreigners live in a share house for 3–6 months, then use that address history to successfully apply for a private apartment.
+
+> **Looking for a share house with English support?** [Oak House](https://px.a8.net/svt/ejp?a8mat=4B1THZ+94NBH6+41A0+5YRHE) operates share houses across Japan with flexible deposit terms, no guarantor required, and rooms available immediately.
 
 ---
 

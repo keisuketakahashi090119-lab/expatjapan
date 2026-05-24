@@ -99,6 +99,8 @@ Some workplaces in Japan are genuinely toxic — not just culturally different. 
 
 Japan's job market is robust in 2025–2026. Bilingual professionals are in demand. Leaving a bad workplace is not failure — it's judgment.
 
+> **Job-hunting in Japan as a foreigner?** [転職AGENT Navi](https://px.a8.net/svt/ejp?a8mat=4B1THZ+3ORPGA+5BJK+5YRHE) and [ユメキャリ転職エージェント](https://px.a8.net/svt/ejp?a8mat=4B1THZ+941VVE+5PWS+BXB8X) connect you with bilingual recruitment consultants who specialize in placing foreign professionals in Japan. Free consultation — no obligation.
+
 ---
 
 ## Related Articles

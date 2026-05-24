@@ -72,6 +72,8 @@ The most effective method is combination: self-study for structure (Genki textbo
 
 **[italki](https://www.italki.com/affshare?ref=expatjapan)** connects you with native Japanese tutors for 1-on-1 lessons. Flexible scheduling, beginner to advanced, starting from around $15–25/hour. Many users report meaningful progress in daily conversation within 3–6 months of weekly sessions.
 
+**[ALC (アルク)](https://px.a8.net/svt/ejp?a8mat=4B1THZ+7IW9SQ+2NA+ZT81E)** — Japan's leading Japanese-language publisher. Their self-study courses and online programs are used by hundreds of thousands of learners and are structured for real-world use, not just exam prep.
+
 ---
 
 ## Practical Hacks for High-Stakes Language Situations

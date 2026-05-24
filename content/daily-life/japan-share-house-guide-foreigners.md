@@ -118,6 +118,8 @@ Oak House is one of Japan's largest share house operators and skews more toward 
 
 **Best for:** Budget-conscious foreigners with some Japanese ability.
 
+> **Check Oak House availability:** [Browse Oak House share houses](https://px.a8.net/svt/ejp?a8mat=4B1THZ+94NBH6+41A0+5YRHE) — no guarantor required, flexible deposit, rooms across Tokyo and Osaka.
+
 ---
 
 ### Hituji Fudosan — For Tokyo Apartment Hunters

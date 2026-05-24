@@ -46,6 +46,8 @@ Many foreigners report that their Japanese social life changed substantially aft
 
 **[italki](https://www.italki.com/affshare?ref=expatjapan)** connects you with native Japanese tutors for one-on-one lessons. Even 30 minutes per week of consistent practice accelerates this shift faster than any app.
 
+**[ALC (アルク)](https://px.a8.net/svt/ejp?a8mat=4B1THZ+7IW9SQ+2NA+ZT81E)** — structured Japanese courses from Japan's most trusted language publisher. Good for building the grammar foundation that makes spoken practice stick.
+
 ---
 
 ## What Actually Works: Proximity + Time + Shared Activity
