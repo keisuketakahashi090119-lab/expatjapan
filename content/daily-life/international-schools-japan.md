@@ -1,7 +1,7 @@
 ---
-title: "International Schools in Japan: A Guide for Expat Parents (2025)"
+title: "International Schools in Japan: Costs, Locations, and How to Choose (2026)"
 date: 2026-05-25
-description: "A guide to international schools in Japan — costs, curricula, locations, and how to choose between international and Japanese public school."
+description: "International schools in Japan 2026: tuition ¥1.5–3 million/year in Tokyo, vs free public school. IB, British, American curricula available. How to choose between international and Japanese public school for your child — complete guide for expat parents."
 tags: ["international school", "education", "children", "family", "daily life"]
 categories: ["Daily Life"]
 showToc: true
