@@ -1,6 +1,6 @@
 ---
 title: "How to Get a Driver's License in Japan as a Foreigner (2025)"
-date: 2025-04-24
+date: 2026-05-25
 description: "Can foreigners drive in Japan? Yes. Here's how to convert your foreign license or get a new Japanese one — step by step."
 tags: ["driving", "license", "daily life", "transport"]
 categories: ["Daily Life"]

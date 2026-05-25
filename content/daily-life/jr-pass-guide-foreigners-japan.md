@@ -1,6 +1,6 @@
 ---
 title: "JR Pass Guide for Foreigners in Japan (2025) — Is It Worth It?"
-date: 2025-05-06
+date: 2026-05-25
 description: "Is the JR Pass worth buying in 2025? Which routes make it worth the cost, how to buy it, and when you're better off without one."
 tags: ["travel", "JR Pass", "transport", "Shinkansen", "daily life"]
 categories: ["Daily Life"]

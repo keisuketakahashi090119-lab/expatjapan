@@ -1,6 +1,6 @@
 ---
 title: "Moving to Japan from India: Complete Guide for Indian Expats (2025)"
-date: 2025-05-16
+date: 2026-05-25
 description: "Moving to Japan from India in 2025: visa options, IT job market, salary expectations, INR to JPY transfers, Indian community in Japan, and the step-by-step relocation guide for Indian nationals."
 tags: ["moving to japan", "india", "IT jobs", "expat", "visa", "indian expats"]
 categories: ["Daily Life"]

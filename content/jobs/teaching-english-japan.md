@@ -1,6 +1,6 @@
 ---
 title: "Teaching English in Japan: ALT, Eikaiwa, and JET Programme Guide (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Teaching English is the most common path for foreigners to work in Japan. Here's a comparison of JET, ALT, eikaiwa, and private teaching — salaries, visas, and how to apply."
 tags: ["teaching", "English", "ALT", "JET", "eikaiwa", "jobs", "visa"]
 categories: ["Jobs & Work"]

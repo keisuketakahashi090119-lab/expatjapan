@@ -1,6 +1,6 @@
 ---
 title: "Driving in Japan as a Foreigner: License, Rules, and Tips (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Everything foreigners need to know about driving in Japan — international driving permits, converting your license, traffic rules, and getting a car."
 tags: ["driving", "car", "license", "daily life", "transport"]
 categories: ["Daily Life"]

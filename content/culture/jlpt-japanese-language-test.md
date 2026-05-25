@@ -1,6 +1,6 @@
 ---
 title: "JLPT: Japan's Japanese Language Proficiency Test — A Complete Guide (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "The JLPT is the world's most recognized Japanese language certification. Here's what each level means, how to prepare, when to take it, and how it helps your career in Japan."
 tags: ["JLPT", "Japanese", "language", "test", "certification", "career"]
 categories: ["Culture"]

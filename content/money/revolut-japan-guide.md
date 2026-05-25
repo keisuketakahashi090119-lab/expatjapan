@@ -1,6 +1,6 @@
 ---
 title: "Revolut in Japan: Complete Guide for Foreigners (2025)"
-date: 2025-05-17
+date: 2026-05-25
 description: "How to use Revolut in Japan as a foreigner — account setup, fees, limits, and how it compares to Wise. Everything you need to know about Revolut Japan 2025."
 tags: ["revolut", "money transfer", "banking", "finance", "fintech"]
 categories: ["Money & Finance"]

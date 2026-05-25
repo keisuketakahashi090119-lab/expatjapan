@@ -1,6 +1,6 @@
 ---
 title: "Rakuten Card for Foreigners in Japan: Complete Guide (2025)"
-date: 2025-05-16
+date: 2026-05-25
 description: "Rakuten Card review for foreigners in Japan 2025: how to apply, approval odds, points system, and why it's the best first credit card for expats. English application guide included."
 tags: ["credit cards", "rakuten", "money", "finance", "banking"]
 categories: ["Money & Finance"]

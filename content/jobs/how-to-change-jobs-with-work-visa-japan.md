@@ -1,6 +1,6 @@
 ---
 title: "How to Change Jobs with a Work Visa in Japan (2025 Guide)"
-date: 2025-04-21
+date: 2026-05-25
 description: "Can you change jobs on a work visa in Japan? Yes — here's exactly how to do it, what to tell immigration, and how to avoid losing your visa status."
 tags: ["visa", "jobs", "work visa", "career"]
 categories: ["Jobs & Career"]

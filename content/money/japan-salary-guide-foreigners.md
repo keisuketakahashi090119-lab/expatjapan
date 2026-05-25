@@ -1,6 +1,6 @@
 ---
 title: "Average Salary in Japan for Foreigners — By Industry and Job Type (2025)"
-date: 2025-05-01
+date: 2026-05-25
 description: "A detailed breakdown of average salaries in Japan for foreigners in 2025 by industry and job type. Covers IT, finance, teaching, healthcare, manufacturing, and more."
 tags: ["salary japan", "wages", "income", "jobs for foreigners", "money"]
 categories: ["Money & Finance"]

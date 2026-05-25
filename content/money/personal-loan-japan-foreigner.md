@@ -1,6 +1,6 @@
 ---
 title: "Personal Loans in Japan for Foreigners: What You Need to Know"
-date: 2025-05-02
+date: 2026-05-25
 description: "Can foreigners get a personal loan in Japan? Yes — here's how consumer loans, card loans, and bank loans work, and what you'll need to qualify."
 tags: ["loan", "borrowing", "money", "finance", "credit"]
 categories: ["Money & Finance"]

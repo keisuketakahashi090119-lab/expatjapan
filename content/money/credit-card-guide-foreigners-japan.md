@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Guide for Foreigners in Japan (2025)"
-date: 2025-04-22
+date: 2026-05-25
 description: "Can foreigners get a credit card in Japan? Yes — here's which cards accept foreigners, what documents you need, and the best cards to apply for."
 tags: ["credit card", "finance", "money"]
 categories: ["Money & Finance"]

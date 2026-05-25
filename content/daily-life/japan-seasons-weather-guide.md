@@ -1,6 +1,6 @@
 ---
 title: "Japan Seasons and Weather Guide for Foreigners (2025): What to Expect All Year"
-date: 2025-05-09
+date: 2026-05-25
 description: "Japan seasons and weather guide for foreigners 2025: what to expect in spring, summer, autumn, and winter — temperatures, rainy season, typhoons, and what to pack for each season."
 tags: ["weather", "seasons", "daily life", "expat japan", "packing"]
 categories: ["Daily Life"]

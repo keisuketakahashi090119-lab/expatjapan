@@ -1,6 +1,6 @@
 ---
 title: "How to Open an Investment Account in Japan as a Foreigner"
-date: 2025-05-02
+date: 2026-05-25
 description: "Step-by-step guide to opening a Japanese securities account (証券口座) as a foreigner. SBI vs Rakuten vs Matsui, NISA accounts, and what documents you need."
 tags: ["investing", "NISA", "securities", "stocks", "money"]
 categories: ["Money & Finance"]

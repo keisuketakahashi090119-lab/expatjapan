@@ -1,6 +1,6 @@
 ---
 title: "Getting a Japanese Driving License as a Foreigner (2025): Full Guide"
-date: 2025-05-11
+date: 2026-05-25
 description: "Japanese driving license guide for foreigners 2025: converting your foreign license, countries eligible for fast-track conversion, the written and practical tests, and costs."
 tags: ["driving license", "car", "daily life", "expat japan", "license conversion"]
 categories: ["Daily Life"]

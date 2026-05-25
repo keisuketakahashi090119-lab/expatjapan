@@ -1,6 +1,6 @@
 ---
 title: "Residence Tax in Japan for Foreigners: What You Need to Know (2025)"
-date: 2025-04-25
+date: 2026-05-25
 description: "What is residence tax (住民税) in Japan? How much will you pay, when does it start, and how do you pay it? A clear guide for foreign residents."
 tags: ["residence tax", "住民税", "taxes", "money", "finance"]
 categories: ["Money"]

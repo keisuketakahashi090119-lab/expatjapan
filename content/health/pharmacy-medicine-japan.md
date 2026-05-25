@@ -1,6 +1,6 @@
 ---
 title: "Pharmacy and Medicine in Japan: Foreigner's Guide (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "How to use pharmacies in Japan as a foreigner. Finding your medicine, what's available OTC, prescription rules, and what to do if your medication isn't sold in Japan."
 tags: ["pharmacy", "medicine", "health", "drugstore"]
 categories: ["Health & Insurance"]

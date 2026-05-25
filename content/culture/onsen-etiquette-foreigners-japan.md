@@ -1,6 +1,6 @@
 ---
 title: "Onsen Etiquette in Japan: A Foreigner's Complete Guide"
-date: 2025-05-02
+date: 2026-05-25
 description: "Everything foreigners need to know about Japanese onsen etiquette — how to wash, tattoo policies, mixed bathing, and what not to do."
 tags: ["onsen", "etiquette", "culture", "hot springs", "travel"]
 categories: ["Culture"]

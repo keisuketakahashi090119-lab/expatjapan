@@ -1,6 +1,6 @@
 ---
 title: "Life Insurance in Japan for Foreigners — What Are Your Options? (2025)"
-date: 2025-05-09
+date: 2026-05-25
 description: "Life insurance options for foreigners living in Japan — Japanese domestic insurers, international policies, and what you actually need as an expat."
 tags: ["insurance", "life insurance", "money", "finance"]
 categories: ["Money & Finance"]

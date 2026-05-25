@@ -1,6 +1,6 @@
 ---
 title: "International Schools in Japan: A Guide for Expat Parents (2025)"
-date: 2025-04-25
+date: 2026-05-25
 description: "A guide to international schools in Japan — costs, curricula, locations, and how to choose between international and Japanese public school."
 tags: ["international school", "education", "children", "family", "daily life"]
 categories: ["Daily Life"]

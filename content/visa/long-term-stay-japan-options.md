@@ -1,6 +1,6 @@
 ---
 title: "How to Stay in Japan Long-Term: All Visa Options for Foreigners (2025)"
-date: 2025-04-29
+date: 2026-05-25
 description: "Complete guide to long-term stay options in Japan 2025: work visa, spouse visa, student visa, digital nomad visa, Highly Skilled Professional visa, and permanent residency — explained clearly."
 tags: ["visa", "long-term stay", "immigration", "working in japan", "permanent residency"]
 categories: ["Visa & Immigration"]

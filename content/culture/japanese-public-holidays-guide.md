@@ -1,6 +1,6 @@
 ---
 title: "Japanese Public Holidays 2025: Complete Guide for Foreigners"
-date: 2025-04-26
+date: 2026-05-25
 description: "All Japanese national holidays in 2025, what they mean, and how they affect daily life for foreigners in Japan."
 tags: ["holidays", "national holidays", "culture", "calendar"]
 categories: ["Daily Life"]

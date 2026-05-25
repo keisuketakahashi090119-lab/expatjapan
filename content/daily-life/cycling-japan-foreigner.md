@@ -1,6 +1,6 @@
 ---
 title: "Cycling in Japan as a Foreigner: Rules, Registration, and Tips (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Cycling is one of the best ways to get around Japanese cities. Here's what foreigners need to know about bicycle rules, registration, buying a bike, and cycling safely."
 tags: ["cycling", "bicycle", "transport", "daily life", "tips"]
 categories: ["Daily Life"]

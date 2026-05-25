@@ -1,6 +1,6 @@
 ---
 title: "Typhoon Preparedness in Japan — A Foreigner's Survival Guide (2025)"
-date: 2025-05-13
+date: 2026-05-25
 description: "A practical typhoon preparedness guide for foreigners living in Japan in 2025. Covers typhoon season, emergency supplies, evacuation procedures, and how to stay safe."
 tags: ["typhoon japan", "natural disaster", "safety japan", "emergency preparedness", "expat safety"]
 categories: ["Daily Life"]

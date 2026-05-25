@@ -1,6 +1,6 @@
 ---
 title: "Japanese Apartment Rules Foreigners Need to Know (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Living in a Japanese apartment comes with specific rules and expectations. Here's what foreigners need to know to avoid complaints, fines, and lease issues."
 tags: ["apartment", "housing", "rules", "daily life", "neighbors"]
 categories: ["Daily Life"]

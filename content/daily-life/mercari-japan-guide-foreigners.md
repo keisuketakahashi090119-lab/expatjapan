@@ -1,6 +1,6 @@
 ---
 title: "Mercari Japan Guide for Foreigners: Buy and Sell Second-Hand in Japan (2025)"
-date: 2025-05-10
+date: 2026-05-25
 description: "Complete Mercari Japan guide for foreigners 2025: how to set up an account, buy and sell in Japanese, payment methods, shipping, and tips for finding the best deals as a foreigner."
 tags: ["mercari", "second-hand", "shopping", "daily life", "expat japan"]
 categories: ["Daily Life"]

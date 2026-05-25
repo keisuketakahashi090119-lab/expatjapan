@@ -1,6 +1,6 @@
 ---
 title: "Sento (銭湯) Guide for Foreigners: Japan's Public Baths (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Sento are Japan's traditional public baths — cheap, relaxing, and a genuine slice of local life. Here's everything foreigners need to know before visiting."
 tags: ["sento", "public bath", "culture", "onsen", "daily life"]
 categories: ["Culture"]

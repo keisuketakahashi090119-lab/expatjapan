@@ -1,6 +1,6 @@
 ---
 title: "Leaving Japan for Good: Complete Checklist for Foreigners (2025)"
-date: 2025-05-07
+date: 2026-05-25
 description: "Leaving Japan checklist for foreigners 2025: cancel residence registration, claim pension refund, close bank accounts, handle tax, ship belongings, and everything you need to do before departure."
 tags: ["leaving japan", "moving out", "checklist", "visa", "pension refund"]
 categories: ["Daily Life"]

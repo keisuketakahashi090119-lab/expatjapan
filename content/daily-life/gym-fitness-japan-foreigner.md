@@ -1,6 +1,6 @@
 ---
 title: "Gym and Fitness in Japan for Foreigners (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "Best gyms in Japan for foreigners. Costs, English-friendly options, how to join, and alternatives to traditional gyms."
 tags: ["gym", "fitness", "health", "daily life"]
 categories: ["Daily Life"]

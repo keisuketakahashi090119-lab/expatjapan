@@ -1,6 +1,6 @@
 ---
 title: "Gift Giving in Japan: A Complete Guide for Foreigners (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Gift giving is an important part of Japanese culture. Here's what to give, what to avoid, when to give gifts, and the etiquette foreigners need to know."
 tags: ["gifts", "omiyage", "culture", "etiquette", "Japan"]
 categories: ["Culture"]

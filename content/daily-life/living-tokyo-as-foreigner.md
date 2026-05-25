@@ -1,6 +1,6 @@
 ---
 title: "Living in Tokyo as a Foreigner — Neighborhoods, Costs & Practical Guide (2025)"
-date: 2025-04-03
+date: 2026-05-25
 description: "A complete guide to living in Tokyo as a foreigner in 2025. Covers neighborhoods, rent costs, transportation, Japanese language tips, and expat life essentials."
 tags: ["tokyo", "expat life", "cost of living", "neighborhoods", "daily life"]
 categories: ["Daily Life"]

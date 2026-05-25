@@ -1,6 +1,6 @@
 ---
 title: "Garbage and Recycling in Japan: A Foreigner's Survival Guide"
-date: 2025-05-02
+date: 2026-05-25
 description: "Japan's garbage rules are strict. Wrong bin, wrong day, wrong bag — and your trash won't get collected. Here's how to sort and dispose of waste correctly."
 tags: ["garbage", "recycling", "daily life", "rules", "neighborhood"]
 categories: ["Culture"]

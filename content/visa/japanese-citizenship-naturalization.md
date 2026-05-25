@@ -1,6 +1,6 @@
 ---
 title: "Japanese Citizenship (Naturalization) — Complete Guide for Foreigners"
-date: 2025-05-06
+date: 2026-05-25
 description: "How to apply for Japanese citizenship as a foreigner. Requirements, waiting times, what you give up, and whether it's worth it."
 tags: ["visa", "citizenship", "naturalization", "permanent resident"]
 categories: ["Visa & Status"]

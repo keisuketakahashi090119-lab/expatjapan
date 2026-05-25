@@ -1,6 +1,6 @@
 ---
 title: "Networking in Japan as a Foreigner: How to Build Professional Connections (2025)"
-date: 2025-05-01
+date: 2026-05-25
 description: "How to network in Japan as a foreigner in 2025: business card etiquette, LinkedIn strategy, expat communities, industry events, and how Japanese networking differs from Western norms."
 tags: ["networking", "career", "jobs", "working in japan", "business culture"]
 categories: ["Jobs & Career"]

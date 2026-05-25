@@ -1,6 +1,6 @@
 ---
 title: "Car Insurance in Japan for Foreigners: Everything You Need to Know"
-date: 2025-05-02
+date: 2026-05-25
 description: "Mandatory vs optional car insurance in Japan, what foreign drivers need, how much it costs, and how to get covered even with a foreign license."
 tags: ["car insurance", "driving", "money", "insurance", "vehicle"]
 categories: ["Money & Finance"]

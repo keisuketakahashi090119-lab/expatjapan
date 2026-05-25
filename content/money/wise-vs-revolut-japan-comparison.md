@@ -1,6 +1,6 @@
 ---
 title: "Wise vs Revolut in Japan: Which Is Better for Foreigners? (2025)"
-date: 2025-05-14
+date: 2026-05-25
 description: "Wise vs Revolut Japan comparison 2025: exchange rates, fees, limits, ATM access, and which app is better for different situations as a foreigner living in or visiting Japan."
 tags: ["wise", "revolut", "money transfer", "comparison", "finance", "banking"]
 categories: ["Money & Finance"]

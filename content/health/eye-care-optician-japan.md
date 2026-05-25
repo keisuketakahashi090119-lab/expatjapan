@@ -1,6 +1,6 @@
 ---
 title: "Eye Care in Japan for Foreigners: Glasses, Contacts, and Eye Clinics (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "How to get glasses, contact lenses, and eye exams in Japan as a foreigner. Costs, English-speaking clinics, and how insurance works for eye care."
 tags: ["eye care", "glasses", "contacts", "health", "daily life"]
 categories: ["Health & Insurance"]

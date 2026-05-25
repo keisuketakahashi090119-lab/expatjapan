@@ -1,6 +1,6 @@
 ---
 title: "Second-Hand Shopping in Japan: Guide for Foreigners (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "Japan has the best second-hand market in the world. How to shop at Mercari, Book Off, Hard Off, and recycle shops — and find incredible deals."
 tags: ["shopping", "second-hand", "recycle", "budget", "daily life"]
 categories: ["Daily Life"]

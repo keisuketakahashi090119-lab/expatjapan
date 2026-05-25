@@ -1,6 +1,6 @@
 ---
 title: "Buying a Car in Japan as a Foreigner: Complete Guide (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "How to buy a car in Japan as a foreigner. Used vs new, what documents you need, how shaken works, and where to find affordable cars."
 tags: ["car", "driving", "daily life", "transport"]
 categories: ["Daily Life"]

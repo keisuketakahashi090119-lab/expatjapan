@@ -1,6 +1,6 @@
 ---
 title: "Types of Work Visa in Japan Explained (2025 Complete Guide)"
-date: 2025-04-22
+date: 2026-05-25
 description: "A clear explanation of every type of work visa in Japan — Engineer, Tokutei Gino, Skilled Labor, and more. Find out which visa is right for you."
 tags: ["visa", "work visa", "visa types"]
 categories: ["Visa & Status"]

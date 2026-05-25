@@ -1,6 +1,6 @@
 ---
 title: "How to Save Money Living in Japan: Tips for Foreigners"
-date: 2025-04-22
+date: 2026-05-25
 description: "Practical tips for saving money as a foreigner in Japan. How to cut costs on food, phone bills, transport, and everyday expenses without sacrificing quality of life."
 tags: ["saving money", "budget", "finance", "daily life"]
 categories: ["Money & Finance"]

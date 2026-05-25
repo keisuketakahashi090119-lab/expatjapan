@@ -1,6 +1,6 @@
 ---
 title: "Best Job Sites for Foreigners in Japan (2025)"
-date: 2025-04-21
+date: 2026-05-25
 description: "The best websites and apps to find a job in Japan as a foreigner. Includes English-friendly sites, bilingual roles, and tips for each platform."
 tags: ["jobs", "job search", "career", "English"]
 categories: ["Jobs & Career"]

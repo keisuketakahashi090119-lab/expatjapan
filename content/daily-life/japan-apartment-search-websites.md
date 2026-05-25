@@ -1,6 +1,6 @@
 ---
 title: "How to Search for Apartments in Japan: SUUMO, Homes.jp, GaijinPot Housing (2025)"
-date: 2025-05-15
+date: 2026-05-25
 description: "Best apartment search websites in Japan for foreigners 2025: SUUMO, Homes.jp, GaijinPot Housing, UR Housing, and Sakura House compared. How to filter for foreigner-friendly properties."
 tags: ["apartment", "housing", "renting", "daily life", "expat"]
 categories: ["Daily Life"]

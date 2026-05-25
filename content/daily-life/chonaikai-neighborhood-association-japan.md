@@ -1,6 +1,6 @@
 ---
 title: "Chonaikai (町内会) in Japan: What Foreigners Need to Know (2025)"
-date: 2025-05-13
+date: 2026-05-25
 description: "Chonaikai guide for foreigners in Japan 2025: what neighborhood associations are, whether you must join, fees, responsibilities, garbage duties, and how to handle participation as a non-Japanese resident."
 tags: ["chonaikai", "neighborhood association", "daily life", "community", "expat japan"]
 categories: ["Daily Life"]

@@ -1,6 +1,6 @@
 ---
 title: "Japanese Language Schools in Japan — Guide for Foreigners (2025)"
-date: 2025-05-07
+date: 2026-05-25
 description: "How to choose a Japanese language school in Japan. What to look for, how much it costs, visa implications, and the best schools for foreigners."
 tags: ["Japanese language", "language school", "study", "culture"]
 categories: ["Culture"]

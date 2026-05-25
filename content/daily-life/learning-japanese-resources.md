@@ -1,6 +1,6 @@
 ---
 title: "Best Resources for Learning Japanese in 2025 (For Foreigners in Japan)"
-date: 2025-04-25
+date: 2026-05-25
 description: "The best apps, textbooks, and methods for learning Japanese — especially if you're living in Japan and want to learn fast."
 tags: ["Japanese language", "study", "learning", "daily life", "tips"]
 categories: ["Daily Life"]

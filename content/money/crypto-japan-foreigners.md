@@ -1,6 +1,6 @@
 ---
 title: "Cryptocurrency in Japan for Foreigners: Exchanges, Taxes, and Rules (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japan has a clear legal framework for cryptocurrency. Here's how foreigners can buy, sell, and hold crypto in Japan — and what taxes you'll owe."
 tags: ["crypto", "cryptocurrency", "bitcoin", "tax", "money", "investing"]
 categories: ["Money & Finance"]

@@ -1,6 +1,6 @@
 ---
 title: "Hay Fever and Cedar Pollen in Japan: What Foreigners Need to Know (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japan's cedar pollen season is severe. Millions suffer from hay fever (花粉症) every spring. Here's how to manage symptoms, find medicine, and survive allergy season."
 tags: ["hay fever", "pollen", "allergy", "health", "spring"]
 categories: ["Health & Insurance"]

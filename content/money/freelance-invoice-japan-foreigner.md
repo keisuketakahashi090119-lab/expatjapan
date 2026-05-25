@@ -1,6 +1,6 @@
 ---
 title: "Freelance Invoicing in Japan: How to Bill Clients Correctly as a Foreigner"
-date: 2025-05-02
+date: 2026-05-25
 description: "How to write Japanese invoices (請求書), Japan's invoicing system, the Invoice System (適格請求書), and how to get paid reliably as a freelancer in Japan."
 tags: ["freelance", "invoice", "money", "self-employed", "tax"]
 categories: ["Money & Finance"]

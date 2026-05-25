@@ -1,6 +1,6 @@
 ---
 title: "Best Money Transfer Apps from Japan (Cheap & Fast) 2025"
-date: 2025-04-21
+date: 2026-05-25
 description: "The cheapest and fastest ways to send money from Japan to the Philippines, Vietnam, Indonesia and other countries. Compare Wise, Revolut, and more."
 tags: ["money transfer", "remittance", "finance"]
 categories: ["Money & Finance"]

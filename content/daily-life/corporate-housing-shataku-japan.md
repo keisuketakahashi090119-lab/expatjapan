@@ -1,6 +1,6 @@
 ---
 title: "Company Housing (社宅) in Japan — What Foreigners Need to Know"
-date: 2025-05-08
+date: 2026-05-25
 description: "How Japan's company housing (shataku) system works, who is eligible, how much you save, and what to negotiate when starting a new job."
 tags: ["daily life", "housing", "shataku", "company housing", "salary"]
 categories: ["Daily Life"]

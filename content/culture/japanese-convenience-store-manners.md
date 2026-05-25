@@ -1,6 +1,6 @@
 ---
 title: "Japanese Manners on the Street and in Public: What Foreigners Get Wrong"
-date: 2025-05-02
+date: 2026-05-25
 description: "The unwritten rules of Japanese public behavior — eating while walking, phone calls on trains, queuing, and other things foreigners unknowingly get wrong."
 tags: ["etiquette", "manners", "culture", "daily life", "public"]
 categories: ["Culture"]

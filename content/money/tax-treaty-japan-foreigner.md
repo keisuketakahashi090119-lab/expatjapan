@@ -1,6 +1,6 @@
 ---
 title: "Japan Tax Treaties for Foreigners — Do You Pay Tax in Your Home Country?"
-date: 2025-05-09
+date: 2026-05-25
 description: "Does Japan's tax treaty with your home country mean you still owe taxes back home? US, UK, Australia, Canada explained — and what you need to file."
 tags: ["money", "tax", "tax treaty", "income tax", "US tax"]
 categories: ["Money & Finance"]

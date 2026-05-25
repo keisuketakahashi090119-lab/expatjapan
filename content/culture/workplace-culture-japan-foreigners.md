@@ -1,6 +1,6 @@
 ---
 title: "Japanese Workplace Culture: What Foreigners Need to Know"
-date: 2025-04-22
+date: 2026-05-25
 description: "A guide to Japanese workplace culture for foreigners. Understand the unwritten rules about punctuality, communication, hierarchy, and after-work drinks."
 tags: ["workplace", "culture", "jobs", "Japan"]
 categories: ["Japanese Life & Culture"]

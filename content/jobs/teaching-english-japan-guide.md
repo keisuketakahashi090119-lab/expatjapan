@@ -1,6 +1,6 @@
 ---
 title: "Teaching English in Japan: Complete Guide for Foreigners (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "How to teach English in Japan as a foreigner. ALT programs, eikaiwa, private tutoring — salaries, requirements, and how to get started."
 tags: ["teaching", "English", "jobs", "ALT", "eikaiwa"]
 categories: ["Jobs & Career"]

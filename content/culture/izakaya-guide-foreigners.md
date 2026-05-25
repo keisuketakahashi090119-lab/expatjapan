@@ -1,6 +1,6 @@
 ---
 title: "Izakaya Guide for Foreigners: How to Eat and Drink in Japan (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Izakayas are the heart of Japanese social life. Here's how to order, what to eat, drink, and the unwritten rules foreigners need to know."
 tags: ["izakaya", "food", "drinking", "culture", "nightlife"]
 categories: ["Culture"]

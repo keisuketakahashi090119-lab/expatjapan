@@ -1,6 +1,6 @@
 ---
 title: "Japan Winter Guide for Foreigners: Staying Warm and Getting Around (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japan winters vary drastically by region — from Tokyo's dry cold to Hokkaido's heavy snow. Here's how to prepare and enjoy winter in Japan."
 tags: ["winter", "cold", "daily life", "tips", "weather", "snow"]
 categories: ["Daily Life"]

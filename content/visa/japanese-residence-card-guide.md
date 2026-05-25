@@ -1,6 +1,6 @@
 ---
 title: "Japanese Residence Card (在留カード) — Complete Guide for Foreigners"
-date: 2025-05-04
+date: 2026-05-25
 description: "Everything foreigners need to know about the Japanese Residence Card (Zairyu Card) — how to get it, what it's for, address changes, and what happens if you lose it."
 tags: ["visa", "residence card", "zairyu card", "immigration"]
 categories: ["Visa & Status"]

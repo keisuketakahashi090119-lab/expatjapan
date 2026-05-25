@@ -1,6 +1,6 @@
 ---
 title: "How to Renew Your Work Visa in Japan (Step-by-Step Guide 2025)"
-date: 2025-04-21
+date: 2026-05-25
 description: "A complete step-by-step guide to renewing your work visa in Japan. When to apply, what documents you need, and how long it takes."
 tags: ["visa", "visa renewal", "work visa"]
 categories: ["Visa & Status"]

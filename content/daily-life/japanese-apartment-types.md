@@ -1,6 +1,6 @@
 ---
 title: "Japanese Apartment Types Explained — 1K, 1DK, LDK and What They Mean (2025)"
-date: 2025-04-25
+date: 2026-05-25
 description: "A clear explanation of Japanese apartment types — 1K, 1DK, 1LDK, 2LDK, and more — for foreigners searching for housing in Japan in 2025. Includes size tips and what to look for."
 tags: ["apartment", "housing japan", "1K", "LDK", "renting japan"]
 categories: ["Daily Life"]

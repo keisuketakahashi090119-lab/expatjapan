@@ -1,6 +1,6 @@
 ---
 title: "Cycling in Japan as a Foreigner — Buying a Bike, Rules & Registration (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Everything foreigners need to know about cycling in Japan in 2025 — buying a bike, registration rules, traffic laws, parking, and cycling etiquette for daily life."
 tags: ["cycling", "bicycle japan", "daily life", "transport", "bike registration"]
 categories: ["Daily Life"]

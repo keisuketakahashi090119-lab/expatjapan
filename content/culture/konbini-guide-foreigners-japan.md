@@ -1,6 +1,6 @@
 ---
 title: "Japan's Convenience Stores (Konbini): A Foreigner's Complete Guide"
-date: 2025-05-02
+date: 2026-05-25
 description: "Everything you can do at a Japanese convenience store — pay bills, print documents, withdraw money, eat well, and more. The konbini guide for foreigners."
 tags: ["konbini", "convenience store", "daily life", "culture", "tips"]
 categories: ["Culture"]

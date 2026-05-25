@@ -1,6 +1,6 @@
 ---
 title: "Owning a Pet in Japan as a Foreigner (2025): Dogs, Cats, and Apartments"
-date: 2025-04-27
+date: 2026-05-25
 description: "Can you have a pet in Japan as a foreigner? Apartment rules, registration, vet costs, and bringing pets from overseas — all explained."
 tags: ["pets", "dogs", "cats", "daily life", "apartment"]
 categories: ["Daily Life"]

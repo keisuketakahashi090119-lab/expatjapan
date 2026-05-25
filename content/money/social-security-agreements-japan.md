@@ -1,6 +1,6 @@
 ---
 title: "Social Security Agreements Japan: Stop Paying Pension Twice"
-date: 2025-05-02
+date: 2026-05-25
 description: "Japan has social security agreements with 23 countries. If your home country is on the list, you may be exempt from Japanese pension contributions — or can count your years abroad."
 tags: ["pension", "social security", "taxes", "money", "visa"]
 categories: ["Money & Finance"]

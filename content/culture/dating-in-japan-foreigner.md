@@ -1,6 +1,6 @@
 ---
 title: "Dating in Japan as a Foreigner: What to Expect (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "A realistic guide to dating in Japan as a foreigner. Apps that work, cultural differences, what Japanese people look for, and how to build genuine relationships."
 tags: ["dating", "relationships", "culture", "social"]
 categories: ["Daily Life"]

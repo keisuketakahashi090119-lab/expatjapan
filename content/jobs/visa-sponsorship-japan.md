@@ -1,6 +1,6 @@
 ---
 title: "Finding Visa-Sponsored Jobs in Japan as a Foreigner (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "How to find jobs in Japan that offer visa sponsorship. Best job boards, what employers look for, and how to increase your chances of getting sponsored."
 tags: ["visa sponsorship", "jobs", "work", "hiring", "foreigners"]
 categories: ["Jobs & Work"]

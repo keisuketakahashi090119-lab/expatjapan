@@ -1,6 +1,6 @@
 ---
 title: "Japan Dependent Visa: Shikakugai Katsudo Kyoka & 28-Hour Work Rule Explained (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "Complete guide to Japan's dependent visa — including shikakugai katsudo kyoka (資格外活動許可) that lets family members work up to 28 hours/week. Requirements, documents, and step-by-step application."
 tags: ["dependent visa", "family", "visa", "spouse", "shikakugai katsudo", "work permission"]
 categories: ["Visa & Status"]

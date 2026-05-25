@@ -1,6 +1,6 @@
 ---
 title: "Japan Summer Survival Guide for Foreigners (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japan's summer is hot, humid, and exhausting. Here's how to survive — and enjoy — the Japanese summer as a foreigner."
 tags: ["summer", "heat", "daily life", "tips", "weather"]
 categories: ["Daily Life"]

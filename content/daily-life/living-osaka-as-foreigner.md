@@ -1,6 +1,6 @@
 ---
 title: "Living in Osaka as a Foreigner — Honest Guide (2025)"
-date: 2025-05-05
+date: 2026-05-25
 description: "Everything foreigners need to know about living in Osaka — neighborhoods, costs, food, work, and what makes it different from Tokyo."
 tags: ["Osaka", "daily life", "moving to Japan", "cost of living"]
 categories: ["Daily Life"]

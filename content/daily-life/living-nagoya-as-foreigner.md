@@ -1,6 +1,6 @@
 ---
 title: "Living in Nagoya as a Foreigner — A Practical Guide (2025)"
-date: 2025-04-05
+date: 2026-05-25
 description: "Everything foreigners need to know about living in Nagoya in 2025 — cost of living, neighborhoods, public transport, healthcare, and expat community tips."
 tags: ["nagoya", "expat life", "cost of living", "aichi", "daily life"]
 categories: ["Daily Life"]

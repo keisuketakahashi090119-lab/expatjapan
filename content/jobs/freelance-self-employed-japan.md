@@ -1,6 +1,6 @@
 ---
 title: "Freelance and Self-Employed in Japan as a Foreigner (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Going freelance in Japan as a foreigner is possible — but requires the right visa, business registration, and tax setup. Here's a complete guide."
 tags: ["freelance", "self-employed", "visa", "tax", "jobs", "business"]
 categories: ["Jobs & Work"]

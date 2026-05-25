@@ -1,6 +1,6 @@
 ---
 title: "How to Change Your Visa Status in Japan (Step-by-Step)"
-date: 2025-04-22
+date: 2026-05-25
 description: "Need to change your visa type in Japan? Here's how to apply for a change of status, what documents you need, and how long it takes."
 tags: ["visa", "change of status", "immigration"]
 categories: ["Visa & Status"]

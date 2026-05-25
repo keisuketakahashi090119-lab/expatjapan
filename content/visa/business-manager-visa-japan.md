@@ -1,6 +1,6 @@
 ---
 title: "Business Manager Visa Japan: Start a Business as a Foreigner (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "The Business Manager visa lets foreigners start and run a company in Japan. Here's what you need, the minimum requirements, and how the application works."
 tags: ["business manager visa", "visa", "entrepreneur", "startup"]
 categories: ["Visa & Status"]

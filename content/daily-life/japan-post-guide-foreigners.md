@@ -1,6 +1,6 @@
 ---
 title: "Japan Post Guide for Foreigners: Sending Mail and Packages (2025)"
-date: 2025-04-25
+date: 2026-05-25
 description: "How to use Japan Post (郵便局) as a foreigner — sending letters, packages, international mail, and using the post office for banking and payments."
 tags: ["Japan Post", "postal", "mail", "packages", "daily life"]
 categories: ["Daily Life"]

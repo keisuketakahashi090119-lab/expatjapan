@@ -1,6 +1,6 @@
 ---
 title: "What Is the My Number Card in Japan? Do You Need It?"
-date: 2025-04-21
+date: 2026-05-25
 description: "Everything foreigners need to know about Japan's My Number card — what it is, how to get it, and whether you really need one."
 tags: ["My Number", "residence card", "daily life", "ID"]
 categories: ["Daily Life"]

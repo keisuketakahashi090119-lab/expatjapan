@@ -1,6 +1,6 @@
 ---
 title: "Inheritance Tax in Japan for Foreigners — What You Need to Know (2025)"
-date: 2025-05-02
+date: 2026-05-25
 description: "A guide to inheritance tax in Japan for foreigners in 2025. Covers who is liable, tax rates, deductions, overseas assets, and how to plan ahead to protect your family."
 tags: ["inheritance tax", "estate tax", "japan tax", "foreigner finances", "asset planning"]
 categories: ["Money & Finance"]

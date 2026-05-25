@@ -1,6 +1,6 @@
 ---
 title: "Freelancing in Japan as a Foreigner: What You Need to Know (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "Can foreigners freelance in Japan? Visa options, registering as self-employed, taxes, and the best platforms to find clients."
 tags: ["freelance", "self-employed", "jobs", "business"]
 categories: ["Jobs & Career"]

@@ -1,6 +1,6 @@
 ---
 title: "Japan Pension Lump-Sum Withdrawal (脱退一時金) — How to Claim Your Money Back"
-date: 2025-05-10
+date: 2026-05-25
 description: "Foreigners leaving Japan can claim back up to 3 years of pension contributions as a lump sum. How to apply, the deadline, and how much you'll get."
 tags: ["money", "pension", "tax refund", "leaving Japan"]
 categories: ["Money & Finance"]

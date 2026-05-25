@@ -1,6 +1,6 @@
 ---
 title: "Moving Out of an Apartment in Japan: What to Expect and How to Avoid Charges (2025)"
-date: 2025-05-05
+date: 2026-05-25
 description: "Moving out of a Japanese apartment as a foreigner: notice period, deposit return, cleaning fees, how to dispute unfair charges, and a step-by-step move-out checklist for 2025."
 tags: ["housing", "apartment", "moving", "daily life", "expat"]
 categories: ["Daily Life"]

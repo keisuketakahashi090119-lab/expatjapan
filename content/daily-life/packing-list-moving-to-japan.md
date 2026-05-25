@@ -1,6 +1,6 @@
 ---
 title: "Packing List for Moving to Japan: What to Bring (and What to Leave Behind)"
-date: 2025-05-09
+date: 2026-05-25
 description: "What to pack when moving to Japan as a foreigner: essential items to bring, what's cheaper to buy in Japan, what's hard to find, and a complete moving-to-Japan packing checklist."
 tags: ["moving to japan", "packing", "checklist", "daily life", "expat"]
 categories: ["Daily Life"]

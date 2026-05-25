@@ -1,6 +1,6 @@
 ---
 title: "Social Insurance in Japan for Foreigners — Health, Pension & Unemployment (2025)"
-date: 2025-04-19
+date: 2026-05-25
 description: "A complete guide to social insurance in Japan for foreign residents in 2025. Covers health insurance, pension, unemployment benefits, enrollment, and premium costs."
 tags: ["social insurance", "health insurance", "pension", "unemployment", "benefits japan"]
 categories: ["Daily Life"]

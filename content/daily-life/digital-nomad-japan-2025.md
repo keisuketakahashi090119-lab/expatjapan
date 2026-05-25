@@ -1,6 +1,6 @@
 ---
 title: "Digital Nomad in Japan 2025: Visa, Costs, Best Cities, and Everything You Need to Know"
-date: 2025-05-08
+date: 2026-05-25
 description: "Digital nomad Japan guide 2025: the new digital nomad visa explained, best cities for remote workers, coworking spaces, costs, and how to stay long-term as a foreign remote worker."
 tags: ["digital nomad", "remote work", "visa", "japan", "expat"]
 categories: ["Daily Life"]

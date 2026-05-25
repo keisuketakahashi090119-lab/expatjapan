@@ -1,6 +1,6 @@
 ---
 title: "Onsen Guide for Foreigners in Japan (2025): Rules, Etiquette, and Best Baths"
-date: 2025-04-27
+date: 2026-05-25
 description: "How to use an onsen in Japan — what to do, what not to do, tattoo policies, types of baths, and the best onsen experiences for foreigners."
 tags: ["onsen", "hot springs", "etiquette", "daily life", "culture"]
 categories: ["Daily Life"]

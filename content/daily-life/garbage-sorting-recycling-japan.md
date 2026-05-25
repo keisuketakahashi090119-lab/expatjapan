@@ -1,6 +1,6 @@
 ---
 title: "Garbage Sorting and Recycling in Japan: A Foreigner's Guide (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japan's garbage rules are strict and confusing. Here's exactly how to sort trash, what goes where, and how to avoid fines as a foreigner."
 tags: ["garbage", "recycling", "daily life", "rules"]
 categories: ["Daily Life"]

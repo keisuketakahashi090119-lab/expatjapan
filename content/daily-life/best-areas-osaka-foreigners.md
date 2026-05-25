@@ -1,6 +1,6 @@
 ---
 title: "Best Areas to Live in Osaka for Foreigners: Neighborhood Guide (2025)"
-date: 2025-05-07
+date: 2026-05-25
 description: "Best neighborhoods in Osaka for foreigners 2025: Namba, Umeda, Shinsaibashi, Namba, Tennoji, and beyond. Rent prices, expat communities, and which area suits your lifestyle."
 tags: ["osaka", "neighborhoods", "daily life", "expat", "housing"]
 categories: ["Daily Life"]

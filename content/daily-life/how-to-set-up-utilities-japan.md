@@ -1,6 +1,6 @@
 ---
 title: "How to Set Up Utilities in Japan as a Foreigner (2025)"
-date: 2025-04-24
+date: 2026-05-25
 description: "How to set up electricity, gas, water, and internet when you move into a new apartment in Japan. Step by step in English."
 tags: ["utilities", "electricity", "gas", "internet", "daily life"]
 categories: ["Daily Life"]

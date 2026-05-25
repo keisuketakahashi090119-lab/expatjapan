@@ -1,6 +1,6 @@
 ---
 title: "Japanese New Year (お正月) Guide for Foreigners (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japanese New Year (oshogatsu) is the most important holiday of the year. Here's what happens, traditions to join, what's open, and how to enjoy it as a foreigner."
 tags: ["new year", "oshogatsu", "culture", "holiday", "traditions"]
 categories: ["Culture"]

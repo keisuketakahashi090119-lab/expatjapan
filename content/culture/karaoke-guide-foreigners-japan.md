@@ -1,6 +1,6 @@
 ---
 title: "Karaoke in Japan: A Foreigner's Guide to Doing It Right"
-date: 2025-05-02
+date: 2026-05-25
 description: "How karaoke works in Japan, how to book a box, what to order, and the unwritten rules foreigners need to know before their first nomikai."
 tags: ["karaoke", "culture", "entertainment", "social", "nightlife"]
 categories: ["Culture"]

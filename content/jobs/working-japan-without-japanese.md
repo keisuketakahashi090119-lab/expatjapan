@@ -1,6 +1,6 @@
 ---
 title: "Working in Japan Without Japanese — Is It Possible? (2025)"
-date: 2025-05-11
+date: 2026-05-25
 description: "Can you find and keep a job in Japan without speaking Japanese? Honest answer, which industries work, and how to maximize your chances."
 tags: ["jobs", "Japanese language", "career", "English jobs"]
 categories: ["Jobs & Career"]

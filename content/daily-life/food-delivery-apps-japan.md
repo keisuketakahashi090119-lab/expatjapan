@@ -1,6 +1,6 @@
 ---
 title: "Food Delivery Apps in Japan: Complete Guide for Foreigners (2025)"
-date: 2025-05-12
+date: 2026-05-25
 description: "Best food delivery apps in Japan 2025: Uber Eats, Demae-can, Wolt, and more compared. Fees, availability by city, English support, and tips for ordering as a foreigner."
 tags: ["food delivery", "daily life", "apps", "japan", "expat"]
 categories: ["Daily Life"]

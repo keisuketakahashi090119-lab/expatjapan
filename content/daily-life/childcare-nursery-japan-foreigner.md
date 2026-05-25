@@ -1,6 +1,6 @@
 ---
 title: "Childcare and Nursery in Japan as a Foreigner — Complete Guide (2025)"
-date: 2025-05-07
+date: 2026-05-25
 description: "How to get your child into a hoikuen or yochien in Japan as a foreigner. Application process, costs, waiting lists, and language considerations."
 tags: ["daily life", "childcare", "nursery", "family", "kids"]
 categories: ["Daily Life"]

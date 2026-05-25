@@ -1,6 +1,6 @@
 ---
 title: "Japanese Summer Traditions: Obon, Fireworks, and What Foreigners Should Know"
-date: 2025-05-02
+date: 2026-05-25
 description: "Obon, hanabi, summer festivals, and the unwritten rules of Japanese summer. A foreigner's guide to the hottest — and most culturally rich — season in Japan."
 tags: ["obon", "summer", "festivals", "culture", "hanabi", "fireworks"]
 categories: ["Culture"]

@@ -1,6 +1,6 @@
 ---
 title: "Jobs in Japan Without Japanese: Industries, Companies & How to Get Hired (2025)"
-date: 2025-05-02
+date: 2026-05-25
 description: "Real jobs in Japan without Japanese in 2025: IT, English teaching, finance, tourism, and more. Which companies hire non-Japanese speakers, salary expectations, and how to find these roles."
 tags: ["jobs", "career", "working in japan", "english jobs", "no japanese"]
 categories: ["Jobs & Career"]

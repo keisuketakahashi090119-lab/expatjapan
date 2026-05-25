@@ -1,6 +1,6 @@
 ---
 title: "How to File Taxes in Japan as a Foreigner (2025)"
-date: 2025-04-25
+date: 2026-05-25
 description: "A guide to filing your Japanese tax return (確定申告) as a foreigner — who needs to file, how to do it, and key deadlines."
 tags: ["taxes", "kakutei shinkoku", "money", "finance", "Japan"]
 categories: ["Money"]

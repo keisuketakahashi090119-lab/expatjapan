@@ -1,6 +1,6 @@
 ---
 title: "Suica & IC Card Guide for Foreigners in Japan (2025)"
-date: 2025-04-24
+date: 2026-05-25
 description: "How to get and use a Suica or IC card in Japan. The easiest way to pay for trains, buses, and convenience stores."
 tags: ["Suica", "IC card", "transport", "daily life"]
 categories: ["Daily Life"]

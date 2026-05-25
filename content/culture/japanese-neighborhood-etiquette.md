@@ -1,6 +1,6 @@
 ---
 title: "Japanese Neighborhood Etiquette for Foreigners (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "How to be a good neighbor in Japan. The unwritten rules of Japanese residential life — from greeting customs to noise, garbage, and community obligations."
 tags: ["neighbors", "etiquette", "culture", "apartment", "community"]
 categories: ["Culture"]

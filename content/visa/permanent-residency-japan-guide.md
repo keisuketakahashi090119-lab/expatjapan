@@ -1,6 +1,6 @@
 ---
 title: "How to Get Permanent Residency in Japan (2025 Guide)"
-date: 2025-04-25
+date: 2026-05-25
 description: "A complete guide to applying for permanent residency (永住許可) in Japan — eligibility requirements, the application process, and tips for approval."
 tags: ["permanent residency", "visa", "immigration", "PR", "Japan"]
 categories: ["Visa"]

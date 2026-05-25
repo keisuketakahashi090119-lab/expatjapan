@@ -1,6 +1,6 @@
 ---
 title: "Earthquake Preparedness in Japan: A Guide for Foreigners (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japan has frequent earthquakes. Here's what every foreigner needs to know: emergency kits, evacuation procedures, useful apps, and how to stay safe."
 tags: ["earthquake", "safety", "emergency", "daily life"]
 categories: ["Daily Life"]

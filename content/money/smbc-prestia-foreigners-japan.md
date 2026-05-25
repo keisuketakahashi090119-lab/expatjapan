@@ -1,6 +1,6 @@
 ---
 title: "SMBC Trust Prestia for Foreigners in Japan: English Banking Guide (2025)"
-date: 2025-05-13
+date: 2026-05-25
 description: "SMBC Trust Prestia review for foreigners in Japan 2025: English-language banking, foreign currency accounts, eligibility, fees, and how it compares to Japan Post Bank and online banks."
 tags: ["banking", "SMBC Prestia", "money", "finance", "english banking japan"]
 categories: ["Money & Finance"]

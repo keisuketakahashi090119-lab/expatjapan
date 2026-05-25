@@ -1,6 +1,6 @@
 ---
 title: "Common Visa Renewal Mistakes Foreigners Make in Japan (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Visa renewal in Japan is strict. Here are the most common mistakes that lead to refusals or complications — and how to avoid them."
 tags: ["visa renewal", "visa", "immigration", "mistakes", "tips"]
 categories: ["Visa & Status"]

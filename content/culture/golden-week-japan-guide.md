@@ -1,6 +1,6 @@
 ---
 title: "Golden Week in Japan: What Foreigners Need to Know (2025)"
-date: 2025-04-25
+date: 2026-05-25
 description: "What is Golden Week? When is it, what's open, what's closed, and how to plan around Japan's busiest holiday period."
 tags: ["Golden Week", "holidays", "culture", "travel", "Japan"]
 categories: ["Culture"]

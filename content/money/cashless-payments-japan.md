@@ -1,6 +1,6 @@
 ---
 title: "Cashless Payments in Japan: PayPay, IC Cards, and More (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japan is becoming more cashless. Here's what payment apps and methods foreigners can use — PayPay, Suica, credit cards, and QR codes explained."
 tags: ["cashless", "PayPay", "Suica", "payment", "money"]
 categories: ["Money & Finance"]

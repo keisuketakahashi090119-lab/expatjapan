@@ -1,6 +1,6 @@
 ---
 title: "Buying Property in Japan as a Foreigner: A Complete Guide (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Foreigners can legally buy property in Japan with no restrictions. Here's how the process works, costs, mortgages, and what to know before you buy."
 tags: ["property", "real estate", "buying", "money", "investment"]
 categories: ["Money & Finance"]

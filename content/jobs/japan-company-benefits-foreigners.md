@@ -1,6 +1,6 @@
 ---
 title: "Japanese Company Benefits Explained for Foreigners (2025)"
-date: 2025-04-15
+date: 2026-05-25
 description: "A clear breakdown of employee benefits at Japanese companies for foreign workers in 2025 — social insurance, commuter passes, bonuses, housing allowances, and more."
 tags: ["company benefits", "working in japan", "employment", "salary", "japanese workplace"]
 categories: ["Jobs & Career"]

@@ -1,6 +1,6 @@
 ---
 title: "Japanese Supermarket Guide for Foreigners: What to Buy and How to Shop (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Navigating a Japanese supermarket for the first time can be confusing. Here's what to look for, how to find what you need, and tips for eating well in Japan."
 tags: ["supermarket", "food", "shopping", "daily life", "groceries"]
 categories: ["Daily Life"]

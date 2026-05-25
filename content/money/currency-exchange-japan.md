@@ -1,6 +1,6 @@
 ---
 title: "Best Currency Exchange in Japan: Where to Get the Best Rates (2025)"
-date: 2025-04-26
+date: 2026-05-25
 description: "Where to exchange currency in Japan. Compare airport exchanges, banks, post offices, ATMs, and money transfer apps — and avoid the worst rates."
 tags: ["currency", "exchange", "money", "yen", "finance"]
 categories: ["Money & Finance"]

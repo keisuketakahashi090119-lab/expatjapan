@@ -1,6 +1,6 @@
 ---
 title: "How to Use Trains in Japan: A Foreigner's Guide"
-date: 2025-04-22
+date: 2026-05-25
 description: "Everything you need to know about using trains and subways in Japan — IC cards, how to buy tickets, reading the map, and rush hour tips."
 tags: ["train", "transport", "IC card", "daily life"]
 categories: ["Japanese Life & Culture"]

@@ -1,6 +1,6 @@
 ---
 title: "How to File Taxes in Japan as a Foreigner (2025 Guide)"
-date: 2025-04-22
+date: 2026-05-25
 description: "Do foreigners need to file taxes in Japan? Yes — here's a simple guide to Japanese income tax, who needs to file, and how to do it."
 tags: ["tax", "income tax", "finance", "kakutei shinkoku"]
 categories: ["Money & Finance"]

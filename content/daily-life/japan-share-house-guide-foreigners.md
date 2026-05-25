@@ -1,6 +1,6 @@
 ---
 title: "Share Houses in Japan for Foreigners: Complete Guide (2025)"
-date: 2025-05-05
+date: 2026-05-25
 description: "Share houses in Japan for foreigners 2025: Sakura House, Borderless House, Oak House — compared. Costs, what's included, rules, and how share houses compare to renting alone."
 tags: ["share house", "housing", "daily life", "expat japan", "accommodation"]
 categories: ["Daily Life"]

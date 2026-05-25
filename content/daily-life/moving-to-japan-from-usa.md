@@ -1,6 +1,6 @@
 ---
 title: "Moving to Japan from the USA: Complete Checklist & Guide (2025)"
-date: 2025-05-10
+date: 2026-05-25
 description: "Moving to Japan from the USA in 2025: visa options, what to do before you leave, cost comparison, banking, taxes, and the first 30 days step-by-step. Everything Americans need to know."
 tags: ["moving to japan", "usa", "expat", "visa", "relocation"]
 categories: ["Daily Life"]

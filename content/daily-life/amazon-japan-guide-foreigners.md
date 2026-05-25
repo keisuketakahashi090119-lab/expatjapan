@@ -1,6 +1,6 @@
 ---
 title: "Amazon Japan Guide for Foreigners: How to Use Amazon.co.jp (2025)"
-date: 2025-05-04
+date: 2026-05-25
 description: "Complete Amazon Japan guide for foreigners 2025: how to set up an account, navigate in Japanese, Prime membership benefits, international shipping, and tips for getting the best deals."
 tags: ["amazon", "shopping", "daily life", "expat", "japan"]
 categories: ["Daily Life"]

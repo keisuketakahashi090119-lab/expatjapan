@@ -1,6 +1,6 @@
 ---
 title: "Japan Public Transport Guide for Foreigners: Trains, Buses, and IC Cards (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Japan's public transport is world-class but complex. Here's how to use trains, subways, and buses in Japan — IC cards, apps, and tips for navigating the system."
 tags: ["transport", "trains", "IC card", "Suica", "daily life", "commuting"]
 categories: ["Daily Life"]

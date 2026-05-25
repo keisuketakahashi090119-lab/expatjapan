@@ -1,6 +1,6 @@
 ---
 title: "Budget Travel in Japan: How to Explore Japan Cheaply as a Resident (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Living in Japan means you can travel the country without tourist prices. Here's how to do weekend trips and longer travel in Japan on a budget."
 tags: ["travel", "budget", "transport", "weekend trip", "daily life"]
 categories: ["Daily Life"]

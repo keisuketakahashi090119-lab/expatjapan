@@ -1,6 +1,6 @@
 ---
 title: "Home and Renters Insurance in Japan for Foreigners (2025)"
-date: 2025-04-27
+date: 2026-05-25
 description: "Fire and renters insurance is required for most Japanese apartments. Here's how it works, what it covers, what it costs, and how to get it as a foreigner."
 tags: ["insurance", "apartment", "fire insurance", "renters insurance", "money"]
 categories: ["Money & Finance"]

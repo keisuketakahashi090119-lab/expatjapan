@@ -1,6 +1,6 @@
 ---
 title: "Japanese Customs and Immigration — What to Expect on Arrival (2025)"
-date: 2025-05-09
+date: 2026-05-25
 description: "A practical guide to Japanese customs and immigration procedures for foreigners arriving in Japan in 2025. Covers declaration forms, prohibited items, quarantine, and tips."
 tags: ["customs japan", "immigration japan", "arriving japan", "airport japan", "border control"]
 categories: ["Daily Life"]
