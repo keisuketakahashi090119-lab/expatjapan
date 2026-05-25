@@ -16,7 +16,9 @@ cover:
 First 30 days in Japan: register your address at city hall within 14 days (required by law) → get a SIM card → open a bank account → enroll in health insurance → get a My Number Card. Do them in this order — the bank account and insurance enrollment both require your residence card and address registration certificate.
 {{< /quick-answer >}}
 
-The first month in Japan involves a specific sequence of administrative tasks — and doing them out of order wastes weeks. Most newcomers figure this out the hard way. This checklist lays out exactly what to do, in the right order, so you hit the ground running.
+You just landed in Japan. You're jet-lagged, everything around you is in a language you may not read, and somewhere in the next few weeks you need to figure out your address registration, your phone, your bank account, your health insurance — and ideally not in the wrong order. It's a lot.
+
+The good news: the system is actually manageable once you know the sequence. This checklist walks you through day by day, in the exact order that keeps everything moving without hitting dead ends.
 
 ## At the Airport (Day 0)
 

@@ -12,7 +12,9 @@ cover:
   relative: false
 ---
 
-Japan's health insurance system is comprehensive and mandatory — and yet most foreigners who arrive here don't fully understand how it works until they need it. Knowing the system in advance means fewer surprises at the clinic. Here's how it actually works.
+You go to the clinic for the first time, hand over your insurance card, get treated, and then pay ¥1,500 at the end — and you're genuinely surprised it was that cheap. That's how Japan's health insurance is supposed to work. The problem is that most foreigners arrive not knowing they're already enrolled, not knowing what it covers, and not knowing what happens if they miss enrollment.
+
+Here's how the system actually works — so you're not the person who finds out at the worst possible moment.
 
 ---
 

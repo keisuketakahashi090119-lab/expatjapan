@@ -12,7 +12,9 @@ cover:
   relative: false
 ---
 
-Permanent residency in Japan changes everything — no job-category restrictions, no employer dependency, no renewal anxiety. It's the most significant upgrade available in the Japanese immigration system. Here's a complete guide to qualifying and applying.
+You've built a life in Japan — maybe years of work, relationships, routines. But every year or two, you sit across from an immigration officer and wait to find out whether you get to stay, whether your job is still the right category, whether your employer will keep sponsoring you. That uncertainty wears on you in ways that are hard to explain to people who haven't experienced it.
+
+Permanent residency changes all of that. No job-category restrictions, no employer dependency, no renewal anxiety. It's the most significant upgrade in the Japanese immigration system — and this guide tells you exactly how to qualify for it.
 
 ---
 

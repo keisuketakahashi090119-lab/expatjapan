@@ -12,7 +12,9 @@ cover:
   relative: false
 ---
 
-International school fees in Japan are significant — often ¥2 million or more per year. But not all international schools are equal, and the right fit depends on curriculum, language, and your family's plans. Here's what to evaluate before making one of the biggest education decisions of your time in Japan.
+You moved to Japan with kids — or you're about to — and suddenly education is an equation with no obvious answer. Japanese public school is free, but it's entirely in Japanese, and your 9-year-old doesn't speak a word. International schools are available, but they cost ¥2 million or more a year per child. And you need to decide before you've figured out the rest of the move, before you know how long you'll be staying, before you even know which neighborhood you'll live in.
+
+This guide breaks down your real options, what each one actually costs, and how to decide — without second-guessing yourself for the next five years.
 
 ---
 

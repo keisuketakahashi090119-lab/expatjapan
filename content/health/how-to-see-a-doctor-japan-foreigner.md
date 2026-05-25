@@ -16,7 +16,9 @@ cover:
 With National Health Insurance (国民健康保険), you pay 30% of costs — a typical GP visit costs ¥1,000–3,000 out of pocket. Bring your insurance card (保険証) and residence card. Most clinics don't require appointments; show up when they open to minimize wait time.
 {{< /quick-answer >}}
 
-Seeing a doctor in Japan for the first time as a foreigner is less complicated than it seems — but only if you know how the system works. Walking in unprepared means confusion, delays, and sometimes the wrong treatment. Here's a practical guide to navigating Japanese healthcare.
+You're not feeling well, and on top of that you're trying to figure out: do I need to make an appointment? Where do I even go? Will they understand me? Do I pay upfront? The uncertainty on top of feeling sick is genuinely miserable.
+
+The reassuring truth is that Japan's healthcare system is excellent, accessible, and much cheaper than most Western countries once you're enrolled in insurance. Here's exactly how to navigate it — from choosing the right type of clinic to knowing what to say when you get there.
 
 ---
 

@@ -24,9 +24,9 @@ cover:
 Japanese job interview basics: wear a dark suit (black/navy/charcoal), arrive 5–10 minutes early (never late), bow 30 degrees when greeting. The 5 questions every interviewer asks: (1) jiko shōkai — 1–2 minute self-introduction, (2) shibo douki — why specifically this company (not just the industry), (3) strengths and weaknesses with examples, (4) where you see yourself in 3–5 years, (5) describe a challenge you overcame. Multiple rounds (2–4) are standard. Send a thank-you email the same day. Business Japanese (JLPT N2+) is expected at most traditional Japanese companies; tech and international firms often interview in English.
 {{< /quick-answer >}}
 
-Japanese job interviews have a specific structure that most foreigners haven't prepared for. The questions, etiquette, and presentation rules differ from Western-style interviews — and knowing what to expect in advance is the difference between a strong impression and an awkward one.
+You've landed an interview with a Japanese company. Now you're reading guides that tell you to "wear a dark suit" and "show respect for the company's tradition" — and none of it tells you why the interviewer keeps asking about your 3-year plan, or what they actually want to hear when they ask about your weaknesses, or why you went to three rounds and then got a polite rejection with no explanation.
 
-This guide focuses on **foreign engineers and IT professionals** applying to Japanese tech companies, international firms with Japanese offices, and startups — the most common scenarios where English-speaking foreigners get hired in Japan. The same principles apply to other professions, but tech has its own track worth understanding separately.
+Japanese job interviews follow a specific script that most foreigners haven't seen before. Once you understand the structure, it becomes predictable — even manageable. This guide is focused on **foreign engineers and tech professionals** applying to Japanese companies, where the rules have their own nuances on top of the general ones.
 
 Here's exactly what to prepare.
 

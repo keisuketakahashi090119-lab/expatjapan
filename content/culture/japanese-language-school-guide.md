@@ -16,6 +16,8 @@ cover:
 **Which Japanese language school is right for you?** If you're coming to Japan specifically to study Japanese full-time → an **accredited Japanese language school** (¥700,000–1,200,000/year, student visa). If you're already living and working in Japan and want to improve → **NOVA or a private conversation school** (no visa required, ¥8,000–15,000/month, 300+ locations). If you want flexible self-study + speaking practice → **online tutors on italki** (¥1,500–4,000/hour, no commitment). The biggest mistake: choosing a full-time school when you just need conversation practice.
 {{< /quick-answer >}}
 
+You want to learn Japanese — but "just go to a language school" is advice that can cost you ¥1 million and still leave you in the wrong program. The full-time accredited school that's right for someone relocating to Japan specifically to study is the wrong choice entirely for someone already living here on a work visa who just needs to hold their own in meetings. And the casual conversation school is useless if your actual goal is N2 for a job application. The choice matters enormously — and most people pick based on what sounds most serious, not what actually fits their situation.
+
 ---
 
 ## The Two Tracks: Which One Are You?

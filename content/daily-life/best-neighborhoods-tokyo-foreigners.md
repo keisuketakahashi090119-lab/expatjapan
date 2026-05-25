@@ -16,7 +16,9 @@ cover:
 The most foreigner-friendly Tokyo neighborhoods are Shinjuku, Minato, and Shibuya for central living, and Nakameguro or Shimokitazawa for a quieter feel. Budget-conscious expats often choose Koenji or Kichijoji — lower rents with strong community vibes.
 {{< /quick-answer >}}
 
-Tokyo is large and neighborhood choice has a direct effect on commute time, cost, and community. This is a neighborhood-by-neighborhood breakdown of where foreigners typically live, with honest trade-offs for each area.
+Choosing where to live in Tokyo is one of the most consequential decisions you'll make as a new resident — and the advice you'll get is often useless. "Shinjuku is central" tells you nothing about whether you'll feel comfortable there, afford it, or actually enjoy it at 11pm on a Tuesday. Neighborhood in Tokyo means everything: it shapes your commute, your social life, the kind of foreigner community around you, and how much month is left at the end of your salary.
+
+Here's an honest area-by-area breakdown — the kind of guide you'd get from a friend who's actually lived here.
 
 ---
 

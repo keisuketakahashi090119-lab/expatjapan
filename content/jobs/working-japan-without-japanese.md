@@ -12,7 +12,9 @@ cover:
   relative: false
 ---
 
-Working in Japan without speaking Japanese is possible — but the path is narrower than most people think, and the industries where it works are specific. Knowing where your skills fit opens real opportunities. Here's an honest guide to working in Japan without Japanese language ability.
+You want to work in Japan but your Japanese is minimal — or nonexistent. Maybe you're just starting, maybe you've been studying for a while but you're nowhere near business level, maybe you're wondering whether to even bother moving without language skills first. The question everyone asks some version of: is it actually possible?
+
+Honest answer: yes, but the path is narrower than the optimistic parts of the internet suggest, and the industries where it works are specific. Here's an accurate picture.
 
 ---
 

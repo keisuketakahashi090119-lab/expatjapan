@@ -16,7 +16,9 @@ cover:
 To get a work visa in Japan, you need a job offer from a Japanese employer first. Your employer applies for a Certificate of Eligibility (COE) at immigration — this takes 1–3 months. You then take the COE to your home country's Japanese embassy to get the visa stamped. Total timeline: 2–4 months from job offer to landing in Japan.
 {{< /quick-answer >}}
 
-Getting a work visa for Japan is structured and transparent — if you have the right employer and the right background, the path is clear. Most people who struggle do so because they misunderstand one specific part of the process. Here's a step-by-step guide that covers the whole thing.
+The Japan work visa process has a reputation for being opaque and slow — and for people who've sat waiting weeks for a Certificate of Eligibility with no updates, that reputation is earned. But the actual steps are more structured than they feel from the outside. Once you understand who does what, the waiting becomes less mysterious.
+
+Here's the full process, step by step, including the parts that your employer handles and what happens if something goes wrong.
 
 ## Step 1: Get a Job Offer from a Japanese Employer
 

@@ -16,7 +16,9 @@ cover:
 Register your address at city hall within 14 days of arrival — everything else (bank account, phone contract, health insurance) depends on this step. Bring your passport and residence card. The full setup takes about 2–4 weeks to complete.
 {{< /quick-answer >}}
 
-Moving to Japan involves dozens of tasks that need to happen in a specific order — get the sequence wrong and you're waiting weeks for things that should take days. This checklist covers every step from before departure to your first month on the ground.
+The first weeks in Japan are exciting and overwhelming in equal measure. You're trying to absorb a new city, a new job (or school), a new language — and simultaneously navigate an administrative system that operates in Japanese, requires documents you've never heard of, and where step B genuinely can't happen until step A is done. Nobody hands you a manual.
+
+This checklist is that manual. Every step, in the right order, so you don't lose weeks figuring out the sequence the hard way.
 
 ---
 

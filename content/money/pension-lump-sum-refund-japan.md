@@ -16,7 +16,9 @@ cover:
 **Japan's pension lump-sum refund (脱退一時金):** Foreigners who paid pension for 6+ months and leave Japan permanently can claim back up to 3 years of contributions. Apply within **2 years of leaving Japan** — from outside Japan to the Japan Pension Service. 20.42% tax is withheld but partially recoverable. On a ¥350,000/month salary with 36 months of contributions, the gross refund is ~¥567,000. Don't leave Japan without knowing this exists — thousands of foreigners forfeit it every year.
 {{< /quick-answer >}}
 
-When you leave Japan, you may be able to claim a lump-sum refund of the pension contributions you paid — and the window to claim it is short. Thousands of foreigners leave without claiming money they're entitled to. Here's how the pension refund works and how to apply.
+Every month you've been in Japan, roughly 9% of your salary has gone into the Japanese pension system. If you've been thinking "I'll never use this pension — I'm not staying forever" — you're right about the pension, but wrong about the money. A significant chunk of it can come back to you when you leave.
+
+The catch: you have a 2-year window from the day you depart Japan to apply. Many foreigners never find out this refund exists until it's too late. Here's how to claim what you're owed.
 
 ---
 

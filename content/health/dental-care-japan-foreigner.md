@@ -16,6 +16,8 @@ cover:
 In Japan, public health insurance covers most basic dental work at 70% — you pay 30%. Routine checkup: ¥1,500–3,000. Simple filling: ¥1,000–2,500. Root canal: ¥5,000–15,000. Covered: cleanings, fillings, X-rays, root canals, extractions, metal crowns. NOT covered: whitening, ceramic crowns, implants, braces. Any foreigner registered at city hall is automatically enrolled in health insurance, which includes dental. Bring your insurance card (保険証) to every appointment. To find an English-speaking dentist: search "英語対応 歯科 [your city]" on Google Maps.
 {{< /quick-answer >}}
 
+Many foreigners put off going to the dentist in Japan — partly because navigating a clinic in Japanese sounds exhausting, partly because they assume it'll be expensive without knowing how to use their insurance. Both concerns are understandable, and both are largely unfounded once you know the system. Dental care in Japan is covered by your standard health insurance, the prices are genuinely affordable, and getting seen is simpler than you think.
+
 ---
 
 ## How Dental Insurance Works for Foreigners in Japan

@@ -16,7 +16,9 @@ cover:
 Best banks for foreigners in Japan: **Japan Post Bank** (most accessible — accepts new arrivals, branches everywhere), **Rakuten Bank** (best online bank, links to Rakuten Card for rewards), **Sony Bank** (English support, good exchange rates), **SBI Shinsei Bank** (English interface, no ATM fees abroad). Most banks require at least 3–6 months of Japan residency. If you can't open a bank account yet, use [Wise](/money/wise-japan-guide/) — no Japan residency requirement, real exchange rate, works immediately.
 {{< /quick-answer >}}
 
-Opening a bank account in Japan as a foreigner isn't impossible — but most foreigners walk into the wrong bank first and get rejected, then give up. The key is knowing which banks actually accept foreign residents at which stage of residency. Here's the comparison.
+Here's the frustrating truth: Japan has excellent banks, but most of them will turn you away if you're new. Walk into Mitsubishi UFJ in your first few months, and there's a good chance you leave with nothing — no account, no explanation that actually makes sense, just a polite "we cannot help you at this time." It's not you. It's them. Specifically, it's which bank you chose.
+
+This guide cuts through the confusion: which banks actually accept foreigners, at which stage of residency, and what to bring when you go.
 
 ---
 

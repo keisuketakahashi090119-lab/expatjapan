@@ -16,7 +16,7 @@ cover:
 **JLPT quick facts:** Held twice yearly (July + December). Five levels: N5 (beginner) to N1 (near-native). **N2 is the threshold** that matters — required by most Japanese employers, adds points for permanent residency and Highly Skilled Professional Visa. Pass rate for N2: ~35%; N1: ~28% (hardest). From zero, reaching N2 takes approximately 1,000–1,200 hours of study (1.5–2 years full-time). Test cost: ¥6,000–7,000 in Japan. Register at jlpt.jp — 3–4 months before the test date.
 {{< /quick-answer >}}
 
-The JLPT matters in Japan in ways that generic language guides don't explain clearly. It's not just a certificate — it's the difference between being considered for a promotion or not, between qualifying for a visa points boost or not, between being taken seriously in a job interview or not. Here's everything you need to know to use the JLPT strategically.
+You studied Japanese for months — maybe years. You can handle convenience stores, navigate train stations, and hold basic conversations. But then a job listing says "JLPT N2 required" and suddenly none of that counts. Or your HR department mentions that your visa points calculation is just short for the accelerated PR route, and N2 would push you over. The JLPT matters in Japan in ways that generic language guides don't explain clearly — it's not just a certificate, it's the difference between being considered for a promotion or not, between qualifying for a visa points boost or not, between being taken seriously in a job interview or not. Here's everything you need to know to use it strategically.
 
 ---
 

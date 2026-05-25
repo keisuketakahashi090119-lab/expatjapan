@@ -16,9 +16,9 @@ cover:
 To get a Japan student visa (留学ビザ): (1) get accepted to a recognized Japanese school, (2) your school applies for a Certificate of Eligibility (CoE) — takes 1–3 months, (3) once you receive the CoE, apply at your nearest Japanese embassy/consulate — takes 5–7 business days, (4) arrive in Japan and register at city hall within 14 days. You need to show ¥2–3 million in savings (or a sponsor letter). On a student visa you can work up to 28 hours/week (40 hours during school holidays) with a work permit — request it at airport immigration on arrival.
 {{< /quick-answer >}}
 
-Japan's student visa (留学ビザ, *ryūgaku biza*) is the gateway for thousands of foreigners who study Japanese, attend university, or complete vocational training in Japan. Whether you're enrolled in a language school for six months or a full four-year university degree, you'll need this visa — and the rules around working, extending, and switching status matter more than most students realize.
+You've decided to study in Japan — now comes the paperwork. The student visa process has more steps than most people expect, and the sequence matters: your school applies first, then immigration processes, then you go to your home country's embassy. Get impatient or jump steps, and you're waiting months longer than you need to.
 
-This guide covers everything: how to apply, how much it costs, your part-time work rights, what happens if you miss too many classes, and how to transition to a work visa after graduation.
+The rules around working, attendance, and switching to a work visa after graduation also catch many students off-guard. This guide covers the full process so none of it surprises you.
 
 ---
 

@@ -24,7 +24,9 @@ cover:
 Monthly costs in Tokyo start at ¥165,000 for a single person (rent + food + transport). Osaka is roughly 25% cheaper, Fukuoka around 35% cheaper. **Yokohama** costs 15–20% less than central Tokyo with a 30-minute commute. Foreigner-specific costs to budget for: visa renewal (¥4,000 every 1–3 years), international transfers (save ¥8,000–15,000 per ¥300,000 with [Wise](/money/wise-japan-guide/)), and imported food (2–3× domestic prices). With the weak yen, Japan is now more affordable than most Western countries for mid-range living.
 {{< /quick-answer >}}
 
-Japan's cost of living reputation is outdated. The yen's weakness has made Japan more affordable than most Western countries for many categories of spending — and more expensive in others. Here's a current, honest breakdown of what life actually costs in Japan in 2026.
+You've probably heard conflicting things about Japan's cost of living. Older expats say it's expensive. Recent arrivals say it's surprisingly cheap compared to London or Sydney. Travel blogs quote ¥800 ramen and act like that covers your budget. None of that tells you what you actually need to know: what will your real monthly outgoings be, in your city, on your income, with your lifestyle?
+
+Here's an honest breakdown — no tourism math, just what life in Japan actually costs in 2026.
 
 ---
 

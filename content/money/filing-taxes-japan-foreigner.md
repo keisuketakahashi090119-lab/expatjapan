@@ -16,7 +16,9 @@ cover:
 **Who must file:** Freelancers, side-income earners (¥200,000+/year extra income), those with 2+ employers, people who left mid-year, and anyone claiming deductions beyond the standard year-end adjustment. **Who doesn't need to file:** Salaried employees with one employer — your company handles it via *nenmatsu chōsei*. **Deadline:** February 16–March 15 (for previous year's income). **Biggest mistake foreigners make:** Not knowing about the second-year residence tax spike (housing allowance stops, ¥100,000–300,000 bill arrives in June).
 {{< /quick-answer >}}
 
-Tax filing in Japan is mandatory for some foreigners and optional-but-beneficial for others. The system is more logical than it first appears — but foreigners consistently hit the same confusing points. Here's the complete guide for 2026.
+Tax season arrives, and suddenly you're not sure: do you need to do anything? Your company did something called *nenmatsu chōsei* in December — does that cover it? Then a friend mentions they just got hit with a ¥200,000 residence tax bill they weren't expecting. And somewhere in the back of your mind you're wondering what Japan even knows about your accounts back home.
+
+Deep breath. This guide covers exactly who needs to file, what actually gets reported, and the specific traps that catch foreigners off-guard.
 
 ---
 

@@ -16,7 +16,9 @@ cover:
 Rakuten's best setup for foreigners in Japan: (1) Get a **Rakuten Card** (free, 1% cashback on all purchases, ¥5,000 sign-up bonus, accepted wherever Visa is accepted). (2) Open a **Rakuten Bank** account linked to the card (0.1% interest rate + ATM fee waivers). (3) Shop on **Rakuten Market** with the card — stack SPU bonuses to earn 10–16% points. Heavy users report earning ¥100,000–200,000 in points per year. Points are worth ¥1 each and usable across all Rakuten services.
 {{< /quick-answer >}}
 
-Rakuten's apps and services give you cashback and points every time you spend money in Japan. The more services you stack, the more you earn. Most foreigners use just the card and miss out on the rest. Here's how the full system works.
+Living in Japan means spending money in Japan — rent, groceries, transport, utilities, the occasional splurge. That's unavoidable. What most foreigners don't realize is that if you set up the right combination of Rakuten services, a meaningful chunk of that spending comes back to you as points worth real yen. Heavy users report ¥100,000–200,000 per year in points — essentially a 13th-month salary bonus for doing nothing different.
+
+Most foreigners sign up for the card and stop there. Here's how the full system works — and why most people are leaving money on the table.
 
 ---
 

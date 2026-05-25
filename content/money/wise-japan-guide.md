@@ -16,7 +16,9 @@ cover:
 Wise is the best option for sending money internationally from Japan — you get the real mid-market exchange rate with transparent fees, compared to banks that add 2–4% hidden markups. Most transfers complete within 1–2 business days.
 {{< /quick-answer >}}
 
-Wise is one of the best tools available for foreigners managing money in Japan — low fees, real exchange rates, and multi-currency accounts that work across borders. But it has specific limitations in the Japanese market that are worth knowing before you rely on it. Here's the full picture.
+Sending money home from Japan through a regular bank is one of those things you do once, watch the fees and exchange rate markups eat ¥10,000 out of a ¥300,000 transfer, and immediately start looking for a better way. There is a better way.
+
+Wise gives you the real mid-market exchange rate with transparent fees — and it works well in Japan, with a few specific limitations worth knowing before you rely on it. Here's the full picture.
 
 ---
 

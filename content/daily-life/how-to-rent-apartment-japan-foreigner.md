@@ -16,7 +16,9 @@ cover:
 Foreigners can rent apartments in Japan privately, but you need a guarantor company (保証会社), valid visa, and upfront costs of 4–6x monthly rent. Use foreigner-friendly agencies like Sakura House, Able, or Suumo's foreigner support services to simplify the process.
 {{< /quick-answer >}}
 
-Renting an apartment in Japan as a foreigner involves real barriers: landlords can legally decline without giving reasons, upfront costs are high, and paperwork is in Japanese. That said, tens of thousands of foreigners rent privately every year. This guide covers which agencies accept foreigners, what documents you need, how much cash to have ready, and the most common mistakes to avoid.
+Apartment hunting in Japan is stressful for everyone — but as a foreigner, you're starting with a stack of extra obstacles. Some landlords will say no simply because of your nationality. The paperwork is in Japanese. The upfront costs are genuinely significant. And the "guarantor" requirement traditionally assumed you knew a Japanese person willing to vouch for you financially.
+
+Here's what it actually takes to get a place — and how to work around every one of those obstacles.
 
 ---
 
