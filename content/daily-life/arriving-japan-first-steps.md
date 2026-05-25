@@ -1,7 +1,7 @@
 ---
-title: "Arriving in Japan for the First Time — Your First 30 Days Checklist (2025)"
-date: 2025-05-07
-description: "A practical checklist for foreigners arriving in Japan for the first time in 2025. Covers the first 30 days — residence registration, bank accounts, SIM cards, health insurance, and more."
+title: "Arriving in Japan for the First Time — Your First 30 Days Checklist (2026)"
+date: 2026-05-25
+description: "Arriving in Japan for the first time in 2026: register your address at city hall within 14 days, get a SIM card, open a bank account, and enroll in health insurance. Step-by-step first 30 days checklist for foreign residents."
 tags: ["arriving japan", "first time japan", "expat checklist", "moving to japan", "new to japan"]
 categories: ["Daily Life"]
 showToc: true
@@ -115,7 +115,10 @@ InterNations, Meetup.com, and HelloTalk are active in most Japanese cities. Maki
 
 ## Related Articles
 - [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [Cost of Living in Japan 2026: Complete Guide](/money/cost-of-living-japan-2025/)
 - [Japanese Customs and Immigration Guide](/daily-life/japanese-customs-immigration-guide/)
 - [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
 - [Best SIM Cards for Foreigners in Japan](/daily-life/best-sim-cards-for-foreigners-japan/)
 - [Social Insurance in Japan for Foreigners](/daily-life/social-insurance-japan-foreigners/)
+- [Emergency Guide for Foreigners in Japan](/culture/emergency-guide-foreigners-japan/)
+- [How to Call #7119 in Japan: Medical Advice Hotline](/health/japan-emergency-number-7119/)
