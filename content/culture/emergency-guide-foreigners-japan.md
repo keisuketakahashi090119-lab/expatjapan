@@ -1,7 +1,7 @@
 ---
-title: "Emergency Guide for Foreigners in Japan (Police, Fire, Hospital)"
-date: 2025-04-22
-description: "What to do in an emergency in Japan as a foreigner. Emergency numbers, what to say, how to get help in English, and what to do in an earthquake."
+title: "Emergency Guide for Foreigners in Japan: Numbers, English Help & What to Do (2026)"
+date: 2026-05-25
+description: "Emergency numbers in Japan for foreigners: Police 110, Ambulance/Fire 119, Medical advice #7119 (free, English available in Tokyo 24/7). What to say, how to get English help, and what to do in an earthquake — complete 2026 guide."
 tags: ["emergency", "safety", "police", "hospital"]
 categories: ["Japanese Life & Culture"]
 showToc: true
@@ -18,14 +18,17 @@ An earthquake at 2 a.m., a hospital visit where no one speaks English, a typhoon
 
 ## The Numbers You Need
 
-| Situation | Number |
-|---|---|
-| Police | **110** |
-| Fire / Ambulance | **119** |
-| Coast Guard | **118** |
-| Medical advice (non-emergency) | **#7119** (major cities) |
+| Situation | Number | Notes |
+|---|---|---|
+| Police | **110** | Free, 24/7 |
+| Fire / Ambulance | **119** | Free, 24/7 |
+| Coast Guard | **118** | Ocean emergencies |
+| Medical advice (non-emergency) | **[#7119](/health/japan-emergency-number-7119/)** | Free, 24/7 in major cities; English in Tokyo |
+| Children's medical advice | **#8000** | Nights & weekends, all prefectures |
 
 These are free calls from any phone in Japan.
+
+> **When to call #7119:** Not sure if you need an ambulance? Call #7119 first. A trained nurse answers, asks about your symptoms, and tells you: call 119 now, go to the ER, or wait until morning. Free, takes 5–10 minutes. → [Full guide to #7119 in Japan](/health/japan-emergency-number-7119/)
 
 ---
 
@@ -153,8 +156,10 @@ Hopefully you never need any of this. But knowing it beforehand makes a real dif
 
 ## Related Articles
 
+- [How to Call #7119 in Japan: Medical Advice Hotline Guide](/health/japan-emergency-number-7119/)
 - [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
 - [How to See a Doctor in Japan as a Foreigner](/health/how-to-see-a-doctor-japan-foreigner/)
+- [Dentist in Japan for Foreigners: Costs, Insurance, English Clinics](/health/dental-care-japan-foreigner/)
 - [Pharmacy and Medicine in Japan: What Foreigners Need to Know](/health/pharmacy-medicine-japan/)
+- [Earthquake Preparation Guide for Japan Foreigners](/daily-life/earthquake-preparation-japan-foreigners/)
 - [Best Apps for Foreigners in Japan](/daily-life/best-apps-foreigners-japan/)
-- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)

@@ -1,7 +1,7 @@
 ---
-title: "Getting a Credit Card in Japan as a Foreigner (2025)"
-date: 2025-04-27
-description: "It's possible for foreigners to get a Japanese credit card, but not easy. Here's which cards accept foreign residents, what you need to apply, and alternatives."
+title: "Getting a Credit Card in Japan as a Foreigner (2026)"
+date: 2026-05-25
+description: "Best credit cards for foreigners in Japan 2026: Rakuten Card (free, ¥5,000 bonus, most foreigner-friendly), Epos Card (in-store approval), SAISON Card. What documents you need, how to apply with no Japan credit history, and alternatives if rejected."
 tags: ["credit card", "money", "banking", "finance", "foreigners"]
 categories: ["Money & Finance"]
 showToc: true
@@ -11,6 +11,10 @@ cover:
   alt: "Expat Japan Guide"
   relative: false
 ---
+
+{{< quick-answer >}}
+Best credit cards for foreigners in Japan: **Rakuten Card** (free, ¥5,000 bonus, most foreigner-friendly — apply after 6+ months in Japan), **Epos Card** (apply in-store at Marui for faster approval), **SAISON Card** (no annual fee, flexible). You need: residence card, Japanese address registered at city hall, Japanese bank account. Initial credit limits are low (¥100,000–300,000). If rejected, use the [Wise debit card](/money/wise-japan-guide/) as a substitute — no credit check, works worldwide.
+{{< /quick-answer >}}
 
 Getting a Japanese credit card as a foreigner is harder than it should be — most domestic cards require a credit history in Japan that takes years to build. But options exist, and the right card unlocks significant discounts and rewards. Here's how to get one and which cards are actually attainable.
 
@@ -110,7 +114,7 @@ The fastest way to build credit:
 ## Alternatives if You Can't Get a Credit Card
 
 ### 💳 Wise Card (Debit)
-The **[Wise](https://wise.com/invite/i/expatjapaninvite/i/expatjapani/expatjapan)** debit card works as a Visa or Mastercard worldwide. Excellent exchange rates, low fees. No credit check needed — just open a Wise account.
+The **[Wise](https://wise.com/invite/i/expatjapan)** debit card works as a Visa or Mastercard worldwide. Excellent exchange rates, low fees. No credit check needed — just open a Wise account.
 
 Perfect for:
 - Online shopping
@@ -142,8 +146,10 @@ For day-to-day spending, use your home card while building Japanese credit histo
 
 ## Related Articles
 
-- [How to Open a Bank Account in Japan as a Foreigner](/money/how-to-open-bank-account-japan-foreigner/)
+- [Rakuten Ecosystem for Foreigners: Earn ¥100,000+ in Points](/money/rakuten-ecosystem-foreigners-japan/)
+- [Wise in Japan: Send Money at Real Exchange Rate](/money/wise-japan-guide/)
+- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
 - [Cashless Payments in Japan](/money/cashless-payments-japan/)
-- [Sending Money Abroad from Japan](/money/sending-money-abroad-japan/)
-- [Japan Post Bank (JP Bank) for Foreigners](/daily-life/jp-bank-japan-post-bank/)
+- [Cost of Living in Japan 2026: Complete Guide](/money/cost-of-living-japan-2025/)
 - [Saving Money in Japan: Practical Tips for Foreigners](/money/saving-money-in-japan-tips/)

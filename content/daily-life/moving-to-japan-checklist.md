@@ -1,7 +1,7 @@
 ---
-title: "Moving to Japan Checklist for Foreigners (2025)"
-date: 2025-04-24
-description: "Everything you need to do when you first arrive in Japan. A step-by-step checklist for new residents — from residence card to bank account."
+title: "Moving to Japan Checklist for Foreigners (2026)"
+date: 2026-05-25
+description: "Moving to Japan checklist for foreigners 2026: register address at city hall within 14 days (everything else depends on this), then phone, bank account, health insurance. Full step-by-step guide for new residents — Week 1 to Month 1."
 tags: ["moving", "checklist", "daily life", "getting started"]
 categories: ["Daily Life"]
 showToc: true
@@ -150,12 +150,16 @@ Do the city hall registration first — it unlocks everything else. Then get a p
 ## Related Articles
 
 - [Packing List for Moving to Japan](/daily-life/packing-list-moving-to-japan/)
+- [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)
+- [Cost of Living in Japan 2026: Complete Guide](/money/cost-of-living-japan-2025/)
+- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
+- [Getting a Credit Card in Japan as a Foreigner](/money/japanese-credit-cards-foreigners/)
+- [Best SIM Cards for Foreigners in Japan](/daily-life/best-sim-cards-for-foreigners-japan/)
+- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
+- [Emergency Guide for Foreigners in Japan](/culture/emergency-guide-foreigners-japan/)
+- [How to Call #7119 in Japan: Medical Advice Hotline](/health/japan-emergency-number-7119/)
+- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
+- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
 - [Moving to Japan from Australia](/daily-life/moving-to-japan-from-australia/)
 - [Moving to Japan from Canada](/daily-life/moving-to-japan-from-canada/)
 - [Moving to Japan from India](/daily-life/moving-to-japan-from-india/)
-- [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)
-- [How to Open a Bank Account in Japan as a Foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/)
-- [Best SIM Cards for Foreigners in Japan](/daily-life/best-sim-cards-for-foreigners-japan/)
-- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
-- [What Is My Number Card in Japan?](/daily-life/what-is-my-number-card-japan/)
-- [Types of Work Visa in Japan Explained](/visa/types-of-work-visa-japan-explained/)
