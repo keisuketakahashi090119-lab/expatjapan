@@ -118,15 +118,78 @@ Start with Japan Post Bank if you need an account fast. Go with Sony Bank or Shi
 
 ---
 
+## If You Can't Open an Account Yet: Use Wise as a Bridge
+
+If you're in your first weeks in Japan or have been rejected, use **[Wise](/money/wise-japan-guide/)** as a bridge:
+
+- Open a Wise account with just your passport — no Japan residency required
+- Get a Wise Mastercard debit card that works anywhere in Japan
+- Receive money from abroad in USD/EUR/GBP without a Japanese bank account
+- No credit check, no Japanese phone number needed to start
+
+{{< wise-cta text="Can't open a Japanese bank account yet? Wise works immediately — multi-currency account, Mastercard debit, real exchange rate." label="Open Wise Account →" >}}
+
+---
+
+## Frequently Asked Questions
+
+**Can foreigners open a bank account in Japan?**
+Yes — but you need to go to the right bank first. Japan Post Bank accepts foreigners shortly after address registration. Rakuten Bank, Sony Bank, and SBI Shinsei Bank are foreigner-friendly online options. The major megabanks (MUFG, Mizuho, SMBC) frequently reject foreigners with less than 6–12 months of Japan residency.
+
+**What documents do I need to open a bank account in Japan?**
+Essential: residence card (在留カード) and Japanese address registered at city hall. Most banks also require a Japanese phone number for SMS verification. Some ask for My Number card or passport. A hanko (personal seal) is no longer required at most modern banks — a signature is accepted.
+
+**How long does it take to open a bank account in Japan?**
+Japan Post Bank: same day (you fill out the application in-branch, card arrives by post in ~1 week). Rakuten Bank and Sony Bank: online application takes 15–30 minutes, approval within 3–5 business days, card arrives in 1–2 weeks. Megabanks: longer due to stricter screening.
+
+**Can I open a bank account in Japan as a new arrival?**
+Japan Post Bank accepts new arrivals with just a residence card and registered address — even within weeks of arriving. Most online banks recommend waiting 3–6 months. Megabanks typically want 6–12 months of residency history.
+
+**Can I open a Japanese bank account online in English?**
+Sony Bank and SBI Shinsei Bank offer partial English language support online. Rakuten Bank's application is primarily in Japanese but straightforward with Google Translate. Japan Post Bank requires an in-person visit.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can foreigners open a bank account in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Japan Post Bank is the most accessible for new arrivals — accepts foreigners shortly after address registration at city hall. Rakuten Bank, Sony Bank, and SBI Shinsei Bank are foreigner-friendly online options after 3–6 months. Major megabanks (MUFG, Mizuho, SMBC) frequently reject foreigners with less than 6–12 months of Japan residency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents do I need to open a bank account in Japan as a foreigner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential: valid residence card (在留カード) and Japanese address registered at city hall. Most banks also require a Japanese phone number for SMS verification. Some banks ask for My Number card or passport. A hanko (personal seal) is no longer required at most modern banks — a signature is accepted."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I open a Japanese bank account as a new arrival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Japan Post Bank accepts new arrivals with just a residence card and registered address — even within weeks of arriving in Japan. Most online banks (Rakuten, Sony) recommend waiting 3–6 months. If you need a solution immediately, Wise provides a multi-currency debit card with no Japan residency requirement."
+      }
+    }
+  ]
+}
+</script>
+
+---
+
 ## Related Articles
 
-- [Credit Card Guide for Foreigners in Japan](/money/credit-card-guide-foreigners-japan/)
+- [Best Banks for Foreigners in Japan: Rakuten vs Sony vs SBI vs SMBC Prestia](/money/best-banks-foreigners-japan/)
 - [Wise in Japan: Complete Guide for Foreigners](/money/wise-japan-guide/)
-- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
-- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
+- [Getting a Credit Card in Japan as a Foreigner](/money/japanese-credit-cards-foreigners/)
 - [Rakuten Ecosystem for Foreigners in Japan](/money/rakuten-ecosystem-foreigners-japan/)
-- [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)
-- [How Japanese Health Insurance Works for Foreigners](/health/how-japanese-health-insurance-works-foreigners/)
-- [Cost of Living in Japan (2025)](/money/cost-of-living-japan-2025/)
-- [Mobile Phone Plans for Foreigners in Japan](/daily-life/mobile-phone-japan-foreigner/)
+- [Cost of Living in Japan 2026](/money/cost-of-living-japan-2025/)
+- [Sending Money from Japan Overseas](/daily-life/sending-money-overseas-japan/)
 - [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
+- [NISA for Foreigners in Japan: Tax-Free Investing](/money/nisa-investing-japan-foreigner/)
