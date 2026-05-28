@@ -35,13 +35,13 @@ Enter your email and we'll send you the printable PDF version — plus a short w
 
 <!-- MAILCHIMP EMBED START — replace with your embed code from Mailchimp → Audience → Signup Forms → Embedded Forms -->
 <div id="mc_embed_signup" style="max-width:480px; margin: 2rem 0; padding: 1.5rem; background:#fffbeb; border:1.5px solid #fde68a; border-radius:12px;">
-  <form action="MAILCHIMP_ACTION_URL_HERE" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+  <form action="https://gmail.us11.list-manage.com/subscribe/post?u=42fb210e9a950503627c89c45&amp;id=38331f6707" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
       <label for="mce-EMAIL" style="display:block; font-weight:600; margin-bottom:.5rem;">Your email address</label>
       <input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="you@example.com" required
         style="width:100%; padding:.6rem .9rem; border:1.5px solid #d4d0cb; border-radius:6px; font-size:.95rem; margin-bottom:.75rem; box-sizing:border-box;">
       <div style="position:absolute; left:-5000px;" aria-hidden="true">
-        <input type="text" name="b_XXXX_XXXX" tabindex="-1" value="">
+        <input type="text" name="b_42fb210e9a950503627c89c45_38331f6707" tabindex="-1" value="">
       </div>
       <button type="submit" name="subscribe" id="mc-embedded-subscribe"
         style="background:#2563eb; color:#fff; font-weight:600; padding:.55rem 1.4rem; border:none; border-radius:6px; cursor:pointer; font-size:.95rem; width:100%;">
