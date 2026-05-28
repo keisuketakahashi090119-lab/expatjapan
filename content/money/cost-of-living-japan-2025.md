@@ -355,6 +355,9 @@ Key foreigner-specific costs: visa renewal fees (¥4,000 every 1–3 years, plus
 
 **Travel insurance for trips outside Japan:** If you leave Japan temporarily, your health insurance won't cover you abroad. [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular, affordable option for expats — starting from around $45/month.
 
+{{< wise-cta text="Sending money home from Japan? Bank transfers add 2–4% in hidden exchange rate markups. Wise uses the real mid-market rate — on ¥300,000, that's ¥6,000–12,000 back in your pocket." label="Send Money with Wise →" >}}
+
+{{< rakuten-card-cta text="Cut everyday costs with Rakuten Card: 1% cashback on everything, ¥5,000 sign-up bonus, free forever. One of the easiest ways to reduce your monthly outgoings in Japan." label="Get Rakuten Card (Free) →" >}}
 
 ## Related Articles
 

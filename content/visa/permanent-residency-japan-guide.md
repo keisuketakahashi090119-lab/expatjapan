@@ -139,6 +139,8 @@ If rejected: you can reapply. Ask the immigration office what to improve and rea
 
 ## After Getting PR
 
+{{< jobs-cta text="PR approved? Now you can work anywhere in Japan without restrictions. Browse bilingual jobs with a free consultation from 転職AGENT Navi — specialists in placing foreign professionals." label="Browse Jobs for PR Holders →" >}}
+
 - You can change jobs freely — no employer sponsorship needed
 - You still need to renew your residence card (every 7 years)
 - You still pay taxes and social insurance as a resident

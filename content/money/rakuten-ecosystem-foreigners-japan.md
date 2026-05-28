@@ -152,7 +152,7 @@ Monthly spending ¥200,000 through Rakuten stack:
 
 Heavy Rakuten Market users with all services stacked regularly report ¥100,000–200,000 worth of points per year.
 
-{{< card-cta text="Rakuten Card is the entry point to the whole ecosystem. Free forever, ¥5,000 points on approval, accepted everywhere in Japan." label="Apply for Rakuten Card →" href="https://www.rakuten-card.co.jp/e-navi/members/entry/index.xhtml" icon="🔴" >}}
+{{< rakuten-card-cta text="Rakuten Card is the entry point to the whole ecosystem. Free forever, ¥5,000 points on approval, 1% cashback everywhere in Japan. Most foreigners with 6+ months residency are approved." label="Apply for Rakuten Card (Free) →" >}}
 
 ---
 

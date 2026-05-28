@@ -148,6 +148,9 @@ Do the city hall registration first — it unlocks everything else. Then get a p
 
 **Travel insurance for trips outside Japan:** If you leave Japan temporarily, your health insurance won't cover you abroad. [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) is a popular, affordable option for expats — starting from around $45/month.
 
+---
+
+**Want this checklist as a printable PDF?** → [Get the free Japan Life Setup Checklist](/free-checklist/) — delivered to your inbox.
 
 ## Related Articles
 

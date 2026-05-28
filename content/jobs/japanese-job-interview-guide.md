@@ -208,6 +208,8 @@ Yes. Send a brief, polite thank-you email the same day or the following morning.
 }
 </script>
 
+{{< jobs-cta text="Ready to apply? 転職AGENT Navi connects foreign professionals in Japan with bilingual recruiters — free consultation, no obligation. Strong for engineering and tech roles." label="Find Your Next Role in Japan →" >}}
+
 ## Related Articles
 - [Working in Japan Without Japanese](/jobs/working-japan-without-japanese/)
 - [Best Job Sites for Foreigners in Japan](/jobs/best-job-sites-for-foreigners-japan/)

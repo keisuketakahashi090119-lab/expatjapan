@@ -45,6 +45,8 @@ Many foreigners are simply rejected on their first few applications. This is nor
 - English application available at times
 - **Best first card for most foreigners**
 
+{{< rakuten-card-cta text="Rakuten Card: Japan's most foreigner-friendly credit card. Free annual fee, ¥5,000 sign-up bonus, 1% cashback on everything. Most foreign residents are approved after 6 months in Japan." label="Apply for Rakuten Card (Free) →" >}}
+
 ### 2. Epos Card (エポスカード)
 - Issued by Marui department store; known for accepting foreigners more readily
 - Annual fee: **Free**

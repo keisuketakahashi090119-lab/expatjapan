@@ -118,6 +118,8 @@ N3 in 1 year and N2 in 2 years is achievable with consistent daily study alongsi
 
 ---
 
+{{< jobs-cta text="Looking for English-friendly roles in Japan? 転職AGENT Navi specializes in placing foreign professionals — free bilingual consultation, strong in tech and finance." label="Browse English-OK Jobs in Japan →" >}}
+
 ## Related Articles
 
 - [Best Job Sites for Foreigners in Japan](/jobs/best-job-sites-for-foreigners-japan/)

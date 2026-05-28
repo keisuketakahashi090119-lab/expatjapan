@@ -658,6 +658,16 @@ figure.entry-cover img,
   background: #fffbeb;
   border-color: #fde68a;
 }
+.affiliate-cta--rakuten {
+  background: #fff0f0;
+  border-color: #fecaca;
+}
+.affiliate-cta__btn--red { background: #bf0000; }
+.affiliate-cta__btn--red:hover { background: #990000; }
+.affiliate-cta--jobs {
+  background: #f0f9ff;
+  border-color: #bae6fd;
+}
 
 /* ─── QUICK ANSWER BOX (ChatGPT SEO) ────────── */
 .quick-answer {

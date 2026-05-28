@@ -1,0 +1,9 @@
+{{- $text := .Get "text" | default "Rakuten Card: Japan's most foreigner-friendly credit card. Free to apply, ¥5,000 sign-up bonus, 1% cashback on all purchases. No annual fee." -}}
+{{- $label := .Get "label" | default "Apply for Rakuten Card →" -}}
+<div class="affiliate-cta affiliate-cta--rakuten">
+  <div class="affiliate-cta__icon">💳</div>
+  <div class="affiliate-cta__body">
+    <p class="affiliate-cta__text">{{ $text }}</p>
+    <a class="affiliate-cta__btn affiliate-cta__btn--red" href="https://px.a8.net/svt/ejp?a8mat=4B1THZ+RAKUTEN_CARD_URL" target="_blank" rel="noopener sponsored">{{ $label }}</a>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+{{- $text := .Get "text" | default "Looking for a new role in Japan? GaijinPot Jobs and Daijob list thousands of English-friendly positions — from engineering to finance to teaching." -}}
+{{- $label := .Get "label" | default "Browse Jobs in Japan →" -}}
+{{- $href := .Get "href" | default "https://px.a8.net/svt/ejp?a8mat=4B1THZ+3ORPGA+5BJK+5YRHE" -}}
+<div class="affiliate-cta affiliate-cta--jobs">
+  <div class="affiliate-cta__icon">💼</div>
+  <div class="affiliate-cta__body">
+    <p class="affiliate-cta__text">{{ $text }}</p>
+    <a class="affiliate-cta__btn" href="{{ $href }}" target="_blank" rel="noopener sponsored">{{ $label }}</a>
+  </div>
+</div>

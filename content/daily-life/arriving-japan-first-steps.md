@@ -114,6 +114,9 @@ InterNations, Meetup.com, and HelloTalk are active in most Japanese cities. Maki
 
 > **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
 
+---
+
+**Want this as a printable PDF checklist?** → [Download the free Japan Life Setup Checklist](/free-checklist/)
 
 ## Related Articles
 - [Moving to Japan Checklist](/daily-life/moving-to-japan-checklist/)
