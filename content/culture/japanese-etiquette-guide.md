@@ -1,5 +1,5 @@
 ---
-title: "Japanese Etiquette Guide for Foreigners (2025)"
+title: "Japanese Etiquette Guide for Foreigners (2026)"
 date: 2026-05-25
 description: "The essential rules of Japanese etiquette — what to do and what to avoid in daily life, dining, public transport, and the workplace."
 tags: ["etiquette", "culture", "daily life", "manners", "Japan"]

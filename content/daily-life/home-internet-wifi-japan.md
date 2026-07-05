@@ -1,5 +1,5 @@
 ---
-title: "Home Internet and WiFi in Japan: Best Plans for Foreigners (2025)"
+title: "Home Internet and WiFi in Japan: Best Plans for Foreigners (2026)"
 date: 2026-05-25
 description: "How to set up home internet in Japan as a foreigner. Best fiber, home WiFi router, and pocket WiFi options — compared by speed, price, and ease of setup."
 tags: ["internet", "wifi", "home", "daily life", "setup"]

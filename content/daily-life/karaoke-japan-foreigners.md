@@ -1,5 +1,5 @@
 ---
-title: "Karaoke in Japan: A Complete Guide for Foreigners (2025)"
+title: "Karaoke in Japan: A Complete Guide for Foreigners (2026)"
 date: 2026-05-25
 description: "Japanese karaoke is a private room experience unlike anything in the West. Here's how it works, what it costs, how to find English songs, and tips for first-timers."
 tags: ["karaoke", "nightlife", "entertainment", "culture", "daily life"]

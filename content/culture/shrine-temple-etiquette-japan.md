@@ -1,5 +1,5 @@
 ---
-title: "Shrine and Temple Etiquette in Japan for Foreigners (2025)"
+title: "Shrine and Temple Etiquette in Japan for Foreigners (2026)"
 date: 2026-05-25
 description: "How to visit Shinto shrines and Buddhist temples in Japan respectfully. The proper etiquette, customs, and what to do at each type of sacred site."
 tags: ["shrine", "temple", "Shinto", "Buddhism", "etiquette", "culture"]

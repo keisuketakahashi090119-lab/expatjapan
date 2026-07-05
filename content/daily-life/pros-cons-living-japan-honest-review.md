@@ -1,7 +1,7 @@
 ---
-title: "Living in Japan as a Foreigner: Honest Pros and Cons (2025)"
+title: "Living in Japan as a Foreigner: Honest Pros and Cons (2026)"
 date: 2026-05-25
-description: "Honest pros and cons of living in Japan as a foreigner in 2025 — the real upsides and genuine challenges, from someone who's seen both sides. Not a travel-blog take."
+description: "Honest pros and cons of living in Japan as a foreigner in 2026 — the real upsides and genuine challenges, from someone who's seen both sides. Not a travel-blog take."
 tags: ["living in japan", "expat", "pros cons", "honest review", "daily life"]
 categories: ["Daily Life"]
 showToc: true

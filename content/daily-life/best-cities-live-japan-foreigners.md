@@ -1,5 +1,5 @@
 ---
-title: "Best Cities to Live in Japan for Foreigners (2025)"
+title: "Best Cities to Live in Japan for Foreigners (2026)"
 date: 2026-05-25
 description: "Which Japanese city is right for you? Tokyo, Osaka, Fukuoka, Kyoto, Nagoya, Sapporo — honest comparison for foreigners choosing where to live."
 tags: ["daily life", "cities", "moving to Japan", "Tokyo", "Osaka", "Fukuoka"]

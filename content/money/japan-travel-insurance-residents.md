@@ -1,5 +1,5 @@
 ---
-title: "Travel Insurance for Japan Residents — Do You Need It? (2025)"
+title: "Travel Insurance for Japan Residents — Do You Need It? (2026)"
 date: 2026-05-25
 description: "Do Japan residents need travel insurance when going abroad? What Japan's national health insurance doesn't cover and what to look for in an expat travel policy."
 tags: ["insurance", "health", "travel", "money"]

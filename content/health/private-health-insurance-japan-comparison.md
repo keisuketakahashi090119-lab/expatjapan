@@ -1,7 +1,7 @@
 ---
-title: "Private Health Insurance in Japan for Foreigners: Complete Comparison (2025)"
+title: "Private Health Insurance in Japan for Foreigners: Complete Comparison (2026)"
 date: 2026-05-25
-description: "Private health insurance in Japan for foreigners 2025: when you need it, top insurers compared (AXA, Tokio Marine, CIGNA, SafetyWing), costs, and what Japan's national health insurance doesn't cover."
+description: "Private health insurance in Japan for foreigners 2026: when you need it, top insurers compared (AXA, Tokio Marine, CIGNA, SafetyWing), costs, and what Japan's national health insurance doesn't cover."
 tags: ["health insurance", "healthcare", "money", "expat", "japan"]
 categories: ["Health & Insurance"]
 showToc: true

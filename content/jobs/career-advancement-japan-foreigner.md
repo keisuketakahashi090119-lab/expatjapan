@@ -1,5 +1,5 @@
 ---
-title: "How to Get Promoted in Japan as a Foreign Worker (2025)"
+title: "How to Get Promoted in Japan as a Foreign Worker (2026)"
 date: 2026-05-25
 description: "Career advancement as a foreigner in Japan takes a different approach. Here's how to get promoted, stand out, and build a long-term career in Japan."
 tags: ["career", "promotion", "jobs", "workplace", "salary"]

@@ -1,5 +1,5 @@
 ---
-title: "Best SIM Cards for Foreigners in Japan (2025)"
+title: "Best SIM Cards for Foreigners in Japan (2026)"
 date: 2026-05-25
 description: "The best cheap SIM cards in Japan for foreigners. Compare IIJmio, Mineo, Rakuten and more — no Japanese required to sign up."
 tags: ["SIM", "phone", "daily life", "mobile"]

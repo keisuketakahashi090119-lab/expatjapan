@@ -1,7 +1,7 @@
 ---
-title: "Best Apps to Learn Japanese in 2025: Honest Review for Expats"
+title: "Best Apps to Learn Japanese in 2026: Honest Review for Expats"
 date: 2026-05-25
-description: "Best Japanese learning apps 2025: Duolingo vs Anki vs Pimsleur vs WaniKani vs italki — honest comparison for foreigners living in Japan who need practical language skills fast."
+description: "Best Japanese learning apps 2026: Duolingo vs Anki vs Pimsleur vs WaniKani vs italki — honest comparison for foreigners living in Japan who need practical language skills fast."
 tags: ["japanese language", "language learning", "apps", "daily life", "expat"]
 categories: ["Daily Life"]
 showToc: true

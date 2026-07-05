@@ -1,5 +1,5 @@
 ---
-title: "Highly Skilled Professional Visa Japan: The Fast Track to PR (2025)"
+title: "Highly Skilled Professional Visa Japan: The Fast Track to PR (2026)"
 date: 2026-05-25
 description: "Japan's Highly Skilled Professional (HSP) visa lets qualified foreigners get permanent residency in 1–3 years. Here's how the points system works and who qualifies."
 tags: ["HSP", "highly skilled", "visa", "permanent residency", "points"]

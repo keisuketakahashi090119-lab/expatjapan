@@ -1,7 +1,7 @@
 ---
-title: "Health Checkups in Japan for Foreigners (Kenko Shindan) — Complete Guide (2025)"
+title: "Health Checkups in Japan for Foreigners (Kenko Shindan) — Complete Guide (2026)"
 date: 2026-05-25
-description: "A complete guide to health checkups in Japan for foreign residents in 2025. Covers employer checkups, municipal checkups, cancer screenings, costs, and what to expect."
+description: "A complete guide to health checkups in Japan for foreign residents in 2026. Covers employer checkups, municipal checkups, cancer screenings, costs, and what to expect."
 tags: ["health checkup", "kenko shindan", "healthcare japan", "preventive health", "foreigner health"]
 categories: ["Health"]
 showToc: true

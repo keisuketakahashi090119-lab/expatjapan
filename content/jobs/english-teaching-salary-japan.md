@@ -1,7 +1,7 @@
 ---
-title: "English Teaching Salaries in Japan 2025: ALT, Eikaiwa, University — Real Numbers"
+title: "English Teaching Salaries in Japan 2026: ALT, Eikaiwa, University — Real Numbers"
 date: 2026-05-25
-description: "English teaching salaries in Japan 2025: JET Programme, ALT, eikaiwa, and university positions compared. Real pay figures, overtime, benefits, and how to maximize income as an English teacher."
+description: "English teaching salaries in Japan 2026: JET Programme, ALT, eikaiwa, and university positions compared. Real pay figures, overtime, benefits, and how to maximize income as an English teacher."
 tags: ["english teaching", "ALT", "eikaiwa", "JET programme", "salary", "jobs"]
 categories: ["Jobs & Career"]
 showToc: true

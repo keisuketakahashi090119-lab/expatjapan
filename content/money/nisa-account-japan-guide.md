@@ -1,5 +1,5 @@
 ---
-title: "NISA Account in Japan: A Complete Guide for Foreigners (2025)"
+title: "NISA Account in Japan: A Complete Guide for Foreigners (2026)"
 date: 2026-05-25
 description: "NISA is Japan's tax-free investment account. Here's how it works, who can use it, how much you can invest, and how to open one as a foreigner."
 tags: ["NISA", "investing", "stocks", "tax-free", "money", "finance"]

@@ -1,5 +1,5 @@
 ---
-title: "Best Private Health Insurance for Foreigners in Japan (2025)"
+title: "Best Private Health Insurance for Foreigners in Japan (2026)"
 date: 2026-05-25
 description: "Do you need private health insurance in Japan? Compare the best options for foreigners — what's covered, how much it costs, and who needs it."
 tags: ["health insurance", "private insurance", "insurance"]

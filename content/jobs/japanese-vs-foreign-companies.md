@@ -1,5 +1,5 @@
 ---
-title: "Japanese vs Foreign Companies in Japan: Which Should You Work For? (2025)"
+title: "Japanese vs Foreign Companies in Japan: Which Should You Work For? (2026)"
 date: 2026-05-25
 description: "Working at a Japanese company versus a foreign company in Japan is a very different experience. Here's an honest comparison to help you decide."
 tags: ["jobs", "work culture", "Japanese companies", "foreign companies", "career"]

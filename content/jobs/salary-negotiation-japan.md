@@ -1,5 +1,5 @@
 ---
-title: "Salary Negotiation in Japan: Guide for Foreign Workers (2025)"
+title: "Salary Negotiation in Japan: Guide for Foreign Workers (2026)"
 date: 2026-05-25
 description: "How to negotiate your salary in Japan as a foreigner. What's normal, what to ask for, and how to avoid leaving money on the table."
 tags: ["salary", "negotiation", "jobs", "career"]

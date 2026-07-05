@@ -1,7 +1,7 @@
 ---
-title: "Best Savings Accounts in Japan for Foreigners (2025): Highest Interest Rates Compared"
+title: "Best Savings Accounts in Japan for Foreigners (2026): Highest Interest Rates Compared"
 date: 2026-05-25
-description: "Compare the best savings accounts in Japan for foreigners in 2025: SBI, Rakuten Bank, PayPay Bank, and more. Real interest rates, foreigner eligibility, and how to open each account."
+description: "Compare the best savings accounts in Japan for foreigners in 2026: SBI, Rakuten Bank, PayPay Bank, and more. Real interest rates, foreigner eligibility, and how to open each account."
 tags: ["savings", "banking", "money", "finance", "interest rates"]
 categories: ["Money & Finance"]
 showToc: true

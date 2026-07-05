@@ -1,5 +1,5 @@
 ---
-title: "LinkedIn Job Search Strategy for Japan: A Guide for Foreigners (2025)"
+title: "LinkedIn Job Search Strategy for Japan: A Guide for Foreigners (2026)"
 date: 2026-05-25
 description: "LinkedIn is essential for professional job hunting in Japan. Here's how to optimize your profile, find English-friendly roles, and connect with recruiters in Japan."
 tags: ["LinkedIn", "job search", "career", "jobs", "foreigners", "networking"]

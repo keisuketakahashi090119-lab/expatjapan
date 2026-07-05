@@ -1,5 +1,5 @@
 ---
-title: "Job Hunting in Japan as a Foreigner (2025 Guide)"
+title: "Job Hunting in Japan as a Foreigner (2026 Guide)"
 date: 2026-05-25
 description: "How to find full-time work in Japan as a foreigner — the best job sites, what companies want, and how to navigate Japanese hiring culture."
 tags: ["jobs", "job hunting", "career", "working in Japan", "foreigner"]

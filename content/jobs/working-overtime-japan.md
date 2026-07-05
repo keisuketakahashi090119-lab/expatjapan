@@ -1,7 +1,7 @@
 ---
-title: "Working Overtime in Japan — What Foreigners Need to Know (2025)"
+title: "Working Overtime in Japan — What Foreigners Need to Know (2026)"
 date: 2026-05-25
-description: "Understanding overtime culture in Japan as a foreign worker in 2025. Covers legal rules, fixed overtime clauses, karoshi, work-life balance, and how to set limits."
+description: "Understanding overtime culture in Japan as a foreign worker in 2026. Covers legal rules, fixed overtime clauses, karoshi, work-life balance, and how to set limits."
 tags: ["overtime", "working in japan", "japanese workplace", "karoshi", "work culture"]
 categories: ["Jobs & Career"]
 showToc: true

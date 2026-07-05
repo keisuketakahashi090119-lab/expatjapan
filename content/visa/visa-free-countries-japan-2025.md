@@ -1,7 +1,7 @@
 ---
-title: "Japan Visa-Free Countries 2025: Full List and Entry Requirements"
+title: "Japan Visa-Free Countries 2026: Full List and Entry Requirements"
 date: 2026-05-25
-description: "Complete list of countries that can enter Japan visa-free in 2025: duration of stay, conditions, and what you need to know at immigration. Updated for 2025 entry requirements."
+description: "Complete list of countries that can enter Japan visa-free in 2026: duration of stay, conditions, and what you need to know at immigration. Updated for 2026 entry requirements."
 tags: ["visa", "visa-free", "entry requirements", "travel", "immigration"]
 categories: ["Visa & Immigration"]
 showToc: true

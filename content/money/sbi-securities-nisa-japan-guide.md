@@ -1,7 +1,7 @@
 ---
-title: "SBI Securities NISA Guide for Foreigners in Japan (2025): How to Open and Invest"
+title: "SBI Securities NISA Guide for Foreigners in Japan (2026): How to Open and Invest"
 date: 2026-05-25
-description: "SBI Securities NISA account guide for foreigners in Japan 2025: how to open an account, best index funds, eMAXIS Slim explained, and how to set up automatic monthly investing."
+description: "SBI Securities NISA account guide for foreigners in Japan 2026: how to open an account, best index funds, eMAXIS Slim explained, and how to set up automatic monthly investing."
 tags: ["NISA", "SBI Securities", "investing", "index funds", "money"]
 categories: ["Money & Finance"]
 showToc: true

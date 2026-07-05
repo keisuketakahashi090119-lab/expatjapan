@@ -1,7 +1,7 @@
 ---
-title: "Child Allowance (Jidou Teate) in Japan — Guide for Foreigner Parents (2025)"
+title: "Child Allowance (Jidou Teate) in Japan — Guide for Foreigner Parents (2026)"
 date: 2026-05-25
-description: "A complete guide to Japan's child allowance (Jidou Teate) for foreign parents in 2025. Who qualifies, how to apply, monthly amounts, and what changed after the 2024 reform."
+description: "A complete guide to Japan's child allowance (Jidou Teate) for foreign parents in 2026. Who qualifies, how to apply, monthly amounts, and what changed after the 2024 reform."
 tags: ["child allowance", "jidou teate", "parenting japan", "family benefits", "foreigner parents"]
 categories: ["Daily Life"]
 showToc: true

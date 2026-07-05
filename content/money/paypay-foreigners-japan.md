@@ -1,7 +1,7 @@
 ---
-title: "PayPay for Foreigners in Japan: Setup Guide & How to Use It (2025)"
+title: "PayPay for Foreigners in Japan: Setup Guide & How to Use It (2026)"
 date: 2026-05-25
-description: "Complete PayPay guide for foreigners in Japan 2025: how to set up with a foreign card, top-up methods, where it works, and why you need it for daily life in Japan."
+description: "Complete PayPay guide for foreigners in Japan 2026: how to set up with a foreign card, top-up methods, where it works, and why you need it for daily life in Japan."
 tags: ["paypay", "cashless payment", "money", "daily life", "finance"]
 categories: ["Money & Finance"]
 showToc: true

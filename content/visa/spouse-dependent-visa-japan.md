@@ -1,5 +1,5 @@
 ---
-title: "Spouse and Dependent Visa in Japan: Bringing Your Family (2025)"
+title: "Spouse and Dependent Visa in Japan: Bringing Your Family (2026)"
 date: 2026-05-25
 description: "How to bring your spouse and children to Japan on a dependent visa. Requirements, documents, work rights, and the application process explained."
 tags: ["spouse visa", "dependent visa", "family", "visa", "immigration"]

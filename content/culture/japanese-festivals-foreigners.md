@@ -1,5 +1,5 @@
 ---
-title: "Japanese Festivals (Matsuri) Guide for Foreigners (2025)"
+title: "Japanese Festivals (Matsuri) Guide for Foreigners (2026)"
 date: 2026-05-25
 description: "Japan's festivals are extraordinary. Here's when and where to experience the best matsuri as a foreigner — seasonal calendar, what to wear, and what to expect."
 tags: ["festivals", "matsuri", "culture", "events", "daily life"]

@@ -1,5 +1,5 @@
 ---
-title: "Best Resources to Learn Japanese in 2025 (For Foreigners in Japan)"
+title: "Best Resources to Learn Japanese in 2026 (For Foreigners in Japan)"
 date: 2026-05-25
 description: "The most effective ways to learn Japanese when you're actually living in Japan. Apps, textbooks, tutors, language schools — ranked and compared."
 tags: ["Japanese", "language", "learning", "study", "daily life"]

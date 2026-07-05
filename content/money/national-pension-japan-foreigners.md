@@ -1,5 +1,5 @@
 ---
-title: "National Pension in Japan for Foreigners (2025)"
+title: "National Pension in Japan for Foreigners (2026)"
 date: 2026-05-25
 description: "Do foreigners have to pay into Japan's national pension? Yes. Here's how it works, how much it costs, and how to get a refund when you leave."
 tags: ["pension", "nenkin", "finance", "money"]

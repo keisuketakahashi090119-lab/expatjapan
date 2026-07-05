@@ -1,5 +1,5 @@
 ---
-title: "Emergency Services in Japan for Foreigners: What to Do in a Crisis (2025)"
+title: "Emergency Services in Japan for Foreigners: What to Do in a Crisis (2026)"
 date: 2026-05-25
 description: "What to do in an emergency in Japan — police, ambulance, fire, earthquake, and medical emergencies. Emergency numbers, English support, and practical steps."
 tags: ["emergency", "safety", "police", "ambulance", "earthquake", "daily life"]

@@ -1,5 +1,5 @@
 ---
-title: "Japanese Hanko (Personal Seal) Guide for Foreigners (2025)"
+title: "Japanese Hanko (Personal Seal) Guide for Foreigners (2026)"
 date: 2026-05-25
 description: "What is a hanko in Japan? Do foreigners need one? How to get a hanko registered — explained simply for expats."
 tags: ["hanko", "seal", "daily life", "admin", "banking"]

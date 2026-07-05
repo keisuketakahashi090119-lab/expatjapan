@@ -1,5 +1,5 @@
 ---
-title: "Moving Within Japan: How to Change Apartments as a Foreigner (2025)"
+title: "Moving Within Japan: How to Change Apartments as a Foreigner (2026)"
 date: 2026-05-25
 description: "Moving to a new apartment within Japan involves several administrative steps. Here's the checklist for foreigners — from address changes to hiring movers."
 tags: ["moving", "apartment", "address change", "daily life", "tips"]

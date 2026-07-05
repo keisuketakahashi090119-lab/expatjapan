@@ -1,5 +1,5 @@
 ---
-title: "How Japanese Health Insurance Works for Foreigners (2025)"
+title: "How Japanese Health Insurance Works for Foreigners (2026)"
 date: 2026-05-25
 description: "Confused about health insurance in Japan? This guide explains exactly how it works for foreigners — what's covered, how much you pay, and how to use it."
 tags: ["health insurance", "insurance", "health"]

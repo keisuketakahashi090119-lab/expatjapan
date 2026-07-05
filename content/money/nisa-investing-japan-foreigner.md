@@ -1,5 +1,5 @@
 ---
-title: "NISA for Foreigners in Japan: How to Start Investing (2025)"
+title: "NISA for Foreigners in Japan: How to Start Investing (2026)"
 date: 2026-05-25
 description: "Can foreigners use NISA in Japan? Yes. Here's how to open a NISA account, what you can invest in, and which brokers are best for foreign residents."
 tags: ["NISA", "investing", "stocks", "money", "finance"]

@@ -1,5 +1,5 @@
 ---
-title: "How to Get Permanent Residency in Japan (Foreigner's Guide 2025)"
+title: "How to Get Permanent Residency in Japan (Foreigner's Guide 2026)"
 date: 2026-05-25
 description: "A step-by-step guide to applying for permanent residency in Japan as a foreigner. Requirements, documents, timeline, and tips to improve your chances."
 tags: ["permanent residency", "visa", "PR", "immigration"]

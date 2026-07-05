@@ -1,5 +1,5 @@
 ---
-title: "Pregnancy and Childbirth in Japan as a Foreigner (2025)"
+title: "Pregnancy and Childbirth in Japan as a Foreigner (2026)"
 date: 2026-05-25
 description: "Having a baby in Japan as a foreigner — prenatal care, hospitals, costs, maternity benefits, and what to expect at a Japanese clinic or birth center."
 tags: ["pregnancy", "childbirth", "health", "insurance", "family"]

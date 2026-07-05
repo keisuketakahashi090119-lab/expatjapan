@@ -1,7 +1,7 @@
 ---
-title: "Moving to Japan from Australia: Complete Guide for Australians (2025)"
+title: "Moving to Japan from Australia: Complete Guide for Australians (2026)"
 date: 2026-05-25
-description: "Moving to Japan from Australia in 2025: Working Holiday Visa, work visas, cost comparison, banking, superannuation, and the step-by-step first 30 days for Australian expats."
+description: "Moving to Japan from Australia in 2026: Working Holiday Visa, work visas, cost comparison, banking, superannuation, and the step-by-step first 30 days for Australian expats."
 tags: ["moving to japan", "australia", "working holiday", "expat", "visa"]
 categories: ["Daily Life"]
 showToc: true

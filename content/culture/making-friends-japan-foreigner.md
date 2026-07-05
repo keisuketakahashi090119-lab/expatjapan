@@ -1,5 +1,5 @@
 ---
-title: "How to Make Friends in Japan as a Foreigner (2025)"
+title: "How to Make Friends in Japan as a Foreigner (2026)"
 date: 2026-05-25
 description: "Making genuine friends in Japan as a foreigner is possible but takes effort. Here's what actually works — apps, events, communities, and cultural tips."
 tags: ["friends", "social", "culture", "community", "expat life"]

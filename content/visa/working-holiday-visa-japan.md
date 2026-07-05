@@ -1,5 +1,5 @@
 ---
-title: "Working Holiday Visa Japan: Everything You Need to Know (2025)"
+title: "Working Holiday Visa Japan: Everything You Need to Know (2026)"
 date: 2026-05-25
 description: "How to get a Working Holiday Visa for Japan — eligibility, application steps, what you can do, and how to make the most of it."
 tags: ["working holiday", "visa", "jobs", "travel", "Japan"]

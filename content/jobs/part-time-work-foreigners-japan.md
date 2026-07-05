@@ -1,5 +1,5 @@
 ---
-title: "Part-Time Work for Foreigners in Japan (Arubaito Guide 2025)"
+title: "Part-Time Work for Foreigners in Japan (Arubaito Guide 2026)"
 date: 2026-05-25
 description: "Can foreigners work part-time in Japan? Yes — if your visa allows it. Here's what you need to know about arubaito rules, pay, and finding jobs."
 tags: ["part-time work", "arubaito", "jobs", "visa", "working in Japan"]

@@ -1,7 +1,7 @@
 ---
-title: "Moving to Japan from Canada: Complete Guide for Canadians (2025)"
+title: "Moving to Japan from Canada: Complete Guide for Canadians (2026)"
 date: 2026-05-25
-description: "Moving to Japan from Canada 2025: Working Holiday Visa, work visas, Canada-Japan tax treaty, cost comparison, banking with Canadian accounts, and the first 30 days guide."
+description: "Moving to Japan from Canada 2026: Working Holiday Visa, work visas, Canada-Japan tax treaty, cost comparison, banking with Canadian accounts, and the first 30 days guide."
 tags: ["moving to japan", "canada", "working holiday", "expat", "visa"]
 categories: ["Daily Life"]
 showToc: true

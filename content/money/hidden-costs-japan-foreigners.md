@@ -1,5 +1,5 @@
 ---
-title: "Hidden Costs in Japan That Surprise Every Foreigner (2025)"
+title: "Hidden Costs in Japan That Surprise Every Foreigner (2026)"
 date: 2026-05-23
 description: "Japan has significant hidden and one-off costs that foreigners don't plan for — key money, residence tax, pension, move-in fees. Here's the complete breakdown of expenses that regularly catch people off guard."
 tags: ["money", "budget", "hidden costs", "finance", "moving to japan"]

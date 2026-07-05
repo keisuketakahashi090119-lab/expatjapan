@@ -1,5 +1,5 @@
 ---
-title: "Japan Post Bank (ゆうちょ銀行) Guide for Foreigners (2025)"
+title: "Japan Post Bank (ゆうちょ銀行) Guide for Foreigners (2026)"
 date: 2026-05-25
 description: "Japan Post Bank (Yucho) is one of the most accessible banks for foreigners in Japan. How to open an account, use ATMs, and send money internationally."
 tags: ["bank", "Japan Post Bank", "Yucho", "daily life", "money"]

@@ -1,7 +1,7 @@
 ---
-title: "Maternity and Paternity Leave in Japan for Foreigners (2025): Rights, Pay, and How to Apply"
+title: "Maternity and Paternity Leave in Japan for Foreigners (2026): Rights, Pay, and How to Apply"
 date: 2026-05-25
-description: "Maternity and paternity leave in Japan for foreigners 2025: eligibility, paid leave rates, how to apply, childcare leave allowance, and what to do if your employer pushes back."
+description: "Maternity and paternity leave in Japan for foreigners 2026: eligibility, paid leave rates, how to apply, childcare leave allowance, and what to do if your employer pushes back."
 tags: ["maternity leave", "paternity leave", "childcare", "work", "daily life japan"]
 categories: ["Daily Life"]
 showToc: true

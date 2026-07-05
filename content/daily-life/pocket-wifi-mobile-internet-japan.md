@@ -1,5 +1,5 @@
 ---
-title: "Pocket WiFi and Mobile Internet in Japan (2025 Guide)"
+title: "Pocket WiFi and Mobile Internet in Japan (2026 Guide)"
 date: 2026-05-25
 description: "The best pocket WiFi and home internet options for foreigners in Japan — for tourists, new arrivals, and long-term residents."
 tags: ["pocket wifi", "internet", "mobile data", "daily life", "SIM"]

@@ -1,5 +1,5 @@
 ---
-title: "Cheap Grocery Shopping in Japan: A Foreigner's Guide (2025)"
+title: "Cheap Grocery Shopping in Japan: A Foreigner's Guide (2026)"
 date: 2026-05-25
 description: "How to save money on groceries in Japan. The best supermarkets, discount times, and shopping tips for foreigners living in Japan."
 tags: ["groceries", "food", "saving money", "daily life", "supermarket"]

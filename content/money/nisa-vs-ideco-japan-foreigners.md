@@ -1,7 +1,7 @@
 ---
-title: "NISA vs iDeCo for Foreigners in Japan: Which Investment Account Should You Use? (2025)"
+title: "NISA vs iDeCo for Foreigners in Japan: Which Investment Account Should You Use? (2026)"
 date: 2026-05-25
-description: "NISA vs iDeCo guide for foreigners in Japan 2025: tax benefits explained, who can use each account, contribution limits, and which is better depending on your visa and plans."
+description: "NISA vs iDeCo guide for foreigners in Japan 2026: tax benefits explained, who can use each account, contribution limits, and which is better depending on your visa and plans."
 tags: ["nisa", "ideco", "investing", "money", "finance", "tax"]
 categories: ["Money & Finance"]
 showToc: true

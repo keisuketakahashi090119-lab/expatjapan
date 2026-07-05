@@ -1,5 +1,5 @@
 ---
-title: "Investing in Japan as a Foreigner: Stocks, Funds, and Getting Started (2025)"
+title: "Investing in Japan as a Foreigner: Stocks, Funds, and Getting Started (2026)"
 date: 2026-05-25
 description: "How to start investing in Japan as a foreign resident. Best brokerages, what to invest in, NISA accounts, and how foreign investors are taxed."
 tags: ["investing", "stocks", "NISA", "money", "finance"]

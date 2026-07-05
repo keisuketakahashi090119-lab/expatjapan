@@ -1,5 +1,5 @@
 ---
-title: "Best Apps for Foreigners Living in Japan (2025)"
+title: "Best Apps for Foreigners Living in Japan (2026)"
 date: 2026-05-25
 description: "Essential smartphone apps every foreigner in Japan needs. Navigation, translation, food delivery, payments, and more — all tested and recommended."
 tags: ["apps", "smartphone", "daily life", "tools"]

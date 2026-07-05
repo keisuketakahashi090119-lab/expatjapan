@@ -1,5 +1,5 @@
 ---
-title: "Mental Health Support in Japan for Foreigners (2025)"
+title: "Mental Health Support in Japan for Foreigners (2026)"
 date: 2026-05-25
 description: "Finding mental health support in Japan as a foreigner. English-speaking therapists, hotlines, online therapy, and navigating the Japanese mental health system."
 tags: ["mental health", "therapy", "counseling", "health", "expat life"]

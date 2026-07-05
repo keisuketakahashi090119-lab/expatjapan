@@ -1,5 +1,5 @@
 ---
-title: "Children's Healthcare in Japan for Foreign Parents (2025)"
+title: "Children's Healthcare in Japan for Foreign Parents (2026)"
 date: 2026-05-25
 description: "How healthcare works for children in Japan, including insurance, pediatric clinics, vaccinations, and school health. A guide for foreign parents."
 tags: ["children", "healthcare", "pediatrics", "family", "health insurance"]

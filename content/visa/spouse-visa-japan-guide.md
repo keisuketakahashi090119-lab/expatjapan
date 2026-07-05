@@ -1,5 +1,5 @@
 ---
-title: "Spouse Visa Japan: How to Get a Spouse or Partner Visa (2025)"
+title: "Spouse Visa Japan: How to Get a Spouse or Partner Visa (2026)"
 date: 2026-05-25
 description: "How to get a spouse visa (配偶者ビザ) in Japan if you're married to a Japanese national or permanent resident. Requirements, documents, and the application process."
 tags: ["spouse visa", "marriage", "visa", "immigration", "Japan"]

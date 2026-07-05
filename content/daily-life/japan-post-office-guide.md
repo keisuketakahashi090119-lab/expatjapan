@@ -1,5 +1,5 @@
 ---
-title: "Japan Post Office Guide for Foreigners: Services, Hours, and Tips (2025)"
+title: "Japan Post Office Guide for Foreigners: Services, Hours, and Tips (2026)"
 date: 2026-05-25
 description: "Japan Post offices offer far more than mail — banking, insurance, package delivery, and government services. Here's how to use them as a foreigner."
 tags: ["post office", "Japan Post", "mail", "daily life", "banking"]

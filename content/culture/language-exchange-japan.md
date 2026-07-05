@@ -1,5 +1,5 @@
 ---
-title: "Language Exchange in Japan: How to Find a Japanese Conversation Partner (2025)"
+title: "Language Exchange in Japan: How to Find a Japanese Conversation Partner (2026)"
 date: 2026-05-25
 description: "Language exchange is the fastest way to improve your Japanese for free. Here's how to find partners, what apps to use, and how to make sessions effective."
 tags: ["language exchange", "Japanese", "learning", "culture", "making friends"]

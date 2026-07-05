@@ -1,5 +1,5 @@
 ---
-title: "How to Rent an Apartment in Japan as a Foreigner (2025)"
+title: "How to Rent an Apartment in Japan as a Foreigner (2026)"
 date: 2026-05-25
 description: "Step-by-step guide to renting an apartment in Japan as a foreigner — from finding listings to signing the contract. What to expect and what to watch out for."
 tags: ["housing", "apartment", "renting", "daily life", "moving"]

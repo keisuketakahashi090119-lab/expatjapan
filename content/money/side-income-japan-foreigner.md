@@ -1,5 +1,5 @@
 ---
-title: "Side Income in Japan as a Foreigner (2025): Legal Ways to Earn Extra Money"
+title: "Side Income in Japan as a Foreigner (2026): Legal Ways to Earn Extra Money"
 date: 2026-05-25
 description: "Can foreigners earn side income in Japan? What's legal, what isn't, and the best ways to make extra money without violating your visa conditions."
 tags: ["side income", "side hustle", "money", "freelance", "visa"]

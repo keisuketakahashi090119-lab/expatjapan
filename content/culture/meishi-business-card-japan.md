@@ -1,5 +1,5 @@
 ---
-title: "Business Card (Meishi) Etiquette in Japan: A Foreigner's Guide (2025)"
+title: "Business Card (Meishi) Etiquette in Japan: A Foreigner's Guide (2026)"
 date: 2026-05-25
 description: "Exchanging business cards is a ritual in Japanese business culture. Here's exactly what to do — and what never to do — with meishi in Japan."
 tags: ["meishi", "business card", "workplace", "etiquette", "culture"]

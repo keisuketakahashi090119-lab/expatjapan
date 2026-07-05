@@ -1,7 +1,7 @@
 ---
-title: "Japan's School System — A Guide for Foreign Parents (2025)"
+title: "Japan's School System — A Guide for Foreign Parents (2026)"
 date: 2026-05-25
-description: "A complete guide to Japan's school system for foreign parents in 2025. Covers public vs. international schools, enrollment process, school rules, and language support."
+description: "A complete guide to Japan's school system for foreign parents in 2026. Covers public vs. international schools, enrollment process, school rules, and language support."
 tags: ["school japan", "education", "foreign parents", "international school", "children"]
 categories: ["Daily Life"]
 showToc: true

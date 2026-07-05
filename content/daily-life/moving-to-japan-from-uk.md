@@ -1,7 +1,7 @@
 ---
-title: "Moving to Japan from the UK: Complete Guide for British Expats (2025)"
+title: "Moving to Japan from the UK: Complete Guide for British Expats (2026)"
 date: 2026-05-25
-description: "Moving to Japan from the UK in 2025: visa options for British citizens, working holiday visa, cost comparison, NHS vs Japanese healthcare, and the first 30 days step-by-step."
+description: "Moving to Japan from the UK in 2026: visa options for British citizens, working holiday visa, cost comparison, NHS vs Japanese healthcare, and the first 30 days step-by-step."
 tags: ["moving to japan", "uk", "british", "expat", "visa", "relocation"]
 categories: ["Daily Life"]
 showToc: true

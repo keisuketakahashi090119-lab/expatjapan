@@ -1,5 +1,5 @@
 ---
-title: "Living in Fukuoka as a Foreigner — Complete Guide (2025)"
+title: "Living in Fukuoka as a Foreigner — Complete Guide (2026)"
 date: 2026-05-25
 description: "Everything foreigners need to know about living in Fukuoka — neighborhoods, cost of living, jobs, food, and why it's Japan's most livable city."
 tags: ["Fukuoka", "daily life", "cost of living", "moving to Japan"]

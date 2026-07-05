@@ -1,5 +1,5 @@
 ---
-title: "Tourist Visa and Visa-Free Entry to Japan: A Complete Guide (2025)"
+title: "Tourist Visa and Visa-Free Entry to Japan: A Complete Guide (2026)"
 date: 2026-05-25
 description: "Which countries get visa-free access to Japan? How to apply for a tourist visa. Extending your stay and what's allowed on a tourist entry."
 tags: ["tourist visa", "visa-free", "travel", "entry", "visa"]

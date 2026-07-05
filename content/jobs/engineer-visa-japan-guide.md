@@ -1,7 +1,7 @@
 ---
-title: "Engineer / Specialist in Humanities Visa Japan — Complete Guide (2025)"
+title: "Engineer / Specialist in Humanities Visa Japan — Complete Guide (2026)"
 date: 2026-05-25
-description: "Complete guide to Japan's Engineer / Specialist in Humanities / International Services visa in 2025. Who qualifies, how to apply, required documents, and renewal tips."
+description: "Complete guide to Japan's Engineer / Specialist in Humanities / International Services visa in 2026. Who qualifies, how to apply, required documents, and renewal tips."
 tags: ["engineer visa", "work visa", "specialist visa", "visa japan", "it jobs japan"]
 categories: ["Jobs & Career"]
 showToc: true

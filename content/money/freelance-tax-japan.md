@@ -1,7 +1,7 @@
 ---
-title: "Freelance Tax in Japan — How to File as a Self-Employed Foreigner (2025)"
+title: "Freelance Tax in Japan — How to File as a Self-Employed Foreigner (2026)"
 date: 2026-05-25
-description: "A complete guide to freelance taxes in Japan for self-employed foreigners in 2025. Covers kakuteishinkoku, deductions, consumption tax, and blue form filing."
+description: "A complete guide to freelance taxes in Japan for self-employed foreigners in 2026. Covers kakuteishinkoku, deductions, consumption tax, and blue form filing."
 tags: ["freelance", "self-employed", "taxes japan", "kakuteishinkoku", "foreigner taxes"]
 categories: ["Money & Finance"]
 showToc: true

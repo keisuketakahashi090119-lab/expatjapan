@@ -1,7 +1,7 @@
 ---
-title: "Living in Kyoto as a Foreigner — Cost of Living, Housing & Expat Guide (2025)"
+title: "Living in Kyoto as a Foreigner — Cost of Living, Housing & Expat Guide (2026)"
 date: 2026-05-25
-description: "A complete guide to living in Kyoto as a foreigner in 2025. Covers rent costs, neighborhoods, transport, cultural rules, Japanese learning tips, and expat life."
+description: "A complete guide to living in Kyoto as a foreigner in 2026. Covers rent costs, neighborhoods, transport, cultural rules, Japanese learning tips, and expat life."
 tags: ["kyoto", "expat life", "cost of living", "kansai", "housing"]
 categories: ["Daily Life"]
 showToc: true

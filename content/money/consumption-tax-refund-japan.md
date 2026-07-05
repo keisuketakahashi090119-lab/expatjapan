@@ -1,5 +1,5 @@
 ---
-title: "Consumption Tax Refund in Japan for Foreigners: How to Get Tax-Free Shopping (2025)"
+title: "Consumption Tax Refund in Japan for Foreigners: How to Get Tax-Free Shopping (2026)"
 date: 2026-05-25
 description: "Foreign visitors to Japan can shop tax-free. Here's how the consumption tax refund works, which stores offer it, and what the rules are."
 tags: ["tax refund", "tax-free", "shopping", "consumption tax", "money"]

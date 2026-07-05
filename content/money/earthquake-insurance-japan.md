@@ -1,5 +1,5 @@
 ---
-title: "Earthquake Insurance in Japan — Should Foreigners Buy It? (2025)"
+title: "Earthquake Insurance in Japan — Should Foreigners Buy It? (2026)"
 date: 2026-05-25
 description: "Japan has 1,500+ earthquakes per year. Standard renter's insurance doesn't cover earthquake damage. Here's what earthquake insurance covers and whether you need it."
 tags: ["money", "insurance", "earthquake", "Japan", "safety"]

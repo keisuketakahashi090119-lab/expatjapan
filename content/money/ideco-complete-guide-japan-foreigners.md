@@ -1,7 +1,7 @@
 ---
-title: "iDeCo Guide for Foreigners in Japan (2025): How Japan's Personal Pension Works"
+title: "iDeCo Guide for Foreigners in Japan (2026): How Japan's Personal Pension Works"
 date: 2026-05-25
-description: "iDeCo guide for foreigners in Japan 2025: eligibility, tax benefits, how to open an account, best fund choices, contribution limits, and what happens when you leave Japan."
+description: "iDeCo guide for foreigners in Japan 2026: eligibility, tax benefits, how to open an account, best fund choices, contribution limits, and what happens when you leave Japan."
 tags: ["iDeCo", "pension", "investing", "retirement", "money"]
 categories: ["Money & Finance"]
 showToc: true

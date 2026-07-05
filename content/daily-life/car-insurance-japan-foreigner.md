@@ -1,5 +1,5 @@
 ---
-title: "Car Insurance in Japan as a Foreigner — Complete Guide (2025)"
+title: "Car Insurance in Japan as a Foreigner — Complete Guide (2026)"
 date: 2026-05-25
 description: "How car insurance works in Japan for foreigners. Compulsory vs voluntary insurance, using a foreign license, and how to choose the right policy."
 tags: ["daily life", "car", "insurance", "driving", "Japan"]

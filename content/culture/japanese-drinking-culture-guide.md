@@ -1,7 +1,7 @@
 ---
-title: "Japanese Drinking Culture — A Foreigner's Guide to Nomikai & Izakaya (2025)"
+title: "Japanese Drinking Culture — A Foreigner's Guide to Nomikai & Izakaya (2026)"
 date: 2026-05-25
-description: "A foreigner's guide to Japanese drinking culture in 2025. Covers nomikai etiquette, izakaya customs, toasting rules, drinking pace, and how to navigate alcohol-free situations."
+description: "A foreigner's guide to Japanese drinking culture in 2026. Covers nomikai etiquette, izakaya customs, toasting rules, drinking pace, and how to navigate alcohol-free situations."
 tags: ["drinking culture japan", "nomikai", "izakaya", "japanese culture", "social life japan"]
 categories: ["Culture"]
 showToc: true

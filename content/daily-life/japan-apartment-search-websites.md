@@ -1,7 +1,7 @@
 ---
-title: "How to Search for Apartments in Japan: SUUMO, Homes.jp, GaijinPot Housing (2025)"
+title: "How to Search for Apartments in Japan: SUUMO, Homes.jp, GaijinPot Housing (2026)"
 date: 2026-05-25
-description: "Best apartment search websites in Japan for foreigners 2025: SUUMO, Homes.jp, GaijinPot Housing, UR Housing, and Sakura House compared. How to filter for foreigner-friendly properties."
+description: "Best apartment search websites in Japan for foreigners 2026: SUUMO, Homes.jp, GaijinPot Housing, UR Housing, and Sakura House compared. How to filter for foreigner-friendly properties."
 tags: ["apartment", "housing", "renting", "daily life", "expat"]
 categories: ["Daily Life"]
 showToc: true
@@ -24,7 +24,9 @@ cover:
 The main apartment search websites in Japan are SUUMO, Homes.jp, and AtHome. These are in Japanese but Chrome's auto-translate makes them navigable. For English-language platforms, GaijinPot Housing and Sakura House are the most foreigner-accessible. UR Housing offers guarantor-free, no-key-money apartments through a Japanese government website.
 {{< /quick-answer >}}
 
-Finding an apartment in Japan as a foreigner requires knowing which platforms to use — and understanding that many listings don't accept foreign applicants at all. Here's how to navigate the system.
+You open SUUMO, and it's a wall of Japanese. You try an English site, and there are only a fraction of the listings — at higher prices. Then you finally find a place you like, contact the agency, and get told the landlord doesn't accept foreigners. Apartment hunting in Japan can feel rigged against you.
+
+It's not — you're just using the platforms wrong. Each site has a specific role, and once you know which one to use for your situation, the process gets dramatically easier. Here's how to navigate the system.
 
 ---
 
@@ -126,6 +128,10 @@ Sakura House operates share houses and private rooms specifically for the foreig
 **Concept:** Japanese and foreign residents living together
 
 Borderless House specifically mixes Japanese and foreign residents — designed for people learning Japanese or wanting cross-cultural experience. Cheaper than Sakura House in some cases.
+
+> **Budget option in Tokyo/Osaka:** [Oak House](https://px.a8.net/svt/ejp?a8mat=4B1THZ+94NBH6+41A0+5YRHE) offers share house rooms from ¥30,000/month — no guarantor, no key money, flexible deposits. One of the best value operators if you have basic Japanese.
+
+Considering a share house instead of a private apartment? See our full [Share House Guide for Foreigners](/daily-life/japan-share-house-guide-foreigners/) — costs, operators compared, and what daily life is actually like.
 
 ---
 
@@ -243,6 +249,7 @@ Sakura House is a share house and apartment network specifically designed for fo
 ---
 
 ## Related Articles
+- [Share Houses in Japan for Foreigners: Complete Guide](/daily-life/japan-share-house-guide-foreigners/)
 - [How to Rent an Apartment in Japan as a Foreigner](/daily-life/how-to-rent-apartment-japan-foreigner/)
 - [Moving Out of an Apartment in Japan](/daily-life/moving-out-apartment-japan/)
 - [Housing Costs in Japan by City](/daily-life/housing-costs-japan-cities/)

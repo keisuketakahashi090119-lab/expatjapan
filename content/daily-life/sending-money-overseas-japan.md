@@ -1,5 +1,5 @@
 ---
-title: "Sending Money from Japan Overseas: Cheapest Options (2025)"
+title: "Sending Money from Japan Overseas: Cheapest Options (2026)"
 date: 2026-05-25
 description: "How to send money from Japan to your home country cheaply and quickly. Compare Wise, SBI Remit, Japan Post, and bank wires — with real cost examples."
 tags: ["remittance", "money transfer", "international", "money", "Wise"]

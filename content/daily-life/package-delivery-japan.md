@@ -1,5 +1,5 @@
 ---
-title: "Package Delivery in Japan: How It Works for Foreigners (2025)"
+title: "Package Delivery in Japan: How It Works for Foreigners (2026)"
 date: 2026-05-25
 description: "Japan's package delivery system is world-class. Here's how to receive packages, redeliver missed deliveries, send parcels, and navigate the system as a foreigner."
 tags: ["delivery", "package", "courier", "daily life", "shopping"]

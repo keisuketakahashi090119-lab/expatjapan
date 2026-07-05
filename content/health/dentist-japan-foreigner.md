@@ -1,5 +1,5 @@
 ---
-title: "Going to the Dentist in Japan as a Foreigner (2025)"
+title: "Going to the Dentist in Japan as a Foreigner (2026)"
 date: 2026-05-25
 description: "How to find a dentist in Japan, what to expect, how much it costs, and how to get dental care covered by Japanese health insurance."
 tags: ["dentist", "dental", "health", "insurance"]

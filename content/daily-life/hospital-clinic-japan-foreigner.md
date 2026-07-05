@@ -1,5 +1,5 @@
 ---
-title: "How to See a Doctor in Japan as a Foreigner (2025)"
+title: "How to See a Doctor in Japan as a Foreigner (2026)"
 date: 2026-05-25
 description: "How to use hospitals and clinics in Japan as a foreigner — health insurance, finding English-speaking doctors, and what to expect at Japanese hospitals."
 tags: ["hospital", "medical", "health insurance", "daily life", "healthcare"]

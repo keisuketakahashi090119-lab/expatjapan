@@ -1,7 +1,7 @@
 ---
-title: "Rakuten Mobile for Foreigners in Japan: Review and Setup Guide (2025)"
+title: "Rakuten Mobile for Foreigners in Japan: Review and Setup Guide (2026)"
 date: 2026-05-25
-description: "Rakuten Mobile review for foreigners in Japan 2025: unlimited data plan, network coverage, how to sign up, SIM card setup, and comparison with IIJmio and ahamofor expats."
+description: "Rakuten Mobile review for foreigners in Japan 2026: unlimited data plan, network coverage, how to sign up, SIM card setup, and comparison with IIJmio and ahamofor expats."
 tags: ["rakuten mobile", "SIM card", "phone plan", "daily life", "expat japan"]
 categories: ["Money & Finance"]
 showToc: true

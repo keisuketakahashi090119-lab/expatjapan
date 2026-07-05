@@ -1,5 +1,5 @@
 ---
-title: "Japanese Rirekisho (履歴書) Guide for Foreigners (2025)"
+title: "Japanese Rirekisho (履歴書) Guide for Foreigners (2026)"
 date: 2026-05-25
 description: "How to write a Japanese rirekisho as a foreigner. Format, photo, each section explained, and common mistakes to avoid."
 tags: ["jobs", "rirekisho", "CV", "job hunting"]

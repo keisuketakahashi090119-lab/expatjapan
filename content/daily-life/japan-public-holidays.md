@@ -1,7 +1,7 @@
 ---
-title: "Japan Public Holidays 2025: Complete Calendar for Foreigners"
+title: "Japan Public Holidays 2026: Complete Calendar for Foreigners"
 date: 2026-05-25
-description: "Japan's full list of public holidays in 2025 and 2026, what's open and closed, and how to plan around Golden Week, Silver Week, and Obon."
+description: "Japan's full list of public holidays in 2026 and 2026, what's open and closed, and how to plan around Golden Week, Silver Week, and Obon."
 tags: ["holidays", "public holidays", "calendar", "daily life", "Golden Week"]
 categories: ["Daily Life"]
 showToc: true

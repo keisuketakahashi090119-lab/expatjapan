@@ -1,5 +1,5 @@
 ---
-title: "Housing Costs in Japan by City: 2025 Rent Guide for Foreigners"
+title: "Housing Costs in Japan by City: 2026 Rent Guide for Foreigners"
 date: 2026-05-25
 description: "How much does it cost to rent an apartment in Japan? Tokyo, Osaka, Kyoto, Fukuoka, Sapporo — average rents by city, size, and area compared."
 tags: ["housing", "rent", "apartment", "cost of living", "daily life"]

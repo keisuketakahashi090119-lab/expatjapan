@@ -1,7 +1,7 @@
 ---
-title: "Shinkansen Guide for Foreigners in Japan: How to Book, Tickets, and Save Money (2025)"
+title: "Shinkansen Guide for Foreigners in Japan: How to Book, Tickets, and Save Money (2026)"
 date: 2026-05-25
-description: "Complete Shinkansen guide for foreigners in Japan 2025: how to buy tickets, reserved vs unreserved seats, the JR Pass explained, IC card compatibility, and how to save money on bullet trains."
+description: "Complete Shinkansen guide for foreigners in Japan 2026: how to buy tickets, reserved vs unreserved seats, the JR Pass explained, IC card compatibility, and how to save money on bullet trains."
 tags: ["shinkansen", "bullet train", "travel", "transport", "daily life japan"]
 categories: ["Daily Life"]
 showToc: true

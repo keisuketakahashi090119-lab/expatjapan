@@ -1,5 +1,5 @@
 ---
-title: "Grocery Delivery in Japan: Best Services for Foreigners (2025)"
+title: "Grocery Delivery in Japan: Best Services for Foreigners (2026)"
 date: 2026-05-25
 description: "Best grocery delivery services in Japan. Compare Oisix, Amazon Fresh, Seiyu, and more — with tips for ordering when you can't read Japanese."
 tags: ["grocery", "food", "delivery", "daily life", "shopping"]

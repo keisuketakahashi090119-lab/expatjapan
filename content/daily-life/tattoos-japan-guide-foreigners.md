@@ -1,7 +1,7 @@
 ---
-title: "Tattoos in Japan: What Foreigners Need to Know (Onsen, Gyms, Pools) 2025"
+title: "Tattoos in Japan: What Foreigners Need to Know (Onsen, Gyms, Pools) 2026"
 date: 2026-05-25
-description: "Tattoos in Japan guide for foreigners 2025: which onsens allow tattoos, gym policies, pool rules, and how Japan's attitude toward tattoos is changing. Practical guide for tattooed expats."
+description: "Tattoos in Japan guide for foreigners 2026: which onsens allow tattoos, gym policies, pool rules, and how Japan's attitude toward tattoos is changing. Practical guide for tattooed expats."
 tags: ["tattoos", "onsen", "daily life", "culture", "expat japan"]
 categories: ["Daily Life"]
 showToc: true

@@ -1,5 +1,5 @@
 ---
-title: "Using Coin Laundry (コインランドリー) in Japan: A Complete Guide (2025)"
+title: "Using Coin Laundry (コインランドリー) in Japan: A Complete Guide (2026)"
 date: 2026-05-25
 description: "Most Japanese apartments have small or no washing machines. Here's how to use coin laundry in Japan, what it costs, and tips to make it easy."
 tags: ["laundry", "coin laundry", "daily life", "apartment", "tips"]

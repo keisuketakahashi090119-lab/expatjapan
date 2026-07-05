@@ -1,5 +1,5 @@
 ---
-title: "Hanami Cherry Blossom Guide for Foreigners in Japan (2025)"
+title: "Hanami Cherry Blossom Guide for Foreigners in Japan (2026)"
 date: 2026-05-25
 description: "Hanami (cherry blossom viewing) is one of Japan's most beloved traditions. Here's when and where to go, how to do it right, and what to bring."
 tags: ["hanami", "cherry blossom", "sakura", "spring", "culture", "festivals"]

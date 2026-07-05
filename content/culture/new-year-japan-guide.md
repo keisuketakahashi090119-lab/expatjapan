@@ -1,7 +1,7 @@
 ---
-title: "Japanese New Year (お正月) — A Foreigner's Complete Guide (2025)"
+title: "Japanese New Year (お正月) — A Foreigner's Complete Guide (2026)"
 date: 2026-05-25
-description: "A complete foreigner's guide to Japanese New Year (Oshōgatsu) in 2025. Covers traditions, food, shrine visits, greetings, public holidays, and how to experience it authentically."
+description: "A complete foreigner's guide to Japanese New Year (Oshōgatsu) in 2026. Covers traditions, food, shrine visits, greetings, public holidays, and how to experience it authentically."
 tags: ["japanese new year", "oshogatsu", "japanese culture", "traditions", "holidays japan"]
 categories: ["Culture"]
 showToc: true

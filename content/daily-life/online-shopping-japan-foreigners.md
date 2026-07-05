@@ -1,5 +1,5 @@
 ---
-title: "Online Shopping in Japan: Best Sites for Foreigners (2025)"
+title: "Online Shopping in Japan: Best Sites for Foreigners (2026)"
 date: 2026-05-25
 description: "How to shop online in Japan as a foreigner. Amazon Japan, Rakuten, Yahoo Shopping, Mercari — compared and explained in English."
 tags: ["shopping", "online", "Amazon", "Rakuten", "daily life"]

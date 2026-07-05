@@ -1,7 +1,7 @@
 ---
-title: "Living in Sapporo as a Foreigner — Costs, Climate & Expat Life (2025)"
+title: "Living in Sapporo as a Foreigner — Costs, Climate & Expat Life (2026)"
 date: 2026-05-25
-description: "A practical guide to living in Sapporo as a foreigner in 2025. Covers rent, winter survival, neighborhoods, jobs, and expat community life in Hokkaido."
+description: "A practical guide to living in Sapporo as a foreigner in 2026. Covers rent, winter survival, neighborhoods, jobs, and expat community life in Hokkaido."
 tags: ["sapporo", "hokkaido", "expat life", "cost of living", "winter in japan"]
 categories: ["Daily Life"]
 showToc: true

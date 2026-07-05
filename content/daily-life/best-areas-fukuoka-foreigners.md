@@ -1,7 +1,7 @@
 ---
-title: "Best Areas to Live in Fukuoka for Foreigners: Neighborhood Guide (2025)"
+title: "Best Areas to Live in Fukuoka for Foreigners: Neighborhood Guide (2026)"
 date: 2026-05-25
-description: "Best neighborhoods in Fukuoka for foreigners 2025: Tenjin, Hakata, Ohori Park, Yakuin, and more. Rent prices, expat communities, and which area matches your lifestyle and budget."
+description: "Best neighborhoods in Fukuoka for foreigners 2026: Tenjin, Hakata, Ohori Park, Yakuin, and more. Rent prices, expat communities, and which area matches your lifestyle and budget."
 tags: ["fukuoka", "neighborhoods", "daily life", "expat", "housing"]
 categories: ["Daily Life"]
 showToc: true

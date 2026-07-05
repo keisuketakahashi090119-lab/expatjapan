@@ -1,7 +1,7 @@
 ---
-title: "Luggage Storage and Baggage Shipping in Japan — Complete Guide (2025)"
+title: "Luggage Storage and Baggage Shipping in Japan — Complete Guide (2026)"
 date: 2026-05-25
-description: "A complete guide to luggage storage and baggage shipping in Japan for foreigners in 2025. Covers coin lockers, baggage delivery (takuhaibin), and travel tips for getting around."
+description: "A complete guide to luggage storage and baggage shipping in Japan for foreigners in 2026. Covers coin lockers, baggage delivery (takuhaibin), and travel tips for getting around."
 tags: ["luggage storage japan", "coin lockers", "takuhai", "travel japan", "baggage shipping"]
 categories: ["Daily Life"]
 showToc: true

@@ -1,5 +1,5 @@
 ---
-title: "IT Jobs in Japan for Foreigners: How to Get Hired (2025)"
+title: "IT Jobs in Japan for Foreigners: How to Get Hired (2026)"
 date: 2026-05-25
 description: "Japan has a massive IT talent shortage. Here's how to land an IT job in Japan as a foreigner — skills needed, top companies, salaries, and job boards."
 tags: ["IT", "tech", "jobs", "engineer", "software"]

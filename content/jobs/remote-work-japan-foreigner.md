@@ -1,5 +1,5 @@
 ---
-title: "Remote Work in Japan as a Foreigner (2025): Visa, Tax, and Practical Guide"
+title: "Remote Work in Japan as a Foreigner (2026): Visa, Tax, and Practical Guide"
 date: 2026-05-25
 description: "Can you work remotely in Japan as a foreigner? Visa rules, tax obligations, best co-working spaces, and how to manage foreign income while living in Japan."
 tags: ["remote work", "visa", "freelance", "work from home", "jobs"]

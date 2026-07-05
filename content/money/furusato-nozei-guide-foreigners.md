@@ -1,5 +1,5 @@
 ---
-title: "Furusato Nozei (ふるさと納税) Guide for Foreigners in Japan (2025)"
+title: "Furusato Nozei (ふるさと納税) Guide for Foreigners in Japan (2026)"
 date: 2026-05-25
 description: "What is furusato nozei? Can foreigners use it? Yes — here's how Japan's hometown tax donation system works and how to get free food and gifts from your taxes."
 tags: ["furusato nozei", "taxes", "money", "savings", "Japan"]

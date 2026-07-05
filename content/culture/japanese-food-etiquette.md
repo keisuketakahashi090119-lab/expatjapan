@@ -1,5 +1,5 @@
 ---
-title: "Japanese Food Etiquette: What Foreigners Need to Know (2025)"
+title: "Japanese Food Etiquette: What Foreigners Need to Know (2026)"
 date: 2026-05-25
 description: "Dining in Japan comes with specific etiquette. From chopstick rules to restaurant customs, here's what foreigners need to know to avoid common mistakes."
 tags: ["food", "etiquette", "culture", "dining", "chopsticks"]
