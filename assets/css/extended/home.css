@@ -4,7 +4,7 @@
 
 /* ─── HERO ───────────────────────────────────── */
 .home-hero {
-  background: var(--text);
+  background: linear-gradient(160deg, #0E2A3D 0%, #14405C 65%, #165E83 100%);
   border-radius: var(--radius-xl);
   padding: 3.5rem 3.5rem 3rem;
   margin-bottom: 1.75rem;
@@ -13,21 +13,27 @@
   color: #fff;
 }
 
-/* Ambient glow blobs */
+/* 青海波 wave pattern overlay */
 .home-hero::before {
   content: '';
   position: absolute;
-  top: -80px; left: -60px;
-  width: 380px; height: 380px;
-  background: radial-gradient(ellipse, rgba(37,99,235,.45) 0%, transparent 65%);
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 50% 110%, transparent 38%, rgba(255,255,255,.045) 39%, rgba(255,255,255,.045) 44%, transparent 45%),
+    radial-gradient(circle at 0% 110%, transparent 38%, rgba(255,255,255,.045) 39%, rgba(255,255,255,.045) 44%, transparent 45%),
+    radial-gradient(circle at 100% 110%, transparent 38%, rgba(255,255,255,.045) 39%, rgba(255,255,255,.045) 44%, transparent 45%);
+  background-size: 72px 58px;
+  background-position: 0 0, 36px 29px, 36px 29px;
   pointer-events: none;
 }
+/* 朱 sun glow */
 .home-hero::after {
   content: '';
   position: absolute;
-  bottom: -100px; right: -80px;
-  width: 350px; height: 350px;
-  background: radial-gradient(ellipse, rgba(124,58,237,.4) 0%, transparent 65%);
+  top: -120px; right: -90px;
+  width: 380px; height: 380px;
+  background: radial-gradient(circle, rgba(199,62,46,.5) 0%, rgba(199,62,46,.15) 45%, transparent 68%);
+  border-radius: 50%;
   pointer-events: none;
 }
 
@@ -51,13 +57,14 @@
 }
 
 .home-hero h1 {
-  font-size: 2.6rem;
-  font-weight: 900;
+  font-family: var(--font-serif);
+  font-size: 2.55rem;
+  font-weight: 700;
   color: #fff;
-  line-height: 1.1;
+  line-height: 1.25;
   margin: 0 0 1rem;
-  letter-spacing: -1.2px;
-  max-width: 560px;
+  letter-spacing: .01em;
+  max-width: 600px;
   position: relative;
   z-index: 1;
 }
