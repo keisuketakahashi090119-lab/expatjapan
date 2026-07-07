@@ -44,12 +44,36 @@ Enter your email and we'll send you the printable PDF version — plus a short w
         <input type="text" name="b_42fb210e9a950503627c89c45_38331f6707" tabindex="-1" value="">
       </div>
       <button type="submit" name="subscribe" id="mc-embedded-subscribe"
-        style="background:#2563eb; color:#fff; font-weight:600; padding:.55rem 1.4rem; border:none; border-radius:6px; cursor:pointer; font-size:.95rem; width:100%;">
+        style="background:#165E83; color:#fff; font-weight:600; padding:.55rem 1.4rem; border:none; border-radius:6px; cursor:pointer; font-size:.95rem; width:100%;">
         Send Me the Checklist →
       </button>
     </div>
   </form>
 </div>
+
+<div id="checklist-success" style="display:none; max-width:480px; margin:1rem 0; padding:1.25rem 1.5rem; background:#E9F1F5; border:1.5px solid #B8CEDC; border-left:4px solid #165E83; border-radius:8px;">
+  <p style="margin:0 0 .75rem; font-weight:700; color:#0F4460;">🎉 You're in! Here's your checklist:</p>
+  <a href="/downloads/japan-life-setup-checklist.pdf" target="_blank"
+     style="display:inline-block; background:#C73E2E; color:#fff; font-weight:600; padding:.55rem 1.4rem; border-radius:6px; text-decoration:none;">
+    ⬇️ Download the PDF Checklist
+  </a>
+  <p style="margin:.75rem 0 0; font-size:.85rem; color:#5C564C;">A confirmation email is also on its way to your inbox.</p>
+</div>
+
+<script>
+(function() {
+  var form = document.getElementById('mc-embedded-subscribe-form');
+  if (!form) return;
+  form.addEventListener('submit', function() {
+    setTimeout(function() {
+      var ok = document.getElementById('checklist-success');
+      if (ok) { ok.style.display = 'block'; }
+      var box = document.getElementById('mc_embed_signup');
+      if (box) { box.style.display = 'none'; }
+    }, 400);
+  });
+})();
+</script>
 <!-- MAILCHIMP EMBED END -->
 
 *No spam. Unsubscribe any time. One email per week max.*
