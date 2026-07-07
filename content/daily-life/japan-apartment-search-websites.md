@@ -28,6 +28,8 @@ You open SUUMO, and it's a wall of Japanese. You try an English site, and there 
 
 It's not — you're just using the platforms wrong. Each site has a specific role, and once you know which one to use for your situation, the process gets dramatically easier. Here's how to navigate the system.
 
+> **Before you dive in:** if you're new to Japan with no payslips yet, a regular apartment may reject you at screening regardless of which site you use. In that case start with our [share house guide](/daily-life/japan-share-house-guide-foreigners/) (no guarantor, no key money, move in within days) or learn [how to rent without a job](/daily-life/renting-japan-without-job/) — then come back once your documents are ready. And read [guarantor companies explained](/daily-life/guarantor-companies-japan-explained/) and [hidden rental fees](/daily-life/hidden-rental-fees-japan/) before you sign anything.
+
 ---
 
 ## Japanese Apartment Search Platforms (Main Sites)

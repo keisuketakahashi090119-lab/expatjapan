@@ -6,6 +6,7 @@ tags: ["money transfer", "remittance", "finance"]
 categories: ["Money & Finance"]
 showToc: true
 draft: false
+aliases: ["/money/sending-money-abroad-japan/"]
 cover:
   image: "/images/covers/cover-money.svg"
   alt: "Expat Japan Guide"

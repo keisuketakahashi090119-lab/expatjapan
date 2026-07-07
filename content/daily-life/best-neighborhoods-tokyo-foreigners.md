@@ -6,6 +6,7 @@ tags: ["Tokyo", "neighborhoods", "housing", "daily life", "where to live"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+aliases: ["/daily-life/best-areas-tokyo-foreigners/"]
 cover:
   image: "/images/covers/cover-daily-life.svg"
   alt: "Expat Japan Guide"

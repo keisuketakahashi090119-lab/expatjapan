@@ -6,6 +6,7 @@ tags: ["bank", "finance", "daily life"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
+aliases: ["/money/how-to-open-bank-account-japan-foreigner/"]
 cover:
   image: "/images/covers/cover-daily-life.svg"
   alt: "Expat Japan Guide"

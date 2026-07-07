@@ -128,3 +128,8 @@ outputs:
     - HTML
     - RSS
     - JSON
+  # タグ・カテゴリページのRSSを生成しない（低品質URLのクロール削減）
+  taxonomy:
+    - HTML
+  term:
+    - HTML

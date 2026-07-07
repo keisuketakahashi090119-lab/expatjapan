@@ -6,6 +6,7 @@ tags: ["work visa japan", "visa application", "certificate of eligibility", "imm
 categories: ["Visa & Immigration"]
 showToc: true
 draft: false
+aliases: ["/visa/work-visa-japan/"]
 cover:
   image: "/images/covers/cover-visa.svg"
   alt: "Expat Japan Guide"
