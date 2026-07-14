@@ -106,6 +106,14 @@ Weeks of grey skies affect mood — more than most people anticipate. The combin
 
 ---
 
+## A Soundtrack for the Rain
+
+There's one part of tsuyu nobody needs to survive: the sound. Weeks of rain against the window pair strangely well with coffee and old jazz — it's the exact atmosphere Japan's [jazz kissa listening cafés](/culture/jazz-kissa-japan-guide/) have cultivated since the 1950s.
+
+{{< kohaku-embed text="Rain on the window, vintage jazz on the turntable — Kissa Kohaku recreates a rainy night at an old Tokyo jazz kissa. Good for work, study, or letting week three of tsuyu feel cozy instead of grim." >}}
+
+---
+
 ## After Tsuyu: Natsu (Summer)
 
 When tsuyu ends, it ends suddenly. One day it's grey and damp, the next it's blazing hot and humid. Japan's summer (August–September) arrives aggressively. Your reward for surviving tsuyu is a new challenge: 35°C + 80% humidity.
@@ -119,3 +127,4 @@ When tsuyu ends, it ends suddenly. One day it's grey and damp, the next it's bla
 - [Japan's Four Seasons: A Guide for Foreigners](/daily-life/japan-seasons-weather-guide/)
 - [Best Apps for Foreigners Living in Japan](/daily-life/best-apps-foreigners-japan/)
 - [Expat Burnout in Japan: Signs and Recovery](/daily-life/expat-burnout-japan/)
+- [Jazz Kissa: Japan's Vintage Listening Cafés](/culture/jazz-kissa-japan-guide/)

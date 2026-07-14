@@ -88,6 +88,12 @@ Japan has English-speaking mental health professionals in major cities, and tele
 
 Before deciding to leave Japan, consider smaller adjustments: changing jobs, moving to a different city, or taking an extended trip home. Full burnout often pushes people to decisions they later regret — or prevents them from seeing options between "grind on" and "leave entirely."
 
+### 7. Protect One Unproductive Hour
+
+Recovery advice keeps landing on the same unglamorous point: schedule time that produces nothing. The classic Japanese version is an hour in a [jazz kissa](/culture/jazz-kissa-japan-guide/) — a café where sitting quietly with coffee and a record *is* the activity. And if leaving the apartment is more than you have in the tank tonight, the low-effort version works too:
+
+{{< kohaku-embed text="Vintage jazz and rain at an old Tokyo jazz kissa — a wind-down soundtrack for evenings when you have nothing left." >}}
+
 ---
 
 ## On Leaving Japan

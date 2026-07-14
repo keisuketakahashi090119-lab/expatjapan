@@ -726,3 +726,31 @@ figure.entry-cover img,
 @media (max-width: 480px) {
   .post-header { padding: 1.4rem 1.2rem; }
 }
+
+/* ─── KOHAKU YOUTUBE EMBED ──────────────────── */
+.kohaku-embed {
+  margin: 2rem 0;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--code-bg);
+}
+.kohaku-embed__player {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+}
+.kohaku-embed__player iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.kohaku-embed__text {
+  margin: 0;
+  padding: 0.85rem 1.2rem;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--text);
+}

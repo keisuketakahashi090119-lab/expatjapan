@@ -82,6 +82,10 @@ Most cities in Japan have active foreigner communities through:
 
 These aren't lesser friendships. They're people who understand your specific experience, which is genuinely valuable.
 
+**Learn to be alone in public.** Japan is unusually good at solo third places — counter seats, one-person ramen booths, and above all the [jazz kissa](/culture/jazz-kissa-japan-guide/): cafés designed for sitting alone with coffee and music, where solitude is the norm rather than the exception. Being alone *around people* breaks the isolation spiral in a way staying home doesn't.
+
+{{< kohaku-embed text="Can't face going out tonight? Kissa Kohaku recreates that jazz kissa feeling — a quiet counter, vintage jazz, rain outside — from your own room." >}}
+
 ---
 
 ## When to Take It More Seriously

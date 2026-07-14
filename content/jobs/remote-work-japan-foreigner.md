@@ -98,6 +98,12 @@ Working from home isn't always ideal — Japanese apartments can be small. Co-wo
 - **Family restaurants (Gusto, Denny's)** — outlet seats, cheap drinks, acceptable for a few hours
 - **McDonald's and Starbucks** — WiFi available, some locations crowded
 
+### Working from Home: a Focus Soundtrack
+
+If you work from your apartment most days, the deep-work playlist becomes part of the toolkit. A very Japanese option: the [jazz kissa](/culture/jazz-kissa-japan-guide/) atmosphere — instrumental vintage jazz with rain sounds, no lyrics to hijack your attention.
+
+{{< kohaku-embed text="1.5 hours of instrumental vintage jazz at an old Tokyo jazz kissa — built for work and study sessions." >}}
+
 ---
 
 ## Receiving Foreign Income in Japan

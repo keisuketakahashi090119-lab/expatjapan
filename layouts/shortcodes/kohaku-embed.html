@@ -1,0 +1,8 @@
+{{- $id := .Get "id" | default "PUuu0IghVaU" -}}
+{{- $text := .Get "text" | default "Need a soundtrack? Kissa Kohaku recreates a rainy night at an old Tokyo jazz kissa — vintage jazz and soft rain for work, study, or winding down." -}}
+<div class="kohaku-embed">
+  <div class="kohaku-embed__player">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ $id }}" title="Kissa Kohaku — Rainy Night Jazz" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <p class="kohaku-embed__text">☕ {{ $text }} <a href="https://www.youtube.com/@KissaKohaku" target="_blank" rel="noopener">Open the channel on YouTube →</a></p>
+</div>
