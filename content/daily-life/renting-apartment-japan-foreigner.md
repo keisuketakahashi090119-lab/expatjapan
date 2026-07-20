@@ -33,7 +33,7 @@ Japan's rental market has some of the most unique requirements in the world — 
 | **Suumo** (suumo.jp) | Japanese | Largest listing site in Japan |
 | **Homes** (homes.co.jp) | Japanese | Also very large |
 | **GaijinPot Apartments** | English | Foreigner-friendly, bilingual support |
-| **Sakura House** | English | Share houses and apartments, no key money |
+| **Sakura House** | English | [Share houses](/daily-life/japan-share-house-guide-foreigners/) and apartments, no key money |
 | **Tokyo Apartments** | English | Tokyo-focused, English support |
 | **UR Rental Housing** | Japanese/partial English | Government housing, no key money, no guarantor |
 

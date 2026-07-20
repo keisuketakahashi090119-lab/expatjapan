@@ -186,7 +186,7 @@ Outside Tokyo (Osaka, Kyoto, Fukuoka), costs are typically 20–30% lower.
 |------|------|-------|
 | **School dormitory** | ¥30,000–60,000/month | Limited spots, apply early |
 | **International student house** | ¥50,000–80,000/month | Social, bilingual environment |
-| **Share house** | ¥50,000–70,000/month | Flexible, no guarantor often required |
+| **[Share house](/daily-life/japan-share-house-guide-foreigners/)** | ¥50,000–70,000/month | Flexible, no guarantor often required |
 | **Apartment (alone)** | ¥70,000–120,000/month | Requires guarantor — difficult as a new arrival |
 
 Most language schools help students find accommodation. For university, apply for the dormitory as early as possible — spots fill quickly.

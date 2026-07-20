@@ -133,7 +133,7 @@ WWOOF Japan connects travelers with farms — work in exchange for food and acco
 | Phone | ¥1,000–¥3,000 |
 | **Total** | **¥56,000–¥118,000** |
 
-Share houses (*シェアハウス*) are popular for working holiday makers — cheaper, no key money, often bilingual management.
+[Share houses](/daily-life/japan-share-house-guide-foreigners/) (*シェアハウス*) are popular for working holiday makers — cheaper, no key money, often bilingual management.
 
 ---
 

@@ -38,7 +38,7 @@ A standard Japanese apartment requires substantial upfront payment before you ge
 
 **Total move-in cost for a ¥80,000/month apartment: ¥400,000–600,000.**
 
-Key money is the most controversial — it's a uniquely Japanese custom with no equivalent in most countries. It's not a deposit; it's a gift you'll never see again. Avoiding key money is possible: look for "礼金なし" (no key money) listings, consider UR housing, or use share houses.
+Key money is the most controversial — it's a uniquely Japanese custom with no equivalent in most countries. It's not a deposit; it's a gift you'll never see again. Avoiding key money is possible: look for "礼金なし" (no key money) listings, consider UR housing, or use [share houses](/daily-life/japan-share-house-guide-foreigners/).
 
 ---
 

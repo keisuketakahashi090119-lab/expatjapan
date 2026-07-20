@@ -196,7 +196,7 @@ The yen's weakness against the dollar and euro (hovering around ¥145–155/USD 
 
 | Item | Cost |
 |------|------|
-| Shared apartment or share house | ¥55,000 |
+| [Shared apartment or share house](/daily-life/japan-share-house-guide-foreigners/) | ¥55,000 |
 | Food (mostly home cooking) | ¥30,000 |
 | Transport (commuter pass) | ¥10,000 |
 | Utilities + phone | ¥15,000 |

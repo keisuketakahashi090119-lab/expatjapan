@@ -106,7 +106,7 @@ This is above and beyond normal monthly living expenses.
 
 If you move after your first lease (usually 2 years), you pay move-in costs again. Security deposit, possibly new key money, agency fee. Budget for this cycle.
 
-Some foreigners start in a share house (¥50,000–80,000 deposit, no other fees) and transition to a private apartment after 6–12 months — this significantly reduces year-one non-recurring costs.
+Some foreigners start in a [share house](/daily-life/japan-share-house-guide-foreigners/) (¥50,000–80,000 deposit, no other fees) and transition to a private apartment after 6–12 months — this significantly reduces year-one non-recurring costs.
 
 ---
 

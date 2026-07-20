@@ -107,7 +107,7 @@ If you want to skip the guarantor system entirely, these options work:
 
 ### 2. Share Houses and Gaijin Houses
 
-Share houses skip the guarantor system, deposit, and key money entirely. You pay first month's rent plus a deposit equivalent to 1–2 months and move in.
+[Share houses](/daily-life/japan-share-house-guide-foreigners/) skip the guarantor system, deposit, and key money entirely. You pay first month's rent plus a deposit equivalent to 1–2 months and move in.
 
 **Best share house options for foreigners:**
 

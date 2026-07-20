@@ -120,7 +120,7 @@ Private tutoring only: You'd need an existing work visa that permits this activi
 | Eikaiwa | ~¥180,000–210,000 after tax |
 | University | ~¥280,000–500,000 after tax |
 
-Tokyo rents eat into these figures fast. Many teachers in Tokyo live in **share houses** to keep costs down.
+Tokyo rents eat into these figures fast. Many teachers in Tokyo live in [**share houses**](/daily-life/japan-share-house-guide-foreigners/) to keep costs down.
 
 ---
 

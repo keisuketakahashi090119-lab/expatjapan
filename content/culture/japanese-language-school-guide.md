@@ -55,7 +55,7 @@ Schools authorized by the Ministry of Education (文部科学省) or the Immigra
 | Osaka, Kyoto | ¥700,000–900,000 | Strong options, cheaper living costs |
 | Fukuoka, Nagoya, Sapporo | ¥600,000–850,000 | Best cost-of-living ratio |
 
-**Plus accommodation:** Most students pay ¥30,000–70,000/month for a dormitory or share house. Factor this into your total budget.
+**Plus accommodation:** Most students pay ¥30,000–70,000/month for a dormitory or [share house](/daily-life/japan-share-house-guide-foreigners/). Factor this into your total budget.
 
 **Total first-year cost (school + living in Tokyo):** ¥1.8–2.5 million
 
