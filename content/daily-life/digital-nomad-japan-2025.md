@@ -168,7 +168,7 @@ See our [home internet guide](/daily-life/home-internet-wifi-japan/) for setup d
 
 | Item | Cost |
 |---|---|
-| Shared house or small studio | ¥60,000 |
+| [Shared house](/daily-life/japan-share-house-guide-foreigners/) or small studio | ¥60,000 |
 | Food (mix cooking/eating out) | ¥40,000 |
 | Coworking (budget) | ¥10,000 |
 | Transport | ¥8,000 |

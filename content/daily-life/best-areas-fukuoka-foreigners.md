@@ -164,7 +164,7 @@ See our full [Digital Nomad Japan guide](/daily-life/digital-nomad-japan-2025/) 
 The rental process in Fukuoka follows the same rules as the rest of Japan — guarantor required, key money common, and some landlords prefer Japanese applicants. However:
 
 - The market is less competitive than Tokyo, so there's more room to negotiate
-- Foreigner-managed share houses and monthly mansions are available in Tenjin and Hakata
+- Foreigner-managed [share houses](/daily-life/japan-share-house-guide-foreigners/) and monthly mansions are available in Tenjin and Hakata
 - **UR Housing** has units in Fukuoka without guarantor or key money requirements
 
 See our [apartment rental guide](/daily-life/how-to-rent-apartment-japan-foreigner/) for the full process.

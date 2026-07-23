@@ -155,7 +155,7 @@ Osaka's rental market has similar foreigner-specific challenges to Tokyo:
 **Foreigner-friendly options:**
 - **UR Housing** — public housing with no guarantor required, no key money. Excellent for Osaka expats. Units available in most wards.
 - **Weekly/monthly mansions** — fully furnished short-term options for new arrivals
-- **Share houses** — lower upfront costs, English-friendly operators like Sakura House exist in Osaka
+- **[Share houses in Osaka for foreigners](/daily-life/japan-share-house-guide-foreigners/)** — lower upfront costs, English-friendly operators like Sakura House exist in Osaka
 
 See our complete [apartment rental guide](/daily-life/how-to-rent-apartment-japan-foreigner/) for the full process.
 

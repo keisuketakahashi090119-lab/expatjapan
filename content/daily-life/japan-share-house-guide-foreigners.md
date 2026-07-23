@@ -1,8 +1,9 @@
 ---
-title: "Share Houses in Japan for Foreigners: Complete Guide (2026)"
+title: "Share Houses in Japan for Foreigners: Costs, Cities & How to Apply (2026)"
 date: 2026-05-25
-description: "Share houses in Japan for foreigners 2026: Sakura House, Borderless House, Oak House — compared. Costs, what's included, rules, and how share houses compare to renting alone."
-tags: ["share house", "housing", "daily life", "expat japan", "accommodation"]
+lastmod: 2026-07-23
+description: "Shared house in Japan for foreigners 2026: Sakura House, Borderless House, Oak House compared. Costs by city (Tokyo, Osaka), options for international students, and how a share house compares to renting alone."
+tags: ["share house", "shared house", "housing", "tokyo", "students", "daily life", "expat japan", "accommodation"]
 categories: ["Daily Life"]
 showToc: true
 draft: false
@@ -26,7 +27,9 @@ A Japanese share house (シェアハウス) is a fully furnished private room wi
 
 Renting a regular apartment in Japan as a new arrival means facing a brutal math problem: 2 months' deposit, key money, agency fees, a guarantor you don't have, and a completely empty room — easily ¥400,000–750,000 before you sleep a single night there. If you just landed in Japan, that number is probably impossible.
 
-Share houses exist to solve exactly this problem. They eliminate the main barriers to renting in Japan — guarantor requirements, key money, blank apartments — while providing immediate community and infrastructure. For your first 3–12 months in Japan, they're often the smartest option, not the compromise.
+A shared house exists to solve exactly this problem. Share houses eliminate the main barriers to renting in Japan — guarantor requirements, key money, blank apartments — while providing immediate community and infrastructure. For your first 3–12 months in Japan, they're often the smartest option, not the compromise.
+
+This guide covers what a share house is, the top operators, real costs, city-by-city options (Tokyo and Osaka), and the specific route for international students.
 
 ---
 
@@ -135,6 +138,47 @@ Hituji Fudosan isn't a share house operator — it's a listings site that aggreg
 
 ---
 
+## Share Houses by City: Tokyo and Osaka
+
+Share house availability, price, and the foreigner-friendliness of operators vary a lot by city. Here's what to expect in the two cities where most foreigners start.
+
+### Share Houses in Tokyo for Foreigners
+
+Tokyo has by far the largest supply of foreigner-friendly share houses in Japan — and the widest price range. Budget shared-bath rooms start around ¥40,000/month, while private en-suite rooms in central wards run ¥70,000–90,000/month.
+
+- **Where to look:** Areas like Shinjuku, Nakano, Koenji, and Kita-Senju offer good value with easy central access. Nicer, quieter options cluster around Setagaya and Meguro.
+- **Operators:** Sakura House and Borderless House have the deepest Tokyo inventory for English speakers; Oak House offers the best value if you have basic Japanese.
+- **Reality check:** Central Tokyo private rooms fill fast — book 2–4 weeks ahead if you're arriving on a fixed date.
+
+For a breakdown of which wards suit foreigners best, see our guide to the [best neighborhoods in Tokyo for foreigners](/daily-life/best-neighborhoods-tokyo-foreigners/).
+
+### Share Houses in Osaka for Foreigners
+
+Osaka is cheaper than Tokyo across the board. Private share house rooms typically run ¥30,000–60,000/month, and the upfront barrier is even lower relative to a normal apartment.
+
+- **Where to look:** Namba, Tennoji, and the areas along the Midosuji line are popular with international residents.
+- **Operators:** Sakura House operates in Osaka; local operators and aggregators like Hituji Fudosan list additional foreigner-friendly options.
+
+See our guide to the [best areas in Osaka for foreigners](/daily-life/best-areas-osaka-foreigners/) for where to base yourself.
+
+---
+
+## Share Houses for International Students
+
+Share houses are one of the best housing options for international students in Japan, and for the same core reason they work for everyone: **no guarantor and no key money**. As a student, you likely don't have a Japanese guarantor or a salary to show — a share house sidesteps both.
+
+**Why share houses fit students:**
+- ✅ A **student visa** and residence card are enough to apply — no employment proof required (proof of funds or a school enrollment letter is usually accepted)
+- ✅ Short minimum stays match academic terms
+- ✅ Bills-included pricing makes budgeting predictable on a student income
+- ✅ Built-in community helps you settle in before classes even start
+
+**Tip:** Choose a share house within cycling distance of your language school or university — it saves on commuting and makes the social side easier. Borderless House (half Japanese, half international residents) is especially popular with students who want daily Japanese practice.
+
+If you're still sorting out your status of residence, start with our [student visa guide for Japan](/visa/student-visa-japan-guide/).
+
+---
+
 ## How to Find and Apply for a Share House
 
 ### 1. Search
@@ -209,6 +253,15 @@ Yes — foreigner-focused share houses (Sakura House, Borderless House) are spec
 **What is the minimum stay at a Japanese share house?**
 Most operators require 1–3 months minimum. Sakura House and Borderless House both accept 1-month minimum stays.
 
+**How much is a share house in Tokyo?**
+In Tokyo, budget shared-bath rooms start around ¥40,000/month, and private en-suite rooms in central wards run ¥70,000–90,000/month — usually bills included. That's still far below the ¥400,000+ upfront cost of a normal Tokyo apartment.
+
+**Can international students live in a share house in Japan?**
+Yes. A student visa and residence card are enough to apply — no guarantor and no employment proof needed (schools' enrollment letters or proof of funds are typically accepted). Short minimum stays also match academic terms, which is why share houses are popular with international students.
+
+**Is a share house cheaper than an apartment in Japan?**
+Upfront, dramatically — roughly ¥70,000–130,000 to move into a share house versus ¥400,000–750,000 for a private apartment, because there's no key money, no guarantor, and furniture is included. Monthly rent is also usually lower, though a private apartment gives you more space and privacy for long-term stays.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -228,6 +281,30 @@ Most operators require 1–3 months minimum. Sakura House and Borderless House b
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes — foreigner-focused share houses like Sakura House and Borderless House are specifically designed for international residents. You need a residence card or valid visa, but no guarantor or key money."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is a share house in Tokyo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Tokyo, budget shared-bath rooms start around 40,000 yen per month, and private en-suite rooms in central wards run 70,000-90,000 yen per month, usually with bills included. That is far below the 400,000 yen-plus upfront cost of a normal Tokyo apartment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can international students live in a share house in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A student visa and residence card are enough to apply, with no guarantor and no employment proof needed. Short minimum stays also match academic terms, which is why share houses are popular with international students in Japan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a share house cheaper than an apartment in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upfront, dramatically cheaper: roughly 70,000-130,000 yen to move into a share house versus 400,000-750,000 yen for a private apartment, because there is no key money, no guarantor, and furniture is included. Monthly rent is also usually lower."
       }
     }
   ]

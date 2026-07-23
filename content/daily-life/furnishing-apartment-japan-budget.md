@@ -91,7 +91,7 @@ Furnishing month is the single biggest spending burst of your first year — whi
 ## Frequently Asked Questions
 
 **Do Japanese apartments come with appliances?**
-No — most come completely empty: no fridge, washing machine, microwave, and frequently no ceiling lights or curtains. Furnished exceptions exist (share houses, monthly mansions, some GaijinPot listings) at higher rent.
+No — most come completely empty: no fridge, washing machine, microwave, and frequently no ceiling lights or curtains. Furnished exceptions exist ([share houses](/daily-life/japan-share-house-guide-foreigners/), monthly mansions, some GaijinPot listings) at higher rent.
 
 **How much does it cost to furnish an apartment in Japan?**
 ¥90,000–120,000 using a mix of Nitori basics and secondhand appliances; ¥250,000–350,000 buying everything new. Sayonara sales can cut the total below ¥50,000 with luck and timing.

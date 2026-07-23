@@ -122,7 +122,7 @@ Here's what living in Tokyo actually costs, budget vs. average:
 
 | Expense | Budget-Friendly | Average |
 |---|---|---|
-| Rent (share house) | ¥50,000 | ¥80,000 |
+| Rent ([share house](/daily-life/japan-share-house-guide-foreigners/)) | ¥50,000 | ¥80,000 |
 | Food | ¥25,000 | ¥40,000 |
 | Phone | ¥1,500 | ¥6,000 |
 | Transport | ¥8,000 | ¥12,000 |

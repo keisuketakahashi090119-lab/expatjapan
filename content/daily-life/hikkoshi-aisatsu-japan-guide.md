@@ -28,7 +28,7 @@ This is *hikkoshi aisatsu* — Japan's moving-in greeting ritual. It's one of th
 
 When someone moves into a Japanese apartment, they visit their immediate neighbors — usually within the first 1–3 days — to introduce themselves and present a small gift. The gift signals: *I'm considerate, I'm aware I'll affect your daily life, and I want to start on good terms.*
 
-This isn't just in older apartment buildings. It's common in modern urban apartments, family homes, and share houses (though less rigidly observed in foreigner-heavy buildings).
+This isn't just in older apartment buildings. It's common in modern urban apartments, family homes, and [share houses](/daily-life/japan-share-house-guide-foreigners/) (though less rigidly observed in foreigner-heavy buildings).
 
 ---
 

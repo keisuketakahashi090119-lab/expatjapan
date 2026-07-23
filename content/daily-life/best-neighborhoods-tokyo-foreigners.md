@@ -117,6 +117,8 @@ Key things to know:
 
 Total move-in costs often equal 4–6 months' rent upfront.
 
+If those upfront costs are out of reach when you first arrive, a [share house in Tokyo for foreigners](/daily-life/japan-share-house-guide-foreigners/) skips the guarantor, key money, and furniture entirely — a common first step before signing a regular lease.
+
 ---
 
 ## Bottom Line

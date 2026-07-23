@@ -71,7 +71,7 @@ Fire/tenant liability insurance itself is genuinely required — but you can usu
 The fully-loaded move-in for a ¥80,000 apartment lands between ¥350,000 and ¥500,000. If that's not happening right now, the workarounds are legitimate:
 
 - **UR Housing:** no key money, no agency fee, no renewal fee, no guarantor
-- **Share houses:** [Oak House](https://px.a8.net/svt/ejp?a8mat=4B1THZ+94NBH6+41A0+5YRHE) gets you moved in for under ¥100,000 total — no key money, no guarantor fee, no lock exchange, furniture included
+- **[Share houses](/daily-life/japan-share-house-guide-foreigners/):** [Oak House](https://px.a8.net/svt/ejp?a8mat=4B1THZ+94NBH6+41A0+5YRHE) gets you moved in for under ¥100,000 total — no key money, no guarantor fee, no lock exchange, furniture included
 - **Zero-zero campaigns:** covered in our [no key money guide](/daily-life/no-key-money-apartments-japan/)
 
 ---
