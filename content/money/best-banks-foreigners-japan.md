@@ -283,7 +283,7 @@ A Japanese bank account (yen account) is needed for receiving salary in Japan, p
 
 ---
 
-{{< rakuten-card-cta text="Next step after the bank account: Rakuten Card. Free annual fee, ¥5,000 sign-up bonus, 1% cashback — and it links directly to your Rakuten Bank for maximum points." label="Apply for Rakuten Card (Free) →" >}}
+{{< rakuten-card-cta text="Next step after the bank account: Rakuten Card. Free annual fee, up to ¥5,000 in points, 1% cashback — and it links directly to your Rakuten Bank for maximum points." label="Apply for Rakuten Card (Free) →" >}}
 
 ## Related Articles
 

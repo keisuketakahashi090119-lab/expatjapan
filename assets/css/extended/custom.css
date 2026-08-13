@@ -657,6 +657,12 @@ figure.entry-cover img,
   color: var(--text);
   line-height: 1.55;
 }
+.affiliate-cta__note {
+  margin: .7rem 0 0;
+  font-size: .78rem;
+  color: var(--secondary);
+  line-height: 1.5;
+}
 .affiliate-cta__btn {
   display: inline-block;
   background: var(--brand);

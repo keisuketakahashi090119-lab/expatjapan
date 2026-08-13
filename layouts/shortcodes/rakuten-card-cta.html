@@ -1,9 +1,10 @@
-{{- $text := .Get "text" | default "Rakuten Card: Japan's most foreigner-friendly credit card. Free to apply, ¥5,000 sign-up bonus, 1% cashback on all purchases. No annual fee." -}}
+{{- $text := .Get "text" | default "Rakuten Card: Japan's most foreigner-friendly credit card. Up to ¥5,000 in points, 1% cashback on all purchases. No annual fee, ever." -}}
 {{- $label := .Get "label" | default "Apply for Rakuten Card →" -}}
 <div class="affiliate-cta affiliate-cta--rakuten">
   <div class="affiliate-cta__icon">💳</div>
   <div class="affiliate-cta__body">
     <p class="affiliate-cta__text">{{ $text }}</p>
     <a class="affiliate-cta__btn affiliate-cta__btn--red" href="https://a.r10.to/h8Sggm" target="_blank" rel="noopener sponsored">{{ $label }}</a>
+    <p class="affiliate-cta__note">The ¥5,000 comes in two parts: 2,000 points once you register on Rakuten e-NAVI after the card arrives, then 3,000 points after 3 purchases plus direct-debit setup. Those 3,000 are limited-time points that expire. You must be resident in Japan to apply, and the application page is Japanese-only — Chrome's auto-translate handles it fine.</p>
   </div>
 </div>

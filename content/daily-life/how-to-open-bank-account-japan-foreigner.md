@@ -184,7 +184,7 @@ Sony Bank and SBI Shinsei Bank offer partial English language support online. Ra
 
 ---
 
-{{< rakuten-card-cta text="Bank account opened? The logical next step is Rakuten Card — Japan's most foreigner-friendly credit card. Free, ¥5,000 bonus, 1% cashback. Pairs perfectly with a Rakuten Bank account." label="Apply for Rakuten Card (Free) →" >}}
+{{< rakuten-card-cta text="Bank account opened? The logical next step is Rakuten Card — Japan's most foreigner-friendly credit card. Free, up to ¥5,000 in points, 1% cashback. Pairs perfectly with a Rakuten Bank account." label="Apply for Rakuten Card (Free) →" >}}
 
 ## Related Articles
 

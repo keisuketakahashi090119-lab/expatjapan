@@ -1,7 +1,7 @@
 ---
 title: "Getting a Credit Card in Japan as a Foreigner (2026)"
 date: 2026-05-25
-description: "Best credit cards for foreigners in Japan 2026: Rakuten Card (free, ¥5,000 bonus, most foreigner-friendly), Epos Card (in-store approval), SAISON Card. What documents you need, how to apply with no Japan credit history, and alternatives if rejected."
+description: "Best credit cards for foreigners in Japan 2026: Rakuten Card (free, up to ¥5,000 in points, most foreigner-friendly), Epos Card (in-store approval), SAISON Card. What documents you need, how to apply with no Japan credit history, and alternatives if rejected."
 tags: ["credit card", "money", "banking", "finance", "foreigners"]
 categories: ["Money & Finance"]
 showToc: true
@@ -13,7 +13,7 @@ cover:
 ---
 
 {{< quick-answer >}}
-Best credit cards for foreigners in Japan: **Rakuten Card** (free, ¥5,000 bonus, most foreigner-friendly — apply after 6+ months in Japan), **Epos Card** (apply in-store at Marui for faster approval), **SAISON Card** (no annual fee, flexible). You need: residence card, Japanese address registered at city hall, Japanese bank account. Initial credit limits are low (¥100,000–300,000). If rejected, use the [Wise debit card](/money/wise-japan-guide/) as a substitute — no credit check, works worldwide.
+Best credit cards for foreigners in Japan: **Rakuten Card** (free, up to ¥5,000 in points, most foreigner-friendly — apply after 6+ months in Japan), **Epos Card** (apply in-store at Marui for faster approval), **SAISON Card** (no annual fee, flexible). You need: residence card, Japanese address registered at city hall, Japanese bank account. Initial credit limits are low (¥100,000–300,000). If rejected, use the [Wise debit card](/money/wise-japan-guide/) as a substitute — no credit check, works worldwide.
 {{< /quick-answer >}}
 
 You applied for a Japanese credit card, got rejected with a polite form letter and no explanation, and now you're wondering if it's even worth trying again. It is — but with a different card. Japan's credit card system scores foreigners poorly on arrival because there's simply no Japan credit history to check, regardless of your financial track record back home.
@@ -45,7 +45,7 @@ Many foreigners are simply rejected on their first few applications. This is nor
 - English application available at times
 - **Best first card for most foreigners**
 
-{{< rakuten-card-cta text="Rakuten Card: Japan's most foreigner-friendly credit card. Free annual fee, ¥5,000 sign-up bonus, 1% cashback on everything. Most foreign residents are approved after 6 months in Japan." label="Apply for Rakuten Card (Free) →" >}}
+{{< rakuten-card-cta text="Rakuten Card: Japan's most foreigner-friendly credit card. Free annual fee, up to ¥5,000 in points, 1% cashback on everything. Most foreign residents are approved after 6 months in Japan." label="Apply for Rakuten Card (Free) →" >}}
 
 ### 2. Epos Card (エポスカード)
 - Issued by Marui department store; known for accepting foreigners more readily

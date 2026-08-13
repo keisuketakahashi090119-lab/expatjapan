@@ -76,7 +76,7 @@ A special Suica for tourists — no deposit, no My Number needed. Available at a
 
 **The catch with Mobile Suica:** foreign-issued credit cards are generally rejected when you try to register them for Suica top-up. This is the single most common complaint from new arrivals — the app installs fine, then refuses your card. You need a card issued in Japan.
 
-{{< rakuten-card-cta text="Rakuten Card works with Mobile Suica and is the card most foreign residents are approved for first. Free annual fee, ¥5,000 sign-up bonus, 1% cashback. Residence card accepted as ID." label="Apply for Rakuten Card (Free) →" >}}
+{{< rakuten-card-cta text="Rakuten Card works with Mobile Suica and is the card most foreign residents are approved for first. Free annual fee, up to ¥5,000 in points, 1% cashback. Residence card accepted as ID." label="Apply for Rakuten Card (Free) →" >}}
 
 If you can't get a credit card yet, cash top-ups at station machines and convenience stores work exactly the same — you just can't use auto-charge.
 

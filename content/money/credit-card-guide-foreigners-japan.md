@@ -48,7 +48,7 @@ Rakuten Card is where most foreigners start, and for good reason — it has the 
 
 **Start with this one.**
 
-{{< card-cta text="Rakuten Card: Japan's most foreigner-friendly credit card. Free forever, ¥5,000 points on approval, accepted everywhere." label="Apply for Rakuten Card →" href="https://www.rakuten-card.co.jp/e-navi/members/entry/index.xhtml" icon="🔴" >}}
+{{< rakuten-card-cta text="Rakuten Card: Japan's most foreigner-friendly credit card. Free forever, up to ¥5,000 in points, accepted everywhere." label="Apply for Rakuten Card →" >}}
 
 ---
 
@@ -144,7 +144,7 @@ Not as good for building credit, but they get the job done while you wait.
 
 Start with **Rakuten Card**. It's the most foreigner-friendly option out there, it's free, and the points are genuinely useful.
 
-{{< card-cta text="Rakuten Card is free, earns points on every purchase, and has the highest approval rate for foreigners in Japan. Apply takes 5 minutes online." label="Apply for Rakuten Card →" href="https://www.rakuten-card.co.jp/e-navi/members/entry/index.xhtml" icon="🔴" >}}
+{{< rakuten-card-cta text="Rakuten Card is free, earns points on every purchase, and has the highest approval rate for foreigners in Japan. The application takes about 5 minutes online." label="Apply for Rakuten Card →" >}}
 
 {{< card-cta text="Prefer to apply in person? Epos Card is available at any Marui store counter across Japan — no guarantor, no annual fee." label="Apply for Epos Card →" href="https://px.a8.net/svt/ejp?a8mat=4B1R5V+BBTYXM+38L8+BY641" icon="💙" >}}
 <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1R5V+BBTYXM+38L8+BY641" alt="">
