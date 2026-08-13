@@ -75,6 +75,8 @@ If you don't already have a Rakuten account, create one at [rakuten.co.jp](https
 
 Visit the Rakuten Card application page. The page is in Japanese, but using Chrome's auto-translate makes it manageable.
 
+{{< rakuten-card-cta text="Rakuten Card: free annual fee, ¥5,000 sign-up bonus, 1% cashback on everything. Your residence card (在留カード) is accepted as ID — no guarantor required." label="Go to Rakuten Card Application →" >}}
+
 ### Step 3 — Fill in Your Details
 
 You'll need:

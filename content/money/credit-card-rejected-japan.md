@@ -77,7 +77,21 @@ Requirements:
 - Residence for at least 6 months (not a hard rule, but helps)
 - Rakuten ID (free to create)
 
-Apply at: rakuten-card.co.jp
+{{< rakuten-card-cta text="Rakuten Card: the card most foreign residents are approved for first. Free annual fee, ¥5,000 sign-up bonus, 1% cashback. Residence card accepted as ID." label="Apply for Rakuten Card (Free) →" >}}
+
+---
+
+### If Rakuten Rejected You Too: Epos Card
+
+Epos is issued by Marui (丸井) and is the one true credit card worth trying immediately after a rejection elsewhere. Two things make it different from a standard online application:
+
+- **You can apply in person** at a Marui store counter. Staff walk you through the form, check your residence card on the spot, and in many cases you leave with the card the same day.
+- **No annual fee, ever**, and no guarantor required.
+
+The in-person route matters because a human is reviewing your documents rather than an automated scoring system that penalises a short address history.
+
+{{< card-cta text="Epos Card: apply in-person at any Marui store or online. No annual fee forever. High approval rate for new arrivals and foreigners." label="Apply for Epos Card →" href="https://px.a8.net/svt/ejp?a8mat=4B1R5V+BBTYXM+38L8+BY641" icon="💙" >}}
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1R5V+BBTYXM+38L8+BY641" alt="">
 
 ---
 
@@ -107,7 +121,7 @@ The path from "no card" to "approved for standard cards" is typically 12–18 mo
 
 - **Amex Japan** — high income threshold, hard to get early on
 - **Diners Club / JCB Platinum** — premium cards, requires established history
-- **Department store cards** (Lumine, Isetan) — often require longer residency
+- **Department store cards** (Lumine, Isetan) — often require longer residency. Epos (Marui) is the exception: it is the one store-issued card with a genuinely foreigner-friendly approval process.
 
 ---
 
