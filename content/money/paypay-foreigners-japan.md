@@ -81,6 +81,10 @@ This is where foreigners often run into trouble. Your options:
 
 **Easiest method for foreigners without Japanese bank/card:** Top up with cash at a convenience store (コンビニチャージ). You can deposit cash at 7-Eleven, FamilyMart, or Lawson ATMs directly into your PayPay balance.
 
+Note the pattern in the table above: every method that actually works requires something issued in Japan. A foreign-issued Visa or Mastercard will be rejected no matter how many times you re-enter it. If you plan to stay, getting one Japanese card solves PayPay, Mobile Suica, and most subscription services in one go.
+
+{{< rakuten-card-cta text="Rakuten Card registers with PayPay without problems and is the card most foreign residents are approved for first. Free annual fee, ¥5,000 sign-up bonus, 1% cashback." label="Apply for Rakuten Card (Free) →" >}}
+
 ---
 
 ## PayPay Balance Types

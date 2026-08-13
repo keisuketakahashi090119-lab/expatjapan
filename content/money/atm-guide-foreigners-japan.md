@@ -84,6 +84,10 @@ You'll typically pay two fees:
 
 For residents of Japan, the smarter long-term solution is to open a Japanese bank account and use [Wise](/money/wise-japan-guide/) to transfer money cheaply from your home country.
 
+Wise also issues a Mastercard debit card you can use in Japan. Because you convert the money yourself at the mid-market rate before spending, you skip the 1–3% foreign transaction fee your home bank adds to every ATM withdrawal.
+
+{{< wise-cta text="Wise: hold yen in the app, convert at the real mid-market rate, and spend with the Wise card. Opens online in minutes — no Japanese bank account or guarantor needed." label="Open a Free Wise Account →" >}}
+
 For tourists or new arrivals before a bank account is open: Seven Bank ATMs are your best friend.
 
 See [how to open a bank account in Japan as a foreigner](/daily-life/how-to-open-bank-account-japan-foreigner/) once you have your residence card.
