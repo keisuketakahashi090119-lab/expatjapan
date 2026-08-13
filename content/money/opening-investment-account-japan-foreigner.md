@@ -24,7 +24,7 @@ Japan's **NISA** (Nippon Individual Savings Account) gives you a tax-free invest
 - Japan-based accounts give you access to Japanese stocks, Tokyo-listed ETFs, and global index funds
 - Yen-denominated investing hedges against currency risk if you plan to stay long-term
 
-> **Sending money internationally?** Use [Wise](https://wise.com/invite/i/expatjapan) to fund your Japanese account from overseas — much cheaper than bank wire transfers.
+> **Sending money internationally?** Use [Wise](https://wise.com/invite/dic/takahashik58) to fund your Japanese account from overseas — much cheaper than bank wire transfers.
 
 ---
 

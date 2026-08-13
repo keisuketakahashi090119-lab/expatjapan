@@ -121,7 +121,7 @@ UR housing, Village House, or any property listed as "礼金なし・仲介手�
 Share house move-in costs: ¥50,000–100,000 total. Private apartment: ¥500,000+. The gap buys you time to save.
 
 **Use Wise for international transfers**  
-Don't lose money on bank wire fees when sending money to Japan or home. [Wise](https://wise.com/invite/i/expatjapan) uses the mid-market exchange rate with transparent fees.
+Don't lose money on bank wire fees when sending money to Japan or home. [Wise](https://wise.com/invite/dic/takahashik58) uses the mid-market exchange rate with transparent fees.
 
 **Budget the residence tax from day one**  
 Set aside 10% of each paycheck into a dedicated account from your first month. It won't feel like a shock in June year two.

@@ -114,7 +114,7 @@ The digital nomad visa is valid for 6 months and is not renewable. It's a useful
 
 - **Open a Japanese bank account** — Japan Post Bank is easiest for new arrivals. See our [bank account guide](/daily-life/how-to-open-bank-account-japan-foreigner/)
 - **Enroll in national health insurance (国民健康保険)** — done at city hall
-- Set up your [Wise account](https://wise.com/invite/i/expatjapan) for sending money back to the US
+- Set up your [Wise account](https://wise.com/invite/dic/takahashik58) for sending money back to the US
 
 ### Week 3–4: Get Settled
 
@@ -163,7 +163,7 @@ At current exchange rates (~¥145/USD), the gap is even more pronounced for Amer
 **Recommended setup:**
 
 1. **Charles Schwab (US)** — No-fee international ATM withdrawals worldwide. Essential for Americans living abroad.
-2. **[Wise](https://wise.com/invite/i/expatjapan)** — Currency conversion between USD and JPY at real rates. Use for transferring US income to Japan.
+2. **[Wise](https://wise.com/invite/dic/takahashik58)** — Currency conversion between USD and JPY at real rates. Use for transferring US income to Japan.
 3. **Japan Post Bank or Rakuten Bank (Japan)** — For daily yen transactions, salary receipt, bill payment.
 
 **FATCA note:** Some Japanese banks have declined to open accounts for Americans in the past, but major banks (Japan Post Bank, SMBC, etc.) and online banks generally do accept US citizens. Be upfront about your citizenship on applications.

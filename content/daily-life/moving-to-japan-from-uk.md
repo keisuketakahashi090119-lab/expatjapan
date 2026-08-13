@@ -132,7 +132,7 @@ This is a major adjustment for British expats used to free-at-point-of-use NHS c
 ### Week 2: Financial Setup
 - Open a Japanese bank account — Japan Post Bank is most accessible for new arrivals. See our [bank account guide](/daily-life/how-to-open-bank-account-japan-foreigner/)
 - Enroll in National Health Insurance (done at city hall)
-- Set up [Wise](https://wise.com/invite/i/expatjapan) for transferring GBP to JPY — far cheaper than bank transfers
+- Set up [Wise](https://wise.com/invite/dic/takahashik58) for transferring GBP to JPY — far cheaper than bank transfers
 
 ### Week 3–4
 - Apply for a Japanese credit card (Rakuten Card is most foreigner-friendly). See our [Rakuten Card guide](/money/rakuten-card-foreigners-japan/)
@@ -147,13 +147,13 @@ This is a major adjustment for British expats used to free-at-point-of-use NHS c
 - **Starling Bank** and **Monzo** are generally more flexible with expats
 - **Barclays International** offers accounts specifically for non-residents
 
-**For currency conversion:** Use [Wise](https://wise.com/invite/i/expatjapan) to move GBP to JPY. The exchange rate is the real mid-market rate — bank wire transfers charge a spread of 2–4% plus flat fees. On a £5,000 transfer, Wise can save you £100–200 versus a high-street bank transfer.
+**For currency conversion:** Use [Wise](https://wise.com/invite/dic/takahashik58) to move GBP to JPY. The exchange rate is the real mid-market rate — bank wire transfers charge a spread of 2–4% plus flat fees. On a £5,000 transfer, Wise can save you £100–200 versus a high-street bank transfer.
 
 ---
 
 ## Sending Money Between UK and Japan
 
-**Recommended:** [Wise](https://wise.com/invite/i/expatjapan) for GBP→JPY transfers
+**Recommended:** [Wise](https://wise.com/invite/dic/takahashik58) for GBP→JPY transfers
 - Real exchange rate, no markup
 - Fee: ~0.5–1%
 - Speed: 1–2 business days

@@ -139,7 +139,7 @@ Time deposits require you to leave the money untouched for the term. Early withd
 | Australia | 4.5–5.5% |
 | EU average | 2.5–3.5% |
 
-**The gap is real.** If you have significant savings and a portion is in foreign currency, consider keeping some in a [Wise](https://wise.com/invite/i/expatjapan) multi-currency account — Wise's interest feature on USD and EUR balances currently outperforms Japanese yen accounts significantly.
+**The gap is real.** If you have significant savings and a portion is in foreign currency, consider keeping some in a [Wise](https://wise.com/invite/dic/takahashik58) multi-currency account — Wise's interest feature on USD and EUR balances currently outperforms Japanese yen accounts significantly.
 
 ---
 
@@ -176,7 +176,7 @@ Time deposits require you to leave the money untouched for the term. Early withd
 
 ## Sending Savings Abroad Efficiently
 
-If you're saving in Japan but sending money home, use **[Wise](https://wise.com/invite/i/expatjapan)**:
+If you're saving in Japan but sending money home, use **[Wise](https://wise.com/invite/dic/takahashik58)**:
 
 - Real mid-market exchange rate (no markup)
 - Fee typically 0.5–1% of the transfer amount
@@ -192,8 +192,8 @@ For large transfers (moving savings home when you leave Japan), the difference b
 |---|---|
 | Savings (JPY) | SBI Sumishin or PayPay Bank |
 | Everyday spending | Rakuten Card + PayPay |
-| Foreign currency savings | [Wise](https://wise.com/invite/i/expatjapan) |
-| International transfers | [Wise](https://wise.com/invite/i/expatjapan) |
+| Foreign currency savings | [Wise](https://wise.com/invite/dic/takahashik58) |
+| International transfers | [Wise](https://wise.com/invite/dic/takahashik58) |
 | Long-term investing | SBI Securities (NISA) |
 
 ---

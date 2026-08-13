@@ -111,7 +111,7 @@ Before taking a high-interest loan, consider:
 
 - **Salary advance** through your employer (前払い制度)
 - **Credit union or cooperative loans** associated with your company
-- **International money transfer** from family abroad — [Wise](https://wise.com/invite/i/expatjapan) makes this fast and cheap
+- **International money transfer** from family abroad — [Wise](https://wise.com/invite/dic/takahashik58) makes this fast and cheap
 - **Selling items** — Japan has excellent second-hand markets (Mercari, BookOff, etc.)
 
 ---

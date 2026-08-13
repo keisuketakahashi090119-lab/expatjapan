@@ -161,7 +161,7 @@ Japan has a growing Indian community, concentrated in Tokyo (Nishi-Kasai, Edogaw
 
 ### Before You Leave India
 - Get your visa processed and COE received
-- Set up a [Wise](https://wise.com/invite/i/expatjapan) account (takes 3–5 days to verify — start early)
+- Set up a [Wise](https://wise.com/invite/dic/takahashik58) account (takes 3–5 days to verify — start early)
 - Scan all documents (degree certificates, passport, employment contract) to cloud storage
 - Get apostilled copies of your educational degrees if required
 

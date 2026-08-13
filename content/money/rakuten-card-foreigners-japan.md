@@ -136,7 +136,7 @@ Rakuten Card supports **Mastercard contactless** — tap-to-pay at most Japanese
 
 ### International Use
 
-Rakuten Card works abroad — Mastercard is accepted worldwide. Foreign transaction fee: **1.63%**. For overseas spending, consider using [Wise](https://wise.com/invite/i/expatjapan) instead, which offers real exchange rates with no markup.
+Rakuten Card works abroad — Mastercard is accepted worldwide. Foreign transaction fee: **1.63%**. For overseas spending, consider using [Wise](https://wise.com/invite/dic/takahashik58) instead, which offers real exchange rates with no markup.
 
 ### ATM Cash Advances
 
@@ -186,7 +186,7 @@ Getting Rakuten Card is step one. To build Japanese credit history:
 Rakuten Card works best as part of a complete financial setup:
 
 - **Rakuten Bank** — pairs with Rakuten Card for extra bonus points on the SPU program. See our [bank account guide](/daily-life/how-to-open-bank-account-japan-foreigner/).
-- **[Wise](https://wise.com/invite/i/expatjapan)** — for international transfers and holding foreign currencies
+- **[Wise](https://wise.com/invite/dic/takahashik58)** — for international transfers and holding foreign currencies
 - **Revolut** — for travel and multi-currency spending. See our [Revolut Japan guide](/money/revolut-japan-guide/).
 - **PayPay** — for cashless payment at stores that don't take cards. Link Rakuten Card to PayPay for rewards stacking.
 

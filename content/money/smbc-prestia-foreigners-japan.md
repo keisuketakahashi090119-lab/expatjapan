@@ -128,7 +128,7 @@ This is where Prestia has a real advantage over standard Japanese banks:
 | SWIFT transfers | ✅ Yes | Yes (complex) |
 | Foreign currency transfer | ✅ Direct | Complicated |
 
-**Important:** Even with Prestia, international wire transfers are not as cheap as [Wise](https://wise.com/invite/i/expatjapan). Prestia uses standard SWIFT rates with exchange margins. For regular international transfers, Wise is still more cost-effective.
+**Important:** Even with Prestia, international wire transfers are not as cheap as [Wise](https://wise.com/invite/dic/takahashik58). Prestia uses standard SWIFT rates with exchange margins. For regular international transfers, Wise is still more cost-effective.
 
 {{< wise-cta text="Even if you use SMBC Prestia as your main Japanese bank, use Wise for international transfers — the exchange rate is better and fees are transparent." label="Compare Rates on Wise →" >}}
 
@@ -154,7 +154,7 @@ For most foreigners in Japan, **don't use Prestia as your only bank**:
 
 1. **Japan Post Bank or Rakuten Bank** — for daily JPY transactions, salary, bills (free)
 2. **SMBC Prestia** — add this if you need English support + foreign currency accounts AND can maintain ¥1M balance
-3. **[Wise](https://wise.com/invite/i/expatjapan)** — for international money transfers regardless of which Japanese bank you use
+3. **[Wise](https://wise.com/invite/dic/takahashik58)** — for international money transfers regardless of which Japanese bank you use
 
 ---
 

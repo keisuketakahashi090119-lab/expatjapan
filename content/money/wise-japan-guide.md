@@ -35,7 +35,7 @@ Wise is an online financial service that lets you:
 ## Setting Up Wise in Japan
 
 ### Step 1 — Create Your Account
-1. Go to [wise.com](https://wise.com/invite/i/expatjapan) or download the app
+1. Go to [wise.com](https://wise.com/invite/dic/takahashik58) or download the app
 2. Register with your email address
 3. Verify your identity: passport + residence card photo required
 

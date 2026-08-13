@@ -114,7 +114,7 @@ Australia and Japan have a **Double Tax Agreement (DTA)** that prevents you from
 
 | Account | Use |
 |---|---|
-| **[Wise](https://wise.com/invite/i/expatjapan)** | AUD → JPY conversion at real rates; holds multiple currencies |
+| **[Wise](https://wise.com/invite/dic/takahashik58)** | AUD → JPY conversion at real rates; holds multiple currencies |
 | **Japanese bank (Japan Post Bank)** | Daily JPY spending, salary receipt, bills |
 | **Australian bank (kept open)** | Australian bills, super contributions, return trips |
 
@@ -142,7 +142,7 @@ Australia and Japan have a **Double Tax Agreement (DTA)** that prevents you from
 
 ### Week 2: Financial Setup
 - Open Japan Post Bank account — most accessible for new arrivals. Full guide: [opening a bank account in Japan](/daily-life/how-to-open-bank-account-japan-foreigner/)
-- Set up [Wise](https://wise.com/invite/i/expatjapan) for AUD→JPY transfers
+- Set up [Wise](https://wise.com/invite/dic/takahashik58) for AUD→JPY transfers
 - Set up PayPay for cashless payments. Guide: [PayPay for foreigners](/money/paypay-foreigners-japan/)
 
 ### Week 3–4: Working Holiday Essentials

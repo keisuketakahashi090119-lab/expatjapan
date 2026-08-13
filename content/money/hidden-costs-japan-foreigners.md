@@ -85,7 +85,7 @@ Know your rights: under Japanese Consumer Contract Act guidelines, landlords can
 
 Japanese bank international wire transfer fees are high — typically ¥2,500–4,000 per transfer plus a 2–3% currency exchange spread. Sending ¥200,000 home via a megabank can cost ¥6,000–10,000 in fees alone.
 
-> **Cheaper alternative:** [Wise](https://wise.com/invite/i/expatjapan) uses the real mid-market exchange rate with transparent fees typically under 1%. On regular international transfers, this saves thousands of yen per transaction compared to bank rates.
+> **Cheaper alternative:** [Wise](https://wise.com/invite/dic/takahashik58) uses the real mid-market exchange rate with transparent fees typically under 1%. On regular international transfers, this saves thousands of yen per transaction compared to bank rates.
 
 ---
 

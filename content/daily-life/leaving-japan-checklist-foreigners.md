@@ -120,7 +120,7 @@ The refund is based on how long you contributed. Full tables are on the Japan Pe
 
 **Options when leaving:**
 1. **Keep open if possible** — some Japanese banks allow non-residents to maintain accounts. Useful for receiving pension refund.
-2. **Transfer balance to Wise** — use [Wise](https://wise.com/invite/i/expatjapan) to convert and transfer JPY to your home currency at the real exchange rate.
+2. **Transfer balance to Wise** — use [Wise](https://wise.com/invite/dic/takahashik58) to convert and transfer JPY to your home currency at the real exchange rate.
 3. **Close the account** — final option. Transfer all balance out first.
 
 **Before closing:**

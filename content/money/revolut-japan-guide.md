@@ -93,7 +93,7 @@ Both are excellent for foreigners in Japan, but they serve slightly different ne
 | Receiving JPY | Not available | Not available |
 | Monthly fee | Free tier available | No monthly fee |
 
-**Recommendation:** Use [Wise](https://wise.com/invite/i/expatjapan) for large international transfers (sending money home). Use Revolut for everyday multi-currency spending and travel.
+**Recommendation:** Use [Wise](https://wise.com/invite/dic/takahashik58) for large international transfers (sending money home). Use Revolut for everyday multi-currency spending and travel.
 
 ---
 
@@ -141,7 +141,7 @@ Create disposable virtual cards for one-time online purchases. Useful for intern
 
 ## Alternatives to Consider
 
-- **[Wise](https://wise.com/invite/i/expatjapan)** — Better for sending large amounts internationally
+- **[Wise](https://wise.com/invite/dic/takahashik58)** — Better for sending large amounts internationally
 - **Rakuten Bank** — Best online Japanese bank for foreigners (pairs well with Rakuten Card)
 - **Japan Post Bank (ゆうちょ)** — Easiest to open, available nationwide
 - **SMBC Trust Prestia** — For expats who need both English-language Japanese banking and global transfers
@@ -150,7 +150,7 @@ Create disposable virtual cards for one-time online purchases. Useful for intern
 
 ## Bottom Line
 
-Revolut works in Japan and is genuinely useful for foreigners — especially for travel, multi-currency holding, and daily spending tracking. But it's not a complete banking solution in Japan. Pair it with a Japanese bank account and [Wise](https://wise.com/invite/i/expatjapan) for transfers, and you'll have a solid financial setup.
+Revolut works in Japan and is genuinely useful for foreigners — especially for travel, multi-currency holding, and daily spending tracking. But it's not a complete banking solution in Japan. Pair it with a Japanese bank account and [Wise](https://wise.com/invite/dic/takahashik58) for transfers, and you'll have a solid financial setup.
 
 **Related guides:**
 - [Wise Japan Guide: Complete Review](/money/wise-japan-guide/)

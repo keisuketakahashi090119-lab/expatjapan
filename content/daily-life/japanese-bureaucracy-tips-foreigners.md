@@ -61,7 +61,7 @@ Bring these to every administrative appointment:
 - **Your hanko (seal)** — increasingly replaceable with signature, but some offices still want it
 - **Photocopies of all of the above** — many offices won't make copies for you
 
-> **Bank trouble?** If you need to move money internationally while dealing with administrative chaos, [Wise](https://wise.com/invite/i/expatjapan) offers real exchange rates and transparent fees — far cheaper than your Japanese bank's wire transfer.
+> **Bank trouble?** If you need to move money internationally while dealing with administrative chaos, [Wise](https://wise.com/invite/dic/takahashik58) offers real exchange rates and transparent fees — far cheaper than your Japanese bank's wire transfer.
 
 ---
 

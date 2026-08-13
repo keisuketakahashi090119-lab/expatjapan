@@ -196,7 +196,7 @@ See our [home internet guide](/daily-life/home-internet-wifi-japan/) for setup d
 
 **Opening a Japanese bank account on a Digital Nomad Visa:** Possible, but some banks require 6 months of residency. Japan Post Bank is most accessible for new visa holders.
 
-**For currency conversion:** [Wise](https://wise.com/invite/i/expatjapan) is essential for nomads — it converts your home currency to yen at the real exchange rate. Open an account before arriving. See our [Wise guide](/money/wise-japan-guide/).
+**For currency conversion:** [Wise](https://wise.com/invite/dic/takahashik58) is essential for nomads — it converts your home currency to yen at the real exchange rate. Open an account before arriving. See our [Wise guide](/money/wise-japan-guide/).
 
 **Cash:** Japan is still heavily cash-dependent outside major city centers. Always carry ¥5,000–10,000 in cash.
 

@@ -137,7 +137,7 @@ Foreign cards don't work well at: small local restaurants, traditional markets, 
 
 ---
 
-> **Until your Japanese card arrives:** [Wise](https://wise.com/invite/i/expatjapan) offers a Mastercard debit card with mid-market exchange rates and no hidden fees — ideal for the gap period.
+> **Until your Japanese card arrives:** [Wise](https://wise.com/invite/dic/takahashik58) offers a Mastercard debit card with mid-market exchange rates and no hidden fees — ideal for the gap period.
 
 ---
 

@@ -110,7 +110,7 @@ If your clients are outside Japan, **Wise Business** is the most cost-effective 
 - Clients pay in their local currency, you receive yen
 - Low fees compared to traditional bank wire transfers
 
-> [Open a Wise account](https://wise.com/invite/i/expatjapan) for multi-currency receiving — especially useful if you have both Japanese and overseas clients.
+> [Open a Wise account](https://wise.com/invite/dic/takahashik58) for multi-currency receiving — especially useful if you have both Japanese and overseas clients.
 
 ---
 

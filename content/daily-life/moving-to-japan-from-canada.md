@@ -154,7 +154,7 @@ Don't close your Canadian bank account. Use it for:
 
 ### Week 2: Financial Setup
 - Open Japan Post Bank account
-- Set up [Wise](https://wise.com/invite/i/expatjapan) for CAD→JPY transfers
+- Set up [Wise](https://wise.com/invite/dic/takahashik58) for CAD→JPY transfers
 - Set up PayPay — see [PayPay guide for foreigners](/money/paypay-foreigners-japan/)
 
 ### Week 3–4: Get Settled
