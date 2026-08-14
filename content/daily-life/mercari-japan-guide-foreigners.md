@@ -12,6 +12,8 @@ cover:
   relative: false
 ---
 
+{{< ad-disclosure >}}
+
 {{< callout type="info" title="What you'll learn in this guide" >}}
 - How to create and use a Mercari Japan account as a foreigner
 - Buying on Mercari Japan: search tips, condition ratings, and payment
@@ -111,6 +113,10 @@ Mercari Japan is in Japanese, but these key terms make it navigable:
 - **アウトドア — Outdoor/sports:** Bicycles, camping gear. 
 - **ファッション — Fashion:** Brand goods at significant discount. Authentication is not guaranteed for luxury brands — check seller history.
 - **本 (hon) — Books:** Language study books, manga collections.
+
+Furnishing a first apartment is where Mercari saves the most money. A dining table, a desk, a fridge and a washing machine bought new will run you well over ¥150,000; the same set second-hand is routinely under ¥40,000, and sellers who are leaving Japan often price to clear rather than to profit.
+
+{{< mercari-cta >}}
 
 ### Condition Ratings Explained
 

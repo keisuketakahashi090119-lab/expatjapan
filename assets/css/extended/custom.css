@@ -689,6 +689,39 @@ figure.entry-cover img,
 }
 .affiliate-cta__btn--red { background: #bf0000; }
 .affiliate-cta__btn--red:hover { background: #990000; }
+.affiliate-cta--mercari {
+  background: #fff5f5;
+  border-color: #fbcfe8;
+}
+.affiliate-cta__btn--mercari { background: #ff0211; }
+.affiliate-cta__btn--mercari:hover { background: #cc010e; }
+
+/* 広告であることの明示（A8/景表法のステマ規制対応・記事冒頭に置く） */
+.ad-disclosure {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 0 0 1.4rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--code-bg);
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+.ad-disclosure__tag {
+  flex-shrink: 0;
+  padding: 0.1rem 0.45rem;
+  border-radius: 3px;
+  background: #6b7280;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.ad-disclosure__text { color: var(--secondary); }
 .affiliate-cta--jobs {
   background: #f0f9ff;
   border-color: #bae6fd;

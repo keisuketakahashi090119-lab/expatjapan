@@ -1,0 +1,5 @@
+{{- $text := .Get "text" | default "This guide contains affiliate links. If you sign up or buy through them, we may earn a commission at no extra cost to you. It never changes what we recommend." -}}
+<div class="ad-disclosure" role="note">
+  <span class="ad-disclosure__tag">Advertisement</span>
+  <span class="ad-disclosure__text">{{ $text }}</span>
+</div>
