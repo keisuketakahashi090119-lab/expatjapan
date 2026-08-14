@@ -12,6 +12,8 @@ cover:
   relative: false
 ---
 
+{{< ad-disclosure >}}
+
 {{< quick-answer >}}
 Credit card rejections in Japan are common for foreigners in the first 1–2 years due to zero Japanese credit history. Cards foreigners reliably get approved for: Rakuten Card (easiest), Japan Post Bank Cash+ Visa Debit (not a credit card but works everywhere), SMBC Prestia Debit, and Wise Card (Mastercard, instant issuance). After 1 year in Japan with stable employment, standard credit cards become accessible. Avoid applying for multiple cards simultaneously — each rejection hurts your score.
 {{< /quick-answer >}}
@@ -92,6 +94,26 @@ The in-person route matters because a human is reviewing your documents rather t
 
 {{< card-cta text="Epos Card: apply in-person at any Marui store or online. No annual fee forever. High approval rate for new arrivals and foreigners." label="Apply for Epos Card →" href="https://px.a8.net/svt/ejp?a8mat=4B1R5V+BBTYXM+38L8+BY641" icon="💙" >}}
 <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1R5V+BBTYXM+38L8+BY641" alt="">
+
+---
+
+### If Everything Above Rejected You: A Deposit-Secured Card
+
+Every card so far asks the issuer to take a risk on you. A deposit-secured card removes that question entirely: you place a deposit, and that amount becomes your credit limit. Because the issuer is holding your own money, the usual objections — no credit history, a one-year visa, six months at your address — stop mattering nearly as much.
+
+**Nexus Card** is the main option in Japan and it runs a separate application route for foreign residents holding a residence card.
+
+What you should know before applying:
+
+- **The deposit starts at ¥50,000** and that money is locked up while you hold the card. This is the real cost — not a fee, but cash you can't spend.
+- **The annual fee is ¥1,375**, unlike Rakuten and Epos which are free. Only worth it if the free cards have already turned you down.
+- **There is still a short screening step.** "Deposit-secured" makes approval far more likely, not automatic.
+- **The application pages are Japanese only.** Chrome's auto-translate handles them.
+
+Used for 6–12 months, this builds exactly the domestic payment record that makes a normal card approvable later. Treat it as a bridge, not a destination.
+
+{{< card-cta text="Nexus Card: a deposit-secured Mastercard with a dedicated application route for foreign residents. Your deposit sets your limit, so approval does not hinge on Japanese credit history." label="Apply for Nexus Card →" href="https://px.a8.net/svt/ejp?a8mat=4B1RXY+MMIJE+4T5W+5YJRM" icon="🔐" >}}
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1RXY+MMIJE+4T5W+5YJRM" alt="">
 
 ---
 
