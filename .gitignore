@@ -2,3 +2,9 @@ public/
 .wrangler/
 .hugo_build.lock
 resources/_gen/
+
+# 撮影した写真の一時置き場（加工前の元データ。static/images/ に配置してから公開する）
+photo-inbox/*
+!photo-inbox/README.md
+!photo-inbox/*/
+photo-inbox/*/*
