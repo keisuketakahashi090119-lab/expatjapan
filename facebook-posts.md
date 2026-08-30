@@ -147,6 +147,28 @@ Feel free to ask specific questions below — happy to share what I know!
 
 ---
 
+### Post #6 — ジャズ喫茶文化シェア（Kissa Kohaku種火・YouTube宣伝）
+
+**グループ:** Expats in Japan / Tokyo Expats / Living in Japan  
+**タイミング:** 平日の夕方〜夜、または雨の日（雨ネタと相性◎）  
+**注意:** 自作チャンネルの宣伝なので、グループルールで self-promotion 禁止の場合は本文のYouTube言及を削り、コメントで聞かれたら答える形に切り替える
+
+**⚠️ 実績（2026-07-15）:** For Foreigners Living In Japan（16万人）にこの文面で投稿 → 管理者に**却下＋グループから削除（ブロックの可能性大）**。原因はほぼ確実に本文のYouTubeチャンネル言及。**教訓: 次のグループでは本文からYouTube言及を完全に削除し、純粋な文化シェア＋質問だけにする。リンクはコメントで聞かれた場合のみ**
+
+---
+
+Random appreciation post: jazz kissa (ジャズ喫茶) might be my favorite thing about Japan that nobody talks about. 🎷
+
+If you haven't been: they're tiny cafés — some open since the 1950s–60s — where the owner plays jazz records on a serious sound system and people just... sit and listen. Some even have "no talking" rules. Coffee, vinyl, and quiet.
+
+Tokyo still has dozens. Eagle in Yotsuya has been spinning records since 1967, and Meikyoku Kissa Lion in Shibuya (classical, not jazz) hasn't changed since the 1920s.
+
+I got so into the vibe that I ended up recreating one as a YouTube BGM channel — rainy night jazz that feels like sitting in an old Showa-era kissa. Happy to drop the link in comments if anyone wants it for work or study.
+
+What's your favorite kissaten or jazz café in Japan? Always hunting for new ones ☕
+
+---
+
 ## 投稿スケジュール（6月）
 
 | 日付 | グループ | Post |
@@ -166,3 +188,26 @@ Feel free to ask specific questions below — happy to share what I know!
 | #3 | https://expatsjapan.com/daily-life/japan-rainy-season-guide/ |
 | #4 | https://expatsjapan.com/money/japan-bank-transfer-guide/ |
 | #5 | https://expatsjapan.com/visa/student-visa-japan-guide/ |
+| #6 | https://www.youtube.com/@KissaKohaku （聞かれたら ep001: https://youtu.be/PUuu0IghVaU も） |
+
+## 投稿スケジュール（7月・Kissa Kohaku種火）
+
+| 日付 | グループ | Post |
+|---|---|---|
+| 7/14 | For Foreigners Living In Japan | #6 ジャズ喫茶 ✅投稿済み（承認待ち） |
+| 7/21週 | Foreigner living in Japan | #6 ジャズ喫茶（文面少し変える） |
+
+## 実施ログ（2026-07-14）
+
+**実在グループの調査結果**（当初リストの名前は実在と異なっていた）:
+| 実在グループ名 | メンバー | 状態 |
+|---|---|---|
+| For Foreigners Living In Japan | 16.4万人・公開 | ✅参加済み（即時） |
+| Foreigner living in Japan | 4.9万人・公開 | ✅参加済み（即時） |
+| Expats in Tokyo | 4.2万人・公開 | メンバー登録のみ。投稿には「expatである」確認の質問回答＋ルール同意が必要 → 日本人なので正直に答えると通らない可能性。保留 |
+
+**投稿実績**: #6ジャズ喫茶ネタを For Foreigners Living In Japan に投稿（文頭を「Culture share from a Japanese local:」に変更、日本人の投稿として自然な形に）。**管理者の承認待ち**。
+
+**承認後のTODO**:
+1. コメント欄に https://www.youtube.com/@KissaKohaku を貼る
+2. 最初の1時間はコメントに返信する（グループルール通り）

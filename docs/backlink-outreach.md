@@ -102,8 +102,24 @@ Expat Japan — https://expatsjapan.com
 | 2026-07-07 | ExpatsBlog | ❌断念：CAPTCHA画像がサーバー側で故障、登録不可（サイト自体が2013年から放置状態） |
 | 2026-07-17 | All Japan Travel | フォローアップメール送信済 |
 | 2026-07-17 | Transitions Abroad | フォローアップメール送信済 |
+| 2026-07-24 | GaijinPot | シェアハウス記事向けゲスト投稿ピッチ下書き完成 → `share-house-backlink-2026-07-24.md` |
+| 2026-08-05 | GaijinPot | ピッチメール送信済み（content-team@gplusmedia.com） |
+| 2026-07-24 | japan-mobility.com | シェアハウス記事のリソース掲載ピッチ下書き完成 → 同上 |
+| 2026-08-05 | japan-mobility.com | 問い合わせフォームから送信済み、受付完了ページ確認済み |
+| 2026-08-08 | FangWallet | 送信済み（albert@fangwallet.com、bcc fangwallet@gmail.com） |
+| 2026-08-08 | Spend Life Traveling | 送信済み（info@spendlifetraveling.com、Ask an Expat枠に打診） |
+| 2026-08-08 | Arigato Travel（arigatojapan.co.jp→実体はarigatotravel.com） | 送信自体は成功していたが、宛先がbookings@（予約・採用チーム）だったためツアーガイド応募と誤認され、jobs@への履歴書提出を求める自動返信のみ受信。ブログ編集チームには未達の可能性が高い。**優先度低のため見送り** |
+| 2026-08-08 | RetireJapan | ❌断念：問い合わせフォームが空欄で機能していない（ExpatsBlogと同型の不具合） |
+| 2026-08-08 | izabellegrenon.com | ❌見送り：通常の問い合わせ窓口がなく、有料相談予約（discovery call）のみ。ゲスト/資源掲載向けの接点なし |
+| 2026-08-08 | Just Landed blog（justlanded.com） | ❌断念：サイト自体が接続不可（閉鎖の可能性） |
+| 2026-08-08 | Migrating Miss | ❌見送り：サイト内容がスコットランド/スカイ島観光ブログに完全ピボット済み。「Expat Stories」系企画は現存しない可能性が高くミスマッチ |
+
+### 進行中：シェアハウス記事の被リンク獲得（2026-07-24〜）
+- 目的：`/daily-life/japan-share-house-guide-foreigners/` へdofollow被リンク1本（順位20〜30位台を1ページ目へ）
+- 成果物：`docs/share-house-backlink-2026-07-24.md` に「ピッチ2本＋完成原稿（約1,000語）」を用意済み
+- ~~ユーザー送信待ち：GaijinPot(content-team@gplusmedia.com)＋japan-mobility(問い合わせフォーム)~~ → 2026-08-05 両方送信済み
+- YES受領時：完成原稿をそのまま渡す（GaijinPot向けに書いてある。他社なら固有名を差し替え）
 
 ### フォローアップ予定
-- 返信待ち：All Japan Travel、Transitions Abroad
-- 返信が来たら: ゲスト記事本文をClaudeが執筆（800〜1,500語）
+- 返信待ち：All Japan Travel、Transitions Abroad（7/17フォローアップ済、7/末で反応なければ打ち切り）
 - 次弾: 上のTier B-2リストから週5件ペースでピッチ送信
