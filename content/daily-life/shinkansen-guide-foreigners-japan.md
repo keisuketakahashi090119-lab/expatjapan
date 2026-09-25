@@ -112,6 +112,10 @@ The Shinkansen (bullet train) is Japan's most impressive piece of infrastructure
 
 See JR Pass section below.
 
+**A note on paying with a foreign card:** Ticket machines and Smart-EX/Eki-Net accept international credit cards, but many foreign-issued cards charge a 2–3% foreign transaction fee on top of the exchange rate — it adds up on longer routes and JR Pass purchases.
+
+{{< wise-cta text="Avoid foreign transaction fees on Shinkansen and JR Pass bookings — a Wise card charges the real exchange rate, no markup." label="Try Wise Free →" >}}
+
 ---
 
 ## Can I Use My Suica/PASMO IC Card for the Shinkansen?

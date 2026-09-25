@@ -98,10 +98,9 @@ Once through customs, you're in the public arrival hall. Here you'll find:
 
 ---
 
----
+**One gap to plan for:** Japan's national health insurance (NHI) doesn't start the moment you land — enrollment happens after you register your address at city hall, which can take a few weeks. If anything happens in that window, or if you're still shuttling between countries while your visa paperwork finalizes, you're not covered.
 
-> **Heading outside Japan?** Japanese health insurance doesn't cover you abroad. [SafetyWing](https://safetywing.com/?referenceID=26521118&utm_source=26521118&utm_medium=ambassador) offers flexible travel medical insurance for expats — monthly subscription, cancel anytime.
-
+{{< safetywing-cta text="Not yet enrolled in Japan's national health insurance? SafetyWing covers the gap — flexible travel medical insurance for expats, monthly subscription, cancel anytime." label="Get a Quote →" >}}
 
 ## Related Articles
 - [Arriving in Japan — Your First 30 Days Checklist](/daily-life/arriving-japan-first-steps/)

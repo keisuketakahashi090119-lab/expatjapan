@@ -184,6 +184,8 @@ If you're saving in Japan but sending money home, use **[Wise](https://wise.com/
 
 For large transfers (moving savings home when you leave Japan), the difference between Wise and a bank wire can be hundreds of dollars. See our [full Wise Japan guide](/money/wise-japan-guide/).
 
+{{< wise-cta text="Comparing Japanese savings rates to sending money home? Wise moves your savings at the real mid-market rate — no bank markup, no hidden fees." label="Try Wise Free →" >}}
+
 ---
 
 ## Building a Smart Financial Stack in Japan

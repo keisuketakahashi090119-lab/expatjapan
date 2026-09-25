@@ -113,6 +113,8 @@ This is the biggest ongoing challenge. Japanese is a genuinely difficult languag
 
 This is manageable but requires deliberate effort. See our [language learning guide](/daily-life/language-apps-japanese-2025/).
 
+{{< card-cta text="Structured lessons speed this up. NOVA offers Japanese conversation classes at 300+ locations nationwide, with flexible scheduling for working residents." label="Find a NOVA School →" href="https://px.a8.net/svt/ejp?a8mat=4B1THZ+4NAUJE+320A+5YJRM" icon="🗣️" >}}
+
 ---
 
 ### 2. Social Integration Is Hard
